@@ -1,5 +1,4 @@
 import React from 'react';
-import { soundManager } from '../../lib/sound';
 
 interface RetroFrameProps {
   children: React.ReactNode;
