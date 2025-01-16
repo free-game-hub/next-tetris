@@ -13,7 +13,7 @@ import { ParticleSystem } from '@/lib/particles';
 import { RetroFrame } from '@/components/tetris/RetroFrame';
 import { soundManager } from '@/lib/sound';
 
-export default function TetrisPage() {
+export default function Tetris() {
   const {
     state,
     record,
