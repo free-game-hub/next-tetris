@@ -1,4 +1,5 @@
 import React from 'react';
+import { soundManager } from '../../lib/sound';
 
 interface RetroFrameProps {
   children: React.ReactNode;
@@ -95,7 +96,9 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
               onClick={props.onToggleSound}
               className="w-[7vh] h-[7vh] bg-green-500 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-[0.4vh] border-green-600"
             >
-              <span className="text-[2vh]">音效</span>
+              <span className="text-[2vh]">
+                {soundManager.isEnabled() ? '音效开' : '音效关'}
+              </span>
             </button>
             <div className="text-[1.6vh] text-center">音效(S)</div>
           </div>

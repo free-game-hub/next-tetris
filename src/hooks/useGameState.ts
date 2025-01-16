@@ -100,6 +100,7 @@ export function useGameState() {
 
   // 开始游戏
   const startGame = useCallback(() => {
+    soundManager.play('start');
     setShowGuide(false);
     setGameTime(0);
     setCombo(0);
@@ -182,6 +183,13 @@ export function useGameState() {
       
       const { newMatrix: clearedMatrix, linesCleared } = clearLines(newMatrix);
       
+      // 播放落地音效
+      soundManager.play('fall');
+      
+      if (linesCleared > 0) {
+        soundManager.play('clear');
+      }
+      
       return {
         ...prev,
         matrix: clearedMatrix,
@@ -259,10 +267,11 @@ export function useGameState() {
           const newLines = prev.lines + linesCleared;
           const newLevel = Math.floor(newLines / 10) + 1;
 
+          // 播放落地音效
+          soundManager.play('fall');
+          
           if (linesCleared > 0) {
             soundManager.play('clear');
-          } else {
-            soundManager.play('drop');
           }
 
           return {
@@ -345,6 +354,13 @@ export function useGameState() {
       }
     };
   }, [state.isPlaying, state.isPaused, state.gameOver, state.score, state.level, state.lines, gameTime, combo]);
+
+  // 在其他相关事件中添加音效
+  useEffect(() => {
+    if (state.gameOver) {
+      soundManager.play('gameover');
+    }
+  }, [state.gameOver]);
 
   return {
     state,
