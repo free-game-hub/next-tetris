@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "蜜糖换装：终极可爱换装游戏",
+    "description": "在《蜜糖换装》中发现乐趣和创意，这是一款充满乐趣的换装游戏，主角是一位可爱的男孩！直接在您的PC上玩以获得最佳体验。",
+    "keywords": "蜜糖换装, 换装游戏, 可爱游戏, 在线换装, 手机换装, 手绘图形"
+  },
+  "hero": {
+    "h1": "蜜糖换装",
+    "p": "在《蜜糖换装》中展现您的创意和风格，这是一款可爱与乐趣相结合的终极换装游戏！"
+  },
+  "gameFeatures": {
+    "title": "蜜糖换装的特点",
+    "features": [
+      "可爱且独特的男孩角色",
+      "迷人的手绘图形，具有MC Paint风格",
+      "拥有超过100件时尚服装的浩瀚衣橱",
+      "包含多样的泳装供多种风格搭配",
+      "定期更新确保提供新内容和改进"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何游玩蜜糖换装",
+    "instructions": [
+      "从丰富的衣橱中选择您最喜欢的服装。",
+      "拖放物品为可爱的男孩角色换装。",
+      "在PC上使用鼠标进行精确控制，获得最佳体验。",
+      "在评论区分享您的独特搭配创意。",
+      "享受无文本的手绘界面，畅快游玩。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交您的评价",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "制作服装非常有趣！(抱歉我无法裁剪我的标签)",
+        "author": "Nova (她/他们)"
+      },
+      {
+        "content": "太可爱了！",
+        "author": "HARUHI.JIROU"
+      },
+      {
+        "content": "太棒了",
+        "author": "RenKun"
+      },
+      {
+        "content": "他太可爱了",
+        "author": "T0XI :3"
+      },
+      {
+        "content": "哦耶，我做得很不错 B)",
+        "author": "barfbar"
+      },
+      {
+        "content": "这个游戏太搞笑了，我爱它！！！ :3",
+        "author": "MuinBrownie！！！"
+      },
+      {
+        "content": "完美",
+        "author": "yapunglin"
+      },
+      {
+        "content": "我喜欢这个完全正常的小家伙！",
+        "author": "5ummerr"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "我可以在哪些平台上玩《蜜糖换装》？",
+        "answer": "您可以通过HTML5在网页浏览器上和在Windows上玩《蜜糖换装》."
+      },
+      {
+        "question": "最新版本是什么？",
+        "answer": "《蜜糖换装》的最新版本于2024年2月更新，并可在线游玩。"
+      },
+      {
+        "question": "有可下载的游戏版本吗？",
+        "answer": "是的，有可下载的版本，但这是一个为了存档目的而保留的旧版本。"
+      },
+      {
+        "question": "我可以在移动设备上玩这个游戏吗？",
+        "answer": "《蜜糖换装》支持移动设备，但在PC上体验更佳。"
+      },
+      {
+        "question": "游戏的图形有什么特点？",
+        "answer": "《蜜糖换装》采用手绘图形，具有MC Paint风格。"
+      },
+      {
+        "question": "我怎么分享我的服装创意？",
+        "answer": "您可以在游戏页面的评论区分享您的服装搭配。"
+      }
+    ]
+  }
+}

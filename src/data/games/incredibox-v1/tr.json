@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V1 - Ritminin ve Beatboxing'in Dünyasına Dal",
+    "description": "Incredibox V1'i keşfedin, ritim, melodi ve beatboxing'i birleştiren büyüleyici bir müzik oluşturma oyunu. Sürükleyip bırakarak benzersiz parçalar oluşturun. Yaratıcılık ve eğlence arayan müzik tutkunları için idealdir.",
+    "keywords": "Incredibox V1, müzik oluşturma oyunu, ritim, beatboxing, Incredibox Alpha Oyunu"
+  },
+  "hero": {
+    "h1": "Incredibox V1",
+    "p": "İnteraktif bir beatboxing macerasında ritmin melodiyi kucakladığı Incredibox V1 ile müzikal yaratıcılığınızı benimseyin."
+  },
+  "gameFeatures": {
+    "title": "Neden Incredibox V1 Öne Çıkıyor",
+    "features": [
+      "Kolay sürükleyip bırakma gameplay ile benzersiz müzikal parçalar oluşturun.",
+      "Animasyonlu beatboxing karakterleri ile çeşitli ses manzaralarını keşfedin.",
+      "Ses kombinasyonlarını keşfederek görsel bonusları açın.",
+      "Müzik tutkunları ile paylaşımlarda bulunun.",
+      "Sarmalayıcı bir görsel ve işitsel deneyim yaşayın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox V1'i Nasıl Usta Şekilde Oynarsınız",
+    "instructions": [
+      "Bir Stil Seçin: Müzikal yolculuğunuza başlamak için çeşitli müzik stillerinden birini seçin.",
+      "Bir Karışım Oluşturun: Avatarların üzerine ses simgelerini sürükleyerek farklı sesler atayın ve bestelerinizi oluşturun.",
+      "Deneyin: Yeni ritimler ve efektler keşfetmek için sesleri birleştirin, gizli animasyonları açın.",
+      "Fare Kontrolleri: Sesleri manipüle etmek için tıklayın ve sürükleyin, karışımınızı kolayca ayarlayın.",
+      "Klavye Kısayolları: Hızlı ses ayarlamaları için mevcut kısayolları kullanın (sürüm bağlı olarak)."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V1 Eylemde"
+  },
+  "playerReviews": {
+    "title": "Oyuncular Incredibox V1 Hakkında Ne Diyor",
+    "submitReviewLabel": "Gözden geçirmenizi gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Gözden geçirmeniz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Incredibox V1, müzik yaratmanın benzersiz ve keyifli bir yolu. Müzikal eğitiminiz olmasa bile erişilebilir.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Animasyonlar harika! Gerçekten sarmalayıcı deneyime katkıda bulunuyor.",
+        "author": "Samantha P."
+      },
+      {
+        "content": "Yaratımlarımı kolayca paylaşabilmeyi seviyorum. Topluluk çok destekleyici!",
+        "author": "Mike T."
+      },
+      {
+        "content": "Basit ama bağımlılık yapıcı. Farklı seslerle saatlerce deney yaparak geçirdim.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Yaratıcılığı ifade etmek için harika bir yol. Görsel bonuslar ödüllendirici bir dokunuş.",
+        "author": "Chris R."
+      },
+      {
+        "content": "Bu bir oyundan daha fazlası, bir yaratıcı platform!",
+        "author": "Patricia G."
+      },
+      {
+        "content": "Çocuklarım ve ben birlikte müzik yaratmaktan keyif alıyoruz. Aile dostu ve eğlenceli!",
+        "author": "John D."
+      },
+      {
+        "content": "Çok sezgisel kontroller. Sadelik ve derinliğini seviyorum.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V1 SSS",
+    "questions": [
+      {
+      "question": "Incredibox V1 nedir?",
+      "answer": "Incredibox V1, animasyonlu karakterler aracılığıyla ritim, melodi ve beatboxing unsurlarını bir araya getiren interaktif bir müzik oluşturma oyunudur."
+      },
+      {
+      "question": "Incredibox V1'i nasıl oynarım?",
+      "answer": "Bir müzik stili seçin, ses simgelerini karakterlere sürükleyerek karışımınızı oluşturun ve efektler ve animasyonlar için ses kombinasyonlarını keşfedin."
+      },
+      {
+      "question": "Incredibox V1'de klavye kısayollarını kullanabilir miyim?",
+      "answer": "Bazı sürümlerde, hızlı ses susturma, solo alma ve düzenleme için klavye kısayolları mevcuttur, ancak ana etkileşim fare ile gerçekleştirilir."
+      },
+      {
+      "question": "Incredibox V1 her yaştan birey için uygun mu?",
+      "answer": "Evet, sezgisel arayüzü ve etkileyici grafikleri sayesinde her yaştan oyuncu için erişilebilir ve eğlencelidir."
+      },
+      {
+      "question": "Incredibox V1'den müzik eserlerimi paylaşabilir miyim?",
+      "answer": "Kesinlikle, oyuncular çevrimiçi olarak bestelerini paylaşarak müzik tutkunları topluluğuyla ilham alabilir ve etkileşimde bulunabilir."
+      },
+      {
+      "question": "Incredibox V1'i diğer müzik oyunlarından farklı kılan nedir?",
+      "answer": "Sürükle-bırak oynanışı, animasyonlu hikaye anlatımı ve topluluk paylaşımının birleşimi, onu hem bir oyun hem de yaratıcı bir araç olarak öne çıkarıyor."
+      }
+    ]
+  }
+}

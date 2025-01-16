@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkliy Game - Jogabilidade Simples e Empolgante",
+    "description": "Explore Sprunkliy, uma versão simplificada do sprunki. Descubra características do jogo, instruções, avaliações e perguntas frequentes.",
+    "keywords": "Sprunkliy, remix de Sprunki, jogabilidade simples, avaliações de jogos, perguntas frequentes sobre jogos"
+  },
+  "hero": {
+    "h1": "Sprunkliy",
+    "p": "Bem-vindo ao Sprunkliy, um remix simplificado do popular jogo sprunki. Mergulhe em aventuras emocionantes com uma jogabilidade simplificada."
+  },
+  "gameFeatures": {
+    "title": "Características do Sprunkliy",
+    "features": [
+      "Jogabilidade simplificada para todas as idades",
+      "Visuais envolventes e coloridos",
+      "Controles fáceis de aprender",
+      "Níveis desafiadores com conquistas recompensadoras",
+      "Um remake criado por Amsosprunki no Scratch"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunkliy",
+    "instructions": [
+      "Inicie o jogo e escolha seu personagem.",
+      "Navegue pelos níveis evitando obstáculos.",
+      "Colete recompensas para aumentar sua pontuação.",
+      "Use controles simplificados para fazer seu personagem pular ou correr.",
+      "Complete os níveis para desbloquear novos desafios."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo Sprunkliy"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunkliy é exatamente o tipo de diversão simples que eu precisava!",
+        "author": "Alex"
+      },
+      {
+        "content": "Jogo perfeito para aliviar o estresse rapidamente durante as pausas.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Adoro o design direto e os controles fáceis.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Os níveis são desafiadores, mas nada frustrantes. Adoro!",
+        "author": "Casey"
+      },
+      {
+        "content": "É incrível como um remix simples pode se tornar um grande jogo.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Meus filhos não conseguem parar de jogar Sprunkliy. É tão envolvente!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Ótimo jogo para todas as idades - divertido e viciante!",
+        "author": "Charlie"
+      },
+      {
+        "content": "Aprecio a jogabilidade sem complicações. Nota 10!",
+        "author": "Pat"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"O que é Sprunkliy?",
+        "answer":"Sprunkliy é um remix simplificado do jogo original sprunki, projetado para oferecer uma jogabilidade direta e envolvente."
+      },
+      {
+        "question":"Quem desenvolveu o Sprunkliy?",
+        "answer":"O remix foi criado por Amsosprunki no Scratch e é compartilhado por depicpro."
+      },
+      {
+        "question":"Como eu jogo Sprunkliy?",
+        "answer":"Use controles simples para guiar seu personagem através de vários níveis, evitando obstáculos e coletando recompensas."
+      },
+      {
+        "question":"Sprunkliy é adequado para crianças?",
+        "answer":"Sim, sua jogabilidade simplificada o torna adequado para jogadores de todas as idades."
+      },
+      {
+        "question":"Posso enviar minha própria avaliação?",
+        "answer":"Com certeza! Agradecemos seu feedback e experiências com Sprunkliy."
+      },
+      {
+        "question":"Onde posso encontrar mais jogos como Sprunkliy?",
+        "answer":"Confira nosso módulo de recomendação de jogos para jogos semelhantes e envolventes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sort the Court - Un divertido y adictivo juego de simulación",
+    "description": "Explora el mundo caprichoso de Sort the Court, donde la toma de decisiones moldea el destino de tu reino. Conoce las reglas del juego, características y opiniones de los jugadores.",
+    "keywords": "Sort the Court, juego de simulación, toma de decisiones, juego de Unity, Ludum Dare 34"
+  },
+  "hero": {
+    "h1": "Sort the Court",
+    "p": "Asume el papel de un monarca y toma decisiones sabias para controlar el destino de tu reino en Sort the Court. Disfruta de este emocionante juego de simulación desarrollado por Graeme Borland, y sumérgete en su encantador mundo."
+  },
+  "gameFeatures": {
+    "title": "Características del Juego",
+    "features": [
+      "Jugabilidad cautivadora basada en decisiones",
+      "Gráficos encantadores y adorables",
+      "Desarrollado con Unity, garantizando un rendimiento fluido",
+      "Soporte para múltiples idiomas, incluido el español",
+      "Disponible en plataformas HTML5, Windows y Linux"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sort the Court",
+    "instructions": [
+      "Utiliza tu teclado, ratón o control para los controles.",
+      "Toma decisiones respondiendo Sí o No a diversas solicitudes.",
+      "Equilibra las necesidades de tu pueblo, la riqueza y el ejército.",
+      "Navega a través de eventos aleatorios para hacer crecer tu reino.",
+      "Las sesiones de juego duran solo unos minutos, perfectas para un descanso rápido."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Lo Que Dicen los Jugadores",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sort the Court es un juego encantador que garantiza horas de diversión.",
+        "author": "Emily Thompson"
+      },
+      {
+        "content": "Las decisiones que tomas realmente impactan el resultado de tu reino, y me encanta ese aspecto.",
+        "author": "Brian Cooper"
+      },
+      {
+        "content": "Los gráficos son adorables y la música es un buen toque. Perfecto para jugar de manera casual.",
+        "author": "Sophia Li"
+      },
+      {
+        "content": "¡No puedo creer que lo terminé en 53 días! Es una experiencia obligada para los amantes de la estrategia.",
+        "author": "Alex Russo"
+      },
+      {
+        "content": "Desearía que el juego aún estuviera en desarrollo. ¡Es divertido y adictivo!",
+        "author": "Michael Lee"
+      },
+      {
+        "content": "Un fantástico juego de simulación que es simple pero cautivador.",
+        "author": "Lydia Green"
+      },
+      {
+        "content": "No pude abrirlo en mi Mac, pero funcionó perfectamente en Windows.",
+        "author": "Jordan Hart"
+      },
+      {
+        "content": "El juego puede que ya no se actualice, ¡pero todavía vale la pena jugarlo!",
+        "author": "Chris Vance"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Preguntas Frecuentes",
+    "questions": [
+      {
+        "question":"¿Sort the Court sigue en desarrollo activo?",
+        "answer":"No, Sort the Court no está actualmente en desarrollo activo."
+      },
+      {
+        "question":"¿En qué plataformas puedo jugar Sort the Court?",
+        "answer":"Puedes jugar Sort the Court en HTML5, Windows y Linux."
+      },
+      {
+        "question":"¿Hay problemas de compatibilidad del sistema?",
+        "answer":"El juego no se ha actualizado en varios años, por lo que puede no funcionar en sistemas más nuevos."
+      },
+      {
+        "question":"¿Cómo guardo mi progreso?",
+        "answer":"El juego cuenta con una función de guardado automático, así que tu progreso se guarda automáticamente."
+      },
+      {
+        "question":"¿Puedo jugar Sort the Court en Mac?",
+        "answer":"La versión descargable puede no funcionar en Mac, pero puedes intentar ejecutarla en un navegador."
+      },
+      {
+        "question":"¿Cómo puedo enviar un informe de error?",
+        "answer":"Puedes enviar informes de errores a través de los foros de la comunidad."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Juegos Recomendados",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Reigns",
+        "link": "https://linktogame.com/reigns"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Reinos y Castillos",
+        "link": "https://linktogame.com/kingdomsandcastles"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Desterrados",
+        "link": "https://linktogame.com/banished"
+      }
+    ]
+  }
+}

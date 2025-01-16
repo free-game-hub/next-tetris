@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Modo Roxo - Uma Experiência de Jogo Vibrante",
+    "description": "Explore o mundo monocromático do Sprunki Modo Roxo, onde criatividade encontra singularidade. Descubra recursos do jogo, instruções de jogabilidade, avaliações de usuários e perguntas frequentes.",
+    "keywords": "Sprunki Modo Roxo, jogo roxo monocromático, experiência de jogo única, jogo de criação musical"
+  },
+  "hero": {
+    "h1": "Sprunki Modo Roxo",
+    "p": "Mergulhe no único mundo monocromático roxo do Sprunki Modo Roxo, onde a criatividade não tem limites."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo Sprunki Modo Roxo",
+    "features": [
+      "Paleta Roxa Monocromática: Mergulhe em um universo onde tudo é banhado em roxo.",
+      "Galeria Inovadora: Explore a galeria com um toque especial, mesmo que seja apenas pela estética.",
+      "Esquema de Personagem de Uma Só Cor: Personagens únicos distinguidos por seu design em uma só cor.",
+      "Trilha Sonora Eletrônica Especial: Desfrute de uma coleção de sons eletrônicos que adiciona emoção.",
+      "Criação Musical Sem Fim: Sons únicos para cada personagem permitem possibilidades infinitas de melodias."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Modo Roxo",
+    "instructions": [
+      "Selecione Personagens: Escolha 6 faixas musicais do Incredibox original.",
+      "Arraste e Solte: Coloque um dos vinte ícones em um dos sete polos para criar sons.",
+      "Crie Misturas Únicas: O som de cada personagem é distinto, permitindo uma criatividade musical sem fim.",
+      "Primeiro Bug: Ao colocar Simon, o décimo segundo personagem, um polo extra pode permanecer.",
+      "Segundo Bug: Sair da galeria é difícil devido à falta de um botão de saída."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores para Sprunki Modo Roxo",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "O tema de cor roxa realmente destaca este jogo. É hipnotizante!",
+        "author": "Alice"
+      },
+      {
+        "content": "Criar melodias com sons de personagens únicos é incrível.",
+        "author": "Ben"
+      },
+      {
+        "content": "Adoro a trilha sonora eletrônica, ela acrescenta muito ao jogo.",
+        "author": "Chloe"
+      },
+      {
+        "content": "O recurso de galeria precisa de melhorias, mas é interessante mesmo assim.",
+        "author": "David"
+      },
+      {
+        "content": "Um pouco cheio de bugs, mas ainda assim é um jogo super divertido.",
+        "author": "Eve"
+      },
+      {
+        "content": "O esquema roxo é visualmente atraente e inovador.",
+        "author": "Frank"
+      },
+      {
+        "content": "É uma reviravolta criativa no gênero tradicional de jogos musicais.",
+        "author": "Grace"
+      },
+      {
+        "content": "Gostaria de ver mais atualizações, mas no geral é realmente divertido!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O que é Sprunki Modo Roxo?",
+        "answer": "Um jogo onde todos os elementos visuais são dominados por um esquema de cores roxas, oferecendo um estilo artístico único."
+      },
+      {
+        "question": "Por que a galeria não tem botão de saída?",
+        "answer": "Este é um bug conhecido. Estamos trabalhando para adicionar um botão de saída em futuras atualizações."
+      },
+      {
+        "question": "O som de cada personagem é único?",
+        "answer": "Sim, cada personagem tem um som distinto, oferecendo possibilidades musicais infinitas."
+      },
+      {
+        "question": "Posso jogar este jogo no móvel?",
+        "answer": "Atualmente, o jogo é otimizado para jogar no desktop."
+      },
+      {
+        "question": "Quem criou o mod original?",
+        "answer": "O mod original pertence à Freepies, conhecido como caixa roxa v6."
+      },
+      {
+        "question": "Como posso relatar um bug?",
+        "answer": "Por favor, entre em contato com nossa equipe de suporte através da seção de ajuda em nosso site."
+      }
+    ]
+  }
+}

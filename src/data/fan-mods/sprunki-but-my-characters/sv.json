@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - Ett Underhållande Äventyrsspel | Spela Nu",
+    "description": "Gå med i den spännande världen av Sprunki! Upptäck reglerna, funktionerna och recensionerna av detta fängslande äventyrsspel. Spela Sprunki nu och ge dig ut på en episk resa.",
+    "keywords": "Sprunki, Sprunki spel, äventyrsspel, spela Sprunki, Sprunki funktioner, spelregler"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Dyk ner i den spännande äventyret av Sprunki, där varje karaktär ger sig ut på en episk resa. Gå med tusentals spelare och upplev den fängslande världen av Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Spelets Funktioner",
+    "features": [
+      "Fängslande berättelser med fängslande karaktärer.",
+      "Fantastisk grafik som gör världen av Sprunki levande.",
+      "Interaktivt gameplay som utmanar dina färdigheter.",
+      "Flerspelarlägen som låter dig samarbeta med vänner.",
+      "Regelbundna uppdateringar och nytt innehåll för oändlig underhållning."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så Här Spelar Du Sprunki",
+    "instructions": [
+      "Ladda ner Sprunki-appen från den officiella webbplatsen eller appbutiken.",
+      "Skapa din karaktär och anpassa dess utseende.",
+      "Navigera genom nivåer med piltangenterna eller pekskärmen.",
+      "Slutför uppdrag för att få belöningar och avancera i spelet.",
+      "Samarbeta med andra spelare för att klara utmanande uppdrag."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Utforska Sprunkis Värld"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg",
+    "submitReviewLabel": "Skicka In Din Recension",
+    "nameLabel": "Ditt Namn",
+    "reviewLabel": "Din Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunki är det roligaste jag har haft på länge! Karaktärerna och berättelserna är så fängslande.",
+        "author": "JaneD"
+      },
+      {
+        "content": "Ett fantastiskt spel med underbar grafik och beroendeframkallande gameplay!",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "Jag älskar flerspelarläget, att spela med vänner är en riktig fest!",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki blir bara bättre med varje uppdatering. Rekommenderar starkt!",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "Utmaningarna är perfekta för en solo spelupplevelse eller kul med kompisar.",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "Fantastiskt spel för både barn och vuxna. Hela min familj älskar det!",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "Unika karaktärer och kreativa uppdrag gör Sprunki unikt.",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "Jag har spelat Sprunki i flera månader. Fängslande och tröttnar aldrig!",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Vanliga Frågor",
+    "questions": [
+      {
+        "question":"Var kan jag ladda ner Sprunki?",
+        "answer":"Sprunki kan laddas ner från den officiella webbplatsen eller genom större appbutiker."
+      },
+      {
+        "question":"Är Sprunki tillgängligt för alla enheter?",
+        "answer":"Ja, Sprunki är tillgängligt på PC, iOS och Android-enheter."
+      },
+      {
+        "question":"Behöver jag en internetuppkoppling för att spela Sprunki?",
+        "answer":"En internetuppkoppling krävs för flerspelarfunktionerna, men du kan spela offline i solo-uppdrag."
+      },
+      {
+        "question":"Finns det några köp i spelet?",
+        "answer":"Ja, Sprunki erbjuder valfria köp i spelet för anpassning av karaktärer och nytt innehåll."
+      },
+      {
+        "question":"Hur ofta släpps nytt innehåll?",
+        "answer":"Nytt innehåll och uppdateringar släpps regelbundet för att hålla spelet fräscht och spännande."
+      },
+      {
+        "question":"Kan jag spela Sprunki med vänner?",
+        "answer":"Absolut! Sprunki erbjuder flerspelarlägen för att spela med vänner eller andra online spelare."
+      }
+    ]
+  }
+}

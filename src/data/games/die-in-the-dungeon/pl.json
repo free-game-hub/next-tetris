@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Die in the Dungeon - Unikalna gra roguelite oparta na kościach",
+    "description": "Zanurz się w Die in the Dungeon, unikalnej grze roguelite, gdzie kości zastępują karty. Pokonaj liczne wyzwania w lochu i stań się ostatecznym bohaterem żabą.",
+    "keywords": "Die in the Dungeon, budowanie talii, roguelite, gra kościana, przygoda żabi, loch, strategia turowa"
+  },
+  "hero": {
+    "h1": "Die in the Dungeon",
+    "p": "Die in the Dungeon to innowacyjna gra roguelite oparta na budowie talii, w której twoja siła tkwi w rzucaniu kośćmi. Staw czoła lochowi o 2X piętrze i udowodnij swoją wartość!"
+  },
+  "gameFeatures": {
+    "title": "Cechy Die in the Dungeon",
+    "features": [
+      "Zaangażuj się w walkę opartą na kościach w przygodzie roguelite budującej talię.",
+      "Zbieraj unikalne relikty, aby zwiększyć swoją przewagę strategiczną.",
+      "Doświadcz nowego systemu wydarzeń z różnorodnymi spotkaniami.",
+      "Staw czoła nowym przeciwnikom i wymagającym bossom.",
+      "Odkryj liczne rodzaje kości i ich właściwości, aby tworzyć nieograniczone strategie."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Die in the Dungeon",
+    "instructions": [
+      "Rozpocznij od wyboru swoich kości do budowy talii.",
+      "Rzuć kości, aby zaatakować, bronić się lub używać specjalnych umiejętności.",
+      "Starannie planuj swoje ruchy i przewiduj reakcje wrogów.",
+      "Zbieraj relikty i nowe kości, aby zwiększyć swoją moc.",
+      "Poruszaj się po skomplikowanych układach lochów, pokonując przeciwników."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zanurz się w świat Die in the Dungeon"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy o Die in the Dungeon",
+    "submitReviewLabel": "Wyślij swoją recenzję",
+    "nameLabel": "Twoje imię",
+    "reviewLabel": "Twoja recenzja",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Gra z mieczem dosłownie zafundowała mi bluescreen, ale było warto!",
+        "author": "EmanuelKJ"
+      },
+      {
+        "content": "Znalazłem błąd w mojej grze, ale nadal kocham te urocze żaby!",
+        "author": "loseygoosey"
+      },
+      {
+        "content": "Bawiłem się świetnie, aż boss pszczół zalał miodowe kości. Nie mogę się doczekać kolejnej gry!",
+        "author": "hanungpurwaka"
+      },
+      {
+        "content": "Ta gra była bardzo zabawna, mnóstwo opcji na kości. Ekscytuję się pełnym wydaniem!",
+        "author": "Jazz Man"
+      },
+      {
+        "content": "Uwielbiam waszą grę. To na prawdę najlepsza gra lochowa, w jaką grałem!",
+        "author": "GMletsITCH"
+      },
+      {
+        "content": "Właśnie osiągnąłem piętro 25 i wciąż to uwielbiam! Chciałbym móc zagrać w bossa żabę w pełni.",
+        "author": "Melitaa"
+      },
+      {
+        "content": "Trochę skubana, ale jestem uzależniony! Nie mogę przestać grać w Die in the Dungeon.",
+        "author": "Zclipse"
+      },
+      {
+        "content": "Bardzo zabawna gra! Przypomina mi trochę Dicey Dungeons, ale z unikalnymi zwrotami!",
+        "author": "Zazak"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "questions": [
+      {
+        "question": "Czym jest Die in the Dungeon?",
+        "answer": "Die in the Dungeon to gra roguelite oparta na budowie talii, w której używasz kości zamiast tradycyjnych kart do przechodzenia przez loch."
+      },
+      {
+        "question": "Jak zainstalować Die in the Dungeon?",
+        "answer": "Możesz pobrać Die in the Dungeon na Windows, macOS i Linux z platform takich jak Steam i Itch.io."
+      },
+      {
+        "question": "Jakie są wymagania systemowe?",
+        "answer": "Gra jest dostępna dla HTML5, Windows, macOS i Linux i wymaga podstawowych specyfikacji systemowych dla optymalnej wydajności."
+      },
+      {
+        "question": "Czy jest tryb wieloosobowy?",
+        "answer": "Obecnie Die in the Dungeon to gra dla jednego gracza bez planów wprowadzenia trybu wieloosobowego."
+      },
+      {
+        "question": "Czy mogę używać kontrolera?",
+        "answer": "Gra głównie wspiera input z myszy, ale mogą być dodatkowe opcje sterowania w miarę postępów w rozwoju."
+      },
+      {
+        "question": "Jak mogę zgłosić błąd lub przekazać feedback?",
+        "answer": "Dołącz do naszego serwera Discord, aby zgłosić problemy lub bezpośrednio podzielić się opinią z deweloperami."
+      }
+    ]
+  },
+  "recommendedGames": [
+    {
+      "imageUrl": "backpack_hero_thumbnail.jpg",
+      "title": "Backpack Hero",
+      "link": "https://store.steampowered.com/app/example123456"
+    },
+    {
+      "imageUrl": "super_rare_mixtape_thumbnail.jpg",
+      "title": "Super Rare Mixtape",
+      "link": "https://store.steampowered.com/app/example654321"
+    },
+    {
+      "imageUrl": "dicey_dungeons_thumbnail.jpg",
+      "title": "Dicey Dungeons",
+      "link": "https://store.steampowered.com/app/example987654"
+    }
+  ]
+}

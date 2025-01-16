@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V8 - Un emocionante viaje musical post-apocalíptico",
+    "description": "Únete a Incredibox V8, un juego único de creación musical ambientado en un mundo transformado tras un gran desastre. Explora sonidos, enfrenta desafíos y reconstruye el mundo a través de la música.",
+    "keywords": "Incredibox V8, juego de música, post-apocalíptico, características del juego, creación musical"
+  },
+  "hero": {
+    "h1": "Incredibox V8",
+    "p": "Emprende un viaje musical a través de un mundo transformado. Explora nuevos sonidos, forma tu grupo musical y supera los desafíos en Incredibox V8."
+  },
+  "gameFeatures": {
+    "title": "Características clave de Incredibox V8",
+    "features": [
+      "Explora un mundo cambiado: Descubre sonidos musicales ocultos entre las ruinas.",
+      "Construye tu grupo musical: Selecciona personajes con sonidos únicos para crear tu banda.",
+      "Enfrenta desafíos musicales: Pon a prueba tus habilidades con obstáculos creativos.",
+      "Expresa tu creatividad: Utiliza ritmos y melodías para reconstruir un mundo vacío.",
+      "Experiencia inmersiva: Sumérgete en un ambiente post-apocalíptico con paisajes sonoros ricos."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo jugar Incredibox V8",
+    "instructions": [
+      "Inicia tu viaje explorando el mundo y recolectando sonidos musicales.",
+      "Utiliza la interfaz intuitiva para ensamblar tu pieza musical única.",
+      "Ajusta tus canciones para superar los obstáculos y desafíos que enfrentes.",
+      "Cada canción que creas agrega energía y esperanza a un mundo vacío.",
+      "Comparte tus creaciones e inspira a otros con el poder de la música."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de pantalla de Incredibox V8"
+  },
+  "playerReviews": {
+    "title": "Lo que dicen los jugadores sobre Incredibox V8",
+    "submitReviewLabel": "Envía tu reseña",
+    "nameLabel": "Tu nombre",
+    "reviewLabel": "Tu reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Incredibox V8 es realmente una experiencia innovadora con sus dinámicas capacidades de creación musical. Me encanta explorar las ruinas y crear nuevos sonidos.",
+        "author": "Alex J."
+      },
+      {
+        "content": "La interfaz del juego es súper fácil de usar, y los desafíos musicales me mantienen entretenido.",
+        "author": "Samantha L."
+      },
+      {
+        "content": "Una mezcla perfecta de creatividad y estrategia. ¡Construir mi grupo musical es increíblemente satisfactorio!",
+        "author": "Michael K."
+      },
+      {
+        "content": "Nunca pensé que hacer música en un mundo post-apocalíptico podría ser tan reconfortante. ¡Recomiendo mucho Incredibox V8!",
+        "author": "Laura F."
+      },
+      {
+        "content": "Este juego es una mezcla fantástica de exploración de sonidos y narración. ¡No puedo dejar de jugar!",
+        "author": "Daniel M."
+      },
+      {
+        "content": "Incredibox V8 impulsa tus límites creativos de la mejor manera posible. ¡Gran juego!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Cada canción que creo se siente como un nuevo soplo de vida en este mundo único. ¡Me encanta!",
+        "author": "Chris T."
+      },
+      {
+        "content": "La atmósfera de Incredibox V8 y las herramientas de creación musical son incomparables. ¡Un juego imprescindible!",
+        "author": "Sophia H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Preguntas frecuentes sobre Incredibox V8",
+    "questions": [
+      {
+        "question":"¿Qué es Incredibox V8?",
+        "answer":"Incredibox V8 es un juego de creación musical ambientado en un mundo post-apocalíptico donde exploras, creas música y enfrentas desafíos para reconstruir la esperanza."
+      },
+      {
+        "question":"¿Cómo empiezo a crear música en el juego?",
+        "answer":"Comienza explorando el mundo cambiado para recolectar diferentes sonidos, luego usa la interfaz para crear tus piezas musicales únicas."
+      },
+      {
+        "question":"¿Qué tipo de desafíos enfrentaré?",
+        "answer":"Los jugadores se encontrarán con desafíos que pondrán a prueba sus habilidades musicales y creatividad a medida que avanzan en el juego."
+      },
+      {
+        "question":"¿Puedo jugar Incredibox V8 en dispositivos móviles?",
+        "answer":"Sí, Incredibox V8 es compatible con la mayoría de los dispositivos móviles, ofreciendo una experiencia de creación musical sin interrupciones mientras te desplazas."
+      },
+      {
+        "question":"¿Cómo puedo compartir mis creaciones musicales?",
+        "answer":"Puedes compartir tu música directamente desde el juego a través de diversas plataformas de redes sociales para inspirar a otros."
+      },
+      {
+        "question":"¿Hay un modo multijugador en Incredibox V8?",
+        "answer":"Actualmente, Incredibox V8 se centra en una experiencia para un solo jugador impulsada por la creatividad y la exploración."
+      }
+    ]
+  }
+}

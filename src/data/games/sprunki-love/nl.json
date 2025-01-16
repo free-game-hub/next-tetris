@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "Sprunki Love Game - Speel Mijn Zingende Sprunki Liefde Online Zonder Download",
+    "description": "Ervaar de wereld van muzikale creativiteit met Sprunki Love - het innovatieve zangspel online. Mix unieke Sprunki-personages om meteen muzikale meesterwerken te creëren in je browser.",
+    "keywords": "Sprunki Love, Mijn Zingende Sprunki Liefde, Sprunki Love spel, speel Sprunki Love online, Sprunki muziek spel, Spunky Game"
+  },
+  "hero": {
+    "h1": "Sprunki Love: Mijn Zingende Sprunki's Muzikale Ervaring",
+    "p": "Duik in de harmonieuze wereld van Sprunki Love, waar je unieke vocale personages kunt mixen en matchen om je eigen muzikale meesterwerken te creëren. Speel direct in je browser - geen downloads vereist!"
+  },
+  "gameFeatures": {
+    "title": "Belangrijkste Kenmerken van Sprunki Love",
+    "features": [
+      "Vocale Harmonie: Combineer unieke Sprunki vocale personages om prachtige harmonieën te creëren.",
+      "Eenvoudige Besturing: Een eenvoudige drag-and-drop interface maakt muziek creëren toegankelijk voor iedereen.",
+      "Deel Creaties: Sla je muzikale meesterwerken op en deel ze met de Sprunki Love community.",
+      "Prestatiemodus: Kijk hoe je Sprunkis in perfecte harmonie optreden.",
+      "Laag Meerdere Vocale: Creëer rijke, complexe harmonieën door verschillende vocale tracks te combineren."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Sprunki Love: Jouw Muzikale Reis",
+    "instructions": [
+      "Kies Jouw Vocale: Selecteer uit unieke Sprunki-personages, elk met hun eigen vocalenstijl en geluid.",
+      "Laag & Creëer: Sleep personages naar het podium om je nummer te bouwen en dynamische harmonieën te creëren.",
+      "Presteer & Deel: Kijk hoe je Sprunkis optreden, pas de mix aan, sla je creatie op en deel het met vrienden!",
+      "Pas Volumes Aan: Fijnstem het volume van elk personage voor de perfecte balans.",
+      "Verwijder Personages: Sleep ongewenste personages van het podium om je compositie te veranderen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Love Spel Screenshots"
+  },
+  "playerReviews": {
+    "title": "Speler Beoordelingen voor Sprunki Love",
+    "submitReviewLabel": "Dien Je Beoordeling In",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Beoordeling",
+    "submitButtonLabel": "Dien Beoordeling In",
+    "reviews": [
+      {
+        "content": "Sprunki Love is een ongelooflijk leuk en creatief spel! Ik hou van het mixen van de verschillende vocale harmonieën.",
+        "author": "Jessica T."
+      },
+      {
+        "content": "Als muziekliefhebber biedt Sprunki Love eindeloze mogelijkheden voor het creëren van unieke composities.",
+        "author": "Mike R."
+      },
+      {
+        "content": "De interface is zo intuïtief, waardoor het gemakkelijk is voor beginners zoals ik om van het spel te genieten.",
+        "author": "Karen L."
+      },
+      {
+        "content": "Geen downloads maken het perfect om overal en altijd te spelen.",
+        "author": "Alex G."
+      },
+      {
+        "content": "Ik geniet van het samenwerkingsaspect - het delen van mijn creaties met vrienden is geweldig!",
+        "author": "Sophie H."
+      },
+      {
+        "content": "Een creatieve ontsnapping die me helpt te ontspannen en muzikale composities te verkennen.",
+        "author": "Sam D."
+      },
+      {
+        "content": "De prestatiemodus voegt een leuke touch toe, het zien van personages die jouw creatie zingen is fantastisch.",
+        "author": "Tom C."
+      },
+      {
+        "content": "Indrukwekkende diepgang in het creëren van complexe harmonieën terwijl het gebruiksvriendelijk blijft.",
+        "author": "Linda W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Veelgestelde Vragen Over Sprunki Love",
+    "questions": [
+      {
+        "question":"Wat maakt Sprunki Love uniek in Spunky Game?",
+        "answer":"Sprunki Love biedt een unieke muzikale ervaring met vocale harmonieën en interactieve geluidsmixing."
+      },
+      {
+        "question":"Hoe maak ik melodieën in Sprunki Love?",
+        "answer":"Sleep en zet personages op het podium om hun unieke vocale geluiden te lagen en harmonieuze composities te creëren."
+      },
+      {
+        "question":"Kan ik mijn Sprunki Love creaties opslaan?",
+        "answer":"Ja! Je kunt je Sprunki Love composities opslaan en delen met de community."
+      },
+      {
+        "question":"Welke besturingen worden gebruikt in Sprunki Love?",
+        "answer":"Gebruik de muis voor drag-and-drop interacties en sneltoetsen zoals de spatiebalk om af te spelen/onderbreken."
+      },
+      {
+        "question":"Is Sprunki Love geschikt voor beginners?",
+        "answer":"Zeker! Sprunki Love is ontworpen om intuïtief te zijn voor nieuwkomers, terwijl het ook diepgang biedt voor ervaren gebruikers."
+      },
+      {
+        "question":"Hoeveel vocale lagen kan ik combineren in Sprunki Love?",
+        "answer":"Je kunt meerdere vocale tracks laag over elkaar leggen om rijke, complexe harmonieën te creëren."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Aanbevolen Spellen",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Kus Editie",
+        "link": "url/to/game1"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Sprunki Romantisch",
+        "link": "url/to/game2"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Sprunki Zondaar",
+        "link": "url/to/game3"
+      },
+      {
+        "image": "path/to/image4.jpg",
+        "title": "Spunky Sperunky",
+        "link": "url/to/game4"
+      },
+      {
+        "image": "path/to/image5.jpg",
+        "title": "Sprunki Herinnering",
+        "link": "url/to/game5"
+      },
+      {
+        "image": "path/to/image6.jpg",
+        "title": "Sprunki Geïnfecteerd",
+        "link": "url/to/game6"
+      }
+    ]
+  }
+}

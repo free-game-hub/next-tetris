@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki 但每個人都活著模組 - Sprunki Incredibox 的生動新玩法",
+    "description": "體驗 Sprunki 但每個人都活著模組，音樂角色隨著動畫活靈活現，為你的音樂創作注入色彩和個性。探索遊戲功能、玩家評測、常見問題解答等更多內容。",
+    "keywords": "Sprunki 但每個人都活著, Sprunki Incredibox 模組, 動畫化的 Sprunki 角色, 音樂遊戲模組, Sprunki 遊戲玩法"
+  },
+  "hero": {
+    "h1": "Sprunki 但每個人都活著",
+    "p": "沉浸在一場音樂冒險中，每個角色活靈活現，充滿生動動畫，在 Sprunki 但每個人都活著模組中。這不僅僅是創造聲音，而是將能量和個性融入你的音樂創作體驗中。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki 但每個人都活著的特色",
+    "features": [
+      "全動畫角色提升音樂創造力。",
+      "新的聲音組合無限音樂可能。",
+      "活潑的個性提升更引人入勝的體驗。",
+      "適合休閒玩家和忠實的 Sprunki 粉絲。",
+      "明亮、生動、讓人難以忘懷的音樂時光。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩 Sprunki 但每個人都活著",
+    "instructions": [
+      "選擇你最喜愛的角色開始創造音樂。",
+      "嘗試不同的聲音和動畫組合。",
+      "與角色互動以啟動他們活潑的動畫。",
+      "保存並分享你的獨特作品。",
+      "探索此模組中新增的聲音庫。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki 但每個人都活著模組截圖"
+  },
+  "playerReviews": {
+    "title": "玩家的評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "動畫讓這款遊戲更加有趣。每個角色都感覺生動！",
+        "author": "Lily G."
+      },
+      {
+        "content": "我喜歡嘗試新的聲音組合。這個模組太棒了！",
+        "author": "Jackson T."
+      },
+      {
+        "content": "加入動畫為遊戲帶來了新的驚喜。強烈推薦！",
+        "author": "Sophia M."
+      },
+      {
+        "content": "這為 Sprunki 的音樂創作帶來了新的維度。真的很吸引人！",
+        "author": "Corp."
+      },
+      {
+        "content": "這些活潑的角色讓我的音樂創作時光更加有趣。",
+        "author": "Emily R."
+      },
+      {
+        "content": "對原版 Sprunki 遊戲的完美升級。太愛了！",
+        "author": "Evan H."
+      },
+      {
+        "content": "令我驚訝的是，動畫居然能帶來如此大的不同。",
+        "author": "Nathan Y."
+      },
+      {
+        "content": "這個模組為遊戲注入了生命，讓我和角色的連結更加深厚。",
+        "author": "Isabella W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"常見問題",
+    "questions": [
+      {
+        "question":"什麼是 Sprunki 但每個人都活著模組？",
+        "answer":"這是 Sprunki Incredibox 的升級版，每個角色都擁有完整的動畫，為音樂創作過程增添更多個性和互動性。"
+      },
+      {
+        "question":"這個模組與原版 Sprunki 遊戲有什麼不同？",
+        "answer":"與原版不同，這個模組為每個角色增加了動畫，提供更具動感的音樂創作體驗。"
+      },
+      {
+        "question":"如果我是 Sprunki 新手可以玩這個模組嗎？",
+        "answer":"當然可以！這款模組專為新玩家和長期粉絲設計，提供吸引人的直觀遊戲體驗。"
+      },
+      {
+        "question":"使用這個模組需要額外的軟體嗎？",
+        "answer":"不需要額外的軟體。只需下載模組，即可立即享受升級功能。"
+      },
+      {
+        "question":"有沒有社群可以分享我的音樂作品？",
+        "answer":"有的，有多個線上社群可以分享你的作品並獲得反饋。"
+      },
+      {
+        "question":"如果我更喜歡原版 Sprunki 遊戲，可以返回嗎？",
+        "answer":"可以，你隨時可以在原版遊戲和這個模組之間切換。"
+      }
+    ]
+  }
+}

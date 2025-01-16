@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "Sprunki Love Game - Jouez à Mon Chant Spunky Love en Ligne Sans Téléchargement",
+    "description": "Découvrez le monde de la créativité musicale avec Sprunki Love - le jeu de chant innovant en ligne. Mélangez des personnages Sprunki uniques pour créer instantanément des chefs-d'œuvre musicaux dans votre navigateur.",
+    "keywords": "Sprunki Love, Mon Chant Spunky Love, jeu Sprunki Love, jouer à Sprunki Love en ligne, jeu de musique Sprunki, Jeu Spunky"
+  },
+  "hero": {
+    "h1": "Sprunki Love : L'Expérience Musicale de Mon Chant Sprunki",
+    "p": "Plongez dans le monde harmonieux de Sprunki Love, où vous pouvez mixer et assortir des personnages vocaux uniques pour créer vos propres chefs-d'œuvre musicaux. Jouez instantanément dans votre navigateur - aucun téléchargement requis !"
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques Clés de Sprunki Love",
+    "features": [
+      "Harmonie Vocale : Combinez des personnages vocaux Sprunki uniques pour créer de belles harmonies.",
+      "Contrôles Simples : Une interface de glisser-déposer rend la création musicale accessible à tous.",
+      "Partagez Vos Créations : Enregistrez et partagez vos chefs-d'œuvre musicaux avec la communauté Sprunki Love.",
+      "Mode Performance : Regardez vos Sprunkis performer en parfaite harmonie.",
+      "Superposez Plusieurs Vocaux : Créez des harmonies riches et complexes en combinant différentes pistes vocales."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer à Sprunki Love : Votre Voyage Musical",
+    "instructions": [
+      "Choisissez Vos Vocaux : Sélectionnez parmi des personnages Sprunki uniques, chacun avec son propre style vocal et son son.",
+      "Superposez & Créez : Glissez les personnages sur scène pour construire votre chanson et créer des harmonies dynamiques.",
+      "Performez & Partagez : Regardez vos Sprunkis sur scène, ajustez le mixage, sauvegardez votre création et partagez-la avec vos amis !",
+      "Ajustez les Volumes : Affinez le volume de chaque personnage pour un équilibre parfait.",
+      "Retirez des Personnages : Glissez les personnages indésirables hors de la scène pour modifier votre composition."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Jeu Sprunki Love"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs sur Sprunki Love",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre l'Avis",
+    "reviews": [
+      {
+        "content": "Sprunki Love est un jeu incroyablement amusant et créatif ! J'adore mélanger les différentes harmonies vocales.",
+        "author": "Jessica T."
+      },
+      {
+        "content": "En tant qu'amateur de musique, Sprunki Love offre d'innombrables possibilités pour créer des compositions uniques.",
+        "author": "Mike R."
+      },
+      {
+        "content": "L'interface est si intuitive, ce qui permet aux débutants comme moi de profiter du jeu.",
+        "author": "Karen L."
+      },
+      {
+        "content": "Pas de téléchargements, c'est parfait pour jouer n'importe où, à tout moment.",
+        "author": "Alex G."
+      },
+      {
+        "content": "J'apprécie l'aspect collaboratif - partager mes créations avec des amis est incroyable !",
+        "author": "Sophie H."
+      },
+      {
+        "content": "Une évasion créative qui m'aide à me détendre et à explorer des compositions musicales.",
+        "author": "Sam D."
+      },
+      {
+        "content": "Le mode performance ajoute une touche agréable, voir les personnages chanter ma création est fantastique.",
+        "author": "Tom C."
+      },
+      {
+        "content": "Une profondeur impressionnante dans la création d'harmonies complexes tout en restant facile à utiliser.",
+        "author": "Linda W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées Sur Sprunki Love",
+    "questions": [
+      {
+        "question": "Qu'est-ce qui rend Sprunki Love unique dans le Jeu Spunky ?",
+        "answer": "Sprunki Love offre une expérience musicale distinctive avec des harmonies vocales et un mixage sonore interactif."
+      },
+      {
+        "question": "Comment créer des mélodies dans Sprunki Love ?",
+        "answer": "Glissez et déposez des personnages sur la scène pour superposer leurs sons vocaux uniques et créer des compositions harmonieuses."
+      },
+      {
+        "question": "Puis-je sauvegarder mes créations Sprunki Love ?",
+        "answer": "Oui ! Vous pouvez sauvegarder et partager vos compositions Sprunki Love avec la communauté."
+      },
+      {
+        "question": "Quels contrôles sont utilisés dans Sprunki Love ?",
+        "answer": "Utilisez la souris pour les interactions de glisser-déposer et des raccourcis clavier comme la barre d'espace pour jouer/mettre en pause."
+      },
+      {
+        "question": "Sprunki Love est-il adapté aux débutants ?",
+        "answer": "Absolument ! Sprunki Love est conçu pour être intuitif pour les nouveaux utilisateurs tout en offrant une profondeur pour les utilisateurs expérimentés."
+      },
+      {
+        "question": "Combien de couches vocales puis-je combiner dans Sprunki Love ?",
+        "answer": "Vous pouvez superposer plusieurs pistes vocales pour créer des harmonies riches et complexes."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Jeux Recommandés",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Édition Sprunki Kiss",
+        "link": "url/to/game1"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Sprunki Romantique",
+        "link": "url/to/game2"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Sprunki Pêché",
+        "link": "url/to/game3"
+      },
+      {
+        "image": "path/to/image4.jpg",
+        "title": "Spunky Sperunky",
+        "link": "url/to/game4"
+      },
+      {
+        "image": "path/to/image5.jpg",
+        "title": "Sprunki Retake",
+        "link": "url/to/game5"
+      },
+      {
+        "image": "path/to/image6.jpg",
+        "title": "Sprunki Infecté",
+        "link": "url/to/game6"
+      }
+    ]
+  }
+}

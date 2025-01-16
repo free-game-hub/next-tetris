@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - Tingkatkan Pengalaman Musik Horor Anda",
+    "description": "Masuki dunia menyeramkan dari Sprunki Ketchup 2.0, di mana membuat musik menjadi pengalaman yang menghantui. Temukan aturan permainan, fitur, dan ulasan pemain.",
+    "keywords": "Sprunki Ketchup 2.0, permainan musik horor, suara menakutkan, fitur permainan, ulasan pemain"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "Jelajahi alam yang mengganggu dari Sprunki Ketchup 2.0, di mana horor bertemu musik dalam pengalaman bermain game yang mendebarkan."
+  },
+  "gameFeatures": {
+    "title": "Fitur Utama dari Sprunki Ketchup 2.0",
+    "features": [
+      "Estetika Horor yang Ditingkatkan dengan desain karakter yang menakutkan.",
+      "Suara yang lebih gelap dan loop yang menyeramkan.",
+      "Ketegangan yang Meningkat dengan lapisan musik eksperimental.",
+      "Karakter yang kompleks dan latar belakang yang mengganggu.",
+      "Bagikan kreasi Anda dengan komunitas penggemar horor."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Ketchup 2.0",
+    "instructions": [
+      "Pilih Karakter: Pilih sosok yang memancarkan pesona menyeramkan.",
+      "Seret dan Jatuhkan ke kanvas Anda untuk menciptakan komposisi yang menakutkan.",
+      "Eksperimen dengan volume dan efek untuk mencapai kesempurnaan yang menyeramkan.",
+      "Sempurnakan lapisan Anda untuk mengungkap elemen tersembunyi dari ketakutan.",
+      "Simpan dan bagikan komposisi musik horor Anda dengan teman-teman."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Sprunki Ketchup 2.0"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Tentang Sprunki Ketchup 2.0",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Permainan ini telah merevolusi horor dalam musik—ini adalah permainan yang harus dicoba bagi para pencari sensasi.",
+        "author": "Alex"
+      },
+      {
+        "content": "Saya belum pernah merasa begitu tegang saat menciptakan lagu, ketegangannya nyata!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Perpaduan sempurna antara musik dan horor. Sprunki Ketchup 2.0 membuat saya terus terpaku!",
+        "author": "Chris"
+      },
+      {
+        "content": "Suara yang menghantui sungguh mengejutkan. Siap-siap untuk terkejut.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Bagus untuk pesta Halloween, mainkan dengan keras dan menakut-nakuti teman-teman!",
+        "author": "Casey"
+      },
+      {
+        "content": "Saya sangat menyukai suasana creepy dan kebebasan kreatif yang ditawarkan.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0 adalah pengalaman yang tak tertandingi. Sangat direkomendasikan.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Atmosfer permainan ini sangat mencekam dan sempurna untuk penggemar horor.",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan tentang Sprunki Ketchup 2.0",
+    "questions": [
+      {
+        "question": "Apa itu Sprunki Ketchup 2.0?",
+        "answer": "Sprunki Ketchup 2.0 adalah permainan musik bertema horor yang memperkenalkan suara dan visual yang mengganggu."
+      },
+      {
+        "question": "Bagaimana cara membuat musik dalam permainan ini?",
+        "answer": "Pilih dan susun loop karakter menyeramkan di layar untuk menyusun lagu menghantui Anda sendiri."
+      },
+      {
+        "question": "Bisakah saya membagikan kreasi musik saya?",
+        "answer": "Ya, Anda dapat menyimpan dan membagikan komposisi Anda dengan pemain lain."
+      },
+      {
+        "question": "Apakah Sprunki Ketchup 2.0 cocok untuk anak-anak?",
+        "answer": "Dianjurkan untuk penonton dewasa karena elemen horornya."
+      },
+      {
+        "question": "Apakah ada pembelian dalam permainan?",
+        "answer": "Sprunki Ketchup 2.0 menawarkan beberapa fitur yang tersedia untuk diperluas melalui pembelian dalam permainan."
+      },
+      {
+        "question": "Platform apa yang mendukung Sprunki Ketchup 2.0?",
+        "answer": "Permainan ini tersedia di platform permainan utama, termasuk PC dan konsol."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Permainan yang Disarankan",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "Gema yang Mendebarkan",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "Harmoni Berhantu",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "Simfoni Bayangan",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Luo Omat Musiikkirytmit",
+    "description": "Pelaa Incredibox V7:ää, luovaa musiikkipeliä, jossa ohjaat Incredicrewia luodaksesi ainutlaatuisia rytmejä. Tutustu pelin ominaisuuksiin, sääntöihin ja pelaajien arvioihin.",
+    "keywords": "Incredibox V7, musiikkipeli, Incredicrew, luo rytmejä, Incrediboxin ominaisuudet"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Sukella Incredibox V7:n maailmaan ja vapauta musiikillinen luovuutesi. Ohjaa Incredicrewia luodaksesi omia ainutlaatuisia melodioita ja rytmejä."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V7 Pelin Ominaisuudet",
+    "features": [
+      "Ohjaa Incredicrewia - jokaisella on ainutlaatuiset ääniominaisuudet.",
+      "Monipuolisia musiikkityylejä ja teemoja tutkittavaksi.",
+      "Loputon luovuus, ei oikeaa tai väärää tapaa pelata.",
+      "Jaa musiikkiluomuksesi yhteisölle.",
+      "Käyttäjäystävällinen käyttöliittymä niin hiirelle kuin näppäimistölle."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Incredibox V7",
+    "instructions": [
+      "Valitse Hahmo: Valitse eri hahmoista, joilla kaikilla on erityiset kyvyt ja animaatiot.",
+      "Valitse Kappale: Valitse haluamasi musiikkityyli tai teema aloittaaksesi luomisen.",
+      "Pelaaminen: Yhdistä ääniä ja rytmejä luodaksesi ainutlaatuisen rytmi.",
+      "Käytä Hiirtä: Napsauta hahmoja lisätäksesi tai poistaaksesi ääniä.",
+      "Käytä Näppäimistöä: Hyödynnä pikanäppäimiä äänien nopeaan muokkaamiseen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arviot Incredibox V7:stä",
+    "submitReviewLabel": "Lähetä Arviosi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arviosi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Incredibox V7 on todella hauska tapa tutkia musiikin luomista!",
+        "author": "Alice"
+      },
+      {
+        "content": "Rakastan erilaisia ääniyhdistelmiä, joita voi tehdä. Se on loputonta hauskuutta!",
+        "author": "John"
+      },
+      {
+        "content": "Hahmot ovat niin ainutlaatuisia, ja rytmien luominen on addiktoivaa.",
+        "author": "Maya"
+      },
+      {
+        "content": "On uskomatonta, kuinka luovaksi voit tulla. Kukaan rytmi ei ole samanlainen!",
+        "author": "Liam"
+      },
+      {
+        "content": "Luomukseni jakaminen ystäville on paras osa!",
+        "author": "Sophia"
+      },
+      {
+        "content": "Näppäimistön pikanäppäimet tekevät äänten vaihtamisesta todella helppoa.",
+        "author": "Henry"
+      },
+      {
+        "content": "Loistava peli lapsille ja aikuisille, jotka rakastavat musiikkia.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 on ollut minun luovuuden rentoutuskeino.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 UKK",
+    "questions": [
+      {
+        "question": "Mikä on Incredibox V7?",
+        "answer": "Incredibox V7 on musiikkipeli, jossa voit luoda ainutlaatuisia rytmejä ohjaamalla hahmoryhmää, jota kutsutaan Incredicrewiksi."
+      },
+      {
+        "question": "Kuinka aloitan Incredibox V7:n pelaamisen?",
+        "answer": "Aloittaaksesi pelaamisen, valitse hahmo ja kappaletyyli. Sitten sekoita erilaisia ääniä luodaksesi rytmesi."
+      },
+      {
+        "question": "Voinko pelata Incredibox V7:ää näppäimistöllä?",
+        "answer": "Kyllä, voit käyttää pikanäppäimiä äänten lisäämiseen tai poistamiseen nopeasti."
+      },
+      {
+        "question": "Onko Incredibox V7:ssä erilaisia musiikkityylejä?",
+        "answer": "Kyllä, pelissä on erilaisia tyylejä ja teemoja valittavaksi."
+      },
+      {
+        "question": "Onko mahdollista jakaa luomukseni?",
+        "answer": "Totta kai, voit jakaa musiikkiluomuksesi muiden pelaajien kanssa yhteisössä."
+      },
+      {
+        "question": "Onko Incredibox V7 sopiva kaikille ikäryhmille?",
+        "answer": "Kyllä, Incredibox V7 on hauska ja luova peli, joka sopii sekä lapsille että aikuisille."
+      }
+    ]
+  }
+}

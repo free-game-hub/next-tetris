@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - Spokojna Muzyczna Eksploracja",
+    "description": "Odkryj Sprunki Blue, immersyjną modyfikację gry, która przekształca Twoje doznania w grze za pomocą kojącej niebieskiej palety i harmonijnych pejzaży dźwiękowych.",
+    "keywords": "Sprunki Blue, modyfikacja Sprunki Blue, modyfikacja gry, monochromatyczna estetyka, kojące pejzaże dźwiękowe, relaksująca muzyka w grze"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "Zanurz się w spokojnym środowisku gry, gdzie harmonijne odcienie niebieskiego i dźwiękowe krajobrazy redefiniują Twoją muzyczną eksplorację."
+  },
+  "gameFeatures": {
+    "title": "Kluczowe Cechy Sprunki Blue",
+    "features": [
+      "Monochromatyczna Estetyka: Doświadcz kojącej niebieskiej palety jednoczącej każdy element gry.",
+      "Kojące Pejzaże Dźwiękowe: Odkryj różnorodne melodie i harmonie wzbogacone uspokajającą wizualizacją.",
+      "Medytacyjny Nastrój: Skup się na tworzeniu muzyki bez rozpraszających kolorów.",
+      "Możliwość Dostosowania Postaci: Wybierz postaci ubrane w uspokajające odcienie niebieskiego, każda z unikalnymi efektami.",
+      "Dziel się Swoimi Tworami: Zapisuj i dziel się swoimi dusznymi kompozycjami z społecznością Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Sprunki Blue",
+    "instructions": [
+      "Wybierz Postacie: Wybierz swoje ulubione postacie, każda oferująca unikalne pętle i efekty.",
+      "Przeciągnij i Upuść: Ustaw je na ekranie, aby stworzyć świeże warstwy dźwięku.",
+      "Eksperymentuj i Udoskonalaj: Dostosowuj głośność i wymieniaj postacie, aby doskonalić swój utwór.",
+      "Zapisz i Dziel się: Podziel się swoimi relaksującymi muzycznymi kreacjami z innymi graczami.",
+      "Odkrywaj Wariacje: Ciągle rozwijaj swoje pejzaże dźwiękowe, aby pasowały do Twojego nastroju."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu z Gry Sprunki Blue"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy o Sprunki Blue",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Sprunki Blue oferuje unikalne i kojące doświadczenie, idealne po długim dniu.",
+        "author": "Jan Kowalski"
+      },
+      {
+        "content": "Monochromatyczny design jest wizualnie atrakcyjny i wzbogaca immersyjne doświadczenie.",
+        "author": "Anna Nowak"
+      },
+      {
+        "content": "Uwielbiam pejzaże dźwiękowe. Pomagają mi skupić się i zrelaksować jednocześnie.",
+        "author": "Erik Wong"
+      },
+      {
+        "content": "Piękne połączenie kojących wizualizacji i dźwięków. Gorąco polecam!",
+        "author": "Anna Lee"
+      },
+      {
+        "content": "Ta modyfikacja gry pozwala mi być kompozytorem mojej kojącej muzycznej ucieczki.",
+        "author": "Marek Johnson"
+      },
+      {
+        "content": "Sprunki Blue przekształca doświadczenie Sprunki w spokojną podróż.",
+        "author": "Zofia Brown"
+      },
+      {
+        "content": "Prostota i piękno niebieskiej palety są niezrównane.",
+        "author": "Krzysztof Evans"
+      },
+      {
+        "content": "To niesamowite, jak zmiana koloru może poprawić cały nastrój gry.",
+        "author": "Laura Zielona"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania o Sprunki Blue",
+    "questions": [
+      {
+        "question":"Czym jest Sprunki Blue?",
+        "answer":"Sprunki Blue to modyfikacja oryginalnej gry Sprunki, która charakteryzuje się zunifikowaną niebieską paletą kolorów i kojącymi pejzażami dźwiękowymi."
+      },
+      {
+        "question":"Jak mogę zapisać swoją muzykę w Sprunki Blue?",
+        "answer":"Gdy będziesz zadowolony z utworu, istnieje opcja zapisu i dzielenia się swoją muzyką w grze."
+      },
+      {
+        "question":"Czy mogę grać w Sprunki Blue na różnych urządzeniach?",
+        "answer":"Tak, Sprunki Blue jest dostępne na kompatybilnych urządzeniach, które obsługują oryginalną grę Sprunki."
+      },
+      {
+        "question":"Czy istnieje społeczność do dzielenia się tworami?",
+        "answer":"Tak, gracze mogą dzielić się swoimi kreacjami ze społecznością Sprunki i cieszyć się muzycznymi kompozycjami innych."
+      },
+      {
+        "question":"Czy potrzebuję jakichkolwiek wcześniejszych doświadczeń muzycznych, aby grać?",
+        "answer":"Nie, Sprunki Blue jest zaprojektowane dla graczy na każdym poziomie doświadczenia, aby łatwo tworzyć i cieszyć się muzyką."
+      },
+      {
+        "question":"Czy są jakieś koszty związane z modyfikacją Sprunki Blue?",
+        "answer":"Sprunki Blue jest dostępne jako bezpłatna aktualizacja dla obecnych właścicieli gry Sprunki."
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Zalecane Gry",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Red",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Chill Harmonics",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Melodic Ocean",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

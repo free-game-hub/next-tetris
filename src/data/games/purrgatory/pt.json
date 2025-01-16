@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "title": "Purrgatory - Um Romance Visual de Outro Mundo",
+        "description": "Explore o mundo encantador de Purrgatory, um romance visual sobre uma vida após a morte onde o tempo fica parado. Conheça personagens peculiares, resolva mistérios e desfrute de uma experiência cuidadosamente desenhada à mão.",
+        "keywords": "Purrgatory, romance visual, jogo de vida após a morte, point-and-click, personagens excêntricos, recursos do jogo"
+    },
+    "hero": {
+        "h1": "Purrgatory - Uma Aventura de Outro Mundo",
+        "p": "Mergulhe em Purrgatory, um romance visual cheio de capricho. Explore, faça amizade com personagens encantadores e descubra que 'para sempre' não é tão ruim!"
+    },
+    "gameFeatures": {
+        "title": "Recursos do Jogo Purrgatory",
+        "features": [
+            "Exploração envolvente de apontar e clicar",
+            "Visual desenhado à mão com personagens encantadores",
+            "Múltiplos finais e experiência rica em história",
+            "Disponível em inglês, espanhol e chinês simplificado",
+            "Vencedor do Game Jam 'Eu Não Sei Desenhar'"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Como Jogar Purrgatory",
+        "instructions": [
+            "Interaja com o mundo usando o mouse.",
+            "Use o teclado para navegação rápida.",
+            "Explore diferentes locais para descobrir segredos.",
+            "Resolva quebra-cabeças para avançar na história.",
+            "Interaja com os personagens para conhecer suas histórias."
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Capturas de Tela do Jogo Purrgatory"
+    },
+    "playerReviews": {
+        "title": "O Que os Jogadores Dizem Sobre Purrgatory",
+        "submitReviewLabel": "Envie Sua Avaliação",
+        "nameLabel": "Nome",
+        "reviewLabel": "Avaliação",
+        "submitButtonLabel": "Enviar",
+        "reviews": [
+            {
+                "content": "Fiquei preso na parte do apagão, mas recebi ajuda da comunidade! Amo como todos cooperam!",
+                "author": "Blormp"
+            },
+            {
+                "content": "A atmosfera e as amizades dos personagens são encantadoras. Não consigo parar de pensar nisso!",
+                "author": "Robot_Raven"
+            },
+            {
+                "content": "Voltei para terminar depois de um ano. Abençoado por ter experimentado esta bela história.",
+                "author": "kayak"
+            },
+            {
+                "content": "Os personagens são tão bem pensados. O final bom do jogo me deixou pasmo.",
+                "author": "JUney"
+            },
+            {
+                "content": "Purrgatory oferece uma personalidade única para cada personagem que combina com sua forma animal.",
+                "author": "dizie"
+            },
+            {
+                "content": "Uma jornada absolutamente enriquecedora com trocadilhos hilários!",
+                "author": "Jessa_r"
+            },
+            {
+                "content": "História linda e personagens cativantes que me prenderam imediatamente.",
+                "author": "Maple"
+            },
+            {
+                "content": "A simplicidade do jogo capta a essência da simplicidade e das alegrias da vida.",
+                "author": "skibidipenis"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Perguntas Frequentes",
+        "questions": [
+            {
+                "question": "Em quais plataformas Purrgatory está disponível?",
+                "answer": "Purrgatory pode ser jogado em plataformas HTML5 e Windows."
+            },
+            {
+                "question": "Como resolvo o quebra-cabeça quando as luzes se apagam?",
+                "answer": "Tente visitar o local da Natalie para conseguir uma vela como fonte de luz."
+            },
+            {
+                "question": "O jogo tem múltiplos finais?",
+                "answer": "Sim, Purrgatory possui múltiplos finais baseados em suas escolhas."
+            },
+            {
+                "question": "Em quais idiomas o Purrgatory está disponível?",
+                "answer": "Está disponível em inglês, espanhol e chinês simplificado."
+            },
+            {
+                "question": "Existe uma trilha sonora disponível para Purrgatory?",
+                "answer": "Sim, a trilha sonora original pode ser transmitida em várias plataformas."
+            },
+            {
+                "question": "O que devo fazer se o jogo não iniciar?",
+                "answer": "Tente atualizar a página ou usar outro navegador. Para melhor desempenho, baixe a versão para Windows."
+            }
+        ]
+    },
+    "gameRecommendations": [
+        {
+            "image": "link_to_image_1",
+            "title": "Uma Jornada Caprichosa",
+            "link": "http://example.com/uma-jornada-caprichosa"
+        },
+        {
+            "image": "link_to_image_2",
+            "title": "Vida após a Morte Sonhadora",
+            "link": "http://example.com/vida-pos-morte-sonhadora"
+        },
+        {
+            "image": "link_to_image_3",
+            "title": "Aventuras Místicas",
+            "link": "http://example.com/aventuras-místicas"
+        }
+    ]
+}

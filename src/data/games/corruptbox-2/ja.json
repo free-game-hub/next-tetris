@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox 2 - シュールな Sprunki Mod の体験",
+    "description": "Corruptbox 2 を探検し、Sprunki mod に究極のアップグレードを体験しよう。歪んだビジュアル、恐ろしい音景、予測不能なゲームプレイが織りなすデジタルホラーの傑作に浸ろう。",
+    "keywords": "corruptbox 2, corruptbox mod, Sprunki mod, リズムゲーム, デジタルホラー, 実験的音楽, ダーク美学, グリッチアート"
+  },
+  "hero": {
+    "h1": "Corruptbox 2: 混沌と創造の出会い",
+    "p": "Corruptbox 2 のシュールな世界に足を踏み入れよう。グリッチのビジュアル、恐ろしいサウンド、混沌としたゲームプレイが Sprunki の体験を再定義する。狂気を受け入れる準備はできているか？"
+  },
+  "gameFeatures": {
+    "title": "Corruptbox 2 の特別なところは？",
+    "features": [
+      "歪んだビジュアルとグリッチアニメーションを強化した心を曲げるアップグレード。",
+      "愛される Sprunki キャラクターを悪夢のようなバージョンに変える没入型デジタルホラーの美学。",
+      "予測不能なゲームプレイのひねりが、あなたをエッジに立たせ、没入させる。",
+      "不気味で歪んだサウンドによる実験的な音楽制作で、独自の聴覚体験を。",
+      "混沌とした創造性とリズムチャレンジのシームレスな融合。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Corruptbox 2 の遊び方",
+    "instructions": [
+      "Sprunki のベースゲームをダウンロードしてインストールする。",
+      "信頼できるソースから Corruptbox 2 mod を入手する。",
+      "ゲームを起動し、mod メニューから Corruptbox 2 を選択する。",
+      "歪んだビジュアルと恐ろしい音景の混沌の世界に浸る。",
+      "破損したキャラクターで実験し、狂気の中で調和を創り出す。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "アクション中の Corruptbox 2"
+  },
+  "playerReviews": {
+    "title": "Corruptbox 2 に関するプレイヤーの声",
+    "submitReviewLabel": "レビューを投稿",
+    "nameLabel": "あなたの名前",
+    "reviewLabel": "あなたのレビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "Corruptbox 2 は、私が第1版で愛したすべてを引き立ててくれます。ビジュアルとサウンドデザインは素晴らしいです！",
+        "author": "ジョーダン M.",
+        "rating": 5
+      },
+      {
+        "content": "シュールでカオスな体験で、何度も戻ってきます。Corruptbox 2 は傑作です。",
+        "author": "クリス T.",
+        "rating": 5
+      },
+      {
+        "content": "デジタルホラーと音楽実験の完璧なブレンド。ダーク美学のファンに強くお勧めします。",
+        "author": "テイラー L.",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Corruptbox 2 に関するよくある質問",
+    "questions": [
+      {
+        "question": "Corruptbox 2 とは何ですか？",
+        "answer": "Corruptbox 2 は、人気のある Sprunki mod のアップグレードバージョンで、歪んだビジュアル、恐ろしい音景、混沌としたゲームプレイを特徴としています。"
+      },
+      {
+        "question": "Corruptbox 2 をインストールするにはどうすればよいですか？",
+        "answer": "まず、Sprunki のベースゲームをインストールします。その後、信頼できるソースから Corruptbox 2 をダウンロードし、ゲームの mod フォルダに追加します。"
+      },
+      {
+        "question": "Corruptbox 2 は無料でプレイできますか？",
+        "answer": "はい、Corruptbox 2 は無料の mod ですが、プレイするには Sprunki のベースゲームが必要です。"
+      },
+      {
+        "question": "Corruptbox 2 は Corruptbox v1 とはどう違うのですか？",
+        "answer": "Corruptbox 2 は、元のバージョンと比較して、ビジュアルを強化し、より複雑なゲームプレイのひねりを加え、さらにダークな美学を導入しています。"
+      },
+      {
+        "question": "Corruptbox 2 はどのプラットフォームでもプレイできますか？",
+        "answer": "Corruptbox 2 は、Sprunki のベースゲームをサポートしているプラットフォームで互換性があります。ゲームの要件を確認してください。"
+      },
+      {
+        "question": "Corruptbox 2 についての情報はどこで見つけられますか？",
+        "answer": "公式の Sprunki モッディングコミュニティまたは信頼できるフォーラムで、Corruptbox 2 の最新情報やヒントを探すことができます。"
+      }
+    ]
+  }
+}

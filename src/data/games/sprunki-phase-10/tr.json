@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 - Nihai Müzik Karıştırma Oyunu",
+    "description": "Sprunki Phase 10'u keşfedin, yaratıcı özgürlük, eşsiz karakterler ve sonsuz müzikal olasılıklar sunan büyüleyici bir müzik karıştırma oyunu.",
+    "keywords": "Sprunki Phase 10, müzik karıştırma oyunu, müzikal kompozisyon, müzik oyunları"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10",
+    "p": "Sprunki Phase 10 dünyasına dalın - yaratıcılığın müzikle buluştuğu yer. Müzikal unsurlarla deney yapın ve benzersiz kompozisyonlarınızı yaratın."
+  },
+  "gameFeatures": {
+    "title": "Oyun Özellikleri",
+    "features": [
+      "Yaratıcı Özgürlük: Gelişmiş becerilere ihtiyaç duymadan müzikal olarak kendinizi ifade edin.",
+      "Görsel ve İşitsel Çekicilik: Canlı görseller ve akılda kalıcı seslerin tadını çıkarın.",
+      "Yeniden Oynanabilirlik: Yeni sesler ve ödüller için farklı kombinasyonları keşfedin.",
+      "Eşsiz Karakterler: Her karakter, sonsuz yaratıcılık için farklı sesler üretir.",
+      "Etkileşimli Ödüller: Deneyim yoluyla özel parçaları ve görselleri kilidini açın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Phase 10 Nasıl Oynanır",
+    "instructions": [
+      "Karakter Seçimi: Eşsiz seslere sahip karakterlerden seçim yapın.",
+      "Karıştır ve Eşleştir: Kendi müzik parçasınızı oluşturmak için sürükleyip bırakın.",
+      "Ödülleri Kilitle: Özel animasyonları açan kombinasyonları keşfedin.",
+      "Deney Yap: Sonsuz olasılıklar için yeni sesleri keşfetmeye devam edin.",
+      "Yaratımlarınızı Paylaşın: Diğerlerinin müzikal eserlerinizi beğenmesini sağlayın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 10 harika bir müzik oyunu! Keşfetmek ve muhteşem melodiler yaratmak oldukça kolay.",
+        "author": "Alice"
+      },
+      {
+        "content": "Sunduğu yaratıcılığı seviyorum. Farklı seslerle deney yapabilmem müzik uzmanı olmama gerek kalmadan mümkün.",
+        "author": "Bob"
+      },
+      {
+        "content": "Görsel çekicilik ve akılda kalıcı seslerin birleşimi, her yaştan oyuncu için ilgi çekici bir oyun yapıyor.",
+        "author": "Chris"
+      },
+      {
+        "content": "Her oturumda yeni bir şey sunuyor. Yeniden oynanabilirlik, Sprunki Phase 10'un en iyi yönlerinden biri.",
+        "author": "Dana"
+      },
+      {
+        "content": "Ödülleri açmak en sevdiğim kısım. Yeni animasyonlar görmek çok tatmin edici.",
+        "author": "Evan"
+      },
+      {
+        "content": "Oynamayı bırakmak mümkün değil! Eşsiz karakterler, müzik oyunlarına taze bir yaklaşım getiriyor.",
+        "author": "Fiona"
+      },
+      {
+        "content": "Bir müzik aşığı olarak, Sprunki Phase 10 beklentilerimin çok üstünde. Kesinlikle tavsiye ediyorum!",
+        "author": "George"
+      },
+      {
+        "content": "Harika bir oyun! Rahatlamak ve yeni müzikal kombinasyonlar keşfetmek için mükemmel.",
+        "author": "Hannah"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Phase 10'un amacı nedir?",
+        "answer": "Amaç, çeşitli müzikal unsurları yaratıcı bir şekilde karıştırarak benzersiz kompozisyonlar oluşturmaktır."
+      },
+      {
+        "question": "Oynamak için müzik becerilerine ihtiyaç var mı?",
+        "answer": "Hayır, Sprunki Phase 10 herkesin erişebileceği şekilde tasarlanmıştır, müzikal uzmanlık gerektirmez."
+      },
+      {
+        "question": "Kompozisyonlarımı arkadaşlarımla paylaşabilir miyim?",
+        "answer": "Evet, müzikal eserlerinizi arkadaşlarınız ve ailenizle paylaşabilirsiniz, onların da keyif almasını sağlayın."
+      },
+      {
+        "question": "Oyun içinde satın alımlar var mı?",
+        "answer": "Sprunki Phase 10, oynama veya isteğe bağlı satın alımlarla açılabilen içerikler sunar."
+      },
+      {
+        "question": "Sprunki Phase 10 hangi platformlarda mevcut?",
+        "answer": "Sprunki Phase 10, PC, iOS ve Android dahil olmak üzere birden fazla platformda mevcuttur."
+      },
+      {
+        "question": "Yeni güncellemeler ne sıklıkla yayınlanıyor?",
+        "answer": "Oyun düzenli olarak güncellemeler alıyor, bu da deneyimi artıran yeni özellikler ve içerikler sunuyor."
+      }
+    ]
+  }
+}

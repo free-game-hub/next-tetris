@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - Wyzwanie w Incredibox",
+    "description": "Odkryj Sprunki x Sprunked, stworzony przez fanów mod do Incredibox, który łączy elementy z Sprunked i Sprunki, oferując nowe postacie, zwiększoną trudność i oryginalną ścieżkę dźwiękową.",
+    "keywords": "Sprunki x Sprunked, mod Incredibox, Sprunked, Sprunki, gra rytmiczna, nowe postacie, oryginalna ścieżka dźwiękowa"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "Zanurz się w unikalne doświadczenie rytmiczne Sprunki x Sprunked, stworzony przez fanów mod Incredibox łączący elementy z Sprunked i Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Kluczowe cechy Sprunki x Sprunked",
+    "features": [
+      "Rozmaitość nowych postaci o różnych stylach i umiejętnościach muzycznych",
+      "Zwiększona trudność do opanowania skomplikowanych wzorów rytmicznych",
+      "Ciemniejsza i bardziej intensywna atmosfera gry z elementami horroru",
+      "Oryginalna ścieżka dźwiękowa łącząca elementy z Sprunked i Sprunki",
+      "Wszystkie postacie, w tym dodatkowe z obu modów",
+      "Ciekawe elementy crossover, które wzbogacają doświadczenia z gry"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki x Sprunked",
+    "instructions": [
+      "Wybieraj postacie mądrze, aby stworzyć unikalne muzyczne sekwencje.",
+      "Opanuj timing, aby osiągać wyższe wyniki w trudnych poziomach.",
+      "Eksploruj wszystkie style postaci i ich umiejętności muzyczne, aby rozwijać swoją kreatywność.",
+      "Zaangażuj się w intensywne i ciemniejsze motywy, utrzymując dokładność rytmu.",
+      "Ciesz się oryginalną ścieżką dźwiękową, pokonując napięte scenariusze."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z gry"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Mod jest niesamowicie wymagający, a ciemniejsza atmosfera trzyma mnie w napięciu.",
+        "author": "Alex K."
+      },
+      {
+        "content": "Uwielbiam elementy crossover; to wygląda jak zupełnie nowa gra!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Oryginalna ścieżka dźwiękowa jest fantastyczna i doskonale wpasowuje się w rozgrywkę.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Na początku jest trochę trudno, ale po opanowaniu to jest naprawdę satysfakcjonujące.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Nowe postacie dodają wiele głębi; każda z nich ma swój unikalny klimat.",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Elementy horroru to fajny zwrot w gatunku gier rytmicznych.",
+        "author": "Robin J."
+      },
+      {
+        "content": "Czuje się jak prawdziwe ulepszenie do oryginalnych modów, niezwykle wciągające!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Czasami są błędy, ale ogólnie to fantastyczny mod z ogromnym potencjałem.",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "questions": [
+      {
+        "question": "Czym jest Sprunki x Sprunked?",
+        "answer": "Sprunki x Sprunked to stworzony przez fanów mod do gry Incredibox, łączący elementy z modów Sprunked i Sprunki."
+      },
+      {
+        "question": "Czy mogę grać w Sprunki x Sprunked bez znajomości oryginalnych modów?",
+        "answer": "Tak, chociaż znajomość oryginalnych modów może wzbogacić Twoje doświadczenie, nie jest konieczna, aby cieszyć się Sprunki x Sprunked."
+      },
+      {
+        "question": "Czy są jakieś błędy w grze?",
+        "answer": "Niektóre sprite'y mogą być niedokończone, ale oczekiwane są aktualizacje, które rozwiążą te problemy."
+      },
+      {
+        "question": "Jak trudny jest Sprunki x Sprunked?",
+        "answer": "Mod został zaprojektowany tak, aby był bardziej wymagający, co wymaga od graczy opanowania skomplikowanych wzorów rytmicznych."
+      },
+      {
+        "question": "Czy w Sprunki x Sprunked jest oryginalna ścieżka dźwiękowa?",
+        "answer": "Tak, mod zawiera oryginalną ścieżkę dźwiękową, która unikalnie łączy elementy z obu modów."
+      },
+      {
+        "question": "Gdzie mogę pobrać Sprunki x Sprunked?",
+        "answer": "Mod można pobrać z społeczności i forów dotyczących modowania Incredibox."
+      }
+    ]
+  }
+}

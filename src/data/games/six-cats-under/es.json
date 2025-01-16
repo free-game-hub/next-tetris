@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Six Cats Under - Una Aventura de Rompecabezas Cautivadora",
+    "description": "Descubre 'Six Cats Under', un encantador juego de rompecabezas de apuntar y hacer clic donde utilizas poderes de poltergeist para rescatar a tu grupo de gatos. Calificado con 4.8/5 por los jugadores.",
+    "keywords": "Six Cats Under, juego de rompecabezas, apuntar y hacer clic, juego de rescate de gatos, game jam, poderes fantasmales, calificaciones de Six Cats Under"
+  },
+  "hero": {
+    "h1": "Six Cats Under",
+    "p": "Sumérgete en 'Six Cats Under', un encantador juego de rompecabezas de apuntar y hacer clic donde tus poderes de poltergeist ayudan a guiar a tus amados gatos a la seguridad."
+  },
+  "gameFeatures": {
+    "title": "Características del Juego",
+    "features": [
+      "Jugabilidad única de rompecabezas de apuntar y hacer clic",
+      "Encantadora pixel art y animaciones",
+      "Narrativa envolvente con elementos fantasmales",
+      "Perfecto para amantes de los gatos y entusiastas de los rompecabezas",
+      "Experiencia de juego corta y dulce, ideal para sesiones rápidas"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Six Cats Under",
+    "instructions": [
+      "Utiliza tu ratón para interactuar con objetos y guiar a tus gatos.",
+      "Usa habilidades de poltergeist para mover elementos y abrir caminos.",
+      "Resuelve rompecabezas para avanzar a través de los niveles y rescatar a todos los gatos.",
+      "Presta atención a las pistas visuales y sugerencias a lo largo del juego.",
+      "Disfruta de la narrativa y las encantadoras interacciones con tus amigos felinos."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Six Cats Under - Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Reseñas de Jugadores",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "¡Un juego encantador! Excelentes animaciones y gatos absolutamente adorables.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Como dueño de un gato, este juego resuena profundamente. ¡Una verdadera joya!",
+        "author": "gecko"
+      },
+      {
+        "content": "Un juego increíblemente dulce... ¡pobre Goldy! Emocionante pero conmovedor.",
+        "author": "magerites"
+      },
+      {
+        "content": "Rompecabezas únicos y muchos momentos adorables. ¡Me encantó!",
+        "author": "DLGames"
+      },
+      {
+        "content": "La combinación de ternura y un toque de tristeza hace que este juego destaque.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "¡Juego fantástico! Lo terminé en 15 minutos, disfruté cada momento.",
+        "author": "MCG"
+      },
+      {
+        "content": "Tierno y triste, pero realmente divertido. Gran experiencia en general.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Los gatos son adorables y el aspecto del ayudante fantasma es único. ¡Altamente recomendado!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Preguntas Frecuentes",
+    "questions": [
+      {
+        "question":"¿En qué plataformas está disponible Six Cats Under?",
+        "answer":"Six Cats Under está disponible en HTML5, Windows, macOS y Linux."
+      },
+      {
+        "question":"¿Cuánto tiempo se tarda en completar el juego?",
+        "answer":"La sesión promedio dura alrededor de media hora, proporcionando una experiencia rápida pero placentera."
+      },
+      {
+        "question":"¿Es 'Six Cats Under' adecuado para todas las edades?",
+        "answer":"Sí, el juego está diseñado para ser disfrutado por jugadores de todas las edades, especialmente los amantes de los gatos."
+      },
+      {
+        "question":"¿Cuáles son los requisitos mínimos para ejecutar el juego?",
+        "answer":"El juego es ligero y puede ejecutarse en la mayoría de los sistemas que soportan HTML5 o las versiones correspondientes del sistema operativo."
+      },
+      {
+        "question":"¿Se puede jugar el juego sin conexión?",
+        "answer":"Las versiones descargables para Windows, macOS y Linux se pueden jugar sin conexión después de la instalación."
+      },
+      {
+        "question":"¿Quién desarrolló 'Six Cats Under'?",
+        "answer":"El juego fue desarrollado por Team Bean Loop y Mosu, con contribuciones de Miles Äijälä, Robin Swift, Tomas Beržinskas y Alex Martin."
+      }
+    ]
+  }
+}

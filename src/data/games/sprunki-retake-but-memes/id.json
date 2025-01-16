@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake But Memes - Arena Musik Dan Humor Anda",
+    "description": "Jelajahi Sprunki Retake tetapi Memes Mod, tempat humor internet bertemu dengan penciptaan musik. Masuki dunia karakter bertema meme dan lanskap suara lucu yang mengubah komposisi Anda menjadi sesi jam yang penuh tawa.",
+    "keywords": "Sprunki Retake, Memes Mod, karakter bertema meme, lanskap suara humoris, penciptaan musik"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Tetapi Memes",
+    "p": "Masuki Sprunki Retake tetapi Memes Mod, di mana setiap komposisi musik dapat memicu pengalaman yang penuh tawa."
+  },
+  "gameFeatures": {
+    "title": "Fitur Mod Meme Sprunki",
+    "features": [
+      "Karakter Bertema Meme: Dirancang untuk membangkitkan meme yang dikenal dengan visual ikonik dan frasa lucu.",
+      "Lanskap Suara Humoris: Temukan loop yang tidak konvensional dengan efek suara lucu.",
+      "Kekacauan Ceria: Suasana kesenangan tanpa batas dan eksperimen dengan kombinasi aneh.",
+      "Animasi Ceria: Animasi dinamis yang meningkatkan esensi komedi dari komposisi Anda.",
+      "Humor Terinspirasi Internet: Referensi kepada momen viral dan meme terkenal di seluruhnya."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Retake tetapi Memes Mod",
+    "instructions": [
+      "Pilih Karakter: Pilih dari figur yang terinspirasi meme untuk menggabungkan humor dengan ritme.",
+      "Seret dan Jatuhkan: Atur karakter di layar untuk membuat trek yang penuh dengan lelucon.",
+      "Eksperimen dan Nikmati: Sesuaikan volume dan terima campuran yang absurd untuk bersenang-senang.",
+      "Simpan dan Bagikan: Simpan lagu-lagu yang membuat senyum Anda dan bagikan dengan teman.",
+      "Tertawa dan Main Ulang: Terus jelajahi untuk menemukan kombinasi lucu baru."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Saya tidak pernah menyangka membuat musik bisa sefun ini!",
+        "author": "Alex K."
+      },
+      {
+        "content": "Paduan sempurna antara humor dan kreativitas.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Sprunki Retake tetapi Memes Mod adalah pilihan utama saya untuk tawa instan.",
+        "author": "Sam R."
+      },
+      {
+        "content": "Setiap sesi terasa seperti petualangan meme baru!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Saya membagikan lagu-lagu saya kepada teman dan mereka menyukainya.",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Jika Anda suka meme dan musik, ini wajib dicoba!",
+        "author": "Jordan W."
+      },
+      {
+        "content": "Kesenangan tanpa batas, saya tidak bisa berhenti mencipta!",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Referensi meme sangat tepat!",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title":"FAQ",
+    "questions": [
+      {
+        "question":"Bagaimana cara memilih karakter?",
+        "answer":"Klik pada daftar karakter untuk memilih figur yang terinspirasi meme Anda."
+      },
+      {
+        "question":"Bisakah saya menyimpan kreasi musik saya?",
+        "answer":"Ya, Anda dapat menyimpan dan membagikan lagu Anda dengan orang lain."
+      },
+      {
+        "question":"Apakah ada tutorial yang tersedia?",
+        "answer":"Permainan ini menawarkan instruksi intuitif untuk membantu Anda dalam permainan."
+      },
+      {
+        "question":"Apakah internet diperlukan untuk bermain?",
+        "answer":"Tidak, Anda dapat menikmati permainan secara offline setelah unduhan awal."
+      },
+      {
+        "question":"Bisakah saya menyesuaikan efek suara?",
+        "answer":"Anda dapat menyesuaikan volume dan bereksperimen dengan kombinasi suara yang berbeda."
+      },
+      {
+        "question":"Seberapa sering meme baru ditambahkan?",
+        "answer":"Permainan ini diperbarui secara teratur untuk menyertakan meme viral terbaru."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Permainan yang Direkomendasikan",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "Mod Horor",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Mod Sprunki",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

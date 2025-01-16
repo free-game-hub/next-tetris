@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Sprunki Mustard - Gioco Creativo di Mixaggio Musicale DJ | Esperienza di Creazione Musicale Online",
+    "description": "Immergiti nel mondo musicale di Sprunki Mustard! Crea ritmi unici come DJ in questo innovativo gioco di creazione musicale con personaggi a tema senape. Gioca online gratuitamente e libera la tua creatività musicale!",
+    "keywords": "sprunted, Sprunki Mustard, gioco musicale, gioco DJ, gioco di mixaggio, creazione musicale online, gioco di ritmo, produzione musicale"
+  },
+  "hero": {
+    "h1": "Sprunki Mustard: Libera la Tua Creatività Musicale",
+    "p": "Immergiti in un mondo vibrante di creazione musicale dove ritmi funky incontrano personaggi unici a tema senape. Trasforma le tue idee musicali in realtà con pochi clic!"
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche del Gioco",
+    "features": [
+      "Personaggi unici a tema senape, ciascuno con elementi sonori distinti",
+      "Interfaccia intuitiva di trascinamento per una creazione musicale senza sforzo",
+      "Ricca combinazione di effetti sonori per infinite possibilità musicali",
+      "Gioco online gratuito senza bisogno di download",
+      "Meccaniche di gioco migliorate ispirate al classico Incredibox"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare",
+    "instructions": [
+      "Seleziona i tuoi personaggi preferiti a tema senape, ciascuno con elementi sonori unici",
+      "Trascina e rilascia i personaggi sul palco per iniziare a mixare i suoni",
+      "Sperimenta con diverse combinazioni per creare ritmi e melodie uniche",
+      "Regola finemente la tua composizione in tempo reale",
+      "Salva e condividi i tuoi capolavori musicali con gli amici"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot del Gioco"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori",
+    "submitReviewLabel": "Condividi la Tua Esperienza",
+    "nameLabel": "Il Tuo Soprannome",
+    "reviewLabel": "La Tua Recensione",
+    "submitButtonLabel": "Invia Recensione",
+    "reviews": [
+      {
+        "content": "Come appassionato di musica, sono molto impressionato da questo gioco. L'interfaccia è pulita, i controlli sono intuitivi e il risultato musicale è sorprendentemente buono!",
+        "author": "MusicLover123",
+        "rating": 5
+      },
+      {
+        "content": "Uno strumento di creazione musicale così divertente! Anche senza alcun background musicale, sono riuscito a creare ritmi fantastici. Altamente raccomandato!",
+        "author": "BeatMaker",
+        "rating": 5
+      },
+      {
+        "content": "Il tema della senape è brillantemente unico e le combinazioni sonore sono infinite. Ho passato ore a giocare e continuo a scoprire nuove possibilità.",
+        "author": "CreativePlayer",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "questions": [
+      {
+        "question": "Sprunki Mustard è gratuito?",
+        "answer": "Sì, Sprunki Mustard è completamente gratuito da giocare nel tuo browser senza bisogno di download o installazione."
+      },
+      {
+        "question": "Ho bisogno di esperienza musicale per giocare?",
+        "answer": "Assolutamente no! Il gioco è progettato per essere intuitivo e accessibile a tutti, indipendentemente dal loro background musicale."
+      },
+      {
+        "question": "Posso salvare le mie creazioni musicali?",
+        "answer": "Sì! Il gioco include una funzione di salvataggio che ti consente di memorizzare le tue creazioni e continuare a lavorarci in seguito o condividerle con gli amici."
+      },
+      {
+        "question": "Quali browser supportano il gioco?",
+        "answer": "Il gioco funziona su tutti i browser moderni, inclusi Chrome, Firefox, Safari e Edge."
+      },
+      {
+        "question": "Quanti effetti sonori diversi sono disponibili?",
+        "answer": "Il gioco offre una vasta gamma di effetti sonori tra cui ritmi, melodie e voci, permettendo centinaia di combinazioni uniche."
+      },
+      {
+        "question": "Perché il tema della senape?",
+        "answer": "Il tema della senape è una scelta di design unica che rende il gioco visivamente distintivo e aggiunge un elemento di divertimento e memorabilità all'esperienza."
+      }
+    ]
+  }
+}

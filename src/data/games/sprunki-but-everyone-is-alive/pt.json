@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki But Everyone is Alive Mod - Uma Nova Perspectiva em Sprunki Incredibox",
+    "description": "Experimente o Sprunki But Everyone is Alive Mod, onde personagens musicais ganham vida com animações, trazendo vibrância e personalidade à sua criação musical. Descubra recursos de jogabilidade, avaliações de jogadores, perguntas frequentes e muito mais.",
+    "keywords": "Sprunki But Everyone is Alive, Sprunki Incredibox Mod, personagens animados do Sprunki, mod de jogo musical, jogabilidade Sprunki"
+  },
+  "hero": {
+    "h1": "Sprunki But Everyone is Alive",
+    "p": "Mergulhe em uma aventura musical onde cada personagem ganha vida com animações vibrantes no Sprunki But Everyone is Alive Mod. Não se trata apenas de criar sons; trata-se de trazer energia e personalidade para sua experiência de criação musical."
+  },
+  "gameFeatures": {
+    "title": "Recursos de Sprunki But Everyone is Alive",
+    "features": [
+      "Personagens totalmente animados que ampliam a criatividade musical.",
+      "Novas combinações de sons para possibilidades musicais infinitas.",
+      "Personalidades alegres para uma experiência mais envolvente.",
+      "Ideal tanto para fãs casuais quanto dedicados do Sprunki.",
+      "Sessões musicais brilhantes, vibrantes e memoráveis."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki But Everyone is Alive",
+    "instructions": [
+      "Escolha seu personagem favorito para começar a criar música.",
+      "Experimente diferentes combinações de sons e animações.",
+      "Interaja com os personagens para ativar suas animações animadas.",
+      "Salve e compartilhe suas composições únicas.",
+      "Explore novas bibliotecas de som introduzidas neste mod."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Mod Sprunki But Everyone is Alive"
+  },
+  "playerReviews": {
+    "title": "O que os Jogadores Estão Dizendo",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "As animações tornam o jogo muito mais divertido. Cada personagem parece estar vivo!",
+        "author": "Lily G."
+      },
+      {
+        "content": "Adoro experimentar novas combinações de sons. Este mod é fantástico!",
+        "author": "Jackson T."
+      },
+      {
+        "content": "Adicionar animações traz uma nova reviravolta ao jogo. Recomendo muito!",
+        "author": "Sophia M."
+      },
+      {
+        "content": "Isso traz uma nova dimensão à criação musical em Sprunki. Realmente envolvente!",
+        "author": "Corp."
+      },
+      {
+        "content": "Esses personagens vibrantes tornaram minhas sessões de música mais divertidas.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Um upgrade perfeito para o jogo original do Sprunki. Adoro!",
+        "author": "Evan H."
+      },
+      {
+        "content": "Fico impressionado com como animações podem fazer tanta diferença.",
+        "author": "Nathan Y."
+      },
+      {
+        "content": "Este mod dá vida ao jogo e aprofunda minha conexão com os personagens.",
+        "author": "Isabella W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"O que é o Mod Sprunki But Everyone is Alive?",
+        "answer":"É uma versão aprimorada do Sprunki Incredibox onde cada personagem é totalmente animado, adicionando mais personalidade e interação ao processo de criação musical."
+      },
+      {
+        "question":"Como esse mod difere do jogo original do Sprunki?",
+        "answer":"Diferente do original, este mod inclui animações para cada personagem, proporcionando uma experiência de criação musical mais dinâmica."
+      },
+      {
+        "question":"Posso jogar este mod se sou novo nos jogos Sprunki?",
+        "answer":"Com certeza! Ele é projetado tanto para novos jogadores quanto para fãs de longa data, oferecendo uma jogabilidade envolvente e intuitiva."
+      },
+      {
+        "question":"Preciso de algum software adicional para usar este mod?",
+        "answer":"Nenhum software adicional é necessário. Basta baixar o mod e começar a aproveitar os recursos aprimorados imediatamente."
+      },
+      {
+        "question":"Existe uma comunidade onde posso compartilhar minhas criações musicais?",
+        "answer":"Sim, há várias comunidades online onde você pode compartilhar suas composições e obter feedback."
+      },
+      {
+        "question":"Posso voltar ao jogo original do Sprunki se preferir?",
+        "answer":"Sim, você pode alternar entre o jogo original e este mod a qualquer momento."
+      }
+    ]
+  }
+}

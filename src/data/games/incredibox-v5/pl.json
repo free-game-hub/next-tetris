@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V5 - Stwórz swój własny rytm | Przewodnik po grze muzycznej",
+    "description": "Odkryj Incredibox V5, kreatywną grę muzyczną, w której wcielasz się w DJ-a, mieszając różne dźwięki, aby tworzyć unikalne rytmy. Poznaj zasady gry i sposób sterowania, dołącz do globalnej społeczności graczy.",
+    "keywords": "Incredibox V5, gra muzyczna, kreatywne rytmy, gra DJ, Incredicrew"
+  },
+  "hero": {
+    "h1": "Incredibox V5",
+    "p": "Doświadcz zabawy z Incredibox V5, twórz swoje muzyczne rytmy i dołącz do grona globalnych fanów."
+  },
+  "gameFeatures": {
+    "title": "Cechy gry",
+    "features": [
+      "Innowacyjne doświadczenie tworzenia muzyki",
+      "Prosta i intuicyjna obsługa",
+      "Różnorodne postacie i kombinacje dźwięków",
+      "Zachwycająca grafika i animacje",
+      "Możliwość dzielenia się muzyką i interakcji z innymi"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Zasady gry i instrukcje obsługi",
+    "instructions": [
+      "Wybierz różne postacie, każda z nich reprezentuje inny element muzyczny.",
+      "Klikaj na postacie, aby dodać lub usunąć dźwięki.",
+      "Przeciągnij ikony dźwięków na postacie, aby rozpocząć tworzenie.",
+      "Użyj spacji, aby odtworzyć lub wstrzymać swoje dzieła muzyczne.",
+      "Eksperymentuj z różnymi kombinacjami, aby odkrywać ukryte efekty dźwiękowe."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu gry"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy",
+    "submitReviewLabel": "Wyślij opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Ta gra jest bardzo wciągająca, niezwykle kreatywna i naprawdę sprawia dużo frajdy!",
+        "author": "Lily"
+      },
+      {
+        "content": "Uwielbiam grafikę i efekty dźwiękowe Incredibox V5, jest odpowiednia dla wszystkich grup wiekowych!",
+        "author": "John"
+      },
+      {
+        "content": "Idealna na spędzanie czasu, a także rozwija umiejętności tworzenia muzyki.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Fantastyczna! Codziennie biorę udział w społeczności, dzieląc się moimi utworami.",
+        "author": "Alex"
+      },
+      {
+        "content": "Przyjazna dla nowicjuszy, rozbudziła we mnie nową pasję do muzyki.",
+        "author": "Karen"
+      },
+      {
+        "content": "Prosta, ale z dużą głębią, posiada ogromny potencjał do zabawy.",
+        "author": "Michael"
+      },
+      {
+        "content": "Ukryte ścieżki dźwiękowe zwiększają grywalność, zawsze można odkryć coś nowego.",
+        "author": "Emily"
+      },
+      {
+        "content": "To prawdziwy raj dla miłośników muzyki, gorąco polecam!",
+        "author": "David"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "questions": [
+      {
+        "question": "Jak tworzyć muzykę w Incredibox V5?",
+        "answer": "Klikaj na postacie, aby dodawać lub usuwać dźwięki i używaj opcji przeciągania, aby eksperymentować z różnymi kombinacjami dźwięków."
+      },
+      {
+        "question": "Czy Incredibox V5 jest odpowiednie dla nowicjuszy?",
+        "answer": "Zdecydowanie tak, gra oferuje proste wskazówki i bogaty materiał do odkrywania."
+      },
+      {
+        "question": "Czy mogę dzielić się swoimi utworami muzycznymi?",
+        "answer": "Tak, Incredibox V5 pozwala na dzielenie się swoimi dziełami z innymi graczami i interakcję z nimi."
+      },
+      {
+        "question": "Jak znaleźć ukryte ścieżki dźwiękowe?",
+        "answer": "Eksperymentuj z różnymi kombinacjami dźwięków, aby odkryć ukryte niespodzianki."
+      },
+      {
+        "question": "Dla jakich grup wiekowych jest przeznaczona gra?",
+        "answer": "Incredibox V5 jest odpowiednia dla wszystkich grup wiekowych, zwłaszcza dla miłośników muzyki."
+      },
+      {
+        "question": "Jak dołączyć do społeczności Incredibox?",
+        "answer": "Dzieląc się swoimi utworami i biorąc udział w dyskusjach, stajesz się częścią społeczności."
+      }
+    ]
+  }
+}

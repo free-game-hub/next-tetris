@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Spunky Sprunkin: Den Ultimate Musikkspillopplevelsen | Spunky Game",
+    "description": "Dykk inn i Spunky Sprunkin - et innovativt musikalsk eventyr som kombinerer beat-mixing og visuell kunst. Spill umiddelbart, ingen nedlastinger nødvendig. Utforsk unike lydbilder og skap din egen musikk!",
+    "keywords": "Spunky Sprunkin, Spunky Game, musikkspill, beat mixing, musikkopprettelse, nettspill"
+  },
+  "hero": {
+    "h1": "Spunky Sprunkin: Den Ultimate Musikalske Aventyr",
+    "p": "Hopp inn i verden av Spunky Sprunkin hvor musikkcreating møter visuell kunst. Ingen nedlastinger nødvendig, opplev sømløst spill direkte i nettleseren din!"
+  },
+  "gameFeatures": {
+    "title": "Nøkkelfunksjoner i Spunky Sprunkin",
+    "features": [
+      "Forbedrede visuelle effekter med fantastiske karakterdesign",
+      "Unike lydbilder som blander klassiske og moderne stiler",
+      "Interaktive elementer med skjulte animasjoner",
+      "Kreativ frihet gjennom ubegrensede musikalske kombinasjoner",
+      "Umiddelbart spill med ingen nedlastinger nødvendig"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Spunky Sprunkin",
+    "instructions": [
+      "🎭 Velg karakterene dine - Velg blant distinkte musikalske evner.",
+      "🎵 Mix beatene dine - Dra og slipp karakterer for å lage musikalske kombinasjoner.",
+      "🎼 Lag musikk - Legg lag med lyder og lås opp spesialeffekter for å skape ditt mesterverk.",
+      "📥 Lagre kreasjonene - Lagre og del dine musikalske komposisjoner med andre.",
+      "📜 Utforsk veiledninger - Få tilgang til veiledninger for å forbedre beat-laging ferdighetene dine."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spunky Sprunkin Spillskjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser for Spunky Sprunkin",
+    "submitReviewLabel": "Send inn anmeldelsen din",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Spunky Sprunkin har fullstendig endret min kjærlighet for rytmespill!",
+        "author": "Anna M."
+      },
+      {
+        "content": "Kreativiteten og friheten i dette spillet er uten sidestykke. Elsker det!",
+        "author": "John D."
+      },
+      {
+        "content": "Et utmerket spill for å spille og lage musikk på farten. Umiddelbar spillfunksjon er fantastisk.",
+        "author": "Liam T."
+      },
+      {
+        "content": "Det er intuitivt og underholdende. Et must for musikkelskere.",
+        "author": "Sophie K."
+      },
+      {
+        "content": "Grafikken og lyddesignet er spektakulære. Flott arbeid med dette spillet!",
+        "author": "Cara L."
+      },
+      {
+        "content": "Perfekt balanse mellom utfordring og kreativitet. Anbefales på det sterkeste!",
+        "author": "Marcus W."
+      },
+      {
+        "content": "Jeg elsker de unike lydstilene og muligheten til å mikse dem kreativt.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Dette spillet blir bare bedre for hver oppdatering. Kudos til utviklerne!",
+        "author": "Tommy C."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanlige spørsmål om Spunky Sprunkin",
+    "questions": [
+      {
+        "question": "Hva skiller Spunky Sprunkin fra andre musikkspill?",
+        "answer": "Spunky Sprunkin kombinerer intuitiv musikkproduksjon med unike visuelle og spillmekanikker som ikke finnes i andre rytmespill."
+      },
+      {
+        "question": "Hvordan starter jeg å spille Spunky Sprunkin?",
+        "answer": "Besøk Spunky Game, velg karakterer, og dra dem til lydbordet for å begynne å lage musikalske komposisjoner uten noen nedlastinger."
+      },
+      {
+        "question": "Kan jeg lagre mine Spunky Sprunkin kreasjoner?",
+        "answer": "Absolutt! Lagre og del dine musikalske mesterverk med andre Spunky Game spillere over hele verden."
+      },
+      {
+        "question": "Er Spunky Sprunkin passende for nybegynnere?",
+        "answer": "Ja, det har et intuitivt grensesnitt som er vennlig mot nykommere, samtidig som det gir dybde for erfarne spillere."
+      },
+      {
+        "question": "Finnes det forskjellige lydstiler i Spunky Sprunkin?",
+        "answer": "Ja! Spillet har et bredt spekter av lydstiler, fra klassiske beats til moderne elektroniske elementer."
+      },
+      {
+        "question": "Kan jeg spille Spunky Sprunkin på mobile enheter?",
+        "answer": "Ja, Spunky Sprunkin er fullstendig optimalisert for både skrivebord og mobilspill."
+      }
+    ]
+  }
+}

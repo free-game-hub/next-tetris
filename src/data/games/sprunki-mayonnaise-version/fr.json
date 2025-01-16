@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Incredibox Mayonnaise - Le Mod de Création Musicale le Plus Mignon Jamais Vu ! | Vibes Crémées",
+    "description": "Prêt pour l'expérience Incredibox la plus relaxante ? Plongez dans la Version Mayonnaise de Sprunki - où les couleurs crémeuses rencontrent la créativité musicale ! Ce mod créé par des fans vous volera votre cœur avec ses visuels apaisants et ses designs de personnages ludiques.",
+    "keywords": "incredibox mayonnaise, mod sprunki, jeu de création musicale, gameplay relaxant, musique incredibox, version mayonnaise sprunki, créateur musical"
+  },
+  "hero": {
+    "h1": "Sprunki : Version Mayonnaise - Où la Musique Devient Crémeuse !",
+    "p": "Salut, créateur de musique ! Prêt à plonger dans la version la plus douce et crémeuse de Sprunki ? Préparez-vous pour un voyage musical aussi doux que de la mayo ! 🎵"
+  },
+  "gameFeatures": {
+    "title": "Pourquoi Vous Allez Adorer Ce Mod",
+    "features": [
+      "Palette de couleurs inspirée de la mayo - c'est comme un ASMR visuel ! 🎨",
+      "Personnages adorablement redesignés qui vont vous faire 'aww'",
+      "L'atmosphère de jeu la plus relaxante que vous ayez jamais expérimentée dans Incredibox",
+      "Tous vos sons préférés de Sprunki, maintenant avec une douceur supplémentaire",
+      "Parfait pour les pauses loin du Mod Moutarde plein de peps",
+      "Une nouvelle approche de la création musicale qui vous fera revenir pour encore plus !"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Créer Votre Musique Mayo-nifique",
+    "instructions": [
+      "Étape 1 : Choisissez vos personnages crémeux préférés (ils sont tous trop mignons !)",
+      "Étape 2 : Faites glisser ces opérateurs doux sur votre scène",
+      "Étape 3 : Mélangez et associez pour créer votre chef-d'œuvre sur le thème de la mayo",
+      "Étape 4 : Découvrez des combinaisons sonores étonnantes avec notre équipe excentrique",
+      "Astuce : Détendez-vous et laissez la créativité s'envoler - c'est aussi lisse que de la mayo ! 🎶"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Aperçu : Le Monde Crémeux de la Version Mayonnaise"
+  },
+  "playerReviews": {
+    "title": "Ce que Dit Notre Communauté Amateur de Mayo",
+    "submitReviewLabel": "Partagez Votre Expérience",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Racontez-Nous Votre Histoire",
+    "submitButtonLabel": "Partagez l'Amour",
+    "reviews": [
+      {
+        "content": "Ce mod est littéralement ma dose quotidienne de détente ! Tellement thérapeutique ! ✨",
+        "author": "MusicLover123"
+      },
+      {
+        "content": "Les couleurs douces rendent mes sessions de création musicale tellement plus agréables !",
+        "author": "BeatMaker"
+      },
+      {
+        "content": "Bien plus relaxant que l'original - parfait pour des sessions musicales nocturnes",
+        "author": "ChillVibesOnly"
+      },
+      {
+        "content": "Je ne peux pas m'arrêter de jouer ! Le thème mayo est étonnamment addictif",
+        "author": "CreativeBeats"
+      },
+      {
+        "content": "Meilleur mod de tous les temps ! Les visuels fluides aident vraiment ma créativité à s'exprimer",
+        "author": "MayoMaster"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vos Questions Mayo-siques Répondues !",
+    "questions": [
+      {
+        "question": "Qu'est-ce qui rend la Version Mayonnaise si spéciale ?",
+        "answer": "C'est comme donner à votre Incredibox préféré une étreinte chaleureuse et crémeuse ! Nous avons pris tout ce que vous aimez dans Sprunki et l'avons rendu super chill avec des visuels inspirés de la mayo et l'ambiance la plus relaxante jamais vue !"
+      },
+      {
+        "question": "En quoi est-elle différente des autres mods de Sprunki ?",
+        "answer": "Considérez-le comme la version ultime de détente ! Alors que d'autres mods peuvent chercher l'énergie, nous nous concentrons sur cette expérience douce et relaxante. Parfait pour se décontracter !"
+      },
+      {
+        "question": "Est-ce similaire au Mod Moutarde ?",
+        "answer": "Ils sont comme des cousins ! Alors que Moutarde apporte le pep, la Mayonnaise apporte les bonnes vibes. Si vous avez aimé Moutarde, vous allez adorer ce tournant crémeux !"
+      },
+      {
+        "question": "Mes anciennes compétences Incredibox fonctionneront-elles ici ?",
+        "answer": "Absolument ! Même mécaniques géniales que vous aimez, juste avec une touche supplémentaire de douceur. C'est super facile de se lancer !"
+      },
+      {
+        "question": "Où puis-je obtenir ce mod ?",
+        "answer": "Vous pouvez le récupérer directement sur le site officiel des Mods Sprunki - c'est totalement gratuit et prêt à adoucir votre journée !"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "D'autres Aventures Musicales Vous Attendent !",
+    "games": [
+      {
+        "title": "Sprunki : Édition Ennuyeuse",
+        "description": "Quand vous avez besoin d'une ambiance minimaliste dans votre vie"
+      },
+      {
+        "title": "Sprunki GreenCore",
+        "description": "Pour ceux qui aiment leurs rythmes avec une touche de nature"
+      },
+      {
+        "title": "Underprunki 2.0",
+        "description": "Emmenez votre musique dans la scène underground"
+      }
+    ]
+  }
+}

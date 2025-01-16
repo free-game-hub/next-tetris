@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - 一款富有挑战性的Incredibox模组",
+    "description": "探索Sprunki x Sprunked，一个由粉丝制作的Incredibox模组，融合了Sprunked和Sprunki的元素，带来全新角色、提升的难度以及原创音轨。",
+    "keywords": "Sprunki x Sprunked, Incredibox模组, Sprunked, Sprunki, 节奏游戏, 新角色, 原创音轨"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "融入Sprunki x Sprunked独特的节奏体验，这是一个将Sprunked与Sprunki元素结合的粉丝制作Incredibox模组。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Sprunked的主要特点",
+    "features": [
+      "丰富的新角色，具有独特的风格和音乐能力",
+      "提升的难度，挑战复杂的节奏模式",
+      "更阴暗、更紧张的游戏氛围，注重恐怖主题",
+      "原创音轨，融合了Sprunked和Sprunki的元素",
+      "包含所有角色，包括两个模组中的额外角色",
+      "引人入胜的交叉元素，提升游戏体验"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki x Sprunked",
+    "instructions": [
+      "明智地选择角色，创造独特的音乐序列。",
+      "掌握时机，在挑战关卡中获得更高分数。",
+      "探索所有角色风格及其音乐能力，以拓展你的创造力。",
+      "在保持节奏准确性的同时，体验更加紧张和阴暗的主题。",
+      "在紧张刺激的场景中享受原创音轨。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "这个模组真是太有挑战性了，阴暗的氛围让我一直紧张不已。",
+        "author": "Alex K."
+      },
+      {
+        "content": "我喜欢交叉元素；感觉就像是全新的一款游戏！",
+        "author": "Jamie L."
+      },
+      {
+        "content": "原创音轨非常棒，与游戏玩法完美融合。",
+        "author": "Sam T."
+      },
+      {
+        "content": "一开始有点难，但熟悉后真的很有成就感。",
+        "author": "Chris P."
+      },
+      {
+        "content": "新角色增添了很多深度；每个角色都有独特的气质。",
+        "author": "Morgan F."
+      },
+      {
+        "content": "恐怖主题元素在节奏游戏类型中是个很酷的转折。",
+        "author": "Robin J."
+      },
+      {
+        "content": "感觉是对原模组的真正升级，极其上瘾！",
+        "author": "Taylor M."
+      },
+      {
+        "content": "有时会有点小bug，但总体来说是个很棒的模组，潜力无限。",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"常见问题",
+    "questions": [
+      {
+        "question":"什么是Sprunki x Sprunked？",
+        "answer":"Sprunki x Sprunked是一个由粉丝制作的Incredibox模组，结合了Sprunked和Sprunki模组的元素。"
+      },
+      {
+        "question":"我可以在不玩原模组的情况下玩Sprunki x Sprunked吗？",
+        "answer":"可以，虽然体验过原模组会增强理解，但并不影响你享受Sprunki x Sprunked。"
+      },
+      {
+        "question":"游戏中有bug吗？",
+        "answer":"一些精灵可能尚未完成，但预计会有更新解决这些问题。"
+      },
+      {
+        "question":"Sprunki x Sprunked有多难？",
+        "answer":"这个模组设计得更具挑战性，要求玩家掌握复杂的节奏模式。"
+      },
+      {
+        "question":"Sprunki x Sprunked中有原创音轨吗？",
+        "answer":"有，这个模组有一个原创音轨，独特地融合了两个模组的元素。"
+      },
+      {
+        "question":"我在哪里可以下载Sprunki x Sprunked？",
+        "answer":"可以从Incredibox模组社区和论坛下载该模组。"
+      }
+    ]
+  }
+}

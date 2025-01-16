@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V8 - Một Hành Trình Âm Nhạc Hấp Dẫn Hậu Tận Thế",
+    "description": "Tham gia vào Incredibox V8, một trò chơi sáng tạo âm nhạc độc đáo diễn ra trong một thế giới đã biến đổi sau thảm họa lớn. Khám phá âm thanh, đối mặt với thử thách và xây dựng lại thế giới qua âm nhạc.",
+    "keywords": "Incredibox V8, trò chơi âm nhạc, hậu tận thế, tính năng trò chơi, sáng tạo âm nhạc"
+  },
+  "hero": {
+    "h1": "Incredibox V8",
+    "p": "Bắt đầu hành trình âm nhạc trong một thế giới đã biến đổi. Khám phá âm thanh mới, xây dựng nhóm nhạc của bạn và vượt qua thử thách trong Incredibox V8."
+  },
+  "gameFeatures": {
+    "title": "Tính Năng Nổi Bật của Incredibox V8",
+    "features": [
+      "Khám Phá Thế Giới Đã Thay Đổi: Phát hiện âm thanh âm nhạc ẩn giấu giữa những tàn tích.",
+      "Xây Dựng Nhóm Nhạc Của Bạn: Chọn nhân vật với âm thanh độc đáo để tạo ra ban nhạc của riêng bạn.",
+      "Đối Diện Với Thử Thách Âm Nhạc: Thử thách kỹ năng của bạn với những trở ngại sáng tạo.",
+      "Thể Hiện Sự Sáng Tạo: Sử dụng nhịp điệu và giai điệu để xây dựng lại một thế giới trống rỗng.",
+      "Trải Nghiệm Đắm Chìm: Nhập vai vào khung cảnh hậu tận thế với âm thanh phong phú."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Incredibox V8",
+    "instructions": [
+      "Bắt đầu hành trình của bạn bằng cách khám phá thế giới và thu thập âm thanh âm nhạc.",
+      "Sử dụng giao diện trực quan để lắp ráp tác phẩm âm nhạc độc đáo của bạn.",
+      "Điều chỉnh các bài hát của bạn để vượt qua những trở ngại và thử thách đã được đặt ra.",
+      "Mỗi bài hát bạn tạo ra lại mang năng lượng và hy vọng trở lại cho thế giới trống rỗng.",
+      "Chia sẻ những sáng tạo của bạn và truyền cảm hứng cho người khác bằng sức mạnh của âm nhạc."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình Incredibox V8"
+  },
+  "playerReviews": {
+    "title": "Người Chơi Nói Gì Về Incredibox V8",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên Của Bạn",
+    "reviewLabel": "Đánh Giá Của Bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Incredibox V8 thực sự là một trải nghiệm đổi mới với khả năng sáng tạo âm nhạc đa dạng. Tôi thích khám phá những tàn tích và tạo ra âm thanh mới.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Giao diện trò chơi rất dễ sử dụng, và những thử thách âm nhạc khiến tôi luôn bận rộn.",
+        "author": "Samantha L."
+      },
+      {
+        "content": "Một sự kết hợp hoàn hảo giữa sự sáng tạo và chiến lược. Xây dựng nhóm nhạc của tôi thật sự thỏa mãn!",
+        "author": "Michael K."
+      },
+      {
+        "content": "Không ngờ rằng việc tạo nhạc trong một thế giới hậu tận thế lại có thể vui vẻ đến vậy. Rất khuyên bạn chơi Incredibox V8!",
+        "author": "Laura F."
+      },
+      {
+        "content": "Trò chơi này là sự kết hợp tuyệt vời giữa khám phá âm thanh và kể chuyện. Tôi không thể ngừng chơi!",
+        "author": "Daniel M."
+      },
+      {
+        "content": "Incredibox V8 đẩy giới hạn sáng tạo của bạn theo cách tốt nhất. Trò chơi tuyệt vời!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Mỗi bài hát tôi tạo ra đều giống như một hơi thở mới trong thế giới độc đáo này. Yêu thích!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Bầu không khí và công cụ sáng tạo âm nhạc của Incredibox V8 là vô song. Một trò chơi không thể bỏ qua!",
+        "author": "Sophia H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Câu Hỏi Thường Gặp Về Incredibox V8",
+    "questions": [
+      {
+        "question":"Incredibox V8 là gì?",
+        "answer":"Incredibox V8 là một trò chơi sáng tạo âm nhạc diễn ra trong một thế giới hậu tận thế, nơi bạn khám phá, tạo ra âm nhạc và đối mặt với thử thách để xây dựng lại hy vọng."
+      },
+      {
+        "question":"Làm thế nào để tôi bắt đầu tạo âm nhạc trong trò chơi?",
+        "answer":"Bắt đầu bằng cách khám phá thế giới đã thay đổi để thu thập các âm thanh khác nhau, sau đó sử dụng giao diện để tạo ra những tác phẩm âm nhạc độc đáo của bạn."
+      },
+      {
+        "question":"Tôi sẽ phải đối mặt với những loại thử thách nào?",
+        "answer":"Người chơi sẽ gặp phải những thử thách kiểm tra kỹ năng âm nhạc và sự sáng tạo của họ trong quá trình chơi."
+      },
+      {
+        "question":"Tôi có thể chơi Incredibox V8 trên các thiết bị di động không?",
+        "answer":"Có, Incredibox V8 tương thích với hầu hết các thiết bị di động, cung cấp trải nghiệm tạo nhạc liền mạch khi bạn đang di chuyển."
+      },
+      {
+        "question":"Làm thế nào tôi có thể chia sẻ những sáng tạo âm nhạc của mình?",
+        "answer":"Bạn có thể chia sẻ âm nhạc trực tiếp từ trò chơi qua nhiều nền tảng mạng xã hội khác nhau để truyền cảm hứng cho người khác."
+      },
+      {
+        "question":"Có chế độ nhiều người chơi trong Incredibox V8 không?",
+        "answer":"Hiện tại, Incredibox V8 tập trung vào trải nghiệm chơi đơn dẫn dắt bởi sự sáng tạo và khám phá."
+      }
+    ]
+  }
+}

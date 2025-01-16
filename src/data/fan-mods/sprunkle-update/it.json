@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle Game: Gioca ed Esplora | Sito Ufficiale",
+    "description": "Scopri il mondo entusiasmante di Sprunkle, un gioco online coinvolgente con caratteristiche e sfide uniche. Scopri le regole del gioco, i metodi di controllo e leggi le recensioni dei giocatori per migliorare la tua esperienza di gioco.",
+    "keywords": "gioco Sprunkle, Sprunkle online, gioca a Sprunkle, regole di Sprunkle, recensioni di Sprunkle"
+  },
+  "hero": {
+    "h1": "Gioco Sprunkle",
+    "p": "Immergiti nell'emozionante avventura di Sprunkle, il gioco online che tiene i giocatori col fiato sospeso!"
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche di Sprunkle",
+    "features": [
+      "Gioco immersivo con animazioni dinamiche",
+      "Sfide uniche per diversi livelli di abilità",
+      "Trama avvincente che si evolve con le scelte dei giocatori",
+      "Opzioni multiplayer per giocare con gli amici",
+      "Aggiornamenti regolari con nuovi livelli e personaggi"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare a Sprunkle",
+    "instructions": [
+      "Controlla il tuo personaggio usando le frecce sulla tastiera.",
+      "Raccogli potenziamenti per potenziare le tue abilità durante il gioco.",
+      "Sconfiggi i boss alla fine di ogni livello per progredire.",
+      "Fai attenzione a trappole e ostacoli che appaiono in modo imprevisto.",
+      "Collabora con gli amici in modalità multiplayer per un'esperienza cooperativa."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot del Gioco Sprunkle"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori",
+    "submitReviewLabel": "Invia la Tua Recensione",
+    "nameLabel": "Nome",
+    "reviewLabel": "Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "Sprunkle è semplicemente coinvolgente! I livelli sono ben progettati e stimolanti.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Amo la grafica di Sprunkle. È colorata e invitante!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Giocare a Sprunkle con gli amici è fantastico. La modalità multiplayer è la migliore!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Gli aggiornamenti sono frequenti e aggiungono sempre qualcosa di nuovo al gioco.",
+        "author": "Chris P."
+      },
+      {
+        "content": "I controlli di Sprunkle sono facili da imparare ma dominarli richiede abilità.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Mi diverto con la trama e il gameplay basato sulle scelte di Sprunkle.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "La colonna sonora è orecchiabile e arricchisce l'immersione.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "È un gioco che consiglio a chiunque ami una bella sfida.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "questions": [
+      {
+        "question": "Come posso salvare i miei progressi in Sprunkle?",
+        "answer": "I tuoi progressi in Sprunkle vengono salvati automaticamente ai checkpoint."
+      },
+      {
+        "question": "Posso giocare a Sprunkle sul mio dispositivo mobile?",
+        "answer": "Attualmente, Sprunkle è disponibile per i browser desktop. È in fase di sviluppo una versione mobile."
+      },
+      {
+        "question": "C'è un modo per resettare i miei progressi nel gioco?",
+        "answer": "Sì, puoi resettare i tuoi progressi di gioco dal menu delle impostazioni."
+      },
+      {
+        "question": "Ci sono acquisti in-game in Sprunkle?",
+        "answer": "Sprunkle offre acquisti in-game opzionali, ma non sono necessari per goderti appieno il gioco."
+      },
+      {
+        "question": "Come posso segnalare un bug o un problema nel gioco?",
+        "answer": "Utilizza il modulo di contatto sul nostro sito per segnalare eventuali bug o problemi."
+      },
+      {
+        "question": "La modalità multiplayer è gratuita?",
+        "answer": "Sì, la modalità multiplayer in Sprunkle è gratuita, e puoi invitare gli amici a unirsi."
+      }
+    ]
+  }
+}

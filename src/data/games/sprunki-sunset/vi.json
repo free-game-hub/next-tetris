@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Sunset Mod: Tạo Nhạc Trong Ánh Hoàng Hôn Ấm Áp",
+    "description": "Khám phá Sprunki Sunset Mod, một trải nghiệm sáng tạo âm nhạc được lấy cảm hứng từ ánh sáng buổi tối và âm thanh yên bình. Học cách chơi và xem đánh giá của người chơi.",
+    "keywords": "Sprunki Sunset Mod, sáng tạo âm nhạc, thẩm mỹ lấy cảm hứng từ hoàng hôn, âm thanh yên bình, trò chơi chế tác âm nhạc"
+  },
+  "hero": {
+    "h1": "Sprunki Sunset Mod",
+    "p": "Đắm chìm trong những sắc vàng ấm áp của bầu trời buổi chiều muộn với Sprunki Sunset Mod. Biến phiên chế tác âm nhạc của bạn thành một trải nghiệm thư giãn và sâu lắng."
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng Chính Của Sprunki Sunset Mod",
+    "features": [
+      "Thẩm Mỹ Lấy Cảm Hứng Từ Hoàng Hôn: Bắt chước bảng màu buổi tối của bầu trời với nền cảnh bình yên.",
+      "Âm Thanh Ấm Áp: Những vòng nhạc nhẹ nhàng và hòa âm mượt mà cho sự sáng tạo sâu sắc.",
+      "Không Gian Thư Giãn: Chậm lại và khám phá những giai điệu an ủi và đầy cảm xúc.",
+      "Lựa Chọn Nhân Vật: Chọn từ những nhân vật tượng trưng cho tinh thần nhẹ nhàng của hoàng hôn.",
+      "Chia Sẻ Dễ Dàng: Chia sẻ những sáng tác âm nhạc của bạn và để người khác trải nghiệm một buổi hoàng hôn Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sprunki Sunset Mod",
+    "instructions": [
+      "Chọn Nhân Vật: Lựa chọn từ một danh sách phản ánh tinh thần nhẹ nhàng của hoàng hôn.",
+      "Kéo Và Thả: Sắp xếp âm thanh để nắm bắt sự hạ xuống nhẹ nhàng của mặt trời.",
+      "Điều Chỉnh Mix Của Bạn: Điều chỉnh âm lượng và hiệu ứng để hoàn thiện bản nhạc.",
+      "Lưu Và Chia Sẻ: Chia sẻ sáng tác của bạn và lan tỏa vẻ đẹp yên bình của buổi chiều.",
+      "Thử Nghiệm Kiên Nhẫn: Khám phá những giai điệu gợi lên tâm trạng thanh thản của hoàng hôn."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình của Sprunki Sunset Mod"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá của Người Chơi về Sprunki Sunset Mod",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên",
+    "reviewLabel": "Đánh Giá",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Thẩm mỹ thật giống như ngắm nhìn một hoàng hôn ngoài đời thực. Đẹp và bình yên.",
+        "author": "Alice T."
+      },
+      {
+        "content": "Tôi thích những vòng nhạc nhẹ nhàng và âm thanh dịu dàng, hoàn hảo cho một buổi sáng tác thư giãn.",
+        "author": "Mike D."
+      },
+      {
+        "content": "Đây là một cách tuyệt vời để thư giãn và sáng tạo cái gì đó đẹp đẽ. Rất đáng khuyến nghị!",
+        "author": "Julia F."
+      },
+      {
+        "content": "Hoàn hảo cho những buổi sáng tác đêm khuya. Chủ đề hoàng hôn được thực hiện thật tuyệt.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Tôi đã chia sẻ các bản nhạc của mình với bạn bè, và họ rất thích không khí yên bình.",
+        "author": "Nina L."
+      },
+      {
+        "content": "Giao diện rất trực quan, và các hiệu ứng thêm vào thật sự tạo điểm nhấn hoàn hảo.",
+        "author": "Tom S."
+      },
+      {
+        "content": "Một sự kết hợp hoàn hảo giữa hình ảnh nhẹ nhàng và âm thanh bình yên. Trải nghiệm tuyệt vời!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Mỗi phiên chơi đều cảm thấy như một hành trình qua một buổi hoàng hôn yên tĩnh.",
+        "author": "Liam P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question": "Sprunki Sunset Mod là gì?",
+        "answer": "Sprunki Sunset Mod là một trò chơi chế tác âm nhạc với chủ đề lấy cảm hứng từ hoàng hôn, mang âm thanh ấm áp và không gian thư giãn."
+      },
+      {
+        "question": "Làm thế nào để tôi chọn nhân vật trong Sprunki Sunset Mod?",
+        "answer": "Chọn từ một danh sách các nhân vật phản ánh tinh thần nhẹ nhàng của hoàng hôn để bổ sung cho âm nhạc của bạn."
+      },
+      {
+        "question": "Tôi có thể chia sẻ những sáng tác của mình với người khác không?",
+        "answer": "Có, khi bạn đã hài lòng với bản nhạc của mình, bạn có thể lưu và chia sẻ với người khác."
+      },
+      {
+        "question": "Tôi có thể mong đợi những loại âm thanh nào từ mod này?",
+        "answer": "Hãy mong đợi những vòng nhạc với âm thanh nhẹ nhàng, như tiếng gió xào xạc và tiếng chuông xa xa, được thiết kế để truyền cảm hứng sáng tạo."
+      },
+      {
+        "question": "Làm thế nào để tôi điều chỉnh bản mix của mình?",
+        "answer": "Điều chỉnh âm lượng và thêm hiệu ứng tinh tế để hoàn thiện bản nhạc của bạn cho đến khi nó phản ánh tâm trạng thanh thản của hoàng hôn."
+      },
+      {
+        "question": "Có hướng dẫn cho người chơi mới không?",
+        "answer": "Có, trò chơi bao gồm các hướng dẫn trực quan để giúp bạn bắt đầu sáng tác các bản nhạc của riêng mình."
+      }
+    ]
+  }
+}

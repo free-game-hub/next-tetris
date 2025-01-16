@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 8: 게임 속 리드미컬한 모험",
+    "description": "Sprunki Phase 8에 빠져보세요. Incredibox에서 영감을 받은 플랫폼과 음악 창작의 매력적인 조화. 독특한 캐릭터, 생생한 그래픽, 도전적인 레벨을 발견하세요.",
+    "keywords": "Sprunki Phase 8, Incredibox, 플랫폼 게임, 음악 게임, 캐릭터 커스터마이즈, 리듬 게임플레이"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 8",
+    "p": "Sprunki Phase 8에서 창의성과 음악적 재능을 발휘하세요. 각 레벨은 여러분의 리듬 감각과 플랫폼 기술에 도전을 줍니다."
+  },
+  "gameFeatures": {
+    "title": "게임 특징",
+    "features": [
+      "Incredibox에서 가져온 음악 통합 요소",
+      "다양한 캐릭터 커스터마이즈 옵션",
+      "생동감 넘치는 그래픽과 매력적인 애니메이션",
+      "전략적 도전이 있는 다양한 레벨 디자인",
+      "게임플레이를 향상시키는 수집품과 파워업"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "게임 플레이 안내",
+    "instructions": [
+      "장애물을 피하고 음악을 만들어가며 레벨을 탐험하세요.",
+      "이동과 점프를 위한 간단한 조작으로 환경을 탐색하세요.",
+      "각 캐릭터의 독특한 능력을 활용하기 위해 캐릭터를 전환하세요.",
+      "게임의 리듬에 맞춰 음악적 구성을 연출하세요.",
+      "도전 과제 극복과 음악 창작 간의 균형을 맞춰 성공을 거두세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "게임 스크린샷"
+  },
+  "playerReviews": {
+    "title": "플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "음악 통합이 정말 놀랍습니다! 음을 만들면서 플레이하는 독특한 경험이에요.",
+        "author": "Alex M."
+      },
+      {
+        "content": "캐릭터 커스터마이즈가 게임에 개인적인 터치를 더해 각 플레이가 독특해집니다.",
+        "author": "Jamie T."
+      },
+      {
+        "content": "생동감 넘치는 그래픽이 정말 환상적이고, 게임을 더욱 재미있게 만들어줍니다.",
+        "author": "Chris P."
+      },
+      {
+        "content": "각 레벨에서 새로운 경로와 비밀을 발견하는 게 너무 좋아요. 항상 새로운 것이 있거든요!",
+        "author": "Sam K."
+      },
+      {
+        "content": "리듬 기반 게임플레이는 플랫폼 게임에 대한 신선한 접근이며, 정말 잘 실행됐습니다.",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Phase 8는 음악 애호가와 게이머 모두에게 기쁨을 주는 게임입니다!",
+        "author": "Jordan L."
+      },
+      {
+        "content": "각 레벨이 도전이지만, 음악 덕분에 동기부여가 됩니다!",
+        "author": "Taylor R."
+      },
+      {
+        "content": "게임과 음악을 결합한 아이디어는 독창적이었고, 게임이 이를 완벽하게 실행했습니다.",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "questions": [
+      {
+        "question": "Sprunki Phase 8의 목표는 무엇인가요?",
+        "answer": "주요 목표는 다양한 레벨을 탐험하며 장애물과 적을 피하고 음악을 만드는 것입니다."
+      },
+      {
+        "question": "캐릭터를 어떻게 조작하나요?",
+        "answer": "이동과 점프를 위한 간단한 조작을 사용하고, 각 캐릭터의 독특한 능력을 활용하기 위해 전략적으로 캐릭터를 전환하세요."
+      },
+      {
+        "question": "캐릭터를 커스터마이즈할 수 있나요?",
+        "answer": "네, 플레이어는 다양한 시각적 스타일과 소리를 가진 캐릭터 중에서 선택하여 개인화된 경험을 즐길 수 있습니다."
+      },
+      {
+        "question": "게임 플레이의 독특한 점은 무엇인가요?",
+        "answer": "음악 제작과 플랫폼 요소의 통합은 독특하고 매력적인 게임 플레이 경험을 제공합니다."
+      },
+      {
+        "question": "레벨을 통과하는 다양한 경로가 있나요?",
+        "answer": "네, Sprunki Phase 8은 여러 경로와 비밀 구역이 있어 재플레이를 장려합니다."
+      },
+      {
+        "question": "게임에 수집품과 파워업이 있나요?",
+        "answer": "플레이어는 진행하면서 새로운 능력을 잠금 해제하고 음악 창작을 향상시키는 아이템을 수집할 수 있습니다."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "추천 게임",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Phase 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Phase 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

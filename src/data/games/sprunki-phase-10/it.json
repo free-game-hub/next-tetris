@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 - Il Gioco di Mixaggio Musicale Definitivo",
+    "description": "Scopri Sprunki Phase 10, un affascinante gioco di mixaggio musicale che offre libertà creativa, personaggi unici e infinite possibilità musicali.",
+    "keywords": "Sprunki Phase 10, gioco di mixaggio musicale, composizione musicale, giochi musicali"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10",
+    "p": "Immergiti nel mondo di Sprunki Phase 10 - dove la creatività incontra la musica. Sperimenta con elementi musicali e crea le tue composizioni uniche."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche del Gioco",
+    "features": [
+      "Libertà Creativa: Esprimi te stesso musicalmente senza necessità di competenze avanzate.",
+      "Attrattiva Visiva e Sonora: Goditi visual incredibili e suoni coinvolgenti.",
+      "Valore di Giocabilità: Esplora diverse combinazioni per nuovi suoni e bonus.",
+      "Personaggi Unici: Ogni personaggio produce suoni distintivi per una creatività infinita.",
+      "Bonus Interattivi: Sblocca tracce e visual speciali attraverso la sperimentazione."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare a Sprunki Phase 10",
+    "instructions": [
+      "Seleziona i Personaggi: Scegli tra personaggi con suoni unici.",
+      "Mix & Match: Trascina e rilascia per creare la tua traccia musicale.",
+      "Sblocca Bonus: Scopri combinazioni che sbloccano animazioni speciali.",
+      "Sperimenta: Continua a esplorare nuovi suoni per possibilità infinite.",
+      "Condividi le Tue Creazioni: Fai che altri apprezzino i tuoi capolavori musicali."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot del Gioco"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori",
+    "submitReviewLabel": "Invia la tua Recensione",
+    "nameLabel": "Nome",
+    "reviewLabel": "Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 10 è un gioco musicale fantastico! È facile esplorare e creare melodie straordinarie.",
+        "author": "Alice"
+      },
+      {
+        "content": "Adoro la creatività che offre. Posso sperimentare con suoni diversi senza dover essere un esperto musicale.",
+        "author": "Bob"
+      },
+      {
+        "content": "L'attrattiva visiva combinata con suoni accattivanti rende questo gioco coinvolgente per tutte le età.",
+        "author": "Chris"
+      },
+      {
+        "content": "Ogni sessione offre qualcosa di nuovo. Il valore di rigiocabilità è uno dei migliori aspetti di Sprunki Phase 10.",
+        "author": "Dana"
+      },
+      {
+        "content": "Sbloccare bonus è la mia parte preferita. È così gratificante vedere nuove animazioni.",
+        "author": "Evan"
+      },
+      {
+        "content": "Non riesco a smettere di giocare! I personaggi unici portano un approccio fresco ai giochi musicali.",
+        "author": "Fiona"
+      },
+      {
+        "content": "Come appassionato di musica, Sprunki Phase 10 ha superato le mie aspettative. Altamente raccomandato!",
+        "author": "George"
+      },
+      {
+        "content": "Gioco fantastico! È perfetto per rilassarsi e scoprire nuove combinazioni musicali.",
+        "author": "Hannah"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "questions": [
+      {
+        "question": "Qual è l'obiettivo di Sprunki Phase 10?",
+        "answer": "L'obiettivo è mescolare creativamente vari elementi musicali per creare composizioni uniche."
+      },
+      {
+        "question": "Ho bisogno di competenze musicali per giocare?",
+        "answer": "No, Sprunki Phase 10 è progettato per essere accessibile a tutti, indipendentemente dall'expertise musicale."
+      },
+      {
+        "question": "Posso condividere le mie composizioni con gli amici?",
+        "answer": "Sì, puoi condividere le tue creazioni musicali con amici e familiari per loro godere."
+      },
+      {
+        "question": "Ci sono acquisti in-game?",
+        "answer": "Sprunki Phase 10 offre contenuti in-game che possono essere sbloccati attraverso il gameplay o acquisti opzionali."
+      },
+      {
+        "question": "Su quali piattaforme è disponibile Sprunki Phase 10?",
+        "answer": "Sprunki Phase 10 è disponibile su più piattaforme, tra cui PC, iOS e Android."
+      },
+      {
+        "question": "Con quale frequenza vengono rilasciati nuovi aggiornamenti?",
+        "answer": "Il gioco riceve aggiornamenti regolari, introducendo nuove funzionalità e contenuti per migliorare l'esperienza."
+      }
+    ]
+  }
+}

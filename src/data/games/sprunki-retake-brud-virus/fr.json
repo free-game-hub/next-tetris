@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Brud Virus Mod - Une Expérience Musicale Innovante",
+    "description": "Découvrez le mod Sprunki Retake Brud Virus, mettant en vedette des personnages inspirés des virus et des paysages sonores instables qui mettent à l'épreuve votre créativité. Apprenez comment jouer et explorez des instructions de jeu détaillées.",
+    "keywords": "Sprunki Retake Brud Virus, mod musical, mod à thème virus, Sprunki, jeu créatif"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Brud Virus",
+    "p": "Plongez dans l'univers fascinant du mod Sprunki Retake Brud Virus, où vos compétences en création musicale sont mises à l'épreuve par des anomalies sonores induites par des virus."
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques du mod Sprunki Retake Brud Virus",
+    "features": [
+      "Personnages à Thème Virus",
+      "Paysages Sonores Instables",
+      "Expérimentation Créative",
+      "Fonctionnalité de Sauvegarde et de Partage",
+      "Interactions Visuellement Remarquables"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer au Mod Sprunki Retake Brud Virus",
+    "instructions": [
+      "Sélectionnez vos personnages à thème virus préférés dans la liste.",
+      "Faites glisser et déposez des éléments sur votre écran pour commencer à créer de la musique.",
+      "Affinez votre morceau en réglant les volumes et en ajoutant des effets.",
+      "Adaptez-vous aux changements sonores inattendus influencés par le virus sonore.",
+      "Sauvegardez votre création unique et partagez-la avec la communauté musicale."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Mod Sprunki Retake Brud Virus"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Le mod Brud Virus a apporté une touche rafraîchissante au gameplay. Il a poussé ma créativité vers de nouveaux sommets!",
+        "author": "Ashley"
+      },
+      {
+        "content": "J'adore l'imprévisibilité des paysages sonores. Ce mod est incontournable pour les passionnés de musique.",
+        "author": "Liam"
+      },
+      {
+        "content": "Sprunki Retake Brud Virus offre un défi amusant. Le design visuel est aussi engageant que la musique.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Chaque session est une expérience unique. Le thème du virus est brillamment intégré dans le gameplay.",
+        "author": "Ethan"
+      },
+      {
+        "content": "Un excellent mod avec un potentiel créatif énorme ! C'est une aventure excitante pour tout amateur de musique.",
+        "author": "Mia"
+      },
+      {
+        "content": "L'équilibre entre le chaos et le rythme rend ce mod fascinant. Je le recommande vivement !",
+        "author": "Oliver"
+      },
+      {
+        "content": "J'ai adoré transformer des glitches en rythmes. C'était une expérience amusante et gratifiante.",
+        "author": "Amelia"
+      },
+      {
+        "content": "Le mod Brud Virus transforme la création musicale en un puzzle captivant. Travail incroyable !",
+        "author": "Noah"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question":"Quel est l'objectif principal du mod Sprunki Retake Brud Virus?",
+        "answer":"L'objectif principal est de créer des morceaux uniques en embrassant les anomalies induites par le virus dans les paysages sonores."
+      },
+      {
+        "question":"Puis-je partager mes compositions avec d'autres?",
+        "answer":"Oui, vous pouvez sauvegarder vos morceaux et les partager avec d'autres pour montrer vos compétences créatives."
+      },
+      {
+        "question":"Y a-t-il des tutoriels disponibles pour les nouveaux joueurs?",
+        "answer":"Oui, le jeu comprend un tutoriel pour aider les nouveaux joueurs à comprendre les mécanismes de base et les fonctionnalités innovantes."
+      },
+      {
+        "question":"Ce mod est-il adapté à tous les groupes d'âge?",
+        "answer":"Oui, le mod Sprunki Retake Brud Virus est conçu pour les joueurs de tous âges intéressés par la musique et la créativité."
+      },
+      {
+        "question":"Les personnages ont-ils des capacités uniques?",
+        "answer":"Oui, chaque personnage a des traits visuels et sonores distincts influencés par le thème viral, qui peuvent être utilisés dans vos compositions."
+      },
+      {
+        "question":"Puis-je jouer à ce mod hors ligne?",
+        "answer":"Oui, vous pouvez profiter de toutes les fonctionnalités du mod Sprunki Retake Brud Virus hors ligne."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Mods Recommandés",
+    "recommendations": [
+      {
+        "image": "link-to-image-1.jpg",
+        "title": "Mod Sprunki Horror",
+        "link": "https://example.com/sprunki-horror-mod"
+      },
+      {
+        "image": "link-to-image-2.jpg",
+        "title": "Mod Sprunki Adventure",
+        "link": "https://example.com/sprunki-adventure-mod"
+      }
+    ]
+  }
+}

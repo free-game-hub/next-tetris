@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V2 Spel - Interaktiv Musikupplevelse",
+    "description": "Upptäck Incredibox V2, ett fängslande interaktivt musikspel som låter dig skapa egna låtar genom att blanda unika ljud och rytmer.",
+    "keywords": "Incredibox V2, musikspel, interaktivt, skapa musik, ljudmixning, Incredibox V1, Incredibox Mustard"
+  },
+  "hero": {
+    "h1": "Incredibox V2",
+    "p": "Dyk ner i världen av Incredibox V2, ett interaktivt musikspel där kreativitet möter underhållning. Blanda beats och harmonier för att komponera dina egna unika låtar."
+  },
+  "gameFeatures": {
+    "title": "Spelfunktioner",
+    "features": [
+      "Interaktiv Musikskapande: Dra och släpp ikoner för att skapa unika låtar med animerade karaktärer.",
+      "Mångsidiga Musikstilar: Utforska olika stilar, var och en erbjuder en distinkt ljudupplevelse.",
+      "Kreativ Frihet: Experimentera med ljud för att hitta din perfekta mix.",
+      "Fängslande Visuella Effekter: Njut av färgglada animationer och lustiga karaktärer.",
+      "Social Dela: Dela dina musikaliska mästerverk med andra och gå med i en gemenskap av skapare."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så Här Spelar Du Incredibox V2",
+    "instructions": [
+      "Starta Spelet: Öppna Incredibox V2 Mod på din enhet.",
+      "Välj en Stil: Börja med att välja mellan flera musikstilar.",
+      "Lägg till Ljud: Dra ikoner för beats, melodier eller effekter till karaktärer.",
+      "Skapa Din Mix: Kombinera ljud för att skapa din unika låt och modifiera som du vill.",
+      "Spela In & Dela: Spara din skapelse och dela med världen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelskärmbilder"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg",
+    "submitReviewLabel": "Skicka Ditt Betyg",
+    "nameLabel": "Ditt Namn",
+    "reviewLabel": "Ditt Betyg",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Incredibox V2 är en sömlös blandning av kreativitet och nöje! Jag älskar att göra nya mixar.",
+        "author": "Alex"
+      },
+      {
+        "content": "De tillgängliga stilarna är otroligt mångsidiga, vilket håller spelet fräscht och spännande.",
+        "author": "Samira"
+      },
+      {
+        "content": "Jag kan spendera timmar på att bara utforska olika ljudkombinationer!",
+        "author": "Jordan"
+      },
+      {
+        "content": "De visuella effekterna är så fängslande, och det är superlätt att komma in i rytmen.",
+        "author": "Zane"
+      },
+      {
+        "content": "Att dela mina skapelser med vänner är den bästa delen! Vi har haft riktigt roligt.",
+        "author": "Luka"
+      },
+      {
+        "content": "Den omedelbara feedbacken med catchy beats gör detta spel beroendeframkallande!",
+        "author": "Maya"
+      },
+      {
+        "content": "Fantastiskt användarvänligt gränssnitt, även mina barn kan spela det utan problem.",
+        "author": "Chris"
+      },
+      {
+        "content": "Ett måste för musikentusiaster som älskar en gnutta kreativitet.",
+        "author": "Nina"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är Incredibox V2?",
+        "answer": "Incredibox V2 är ett interaktivt musikspel som låter spelare skapa sina egna musikaliska spår genom att blanda ljud och beats."
+      },
+      {
+        "question": "Hur börjar jag skapa musik i Incredibox V2?",
+        "answer": "Starta spelet, välj en musikstil och dra ljudikoner för att skapa din mix."
+      },
+      {
+        "question": "Kan jag dela mina musikaliska skapelser?",
+        "answer": "Ja, du kan spela in och enkelt dela dina mixar med andra."
+      },
+      {
+        "question": "Behöver jag tidigare musik-erfarenhet för att spela?",
+        "answer": "Nej, Incredibox V2 är utformat för att vara tillgängligt för alla, oavsett musikbakgrund."
+      },
+      {
+        "question": "Finns det olika musikstilar i spelet?",
+        "answer": "Ja, Incredibox V2 erbjuder flera musikstilar, var och en med unika ljud och karaktärer."
+      },
+      {
+        "question": "Är Incredibox V2 lämpligt för alla åldrar?",
+        "answer": "Ja, dess enkla kontroller gör det roligt och tillgängligt för spelare i alla åldrar."
+      }
+    ]
+  }
+}

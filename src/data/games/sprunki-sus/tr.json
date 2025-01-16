@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki SUS - Spunky Oyun'da Nihai Müzikal Macera",
+    "description": "Spunky Oyun'da Sprunki SUS'un benzersiz müzikal dünyasını keşfedin. Tarayıcıda hemen oynayın, müzikal kompozisyonlar oluşturun ve oyun topluluğuyla paylaşın. İndirme gerektirmiyor!",
+    "keywords": "Sprunki SUS, Spunky Oyun, çevrimiçi ritim oyunu, müzikal yaratıcılık, tarayıcı oyunu"
+  },
+  "hero": {
+    "h1": "Sprunki SUS",
+    "p": "Sprunki SUS ile nihai müzikal maceraya katılın, yaratıcılığınızı zorlayan bir ritim oyunu. Farklı ritimleri tarayıcınızdaki Spunky Oyun'da karıştırın, paylaşın ve keyfini çıkarın."
+  },
+  "gameFeatures": {
+    "title": "Spunky Oyun'daki Sprunki SUS'un Ana Özellikleri",
+    "features": [
+      "Sezgisel Kontroller: Her seviyeden kullanıcı için uygun kullanıcı dostu arayüz.",
+      "Anında Oynama: İndirme gerektirmeden – doğrudan tarayıcınızda oynayın.",
+      "Başarı Sistemi: Seviyeleri geçtikçe ödüller kazanın.",
+      "Topluluk Özellikleri: Diğer oyuncularla bağlantı kurun ve yaratıcılığınızı paylaşın.",
+      "Çeşitli Ses Tarzları: Farklı müzik türleri ve stilleri ile deneyler yapın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spunky Oyun'da Sprunki SUS Nasıl Oynanır",
+    "instructions": [
+      "Karakterinizi Seçin: Farklı müzikal yeteneklere sahip benzersiz Sprunki SUS karakterlerinden birini seçin.",
+      "Karışımınızı Oluşturun: Farklı karakterleri birleştirerek muhteşem müzikal kombinasyonlar oluşturun.",
+      "Paylaşın ve Eğlenin: Yaratımlarınızı kaydedin ve Spunky Oyun topluluğunda paylaşın.",
+      "Kontrolleri Kullanın: Sürükleme ve bırakma işlemleri için farenizi kullanın ve ileri düzey kontroller için klavye kısayollarını kullanın.",
+      "Modları Keşfedin: Klasik, Zorluk, Serbest Stil ve İşbirliği gibi farklı oyun modlarını deneyimleyin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki SUS Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki SUS için Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Son derece eğlenceli ve yaratıcı bir oyun! Topluluk özelliği harika.",
+        "author": "Alex G."
+      },
+      {
+        "content": "İndirme gerekmemesi harika, hemen başlayabiliyorum. Hızlı oturumlar için mükemmel!",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Müzik çeşitliliği beni sürekli geri getiriyor. Kesinlikle tavsiye ederim!",
+        "author": "Sam R."
+      },
+      {
+        "content": "Sprunki SUS, rahat oyun dünyasında bir başyapıt. Müzik severler için mutlaka denemelisiniz.",
+        "author": "Casey L."
+      },
+      {
+        "content": "Arayüzü sezgisel ve oyun deneyimi çok sürükleyici!",
+        "author": "Jamie H."
+      },
+      {
+        "content": "Yaratıcılık ve eğlencenin mükemmel birleşimi. Arkadaşlarımla paylaşmak çok keyifli!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Müzikal yaratıcılığı keşfetmek ve ifade etmek için harika bir yol. Bayıldım!",
+        "author": "Riley S."
+      },
+      {
+        "content": "Bir oyunda müzik yapmanın bu kadar kolay olduğunu inanamıyorum. Bağımlılık yapıyor!",
+        "author": "Morgan P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki SUS Hakkında Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki SUS'u Spunky Oyun'da benzersiz kılan nedir?",
+        "answer": "Sprunki SUS, benzersiz karakter tasarımları ve müzikal unsurlarla yenilikçi bir dokunuş sunuyor."
+      },
+      {
+        "question": "Spunky Oyun'da Sprunki SUS oynamaya nasıl başlayabilirim?",
+        "answer": "Spunky Oyun'un web sitesini ziyaret edin, Sprunki SUS'u seçin ve sürükleyip bırakma arayüzü ile karıştırmaya başlayın."
+      },
+      {
+        "question": "Sprunki SUS yaratımlarımı kaydedebilir miyim?",
+        "answer": "Evet, müzikal kompozisyonlarınızı kaydedebilir ve diğer oyuncularla paylaşabilirsiniz."
+      },
+      {
+        "question": "Sprunki SUS'ta hangi kontroller kullanılıyor?",
+        "answer": "Karakterleri sürükleyip bırakmak için farenizi, ek kontroller içinse klavye kısayollarını kullanın."
+      },
+      {
+        "question": "Sprunki SUS yeni başlayanlar için uygun mu?",
+        "answer": "Kesinlikle! Hem yeni başlayanlar için erişilebilir hem de deneyimli oyuncular için derinlik sunacak şekilde tasarlandı."
+      },
+      {
+        "question": "Sprunki SUS'ta kaç ses katmanını birleştirebilirim?",
+        "answer": "Zengin müzikal kompozisyonlar oluşturmak için birden fazla ses katmanını birleştirebilirsiniz."
+      }
+    ]
+  }
+}

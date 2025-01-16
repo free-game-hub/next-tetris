@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox 2 - Una Experiencia Surrealista de Sprunki Mod",
+    "description": "Explora Corruptbox 2, la máxima mejora del mod Sprunki. Sumérgete en visuales distorsionadas, paisajes sonoros inquietantes y un juego impredecible en esta obra maestra de horror digital.",
+    "keywords": "corruptbox 2, mod de corruptbox, mod de Sprunki, juego de ritmo, horror digital, música experimental, estética oscura, arte glitch"
+  },
+  "hero": {
+    "h1": "Corruptbox 2: El Caos Encuentra la Creatividad",
+    "p": "Entra en el mundo surrealista de Corruptbox 2, donde los visuales glitchy, los sonidos inquietantes y el juego caótico redefinen la experiencia Sprunki. ¿Estás listo para abrazar la locura?"
+  },
+  "gameFeatures": {
+    "title": "¿Qué Hace Especial a Corruptbox 2?",
+    "features": [
+      "Una mejora alucinante con visuales distorsionadas mejoradas y animaciones glitchy.",
+      "Estética de horror digital inmersiva que transforma a los queridos personajes de Sprunki en versiones de pesadilla.",
+      "Giros de juego impredecibles que te mantienen alerta y comprometido.",
+      "Creación musical experimental con sonidos inquietantes y distorsionados para una experiencia auditiva única.",
+      "Una fusión perfecta de creatividad caótica y desafíos rítmicos."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar a Corruptbox 2",
+    "instructions": [
+      "Descarga e instala el juego base de Sprunki.",
+      "Obtén el mod Corruptbox 2 de una fuente confiable.",
+      "Inicia el juego y selecciona Corruptbox 2 desde el menú de mods.",
+      "Sumérgete en el mundo caótico de visuales distorsionadas y paisajes sonoros inquietantes.",
+      "Experimenta con personajes corruptos y crea armonía en medio de la locura."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Corruptbox 2 en Acción"
+  },
+  "playerReviews": {
+    "title": "Lo Que Dicen los Jugadores Sobre Corruptbox 2",
+    "submitReviewLabel": "Enviar tu Reseña",
+    "nameLabel": "Tu Nombre",
+    "reviewLabel": "Tu Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Corruptbox 2 lleva todo lo que me encantó de la primera versión y lo amplifica. ¡Los visuales y el diseño sonoro son increíbles!",
+        "author": "Jordan M.",
+        "rating": 5
+      },
+      {
+        "content": "Una experiencia surrealista y caótica que me hace volver por más. Corruptbox 2 es una obra maestra.",
+        "author": "Chris T.",
+        "rating": 5
+      },
+      {
+        "content": "La mezcla perfecta de horror digital y experimentación musical. Muy recomendable para los fanáticos de las estéticas oscuras.",
+        "author": "Taylor L.",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes Sobre Corruptbox 2",
+    "questions": [
+      {
+        "question": "¿Qué es Corruptbox 2?",
+        "answer": "Corruptbox 2 es la versión mejorada del popular mod Sprunki, que presenta visuales distorsionadas, paisajes sonoros inquietantes y un juego caótico."
+      },
+      {
+        "question": "¿Cómo instalo Corruptbox 2?",
+        "answer": "Primero, instala el juego base de Sprunki. Luego, descarga Corruptbox 2 de una fuente confiable y agréguelo a la carpeta de mods del juego."
+      },
+      {
+        "question": "¿Corruptbox 2 es gratuito?",
+        "answer": "Sí, Corruptbox 2 es un mod gratuito, pero necesitas el juego base de Sprunki para jugarlo."
+      },
+      {
+        "question": "¿Qué hace diferente a Corruptbox 2 de Corruptbox v1?",
+        "answer": "Corruptbox 2 introduce visuales mejoradas, giros de juego más complejos, y una estética aún más oscura en comparación con la versión original."
+      },
+      {
+        "question": "¿Puedo jugar Corruptbox 2 en cualquier plataforma?",
+        "answer": "Corruptbox 2 es compatible con plataformas que soportan el juego base de Sprunki. Consulta los requisitos del juego para más detalles."
+      },
+      {
+        "question": "¿Dónde puedo encontrar más información sobre Corruptbox 2?",
+        "answer": "Visita la comunidad oficial de modding de Sprunki o foros confiables para las últimas actualizaciones y consejos sobre Corruptbox 2."
+      }
+    ]
+  }
+}

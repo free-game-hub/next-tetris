@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Double Taken - Äärimmäinen Pelikokemus",
+    "description": "Tutustu Sprunki Retake: Double Taken – tuoreimpaan pelisensaatioon, jossa on täysin uusia muotoiluja ja jännittävää pelattavuutta. Liity pelaajayhteisöön ja koe seikkailu!",
+    "keywords": "Sprunki Retake, Double Taken, pelaaminen, videopeli, uudet pelit, pelin ominaisuudet, peliohjeet, pelaajien arviot"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Double Taken",
+    "p": "Tervetuloa Sprunki Retake: Double Taken - jännittävään seikkailuun, jossa innovaatio kohtaa nostalgian. Sukella uusiin muotoiluihin ja jännittävään pelattavuuteen."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Retake: Double Taken ominaisuudet",
+    "features": [
+      "Täysin uudet muotoilut, joissa on visuaalisesti upea grafiikka.",
+      "Viehättävä tarina, joka vangitsee vanhan koulun pelamisen sekä.",
+      "Suopea pelimekaniikka immersiiviseen kokemukseen.",
+      "Moninpelituki sosiaaliseen peliviihteeseen.",
+      "Säännölliset päivitykset pelisisällön ja käyttäjäkokemuksen parantamiseksi."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Sprunki Retake: Double Taken",
+    "instructions": [
+      "Aloita ladatessasi Sprunki Retake: Double Taken viralliselta sivustoltamme.",
+      "Seuraa opastusta tutustuaksesi pelin ohjaimiin ja tavoitteisiin.",
+      "Käytä nuolinäppäimiä ja väliavaruutta navigointiin ja toimintoihin.",
+      "Suunnittele siirtoasi ottaaksesi vastaan monimutkaisia haasteita ja pomoja.",
+      "Teet yhteistyötä muiden pelaajien kanssa parantaaksesi pelikokemustasi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arviot Sprunki Retake: Double Taken",
+    "submitReviewLabel": "Lähetä arviosi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arviosi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Jännittävä ja syvästi mukaansa tempaava. Mahtava lisä pelikokoelmaani!",
+        "author": "GamerJoe42"
+      },
+      {
+        "content": "Rakastan uusia muotoiluja. Se on kuin paluu lapsuuteeni, mutta entistä hauskempaa!",
+        "author": "RetroLover88"
+      },
+      {
+        "content": "Vakuuttavaa! Moninpelitoiminto pitää minut yhteydessä ystäviin.",
+        "author": "SocialGamer5"
+      },
+      {
+        "content": "Innovatiivinen pelattavuus ripauksella nostalgiaa. Täydellinen kaikille pelaajatyypeille.",
+        "author": "AdventureSeeker23"
+      },
+      {
+        "content": "Kaunis yhdistelmä menneitä ja nykyisiä pelityylejä. Peukku ylös!",
+        "author": "ClassicCraze49"
+      },
+      {
+        "content": "Tämä peli ei koskaan käy tylsäksi säännöllisten päivitysten ansiosta!",
+        "author": "TechieGeek101"
+      },
+      {
+        "content": "Arvostan graafiseen laatuun panostettua vaivannäköä. Visuaalinen herkku!",
+        "author": "ArtisticMind77"
+      },
+      {
+        "content": "Vaivaton yhdistelmä haastetta ja nautintoa. Suosittelen lämpimästi!",
+        "author": "ChallengeAccepted17"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Mikä on Sprunki Retake: Double Taken?",
+        "answer": "Sprunki Retake: Double Taken on suosituimman Sprunki Retake -pelin uusin versio, jossa on uusia muotoiluja ja parannettua pelattavuutta."
+      },
+      {
+        "question": "Kuinka voin ladata pelin?",
+        "answer": "Pelin voi ladata suoraan viralliselta verkkosivustoltamme tai valtuutetuista sovelluskaupoista."
+      },
+      {
+        "question": "Onko pelissä moninpelitoiminto?",
+        "answer": "Kyllä, Sprunki Retake: Double Taken sisältää moninpelitoiminnon, joka parantaa pelikokemusta ja sosiaalisia suhteita."
+      },
+      {
+        "question": "Saako peli säännöllisiä päivityksiä?",
+        "answer": "Päivittämme peliä usein uusien ominaisuuksien, bugikorjausten sekä käyttäjäkokemuksen parantamiseksi."
+      },
+      {
+        "question": "Mitkä ovat järjestelmävaatimukset?",
+        "answer": "Peli vaatii vähintään 4GB RAM-muistia, modernin grafiikkakortin ja päivitetyn käyttöjärjestelmän parhaan suorituskyvyn takaamiseksi."
+      },
+      {
+        "question": "Keneen voin ottaa yhteyttä tuen saamiseksi?",
+        "answer": "Voit ottaa yhteyttä tukitiimiimme verkkosivustollamme olevaa yhteydenottolomaketta käyttäen saadaksesi apua."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Suositellut Pelit",
+    "games": [
+      {
+        "img": "path/to/image1.jpg",
+        "title": "Seikkailu-Quest",
+        "link": "link_to_game1"
+      },
+      {
+        "img": "path/to/image2.jpg",
+        "title": "Mysteerin Ratkaisija",
+        "link": "link_to_game2"
+      },
+      {
+        "img": "path/to/image3.jpg",
+        "title": "Palapelin Mestarit",
+        "link": "link_to_game3"
+      }
+    ]
+  }
+}

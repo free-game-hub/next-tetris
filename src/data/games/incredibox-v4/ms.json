@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V4 - Buat Muzik Unik Anda Secara Dalam Talian",
+    "description": "Incredibox V4 menawarkan pengalaman muzik yang menarik di mana anda boleh mencipta lagu anda sendiri dengan mengurus sekumpulan pemain beatbox animasi. Lepaskan kreativiti anda dengan permainan muzik interaktif ini.",
+    "keywords": "Incredibox V4, buat muzik dalam talian, permainan beatbox, penciptaan muzik, pentas maya, siri Incredibox"
+  },
+  "hero": {
+    "h1": "Incredibox V4",
+    "p": "Selami dunia penciptaan muzik dengan Incredibox V4. Gunakan watak animasi untuk mencipta lagu unik dan jadilah sebahagian daripada komuniti Incredibox yang meriah."
+  },
+  "gameFeatures": {
+    "title": "Ciri-ciri Incredibox V4",
+    "features": [
+      "Antaramuka seret dan lepas yang mudah digunakan untuk penciptaan muzik yang lancar.",
+      "Watak animasi dengan bunyi dan rentak yang unik.",
+      "Bunyi dan animasi yang boleh dibuka yang meningkatkan pengalaman muzik.",
+      "Grafik berwarna-warni yang dipadankan dengan animasi yang ceria.",
+      "Kemampuan untuk berkongsi dan berkolaborasi dengan peminat muzik lain."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Incredibox V4",
+    "instructions": [
+      "Pilih watak menggunakan tetikus anda dan seret mereka ke atas pentas maya.",
+      "Cipta komposisi dengan mencampurkan rentak, melodi, dan kesan bunyi yang berbeza.",
+      "Buka kandungan baru dengan mencuba pelbagai kombinasi watak.",
+      "Gunakan pintasan papan kekunci untuk menukar watak dan mod secara efisien.",
+      "Terokai gaya dan kombinasi baru untuk mencipta lagu ideal anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkap Layar Incredibox V4"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Incredibox V4 adalah permainan yang hebat bagi sesiapa yang gemar mencipta muzik. Antaramukanya sangat intuitif.",
+        "author": "Alice W."
+      },
+      {
+        "content": "Animasi dan grafiknya sangat menakjubkan dan menghiburkan. Wajib dicuba untuk peminat muzik.",
+        "author": "Brian K."
+      },
+      {
+        "content": "Saya telah menghabiskan berjam-jam mencuba pelbagai kombinasi. Kemungkinannya tidak berkesudahan!",
+        "author": "Charlie L."
+      },
+      {
+        "content": "Permainan ini menjadikan penciptaan muzik mudah dan menyeronokkan. Saya suka berkongsi ciptaan saya dengan rakan-rakan.",
+        "author": "Dana S."
+      },
+      {
+        "content": "Versi terbaharu memperkenalkan beberapa ciri baru yang hebat. Ia semakin baik!",
+        "author": "Eli M."
+      },
+      {
+        "content": "Sebagai seseorang yang baru dalam penciptaan muzik, Incredibox V4 sangat mudah untuk dikuasai.",
+        "author": "Frank J."
+      },
+      {
+        "content": "Kualiti bunyi dan pelbagai rentak adalah cemerlang. Sangat disyorkan.",
+        "author": "Grace H."
+      },
+      {
+        "content": "Setiap kemas kini membawa keseronokan dan cabaran baru. Sangat suka dengan Incredibox V4.",
+        "author": "Henry P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Apa itu Incredibox V4?",
+        "answer": "Incredibox V4 adalah versi terbaru dalam siri Incredibox, di mana anda boleh mencipta muzik dengan berinteraksi dengan pemain beatbox animasi di atas pentas maya."
+      },
+      {
+        "question": "Bagaimana saya boleh bermain Incredibox V4?",
+        "answer": "Anda menggunakan tetikus anda untuk menyeret watak ke pentas, mencampurkan bunyi untuk mencipta muzik anda sendiri. Pintasan papan kekunci juga tersedia untuk meningkatkan pengalaman anda."
+      },
+      {
+        "question": "Apa yang menjadikan Incredibox V4 unik?",
+        "answer": "Reka bentuknya yang intuitif, grafik berwarna-warni, dan kemampuan untuk membuka ciri baru menjadikan penciptaan muzik menarik dan mudah diakses oleh semua pengguna."
+      },
+      {
+        "question": "Bolehkah saya berkongsi ciptaan muzik saya?",
+        "answer": "Ya, anda boleh berkongsi ciptaan muzik anda dengan pemain lain, membentuk komuniti peminat muzik yang meriah."
+      },
+      {
+        "question": "Apakah keperluan sistem untuk Incredibox V4?",
+        "answer": "Incredibox V4 berfungsi di kebanyakan pelayar moden dan tidak memerlukan konfigurasi sistem khas."
+      },
+      {
+        "question": "Adakah terdapat versi lain Incredibox yang boleh saya mainkan?",
+        "answer": "Ya, anda juga boleh menikmati Incredibox V2 dan Foreverbox, yang menawarkan pengalaman muzik yang berbeza."
+      }
+    ]
+  }
+}

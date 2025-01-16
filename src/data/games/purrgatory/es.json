@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Purrgatory - Una Novela Visual del Más Allá Cargada de Fantasía",
+    "description": "Explora el encantador mundo de Purrgatory, una novela visual sobre un más allá donde el tiempo se detiene. Conoce personajes peculiares, resuelve misterios y disfruta de una experiencia dibujada a mano con amor.",
+    "keywords": "Purrgatory, novela visual, juego del más allá, point-and-click, personajes fantásticos, características del juego"
+  },
+  "hero": {
+    "h1": "Purrgatory - Una Aventura del Más Allá Fantástica",
+    "p": "Sumérgete en Purrgatory, una novela visual llena de fantasía. Explora, haz amigos con encantadores personajes y descubre que 'para siempre' no está tan mal."
+  },
+  "gameFeatures": {
+    "title": "Características del Juego Purrgatory",
+    "features": [
+      "Exploración Involucrada Tipo Point-and-Click",
+      "Visual Dibujado a Mano con Personajes Encantadores",
+      "Múltiples Finales y Experiencia Rica en Historia",
+      "Disponible en Inglés, Español y Chino Simplificado",
+      "Ganador del Game Jam 'No Sé Dibujar'"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Purrgatory",
+    "instructions": [
+      "Interactúa con el mundo usando tu ratón.",
+      "Usa el teclado para una navegación rápida.",
+      "Explora diferentes lugares para descubrir secretos.",
+      "Resuelve acertijos para avanzar en la historia.",
+      "Interactúa con los personajes para conocer sus historias."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego Purrgatory"
+  },
+  "playerReviews": {
+    "title": "Lo Que Los Jugadores Dicen Sobre Purrgatory",
+    "submitReviewLabel": "Envía Tu Opinión",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Opinión",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Atascado en la parte del apagón pero recibí ayuda de la comunidad. ¡Me encanta lo cooperativos que son todos!",
+        "author": "Blormp"
+      },
+      {
+        "content": "La atmósfera y las amistades de los personajes son deliciosas. ¡No puedo dejar de pensar en ello!",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "Regresé para terminarlo después de un año. Bendecido de haber experimentado esta hermosa historia.",
+        "author": "kayak"
+      },
+      {
+        "content": "Los personajes están muy bien pensados. El buen final del juego me dejó asombrado.",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatory ofrece una personalidad única para cada personaje que coincide con su forma animal.",
+        "author": "dizie"
+      },
+      {
+        "content": "¡Un viaje absolutamente acogedor con juegos de palabras hilarantes!",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "Historia hermosa y personajes convincentes que me engancharon de inmediato.",
+        "author": "Maple"
+      },
+      {
+        "content": "La simplicidad de este juego captura la esencia de la simplicidad y las alegrías de la vida.",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿En qué plataformas está disponible Purrgatory?",
+        "answer": "Purrgatory se puede jugar en plataformas HTML5 y Windows."
+      },
+      {
+        "question": "¿Cómo resuelvo el acertijo cuando se apagan las luces?",
+        "answer": "Intenta visitar el lugar de Natalie para conseguir una vela como fuente de luz."
+      },
+      {
+        "question": "¿El juego tiene múltiples finales?",
+        "answer": "Sí, Purrgatory tiene múltiples finales basados en tus elecciones."
+      },
+      {
+        "question": "¿En qué idiomas está disponible Purrgatory?",
+        "answer": "Está disponible en Inglés, Español y Chino Simplificado."
+      },
+      {
+        "question": "¿Hay disponible una banda sonora para Purrgatory?",
+        "answer": "Sí, la banda sonora original se puede escuchar en varias plataformas."
+      },
+      {
+        "question": "¿Qué debo hacer si el juego no se inicia?",
+        "answer": "Intenta refrescar la página o usar otro navegador. Para un mejor rendimiento, descarga la versión para Windows."
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "Un Viaje Fantasioso",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "Sueños del Más Allá",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "Aventuras Místicas",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

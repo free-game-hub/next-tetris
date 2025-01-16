@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V8 - 一场令人兴奋的末日音乐旅程",
+    "description": "加入Incredibox V8，一个独特的音乐创作游戏，设置在一次重大灾难后的变革世界中。探索声音，面对挑战，通过音乐重建世界。",
+    "keywords": "Incredibox V8, 音乐游戏, 末日后, 游戏特点, 音乐创作"
+  },
+  "hero": {
+    "h1": "Incredibox V8",
+    "p": "踏上音乐之旅，穿越一个变革的世界。探索新声音，组建你的音乐团队，战胜Incredibox V8中的挑战。"
+  },
+  "gameFeatures": {
+    "title": "Incredibox V8 的主要特点",
+    "features": [
+      "探索变革的世界：在废墟中发现隐藏的音乐声音。",
+      "组建你的音乐团队：选择具有独特声音的角色来创建你的乐队。",
+      "面对音乐挑战：用创意障碍来考验你的技能。",
+      "表达创意：使用节拍和旋律重建空荡的世界。",
+      "沉浸式体验：在丰富的声音环境中沉浸于末日后的设定中。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何游玩 Incredibox V8",
+    "instructions": [
+      "通过探索世界并收集音乐声音来开始你的旅程。",
+      "使用直观的界面来组装你的独特音乐作品。",
+      "调整你的歌曲以克服面临的障碍和挑战。",
+      "你创作的每首歌都为这个空荡的世界增添了能量和希望。",
+      "分享你的创作，用音乐的力量激励他人。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V8 截图"
+  },
+  "playerReviews": {
+    "title": "玩家对 Incredibox V8 的评价",
+    "submitReviewLabel": "提交你的评论",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评论",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Incredibox V8 是一次真正创新的体验，动态的音乐创作能力让我爱上了探索废墟和制作新声音。",
+        "author": "亚历克斯·J."
+      },
+      {
+        "content": "游戏界面超级简便，音乐挑战让我保持参与感。",
+        "author": "萨曼莎·L."
+      },
+      {
+        "content": "创造力与策略完美结合。组建我的音乐团队非常令人满意！",
+        "author": "迈克尔·K."
+      },
+      {
+        "content": "从没想过在末日后的世界中创作音乐能如此振奋人心。强烈推荐 Incredibox V8！",
+        "author": "劳拉·F."
+      },
+      {
+        "content": "这款游戏是声音探索和故事叙述的绝佳结合。我停不下来！",
+        "author": "丹尼尔·M."
+      },
+      {
+        "content": "Incredibox V8 以最好的方式推动了你的创造极限。好游戏！",
+        "author": "艾玛·R."
+      },
+      {
+        "content": "我创作的每首歌在这个独特的世界中都像是注入了一口新鲜的生命。爱它！",
+        "author": "克里斯·T."
+      },
+      {
+        "content": "Incredibox V8 的氛围和音乐创作工具无与伦比。绝对值得一玩！",
+        "author": "索菲亚·H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Incredibox V8 常见问题",
+    "questions": [
+      {
+        "question":"什么是 Incredibox V8？",
+        "answer":"Incredibox V8 是一款设置在末日后世界的音乐创作游戏，你可以探索、创作音乐并面对挑战来重建希望。"
+      },
+      {
+        "question":"我该如何开始在游戏中创作音乐？",
+        "answer":"首先探索改变后的世界以收集不同的声音，然后使用界面来制作你独特的音乐作品。"
+      },
+      {
+        "question":"我会面临什么样的挑战？",
+        "answer":"玩家将遇到考验他们音乐技能和创造力的挑战，随着游戏的进展而变化。"
+      },
+      {
+        "question":"我可以在移动设备上玩 Incredibox V8 吗？",
+        "answer":"可以，Incredibox V8 兼容大多数移动设备，提供无缝的音乐创作体验。"
+      },
+      {
+        "question":"我该如何分享我的音乐创作？",
+        "answer":"你可以通过各种社交媒体平台直接从游戏中分享你的音乐，以激励他人。"
+      },
+      {
+        "question":"Incredibox V8 有多人模式吗？",
+        "answer":"目前，Incredibox V8 侧重于基于创造力和探索的单人体验。"
+      }
+    ]
+  }
+}

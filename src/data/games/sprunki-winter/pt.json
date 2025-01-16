@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Winter - Experimente a Beleza Tranquila do Inverno na Sua Música",
+    "description": "O Mod Sprunki Winter transforma sua criatividade musical com uma estética de inverno, paisagens sonoras serenas e uma jogabilidade única. Junte-se agora e aproveite a composição em um paraíso nevado.",
+    "keywords": "Sprunki Winter, mod de música, jogo de música de inverno, características do Sprunki Winter, como jogar Sprunki Winter"
+  },
+  "hero": {
+    "h1": "Sprunki Winter",
+    "p": "Mergulhe na beleza serena do inverno enquanto o Sprunki Winter envolve sua jornada musical em um encanto nevado. Crie composições tranquilas neste maravilhoso país de inverno."
+  },
+  "gameFeatures": {
+    "title": "Características Principais do Sprunki Winter",
+    "features": [
+      "Estética Gelada: Desfrute de azuis frios, brancos suaves e texturas de flocos de neve.",
+      "Paisagens Sonoras Suaves: Aprecie percussões delicadas e melodias arejadas.",
+      "Mood Calmo e Reflexivo: Engaje-se na criação musical mais lenta e contemplativa.",
+      "Personagens Sazonais: Ícones com cachecóis quentes e vibrações temáticas de neve.",
+      "Harmonia Visual e Sonora: A combinação perfeita de imagens e áudio para uma experiência invernal."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar o Mod Sprunki Winter",
+    "instructions": [
+      "Selecione Personagens: Escolha entre figuras vestidas para o inverno para criar loops únicos.",
+      "Arraste e Solte: Sobreponha batidas e melodias para capturar a essência do inverno.",
+      "Ajuste Sua Mistura: Regule volumes e adicione efeitos para faixas serenas.",
+      "Salve e Compartilhe: Compartilhe a magia da sua composição invernal com os outros.",
+      "Explore Variações: Experimente diferentes combinações de personagens para paisagens sonoras diversas."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo Sprunki Winter"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki Winter é uma bela fusão de arte e música—é como pintar com som.",
+        "author": "Emily R."
+      },
+      {
+        "content": "A estética do inverno é perfeitamente capturada; parece um dia aconchegante dentro de casa.",
+        "author": "James P."
+      },
+      {
+        "content": "Adoro como o jogo me permite relaxar e ser criativa ao mesmo tempo.",
+        "author": "Mira T."
+      },
+      {
+        "content": "As melodias serenas e os visuais são uma fuga perfeita do meu dia agitado.",
+        "author": "Liam H."
+      },
+      {
+        "content": "Como alguém que ama o inverno, Sprunki Winter se encaixa perfeitamente no meu estilo musical!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "As suaves paisagens sonoras do jogo são calmantes e inspiradoras para minhas composições musicais.",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Uma forma fantástica de passar o tempo criando sem pressão; simplesmente lindo.",
+        "author": "Lucas M."
+      },
+      {
+        "content": "Sem dúvidas, o melhor mod de música com seus temas de inverno e jogabilidade envolvente.",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O que torna o Sprunki Winter diferente de outros mods de música?",
+        "answer": "Sprunki Winter oferece uma estética e paisagens sonoras temáticas de inverno únicas, combinando perfeitamente visuais e áudio para uma experiência de jogo serena."
+      },
+      {
+        "question": "Como posso compartilhar minhas criações no Sprunki Winter?",
+        "answer": "Após compor sua faixa, utilize a função 'Salvar e Compartilhar' para compartilhar sua música com facilidade."
+      },
+      {
+        "question": "Posso personalizar os personagens e loops no jogo?",
+        "answer": "Sim, você pode selecionar e organizar diferentes personagens com loops únicos para personalizar sua música."
+      },
+      {
+        "question": "Há uma versão para mobile disponível para o Sprunki Winter?",
+        "answer": "Atualmente, Sprunki Winter está disponível em plataformas de desktop. Fique ligado para lançamentos móveis futuros."
+      },
+      {
+        "question": "Existem tutoriais disponíveis para iniciantes?",
+        "answer": "Sim, o jogo inclui um tutorial abrangente para ajudar os novos jogadores a começarem."
+      },
+      {
+        "question": "O Sprunki Winter suporta vários idiomas?",
+        "answer": "Sprunki Winter atualmente suporta o inglês, com mais opções de idiomas planejadas para atualizações futuras."
+      }
+    ]
+  }
+}

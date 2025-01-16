@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Mod Sprunki Omega - Kreasi Musik Kosmik di Sprunki Incredibox",
+    "description": "Temukan Mod Sprunki Omega, tambahan yang inovatif untuk alam semesta Sprunki Incredibox. Masuki pengalaman visual yang ditingkatkan, suara futuristik, dan desain karakter yang menarik.",
+    "keywords": "Mod Sprunki Omega, Sprunki Incredibox, kreasi musik, suara futuristik, mod game"
+  },
+  "hero": {
+    "h1": "Mod Sprunki Omega",
+    "p": "Rasakan perjalanan epik dalam kreasi musik dengan Mod Sprunki Omega, menggabungkan estetika futuristik dengan permainan yang inovatif."
+  },
+  "gameFeatures": {
+    "title": "Fitur Mod Sprunki Omega",
+    "features": [
+      "Desain Karakter Futuristik: Karakter yang terinspirasi kosmik dengan estetika yang ramping.",
+      "Efek Suara Canggih: Perpustakaan kaya dari beat futuristik dan melodi ambient.",
+      "Visual yang Menggugah: Antarmuka yang cerah melengkapi tema luas dari mod ini.",
+      "Gameplay yang Menantang: Terlibat dengan fitur dan kombinasi baru.",
+      "Kreativitas Kosmik: Jelajahi tingkat kedalaman baru dalam kreasi musik."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Mod Sprunki Omega",
+    "instructions": [
+      "Pilih Karakter Omega: Seret dan lepas karakter Sprunki bertema Omega.",
+      "Campur Trek Canggih: Gabungkan beat yang rumit untuk menciptakan trek dinamis.",
+      "Buka Bonus Epik: Temukan bonus melalui kombinasi karakter.",
+      "Bagikan Karya Anda: Simpan dan bagikan trek musik dengan komunitas.",
+      "Tantang Remixer: Undang orang lain untuk remix kreasi Anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Mod Sprunki Omega"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Desain karakternya luar biasa, dan gameplay-nya sangat menarik!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Mod yang luar biasa yang membawa Sprunki ke tingkat baru!",
+        "author": "Sam T."
+      },
+      {
+        "content": "Saya suka suasana kosmik dan gameplay yang menantang.",
+        "author": "Mia L."
+      },
+      {
+        "content": "Efek suara futuristiknya benar-benar luar biasa.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega adalah mod yang tidak ingin Anda lewatkan.",
+        "author": "Noah P."
+      },
+      {
+        "content": "Cocok untuk penggemar remix yang mencari tantangan.",
+        "author": "Liam K."
+      },
+      {
+        "content": "Visualnya menakjubkan dan benar-benar imersif.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "Ini adalah petualangan musik yang fantastis yang saya rekomendasikan untuk setiap penggemar!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apa itu Mod Sprunki Omega?",
+        "answer": "Mod Sprunki Omega adalah mod canggih untuk Sprunki Incredibox, yang menampilkan suara dan visual futuristik."
+      },
+      {
+        "question": "Bagaimana cara membuka bonus dalam permainan?",
+        "answer": "Eksperimen dengan kombinasi karakter unik untuk menemukan bonus tersembunyi."
+      },
+      {
+        "question": "Bisakah saya membagikan trek musik saya?",
+        "answer": "Ya, Anda dapat menyimpan dan membagikan trek musik Anda dengan komunitas Sprunki."
+      },
+      {
+        "question": "Apakah ada karakter baru dalam mod ini?",
+        "answer": "Ya, mod ini mencakup karakter Sprunki bertema Omega yang futuristik."
+      },
+      {
+        "question": "Apakah Mod Sprunki Omega cocok untuk pemula?",
+        "answer": "Meski mod ini memiliki elemen yang menantang, ini tetap dapat diakses untuk pendatang baru."
+      },
+      {
+        "question": "Di mana saya bisa mengunduh Mod Sprunki Omega?",
+        "answer": "Anda dapat mengunduhnya dari situs resmi Sprunki Incredibox atau platform mod yang sah."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Permainan yang Direkomendasikan",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Petualangan Galaksi Sprunki",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox Remix Solar",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "Perjalanan Beatbox Kosmik",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

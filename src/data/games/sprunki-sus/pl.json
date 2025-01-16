@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki SUS - Ostateczna Muzyczna Przygoda w Spunky Game",
+    "description": "Odkryj unikalny muzyczny świat Sprunki SUS w Spunky Game. Graj natychmiast w swojej przeglądarce, twórz kompozycje muzyczne i dziel się nimi z społecznością graczy. Brak pobierania!",
+    "keywords": "Sprunki SUS, Spunky Game, gra rytmiczna online, kreatywność muzyczna, gra przeglądarkowa"
+  },
+  "hero": {
+    "h1": "Sprunki SUS",
+    "p": "Dołącz do ultimate muzycznej przygody z Sprunki SUS, grą rytmiczną, która wyzważa twoją kreatywność. Mieszaj, dziel się i ciesz się unikalnymi bitami bezpośrednio w swojej przeglądarce w Spunky Game."
+  },
+  "gameFeatures": {
+    "title": "Najważniejsze Cechy Sprunki SUS w Spunky Game",
+    "features": [
+      "Intuicyjne Sterowanie: Przyjazny interfejs odpowiedni dla wszystkich poziomów umiejętności.",
+      "Natychmiastowa Gra: Brak potrzeby pobierania – graj bezpośrednio w swojej przeglądarki.",
+      "System Osiągnięć: Zdobywaj nagrody w miarę przechodzenia przez poziomy.",
+      "Funkcje Społecznościowe: Łącz się i dziel się swoimi kreacjami z innymi graczami.",
+      "Różnorodne Style Dźwięku: Eksperymentuj z różnymi gatunkami i stylami muzycznymi."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Sprunki SUS na Spunky Game",
+    "instructions": [
+      "Wybierz Swoją Postać: Wybierz z unikalnych postaci Sprunki SUS z odmiennymi umiejętnościami muzycznymi.",
+      "Stwórz Swoją Mieszankę: Łącz różne postacie, aby stworzyć niesamowite muzyczne kombinacje.",
+      "Dziel się i Ciesz: Zapisz swoje kreacje i dziel się nimi w społeczności Spunky Game.",
+      "Obsługa Sterowania: Użyj myszy do przeciągania i upuszczania oraz skrótów klawiszowych do zaawansowanego sterowania.",
+      "Eksploruj Tryby: Doświadczaj różnych trybów gry takich jak Klasyczny, Wyzwanie, Freestyle i Współpraca."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu z Gry Sprunki SUS"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy o Sprunki SUS",
+    "submitReviewLabel": "Prześlij swoją recenzję",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Recenzja",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Niesamowicie zabawna i kreatywna gra! Aspekt społecznościowy jest fantastyczny.",
+        "author": "Alex G."
+      },
+      {
+        "content": "Uwielbiam to, jak łatwo można zacząć bez pobierania. Idealne na szybkie sesje!",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Różnorodność stylów muzycznych sprawia, że ciągle wracam. Gorąco polecam!",
+        "author": "Sam R."
+      },
+      {
+        "content": "Sprunki SUS to majstersztyk w casual gaming. Musisz spróbować, jeśli kochasz muzykę.",
+        "author": "Casey L."
+      },
+      {
+        "content": "Interfejs jest intuicyjny, a rozgrywka niesamowicie wciągająca!",
+        "author": "Jamie H."
+      },
+      {
+        "content": "Idealne połączenie kreatywności i zabawy. Dzielić się z przyjaciółmi to czysta radość!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Świetny sposób na odkrywanie i wyrażanie muzycznej kreatywności. Uwielbiam to!",
+        "author": "Riley S."
+      },
+      {
+        "content": "Nie mogę uwierzyć, że mogę robić muzykę tak łatwo w grze. Uzależniające!",
+        "author": "Morgan P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania o Sprunki SUS",
+    "questions": [
+      {
+        "question":"Co czyni Sprunki SUS wyjątkowym w Spunky Game?",
+        "answer":"Sprunki SUS oferuje innowacyjne podejście z unikalnymi projektami postaci i elementami muzycznymi."
+      },
+      {
+        "question":"Jak zacząć grać w Sprunki SUS na Spunky Game?",
+        "answer":"Odwiedź stronę internetową Spunky Game, wybierz Sprunki SUS i zacznij tworzyć za pomocą interfejsu drag-and-drop."
+      },
+      {
+        "question":"Czy mogę zapisać swoje kreacje w Sprunki SUS?",
+        "answer":"Tak, możesz zapisać i dzielić się swoimi kompozycjami muzycznymi z innymi graczami."
+      },
+      {
+        "question":"Jakie sterowanie jest używane w Sprunki SUS?",
+        "answer":"Użyj myszy do przeciągania i upuszczania postaci oraz skrótów klawiszowych do dodatkowego sterowania."
+      },
+      {
+        "question":"Czy Sprunki SUS jest odpowiednie dla początkujących?",
+        "answer":"Absolutnie! Jest zaprojektowane z myślą o dostępności dla nowicjuszy, a jednocześnie oferuje głębokość dla doświadczonych graczy."
+      },
+      {
+        "question":"Ile warstw dźwięku mogę połączyć w Sprunki SUS?",
+        "answer":"Możesz łączyć wiele warstw dźwięku, aby uzyskać bogate kompozycje muzyczne."
+      }
+    ]
+  }
+}

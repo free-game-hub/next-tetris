@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "Sprunted - Un MOD Creativo con Nuovi Design di Personaggi",
+    "description": "Sprunted è un MOD creato dai fan di Sprunk, che introduce nuove apparizioni dei personaggi, outfit, acconciature, accessori ed espressioni. Scopri questa esperienza di gioco unica e creativa supportata dalla comunità!",
+    "keywords": "sprunted, sprunted mod, sprunk mod, mod di gioco, design personaggi sprunted, gameplay sprunted"
+  },
+  "hero": {
+    "h1": "Sprunted - Un MOD Pieno di Creatività",
+    "p": "Sprunted è un MOD creato dai fan di Sprunk che ridefinisce il design dei personaggi con nuovi elementi e stili unici. Unisciti all'avventura ed esplora questa creazione guidata dalla comunità con funzionalità emozionanti e un gameplay innovativo!"
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche di Sprunted",
+    "features": [
+      "Design di personaggi completamente nuovi, inclusi outfit, acconciature, accessori ed espressioni",
+      "Un MOD creato dai fan che aggiunge creatività e innovazione al gioco originale",
+      "Mantiene il gameplay principale di Sprunk introducendo nuovi elementi freschi",
+      "Ampie opzioni di personalizzazione per i personaggi al fine di adattarsi allo stile di ogni giocatore",
+      "Perfetto per i giocatori che amano esperienze di gioco creative e personalizzate"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare a Sprunted",
+    "instructions": [
+      "Scaricare e installare il MOD Sprunted nel gioco Sprunk.",
+      "Scegliere nuovi personaggi e personalizzare il loro aspetto e accessori.",
+      "Esplorare livelli e sfide unici con i nuovi personaggi.",
+      "Condividere la tua esperienza di gioco con gli amici e partecipare alle discussioni della comunità.",
+      "Mantenere il MOD aggiornato per godere degli ultimi contenuti e miglioramenti."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot di Gioco di Sprunted"
+  },
+  "playerReviews": {
+    "title": "Cosa Dicono i Giocatori di Sprunted",
+    "submitReviewLabel": "Invia la tua recensione",
+    "nameLabel": "Il tuo Nome",
+    "reviewLabel": "La tua Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "I design dei personaggi in Sprunted sono incredibili e conferiscono al gioco un aspetto rinfrescante!",
+        "author": "Alex"
+      },
+      {
+        "content": "Come MOD creato dai fan, questo gioco mostra davvero la passione e la creatività del creatore.",
+        "author": "Jamie"
+      },
+      {
+        "content": "Sprunted porta nuovo gameplay e design dei personaggi che vale la pena provare!",
+        "author": "Taylor"
+      },
+      {
+        "content": "Grazie al creatore per aver realizzato un MOD così straordinario! È davvero divertente!",
+        "author": "Chris"
+      },
+      {
+        "content": "Gli outfit e le espressioni sono così ben progettati, rendendo il gioco ancora più piacevole!",
+        "author": "Jordan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti su Sprunted",
+    "questions": [
+      {
+        "question": "Cos'è Sprunted?",
+        "answer": "Sprunted è un MOD creato dai fan di Sprunk che introduce nuove apparizioni dei personaggi, inclusi outfit, acconciature, accessori ed espressioni."
+      },
+      {
+        "question": "Come installo Sprunted?",
+        "answer": "Puoi scaricare Sprunted dal sito ufficiale o da piattaforme correlate e seguire le istruzioni per installarlo nel tuo gioco Sprunk."
+      },
+      {
+        "question": "Per chi è adatto Sprunted?",
+        "answer": "Sprunted è perfetto per i giocatori che amano design personalizzati dei personaggi, gameplay creativi e nuove esplorazioni di contenuti."
+      },
+      {
+        "question": "Sprunted è gratuito?",
+        "answer": "Sì, Sprunted è un MOD creato dai fan ed è disponibile gratuitamente per tutti i giocatori."
+      },
+      {
+        "question": "Sprunted riceve aggiornamenti regolari?",
+        "answer": "Sì, il creatore aggiorna frequentemente Sprunted basandosi sul feedback dei giocatori per offrire nuovi contenuti e miglioramenti."
+      },
+      {
+        "question": "Posso fornire suggerimenti o feedback per Sprunted?",
+        "answer": "Assolutamente! Puoi condividere i tuoi suggerimenti sulla piattaforma della comunità di Sprunted per contribuire a migliorare ulteriormente il gioco."
+      }
+    ]
+  }
+}

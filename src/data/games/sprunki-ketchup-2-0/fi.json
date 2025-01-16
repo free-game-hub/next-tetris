@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - Paranna Kauhumuusikkikokemustasi",
+    "description": "Sukella creepy maailman Sprunki Ketchup 2.0, jossa musiikin tekeminen muuttuu karmivaksi kokemukseksi. Opi pelin säännöt, ominaisuudet ja pelaajapalautteet.",
+    "keywords": "Sprunki Ketchup 2.0, kauhumuusikkipeli, karmivat äänimaastot, pelin ominaisuudet, pelaajapalautteet"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "Tutki Sprunki Ketchup 2.0:n järkyttäviä maailmoja, joissa kauhu yhdistyy musiikkiin jännittävässä pelissä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Ketchup 2.0:n Tärkeimmät Ominaisuudet",
+    "features": [
+      "Intensiivinen kauhustetiikka pelottavilla hahmosuunnitteluilla.",
+      "Tumma äänimaisema ja karmivat loopit.",
+      "Lisääntynyt jännitys kokeellisilla musiikkikerroksilla.",
+      "Monimutkaiset hahmot ja häiritsevät taustat.",
+      "Jaa luomuksesi kauhun ystävien kanssa."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Ketchup 2.0",
+    "instructions": [
+      "Valitse Hahmot: Valitse hahmoja, jotka säteilevät karmivaa viehätystä.",
+      "Vedä ja pudota ne kankaallesi luodaksesi hätkähdyttäviä sävellyksiä.",
+      "Kokeile äänenvoimakkuutta ja efektejä saavuttaaksesi karmivan täydellisyyden.",
+      "Hio kerroksiasi paljastaaksesi piilotetut pelottavat elementit.",
+      "Tallenna ja jaa kauhuteemat sävellyksesi ystävillesi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Ketchup 2.0:n Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Mitä Pelaajat Sanovat Sprunki Ketchup 2.0:sta",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Tämä peli on mullistanut kauhun musiikissa - se on pakko pelata jännityksen etsijöille.",
+        "author": "Alex"
+      },
+      {
+        "content": "En ole koskaan tuntenut itseäni näin kireäksi sävellystä tehdessäni, jännitys on todellista!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Täydellinen yhdistelmä musiikkia ja kauhua. Sprunki Ketchup 2.0 pitää minut koukussa!",
+        "author": "Chris"
+      },
+      {
+        "content": "Karmivat äänimaastot ovat mielenräjäyttäviä. Valmistaudu säikyttymään.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Loistava Halloween-juhliin, pelaa sitä kovalla ja pelästytä ystäväsi!",
+        "author": "Casey"
+      },
+      {
+        "content": "Rakastan todella karmivia tunnelmia ja luovaa vapautta, jonka se tarjoaa.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0 on kokemus, jota ei voi verrata muihin. Ehdottomasti suositeltava.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Pelin tunnelma on intensiivisen karmiva ja täydellinen kauhufaneille.",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset Sprunki Ketchup 2.0:sta",
+    "questions": [
+      {
+        "question":"Mikä on Sprunki Ketchup 2.0?",
+        "answer":"Sprunki Ketchup 2.0 on kauhuteemainen musiikkipeli, joka esittelee häiriöittäviä äänimaastoja ja visuaaleja."
+      },
+      {
+        "question":"Kuinka luon musiikkia tässä pelissä?",
+        "answer":"Valitse ja asettele karmivia hahmoloopeja näytölle luodaksesi omia karmivia kappaleitasi."
+      },
+      {
+        "question":"Voinko jakaa musiikkiluomukseni?",
+        "answer":"Kyllä, voit tallentaa ja jakaa säveltäisesi muiden pelaajien kanssa."
+      },
+      {
+        "question":"Onko Sprunki Ketchup 2.0 sopiva lapsille?",
+        "answer":"Se on suositeltavaa kypsälle yleisölle sen kauhuelementtien vuoksi."
+      },
+      {
+        "question":"Onko pelissä ostettavia sisällöitä?",
+        "answer":"Sprunki Ketchup 2.0 tarjoaa useita ominaisuuksia, jotka ovat saatavilla laajennettavaksi pelin sisäisillä ostoilla."
+      },
+      {
+        "question":"Mitä alustoja Sprunki Ketchup 2.0 tukee?",
+        "answer":"Peli on saatavilla suurilla pelialustoilla, mukaan lukien PC ja konsolit."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Suositellut Pelit",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "Jännittävät Kaiku",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "Karmivat Harmoniat",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "Varjopuhe",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

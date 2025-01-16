@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Meluncur Melalui Kenangan: Petualangan Mengharukan Bersama Hantu dan Anjing",
+    "description": "Jelajahi kisah yang menghangatkan hati dari 'Meluncur Melalui Kenangan', permainan teka-teki yang menyentuh dengan anjing hantu membantu keluarganya mengatasi kesedihan. Temukan fitur-fitur permainan, kontrol, dan baca ulasan pemain.",
+    "keywords": "Meluncur Melalui Kenangan, permainan anjing hantu, permainan teka-teki, permainan hewan peliharaan keluarga, ulasan permainan, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Meluncur Melalui Kenangan",
+    "p": "Mulailah perjalanan yang mengharukan dengan teman hantu saat mereka menjelajahi rumah mereka, membantu keluarga mereka sembuh dari kehilangan. Permainan teka-teki yang indah dirancang dengan cermat oleh Picogram untuk Global Game Jam 2019."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Cerita yang mengharukan mengeksplorasi tema kehilangan dan penyembuhan.",
+      "Grafis yang menawan dan musik atmosferik oleh Grahm Nesbitt.",
+      "Kontrol sederhana yang cocok untuk semua usia.",
+      "Dapat dimainkan di platform HTML5, diakses di berbagai perangkat.",
+      "Diberi penilaian 4.8 dari 5 bintang oleh lebih dari 3.850 pemain."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Instruksi Permainan",
+    "instructions": [
+      "Gunakan Tombol Panah di keyboard Anda untuk menggerakkan anjing hantu.",
+      "Tekan 'Z' untuk berinteraksi dengan objek dan melanjutkan cerita.",
+      "Jelajahi setiap ruangan untuk menemukan kenangan dan membantu keluarga dalam mengatasi.",
+      "Perhatikan petunjuk halus di lingkungan untuk mendapatkan petunjuk.",
+      "Nikmati pengalaman ini sebagai perjalanan introspektif, bukan sekadar permainan."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "SANGAT IMUT :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Suka ini! Sangat imut dan membuat saya merasa hangat.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "Ini sangat manis. Sangat baik dibuat untuk permainan yang singkat.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Bukan pertama kalinya saya bermain ini, saya baru kehilangan anjing saya. Ini menghangatkan hati saya.",
+        "author": "Ini luar biasa"
+      },
+      {
+        "content": "Bravo, Bahagia, sedih, dan imut, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "Anjing itu sangat imut saat membawa sepotong roti.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Sangat menggemaskan <3",
+        "author": "pecinta hiu :3"
+      },
+      {
+        "content": "Secara harfiah menggemaskan <3",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Di platform mana 'Meluncur Melalui Kenangan' tersedia?",
+        "answer":"Permainan ini tersedia di platform HTML5, sehingga dapat diakses di sebagian besar perangkat dengan browser web modern."
+      },
+      {
+        "question":"Bagaimana cara berinteraksi dengan objek dalam permainan?",
+        "answer":"Gunakan tombol 'Z' di keyboard Anda untuk berinteraksi dengan objek dan melanjutkan cerita."
+      },
+      {
+        "question":"Siapa yang menciptakan musik untuk permainan ini?",
+        "answer":"Musik atmosferik dalam 'Meluncur Melalui Kenangan' dikomposisikan oleh Grahm Nesbitt."
+      },
+      {
+        "question":"Apakah permainan ini cocok untuk semua usia?",
+        "answer":"Ya, permainan ini memiliki kontrol sederhana dan alur cerita yang menghangatkan hati, cocok untuk pemain dari semua usia."
+      },
+      {
+        "question":"Berapa lama waktu yang dibutuhkan untuk menyelesaikan permainan?",
+        "answer":"Permainan ini relatif singkat, menawarkan pengalaman yang kompak namun emosional yang dapat diselesaikan dalam satu sesi."
+      },
+      {
+        "question":"Bisakah saya memainkan 'Meluncur Melalui Kenangan' di perangkat seluler saya?",
+        "answer":"Jika perangkat seluler Anda mendukung permainan HTML5 melalui browser web, Anda seharusnya dapat memainkan permainan ini."
+      }
+    ]
+  }
+}

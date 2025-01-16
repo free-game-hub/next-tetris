@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Giro de Horror del Juego Spunky",
+    "description": "Sumérgete en Sprunki Retake, una reinterpretación de terror del amado Juego Spunky. Explora visuales sombríos, paisajes sonoros inquietantes y descubre secretos ocultos en este viaje musical único.",
+    "keywords": "Sprunki Retake, Juego Spunky, juego de horror, mod de Sprunki, creación musical"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Giro de Horror del Juego Spunky",
+    "p": "Experimenta el mundo inquietante de Sprunki Retake, donde personajes etéreos y melodías fantasmales crean un emocionante viaje musical. ¡Juega en línea ahora, sin descargas necesarias!"
+  },
+  "gameFeatures": {
+    "title": "Características de Sprunki Retake",
+    "features": [
+      "Paisajes Sonoros Inquietantes: Crea composiciones escalofriantes con ritmos inquietantes.",
+      "Personajes Etéreos: Descubre rediseños sombríos con giros sobrenaturales.",
+      "Atmósfera Oscura: Sumérgete en visuales melancólicos y animaciones escalofriantes.",
+      "Secretos Ocultos: Desbloquea animaciones misteriosas y narrativas oscuras.",
+      "Optimización Móvil: Creación de música de horror sin inconvenientes en desktop y móvil."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki Retake",
+    "instructions": [
+      "Elige Personajes: Selecciona de una lista de personajes inquietantes y temáticos de horror.",
+      "Crea Música Oscura: Mezcla y empareja sonidos para componer obras maestras inquietantes.",
+      "Descubre Misterios: Encuentra combinaciones ocultas para revelar secretos y animaciones espeluznantes.",
+      "Comparte Creaciones: Comparte tus composiciones musicales con la comunidad global.",
+      "Explora Actualizaciones: Disfruta de actualizaciones regulares con nuevo contenido y personajes."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla de Sprunki Retake"
+  },
+  "playerReviews": {
+    "title": "Opiniones de los Jugadores sobre Sprunki Retake",
+    "submitReviewLabel": "Envía tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "¡El giro de horror le añade un toque emocionante al clásico Juego Spunky!",
+        "author": "Alex J."
+      },
+      {
+        "content": "¡Me encanta las creaciones musicales inquietantes! Perfecto para una noche espeluznante.",
+        "author": "Sam W."
+      },
+      {
+        "content": "Las animaciones y efectos de sonido son de primera. ¡Recomendadísimo!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "¡Jugar esto de noche me da escalofríos - de una buena manera!",
+        "author": "Taylor K."
+      },
+      {
+        "content": "La reinterpretación gótica es exactamente lo que el juego necesitaba. ¡Fantástico!",
+        "author": "Morgan H."
+      },
+      {
+        "content": "Me encanta absolutamente la atmósfera y el diseño de los personajes.",
+        "author": "Dana P."
+      },
+      {
+        "content": "Una versión cautivadora y creativamente oscura de un juego querido.",
+        "author": "Chris G."
+      },
+      {
+        "content": "¡Las composiciones musicales son increíblemente inquietantes!",
+        "author": "Pat R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes de Sprunki Retake",
+    "questions": [
+      {
+        "question": "¿Qué hace a Sprunki Retake diferente?",
+        "answer": "Sprunki Retake incorpora elementos de horror, visuales oscuros y paisajes sonoros inquietantes para un viaje musical único."
+      },
+      {
+        "question": "¿Cómo desbloqueo nuevo contenido?",
+        "answer": "Experimenta con combinaciones de sonido para descubrir animaciones ocultas y características secretas."
+      },
+      {
+        "question": "¿Puedo jugar Sprunki Retake en móvil?",
+        "answer": "Sí, está optimizado para dispositivos de escritorio y móviles."
+      },
+      {
+        "question": "¿Hay personajes exclusivos?",
+        "answer": "Sí, se incluyen personajes rediseñados con elementos sobrenaturales."
+      },
+      {
+        "question": "¿Se necesita experiencia musical?",
+        "answer": "No, el juego está diseñado para ser accesible a todos los jugadores, sin importar su experiencia musical."
+      },
+      {
+        "question": "¿Es Sprunki Retake gratis para jugar?",
+        "answer": "Sí, disfruta de Sprunki Retake gratis a través de tu navegador web."
+      }
+    ]
+  }
+}

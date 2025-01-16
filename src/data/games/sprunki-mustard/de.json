@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Sprunki Mustard - Kreatives Musik-DJ-Mix-Spiel | Online-Musikerfahrung",
+    "description": "Tauche ein in die musikalische Welt von Sprunki Mustard! Erstelle einzigartige Beats als DJ in diesem innovativen Musik-Erstellungsspiel mit senfartigen Charakteren. Spiele kostenlos online und entfessele deine musikalische Kreativität!",
+    "keywords": "sprunted, Sprunki Mustard, Musikspiel, DJ-Spiel, Mix-Spiel, Online-Musikkreation, Rhythmusspiel, Musikproduktion"
+  },
+  "hero": {
+    "h1": "Sprunki Mustard: Entfessle deine musikalische Kreativität",
+    "p": "Tauche ein in eine lebendige Welt der Musikkreation, in der funky Rhythmen auf einzigartige senfartige Charaktere treffen. Verwirkliche deine musikalischen Ideen mit nur wenigen Klicks!"
+  },
+  "gameFeatures": {
+    "title": "Spiel-Features",
+    "features": [
+      "Einzigartige senfartige Charaktere, jeder mit unterschiedlichen Klangelementen",
+      "Intuitive Drag-and-Drop-Oberfläche für mühelose Musikkreation",
+      "Reiche Kombination von Soundeffekten für endlose musikalische Möglichkeiten",
+      "Kostenloses Online-Spiel ohne Download erforderlich",
+      "Verbesserte Spielmechanik inspiriert von dem klassischen Incredibox"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spielanleitung",
+    "instructions": [
+      "Wähle deine Lieblingssenfcharaktere aus, die jeweils einzigartige Klangelemente bieten",
+      "Ziehe und lasse Charaktere auf die Bühne fallen, um mit dem Mixen von Sounds zu beginnen",
+      "Experimentiere mit verschiedenen Kombinationen, um einzigartige Rhythmen und Melodien zu erstellen",
+      "Feinabstimmung deiner Komposition in Echtzeit",
+      "Speichere und teile deine musikalischen Meisterwerke mit Freunden"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spiel-Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Teile deine Erfahrung",
+    "nameLabel": "Dein Spitzname",
+    "reviewLabel": "Deine Bewertung",
+    "submitButtonLabel": "Bewertung absenden",
+    "reviews": [
+      {
+        "content": "Als Musikliebhaber bin ich von diesem Spiel absolut beeindruckt. Die Oberfläche ist sauber, die Steuerung intuitiv und der musikalische Output ist überraschend gut!",
+        "author": "MusicLover123",
+        "rating": 5
+      },
+      {
+        "content": "Ein so unterhaltsames Musikkreationstool! Auch ohne musikalische Vorkenntnisse konnte ich tolle Beats erstellen. Sehr empfehlenswert!",
+        "author": "BeatMaker",
+        "rating": 5
+      },
+      {
+        "content": "Das Senfthema ist brillant einzigartig und die Klangkombinationen sind endlos. Ich habe Stunden damit verbracht zu spielen und entdecke immer noch neue Möglichkeiten.",
+        "author": "CreativePlayer",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Ist Sprunki Mustard kostenlos spielbar?",
+        "answer": "Ja, Sprunki Mustard ist völlig kostenlos spielbar in deinem Browser, ohne Download oder Installation erforderlich."
+      },
+      {
+        "question": "Brauche ich musikalische Erfahrung, um zu spielen?",
+        "answer": "Überhaupt nicht! Das Spiel ist so gestaltet, dass es intuitiv und zugänglich für jeden ist, unabhängig von ihrem musikalischen Hintergrund."
+      },
+      {
+        "question": "Kann ich meine musikalischen Kreationen speichern?",
+        "answer": "Ja! Das Spiel bietet eine Speicherfunktion, die es dir ermöglicht, deine Kreationen zu speichern und später weiter daran zu arbeiten oder sie mit Freunden zu teilen."
+      },
+      {
+        "question": "Welche Browser unterstützen das Spiel?",
+        "answer": "Das Spiel funktioniert auf allen modernen Browsern, einschließlich Chrome, Firefox, Safari und Edge."
+      },
+      {
+        "question": "Wie viele verschiedene Soundeffekte sind verfügbar?",
+        "answer": "Das Spiel bietet eine große Auswahl an Soundeffekten, einschließlich Rhythmen, Melodien und Vocals, die Hunderte von einzigartigen Kombinationen ermöglichen."
+      },
+      {
+        "question": "Warum das Senfthema?",
+        "answer": "Das Senfthema ist eine einzigartige Designwahl, die das Spiel nicht nur visuell unterscheidet, sondern auch ein Element von Spaß und Erinnerungswert zur Erfahrung hinzufügt."
+      }
+    ]
+  }
+}

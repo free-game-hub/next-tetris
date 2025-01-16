@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox Sprunki Vaihe 19 - Mahtava Pelikokemus",
+    "description": "Tutustu kiehtovaan Incredibox Sprunki Vaihe 19 -peliin. Syvenny sen ainutlaatuiseen pelimekaniikkaan ja eloisaan äänimaailmaan, mutta varo rivoa sisältöä. Täydellinen seikkailunhaluisille pelaajille yli 13-vuotiaille.",
+    "keywords": "Incredibox Sprunki Vaihe 19, Incredibox peli, Sprunki Vaihe 19 pelimekaniikka, Incredibox ominaisuudet, musiikkipeli"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Vaihe 19",
+    "p": "Lähde musiikilliseen seikkailuun Incredibox Sprunki Vaihe 19:n kanssa. Sukella sen lumoaviin rytmeihin ja visuaaliseen taiteeseen. Suositellaan 13-vuotiaille ja vanhemmille pelaajille."
+  },
+  "gameFeatures": {
+    "title": "Jännittävät Ominaisuudet Incredibox Sprunki Vaihe 19:ssa",
+    "features": [
+      "Innovatiivinen musiikin luontijärjestelmä",
+      "Viehättävä tarina eloisilla hahmoilla",
+      "Upeat visuaaliset efektit",
+      "Interaktiiviset pelimekaniikat",
+      "Laaja äänikirjasto"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Incredibox Sprunki Vaihe 19",
+    "instructions": [
+      "Valitse hahmosi ja aloita musiikin luominen.",
+      "Vedä ja pudota elementtejä luodaksesi ainutlaatuisia ääniraitoja.",
+      "Koe erilaisia yhdistelmiä eri efektien saavuttamiseksi.",
+      "Suorita musiikillisia haasteita avatakseksi uusia vaiheita.",
+      "Jaa luomuksesi ystävien kanssa sosiaalisessa mediassa."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox Sprunki Vaihe 19 - Kuvagalleria"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut Incredibox Sprunki Vaihe 19:stä",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Upea peli ainutlaatuisella ääni- ja visuaalisten elementtien yhdistelmällä!",
+        "author": "Alex"
+      },
+      {
+        "content": "Incredibox Sprunki Vaihe 19 on uusi suosikkini!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Vähän intensiivinen nuoremmille, mutta mestariteos musiikin ystäville.",
+        "author": "Casey"
+      },
+      {
+        "content": "Rakastan tätä peliä inspiroivaa luovuutta!",
+        "author": "Sam"
+      },
+      {
+        "content": "Grafiikka ja ääni ovat huippuluokkaa—suosittelen lämpimästi.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Ainutlaatuinen pelitapa, mutta kypsyys ei sovi kaikille.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Erittäin koukuttava ja viihdyttävä; pakollinen kokeiltavaksi!",
+        "author": "Morgan"
+      },
+      {
+        "content": "Äärimmäisen tyydyttävä ja luova musiikkikokemus!",
+        "author": "Riley"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Mikä on vähimmäisikävaatimus pelata Incredibox Sprunki Vaihe 19?",
+        "answer": "Peliä suositellaan yli 13-vuotiaille pelaajille sen sisällön vuoksi."
+      },
+      {
+        "question": "Voinko pelata Incredibox Sprunki Vaihe 19:ää mobiililaitteilla?",
+        "answer": "Kyllä, peli on optimoitu sekä työpöytä- että mobiilialustoille."
+      },
+      {
+        "question": "Onko mahdollisuutta tallentaa musiikkiluomukseni?",
+        "answer": "Kyllä, voit tallentaa ja jakaa ääniraidesi ystävien kanssa."
+      },
+      {
+        "question": "Onko pelissä ostoja saatavilla?",
+        "answer": "Jotkin ominaisuudet saattavat vaatia ostoksia sisällä parantaakseen kokemusta."
+      },
+      {
+        "question": "Voinko pelata peliä offline-tilassa?",
+        "answer": "Joidenkin ominaisuuksien vuoksi internetyhteys on tarpeen, mutta peruspeli on saatavilla offline-tilassa."
+      },
+      {
+        "question": "Tukeeko peli moninpeliä?",
+        "answer": "Tällä hetkellä Incredibox Sprunki Vaihe 19 on yksinpelipeli."
+      }
+    ]
+  }
+}

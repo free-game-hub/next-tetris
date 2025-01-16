@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Winter - 在音樂中體驗冬季的寧靜之美",
+    "description": "Sprunki Winter Mod 以冬季主題美學、寧靜音景和獨特的遊玩方式改變你的創作之旅。立即加入，享受在雪中的音樂天堂創作的樂趣。",
+    "keywords": "Sprunki Winter, 音樂模組, 冬季音樂遊戲, Sprunki Winter 特點, 如何玩 Sprunki Winter"
+  },
+  "hero": {
+    "h1": "Sprunki Winter",
+    "p": "讓自己沉浸在冬季的寧靜之美中，Sprunki Winter 將你的音樂旅程包裹在雪的魔力中。在這個冰雪奇境中創作寧靜的音樂作品。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Winter 的主要特點",
+    "features": [
+      "冰冷美學：享受冰藍、柔白及雪花的質感。",
+      "柔和音景：擁抱精緻的打擊樂器和輕盈旋律。",
+      "平靜、反思的心情：參與較慢的、深思的音樂創作。",
+      "季節角色：穿著溫暖圍巾和具雪季主題的角色。",
+      "視覺聲音和諧：完美融合視覺與音頻，帶來冬季體驗。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki Winter Mod",
+    "instructions": [
+      "選擇角色：從穿著冬季服裝的人物中選擇，創造獨特的音律。",
+      "拖放操作：疊加節拍和旋律，以捕捉冬季的本質。",
+      "微調混音：調整音量，添加效果以創作寧靜的曲目。",
+      "保存並分享：與他人分享你的冬季音樂創作魅力。",
+      "探索變化：嘗試不同角色組合，創造多樣音景。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Winter 遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評論",
+    "submitReviewLabel": "提交你的評論",
+    "nameLabel": "姓名",
+    "reviewLabel": "評論",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki Winter 是藝術和音樂的美妙結合，就像用聲音繪畫。",
+        "author": "Emily R."
+      },
+      {
+        "content": "冬季美學完美地捕捉了; 感覺就像是在舒適的室內度過的一天。",
+        "author": "James P."
+      },
+      {
+        "content": "我喜歡這個遊戲同時讓我放鬆和發揮創意。",
+        "author": "Mira T."
+      },
+      {
+        "content": "那平靜的旋律和視覺真是從忙碌的一天中完美的逃離。",
+        "author": "Liam H."
+      },
+      {
+        "content": "作為一個喜愛冬季的人，Sprunki Winter 完美契合我的音樂風格！",
+        "author": "Sophia L."
+      },
+      {
+        "content": "這款遊戲的柔和音景讓我感到平靜，並激發了我的音樂創作靈感。",
+        "author": "Oliver B."
+      },
+      {
+        "content": "一個絕佳的創作方式，不帶壓力地度過一些時間，簡直美妙。",
+        "author": "Lucas M."
+      },
+      {
+        "content": "無疑是最佳音樂模組，擁有冬季主題和迷人的遊戲性。",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "Sprunki Winter 與其他音樂模組有何不同？",
+        "answer": "Sprunki Winter 提供獨特的冬季主題美學和音景，完美融合視覺和音頻，帶來寧靜的遊戲體驗。"
+      },
+      {
+        "question": "我怎麼能分享我在 Sprunki Winter 的創作？",
+        "answer": "創作完成後，使用「保存並分享」功能，輕鬆與他人分享你的音樂。"
+      },
+      {
+        "question": "我可以自訂遊戲中的角色和音律嗎？",
+        "answer": "可以，你可以選擇和編排不同的角色，以獨特的旋律自訂你的音樂。"
+      },
+      {
+        "question": "Sprunki Winter 有手機版嗎？",
+        "answer": "目前，Sprunki Winter 僅在桌面平台上可用。請密切關注可能的手機版本發布。"
+      },
+      {
+        "question": "是否有針對初學者的教程可用？",
+        "answer": "有的，遊戲包含一個全面的教程，幫助新玩家輕鬆入門。"
+      },
+      {
+        "question": "Sprunki Winter 支持多語言嗎？",
+        "answer": "Sprunki Winter 目前支持英語，未來更新將計劃添加更多語言選項。"
+      }
+    ]
+  }
+}

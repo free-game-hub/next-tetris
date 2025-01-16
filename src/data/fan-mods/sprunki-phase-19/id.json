@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 19 - Ciptakan Beat dan Masuki Fase Baru",
+    "description": "Jelajahi Sprunki Phase 19, pengalaman bermain unik yang menggabungkan pembuatan beat dengan gameplay yang mendebarkan. Cocok untuk usia 13 tahun ke atas.",
+    "keywords": "Sprunki Phase 19, game pembuatan beat, gameplay mendebarkan, game musik, Sprunki Phase, game untuk remaja"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 19",
+    "p": "Sprunki Phase 19 adalah game pembuatan beat terbaik, menggabungkan ritme, kreativitas, dan aksi mendebarkan. Masuki dunia baru dari suara dan buat jalurmu sendiri!"
+  },
+  "gameFeatures": {
+    "title": "Fitur Game",
+    "features": [
+      "Mekanika pembuatan beat yang inovatif untuk kreativitas.",
+      "Grafis imersif yang meningkatkan pengalaman bermain.",
+      "Tantangan dinamis dengan kompleksitas yang meningkat.",
+      "Mode multiplayer untuk kolaborasi dalam pembuatan beat.",
+      "Alur cerita yang kaya dengan progresi yang menarik."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Phase 19",
+    "instructions": [
+      "Mulailah dengan memilih template beat yang diinginkan.",
+      "Gunakan alat di layar untuk memodifikasi dan menyempurnakan beatmu.",
+      "Navigasi melalui level dengan menyelesaikan tantangan beat.",
+      "Berkolaborasi dengan teman di mode multiplayer untuk lanskap suara yang lebih kaya.",
+      "Hindari rintangan dan teruskan dengan menjaga ritme tetap konsisten."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Game"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasanmu",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 19 sangat adiktif dan kreatif.",
+        "author": "GamerGuru21"
+      },
+      {
+        "content": "Aspek pembuatan beat-nya sangat revolusioner! Suka sekali!",
+        "author": "MusicMartian90"
+      },
+      {
+        "content": "Perpaduan sempurna antara musik dan aksi. Sangat direkomendasikan!",
+        "author": "RhythmRider23"
+      },
+      {
+        "content": "Membuat saya selalu kembali untuk lebih! Tantangannya luar biasa.",
+        "author": "BeatMaster07"
+      },
+      {
+        "content": "Mode multiplayer benar-benar mengubah permainan.",
+        "author": "PartyPlayer88"
+      },
+      {
+        "content": "Grafis dan kualitas musik melebihi ekspektasi saya.",
+        "author": "VisualVibe58"
+      },
+      {
+        "content": "Alur ceritanya imersif dan mendorongmu untuk bermain lebih banyak.",
+        "author": "StorySeeker11"
+      },
+      {
+        "content": "Ini adalah game yang sulit untuk dihentikan setelah kamu mulai.",
+        "author": "GameAddict24"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Apa batas usia minimum untuk bermain Sprunki Phase 19?",
+        "answer":"Game ini direkomendasikan untuk pemain berusia 13 tahun ke atas."
+      },
+      {
+        "question":"Bisakah saya bermain Sprunki Phase 19 di perangkat mobile?",
+        "answer":"Ya, game ini kompatibel dengan perangkat iOS dan Android."
+      },
+      {
+        "question":"Apakah ada tutorial untuk membantu pemain baru memulai?",
+        "answer":"Ya, game ini menyertakan tutorial komprehensif untuk membimbing pemain baru."
+      },
+      {
+        "question":"Apakah ada pembelian dalam game di Sprunki Phase 19?",
+        "answer":"Ya, ada pembelian dalam game yang tersedia untuk fitur tambahan."
+      },
+      {
+        "question":"Bisakah Anda berkolaborasi dengan teman di Sprunki Phase 19?",
+        "answer":"Ya, game ini menawarkan mode multiplayer untuk permainan kolaboratif."
+      },
+      {
+        "question":"Apakah Sprunki Phase 19 memerlukan koneksi internet?",
+        "answer":"Koneksi internet diperlukan untuk multiplayer dan pembaruan."
+      }
+    ]
+  }
+}

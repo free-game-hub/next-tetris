@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: 나만의 음악 비트를 만들어보세요",
+    "description": "Incredibox V7에서 Incredicrew를 조작하여 독특한 비트를 만들 수 있는 창의적인 음악 게임을 즐겨보세요. 게임의 특징, 규칙 및 플레이어 리뷰를 확인하세요.",
+    "keywords": "Incredibox V7, 음악 게임, Incredicrew, 비트 생성, Incredibox 특징"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Incredibox V7의 세계에 빠져들어 나만의 음악적 창의력을 발휘해보세요. Incredicrew를 조작하여 독특한 멜로디와 비트를 만들어보세요."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V7 게임 특징",
+    "features": [
+      "각기 다른 사운드 능력을 가진 Incredicrew를 조작하세요.",
+      "탐색할 수 있는 다양한 음악 스타일과 테마.",
+      "정답이나 틀림 없는 끝없는 창의성.",
+      "커뮤니티와 음악 작품을 공유하세요.",
+      "마우스와 키보드 모두 사용자 친화적인 인터페이스."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox V7 플레이 방법",
+    "instructions": [
+      "캐릭터 선택: 각기 다른 특수 능력과 애니메이션을 가진 캐릭터 중에서 선택하세요.",
+      "곡 선택: 원하는 음악 스타일이나 테마를 선택하여 창작을 시작하세요.",
+      "게임 플레이: 사운드와 리듬을 조합하여 독특한 비트를 만들어보세요.",
+      "마우스 사용: 캐릭터를 클릭하여 사운드를 추가하거나 제거하세요.",
+      "키보드 사용: 단축키를 활용해 빠르게 사운드를 조작하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 스크린샷"
+  },
+  "playerReviews": {
+    "title": "Incredibox V7 플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "Incredibox V7는 음악 창작을 탐험하는 재미있는 방법이에요!",
+        "author": "앨리스"
+      },
+      {
+        "content": "다양한 사운드 조합이 정말 마음에 들어요. 끝없는 재미가 있어요!",
+        "author": "존"
+      },
+      {
+        "content": "캐릭터들이 너무 독특하고, 비트를 만드는 것이 중독성이 있어요.",
+        "author": "마야"
+      },
+      {
+        "content": "얼마나 창의적으로 제작할 수 있는지 놀라워요. 비트마다 같지 않아요!",
+        "author": "리암"
+      },
+      {
+        "content": "친구들과 나의 작품을 공유하는 것이 가장 좋았어요!",
+        "author": "소피아"
+      },
+      {
+        "content": "키보드 단축키 덕분에 사운드를 빠르게 전환할 수 있어요.",
+        "author": "헨리"
+      },
+      {
+        "content": "음악을 좋아하는 아이들과 성인들에게 훌륭한 게임이에요.",
+        "author": "클로이"
+      },
+      {
+        "content": "Incredibox V7는 창의적인 휴식을 위한 최고의 선택이에요.",
+        "author": "이선"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 자주 묻는 질문",
+    "questions": [
+      {
+        "question": "Incredibox V7란 무엇인가요?",
+        "answer": "Incredibox V7는 Incredicrew라는 캐릭터 그룹을 조작하여 독특한 비트를 생성하는 음악 게임입니다."
+      },
+      {
+        "question": "Incredibox V7를 어떻게 시작하나요?",
+        "answer": "게임을 시작하려면 캐릭터와 곡 스타일을 선택한 다음, 다양한 사운드를 믹스하여 비트를 만드세요."
+      },
+      {
+        "question": "키보드로 Incredibox V7를 플레이할 수 있나요?",
+        "answer": "네, 키보드 단축키를 사용하여 사운드를 빠르게 추가하거나 제거할 수 있습니다."
+      },
+      {
+        "question": "Incredibox V7에는 다양한 음악 스타일이 있나요?",
+        "answer": "네, 게임에는 선택할 수 있는 다양한 스타일과 테마가 있습니다."
+      },
+      {
+        "question": "내 작품을 공유할 방법이 있나요?",
+        "answer": "물론입니다. 다른 플레이어와 음악 창작물을 쉽게 공유할 수 있습니다."
+      },
+      {
+        "question": "Incredibox V7는 모든 연령대가 적합한가요?",
+        "answer": "네, Incredibox V7는 아이들과 성인 모두에게 적합한 재미있고 창의적인 게임입니다."
+      }
+    ]
+  }
+}

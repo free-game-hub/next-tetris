@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 9 - 沉浸在節奏導向的平臺遊戲中",
+    "description": "探索Sprunki Phase 9中獨特的節奏與平臺結合。創造音樂、挑戰難關，深入迷人的夢幻世界。",
+    "keywords": "Sprunki Phase 9, 節奏導向遊戲, 平臺遊戲, 音樂創作, Incredibox風格"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 9",
+    "p": "在充滿活力的Sprunki Phase 9世界中體驗獨特的節奏導向遊戲和平臺融合。創造音樂，探索異世界中的挑戰。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Phase 9的主要特色",
+    "features": [
+      "擴展音樂創作：構建多層聲音的完整作品。",
+      "增強角色能力：利用節奏跳躍和音符提升。",
+      "基於節奏的謎題與障礙：將動作與配樂同步。",
+      "互動環境：對玩家的音樂創作做出反應。",
+      "具有音樂策略的首領戰：協調行動以克服挑戰。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩Sprunki Phase 9",
+    "instructions": [
+      "在平臺挑戰中導航以解鎖聲音層。",
+      "混合節拍、旋律和人聲以創建自訂配樂。",
+      "以精準的配樂時機掌握基於節奏的謎題。",
+      "在角色之間切換以調整音樂和遊戲策略。",
+      "協調音樂層以擊敗關卡首領。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 9遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家對Sprunki Phase 9的評價",
+    "submitReviewLabel": "提交您的評價",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "基於節奏的謎題既具挑戰性又有趣！",
+        "author": "Alex R."
+      },
+      {
+        "content": "我喜歡互動環境以及它們如何對我的音樂作出反應。",
+        "author": "Jamie L."
+      },
+      {
+        "content": "在角色之間切換為遊戲增加了策略層面。",
+        "author": "Sam T."
+      },
+      {
+        "content": "我在遊玩時創造的配樂讓我深深沉浸其中。",
+        "author": "Casey D."
+      },
+      {
+        "content": "第9階段將Sprunki系列的音樂融入提升到了另一個層次。",
+        "author": "Taylor F."
+      },
+      {
+        "content": "夢幻的視覺效果令人驚艷且引人入勝。",
+        "author": "Morgan E."
+      },
+      {
+        "content": "具有音樂策略的首領戰獨特且令人滿足。",
+        "author": "Jordan K."
+      },
+      {
+        "content": "Sprunki Phase 9完美結合了音樂和遊戲。",
+        "author": "Riley B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Phase 9常見問題",
+    "questions": [
+      {
+        "question": "Sprunki Phase 9在哪些平台上可用？",
+        "answer": "Sprunki Phase 9可在PC、Xbox、PlayStation和Nintendo Switch上獲得。"
+      },
+      {
+        "question": "我可以自訂每個關卡的音樂嗎？",
+        "answer": "可以，您可以嘗試不同的節拍、低音線和人聲曲目以創造獨特的混合。"
+      },
+      {
+        "question": "Sprunki Phase 9有多人遊玩選項嗎？",
+        "answer": "目前，Sprunki Phase 9專注於單人遊玩體驗。"
+      },
+      {
+        "question": "首領戰怎麼進行？",
+        "answer": "玩家使用音樂層進行策略性操作，以影響和削弱首領。"
+      },
+      {
+        "question": "有沒有教學幫助入門？",
+        "answer": "有的，遊戲包含教學內容，指導玩家掌握基本遊戲玩法。"
+      },
+      {
+        "question": "我可以重玩關卡以創建不同的配樂嗎？",
+        "answer": "當然可以，關卡可以重玩以探索新的音樂組合。"
+      }
+    ]
+  }
+}

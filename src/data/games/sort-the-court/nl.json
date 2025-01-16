@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sort the Court - Een Leuk en Verslavend Simulatiespel",
+    "description": "Verken de fantasierijke wereld van Sort the Court, waar besluitvorming het lot van jouw koninkrijk bepaalt. Leer de spelregels, functies en spelerbeoordelingen.",
+    "keywords": "Sort the Court, simulatiespel, besluitvorming, Unity-spel, Ludum Dare 34"
+  },
+  "hero": {
+    "h1": "Sort the Court",
+    "p": "Stap in de rol van een monarch en neem verstandige beslissingen om het lot van jouw koninkrijk in Sort the Court te bepalen. Geniet van dit spannende simulatiespel ontwikkeld door Graeme Borland en duik in deze charmante wereld."
+  },
+  "gameFeatures": {
+    "title": "Spelkenmerken",
+    "features": [
+      "Aantrekkelijke besluitvormingsgameplay",
+      "Charmante en schattige graphics",
+      "Ontwikkeld met Unity voor soepele prestaties",
+      "Meerdere talen ondersteund, waaronder Nederlands",
+      "Beschikbaar op HTML5, Windows en Linux platforms"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Sort the Court",
+    "instructions": [
+      "Gebruik je toetsenbord, muis of gamepad voor de besturing.",
+      "Neem beslissingen door 'Ja' of 'Nee' te antwoorden op verschillende verzoeken.",
+      "Balans de behoeften van jouw mensen, rijkdom en leger.",
+      "Navigeer door willekeurige gebeurtenissen om jouw koninkrijk te laten groeien.",
+      "Speelsessies duren slechts enkele minuten, ideaal voor een korte pauze."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots van het Spel"
+  },
+  "playerReviews": {
+    "title": "Wat Spelers Zeggen",
+    "submitReviewLabel": "Indienen Review",
+    "nameLabel": "Naam",
+    "reviewLabel": "Beoordeling",
+    "submitButtonLabel": "Verstuur",
+    "reviews": [
+      {
+        "content": "Sort the Court is een schattig spelletje dat uren vermaak garandeert!",
+        "author": "Emily Thompson"
+      },
+      {
+        "content": "De beslissingen die je neemt hebben echt invloed op de uitkomst van jouw koninkrijk, en dat aspect vind ik geweldig.",
+        "author": "Brian Cooper"
+      },
+      {
+        "content": "De graphics zijn schattig en de muziek is een leuke aanvulling. Perfect voor casual gaming.",
+        "author": "Sophia Li"
+      },
+      {
+        "content": "Ik kan niet geloven dat ik het in 53 dagen heb voltooid! Een must-try voor strategieliefhebbers.",
+        "author": "Alex Russo"
+      },
+      {
+        "content": "Ik hoop dat het spel nog in ontwikkeling was. Het is leuk en verslavend!",
+        "author": "Michael Lee"
+      },
+      {
+        "content": "Een fantastisch simulatiespel dat simpel maar boeiend is.",
+        "author": "Lydia Green"
+      },
+      {
+        "content": "Ik kon het niet openen op mijn Mac, maar het werkte perfect op Windows.",
+        "author": "Jordan Hart"
+      },
+      {
+        "content": "Het spel wordt misschien niet meer bijgewerkt, maar het is nog steeds de moeite waard om te spelen!",
+        "author": "Chris Vance"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Veelgestelde Vragen",
+    "questions": [
+      {
+        "question":"Is Sort the Court nog steeds in actieve ontwikkeling?",
+        "answer":"Nee, Sort the Court is momenteel niet in actieve ontwikkeling."
+      },
+      {
+        "question":"Op welke platforms kan ik Sort the Court spelen?",
+        "answer":"Je kunt Sort the Court spelen op HTML5, Windows en Linux."
+      },
+      {
+        "question":"Zijn er problemen met systeembeschikbaarheid?",
+        "answer":"Het spel is al enkele jaren niet bijgewerkt, dus het kan problemen geven op nieuwere systemen."
+      },
+      {
+        "question":"Hoe sla ik mijn voortgang op?",
+        "answer":"Het spel heeft een autosavefunctie, zodat je voortgang automatisch wordt opgeslagen."
+      },
+      {
+        "question":"Kan ik Sort the Court op Mac spelen?",
+        "answer":"De downloadbare versie werkt mogelijk niet op Mac, maar je kunt proberen het in een browser te draaien."
+      },
+      {
+        "question":"Hoe kan ik een bugrapport indienen?",
+        "answer":"Je kunt bugrapporten indienen via de communityforums."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Aanbevolen Spellen",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Reigns",
+        "link": "https://linktogame.com/reigns"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Kingdoms and Castles",
+        "link": "https://linktogame.com/kingdomsandcastles"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Banished",
+        "link": "https://linktogame.com/banished"
+      }
+    ]
+  }
+}

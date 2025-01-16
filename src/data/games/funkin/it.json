@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Friday Night Funkin (FNF) - Il Gioco di Ritmo Definitivo | Gioca Ora",
+    "description": "Immergiti in Friday Night Funkin' (FNF), il fenomeno virale dei giochi di ritmo! Combatti in sfide musicali, esplora le mod della community e scopri il gioco che ha conquistato internet. Gratis da giocare, facile da imparare, difficile da padroneggiare!",
+    "keywords": "Friday Night Funkin, FNF, gioco di ritmo, battaglia rap, gioco Newgrounds, mod FNF, gioco musicale, gioco indie"
+  },
+  "hero": {
+    "h1": "Friday Night Funkin' - Dove la Musica Incontra la Sfida",
+    "p": "Unisciti a milioni di giocatori nel gioco di battaglia ritmica più popolare di internet. Affronta un cast colorato di personaggi in sfide musicali, dimostra le tue abilità ritmiche e diventa parte della nostra fiorente community!"
+  },
+  "gameFeatures": {
+    "title": "Cosa Rende FNF Speciale",
+    "features": [
+      "Colonna Sonora Virale Originale: Muoviti al ritmo di canzoni professionalmente realizzate che hanno catturato milioni",
+      "Community di Modding Attiva: Accedi a migliaia di personaggi, canzoni e livelli creati dalla community",
+      "Stile Artistico Classico: Goditi le animazioni e i design dei personaggi ispirati all'era Flash",
+      "Aggiornamenti Regolari: Sperimenta nuovi contenuti e caratteristiche mentre il gioco evolve continuamente",
+      "Sviluppo Open Source: Fai parte di un gioco che cresce con la sua community"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare",
+    "instructions": [
+      "Usa i tasti freccia (⬆️⬇️⬅️➡️) per seguire il ritmo delle note in arrivo",
+      "Colpisci le note con precisione per mantenere la tua salute e accumulare punti combo",
+      "Avanza nella Modalità Storia per sbloccare nuovi personaggi e tracce",
+      "Prova la Modalità Libera per esercitarti con le tue canzoni preferite",
+      "Esplora la sezione mod per scoprire contenuti creati dalla community"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "FNF in Azione"
+  },
+  "playerReviews": {
+    "title": "Feedback della Community",
+    "submitReviewLabel": "Condividi la Tua Esperienza con FNF",
+    "nameLabel": "Nome Utente",
+    "reviewLabel": "La Tua Recensione",
+    "submitButtonLabel": "Pubblica Recensione",
+    "reviews": [
+      {
+        "content": "La community di modding mantiene questo gioco fresco! C'è sempre qualcosa di nuovo da provare, e il gioco base è già stupendo.",
+        "author": "MaestroDelRitmo2023",
+        "rating": 5
+      },
+      {
+        "content": "Ho iniziato a giocare quando è diventato virale, non riesco ancora a smettere. La natura open-source lo rende ancora migliore!",
+        "author": "GiocatoreFunkin",
+        "rating": 5
+      },
+      {
+        "content": "Il miglior gioco di ritmo che ho giocato negli ultimi anni. La community continua a crescere e migliorare!",
+        "author": "GocciaDiRitmo",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "questions": [
+      {
+        "question": "Friday Night Funkin' è gratis da giocare?",
+        "answer": "Sì! Il gioco base è completamente gratuito su Newgrounds e altre piattaforme ufficiali."
+      },
+      {
+        "question": "Come posso installare le mod per FNF?",
+        "answer": "La maggior parte delle mod può essere scaricata da piattaforme di modificate fidate. Ogni mod di solito viene fornita con istruzioni per l'installazione, generalmente prevedono di posizionare i file nella directory del gioco."
+      },
+      {
+        "question": "Quali sono i requisiti di sistema minimi?",
+        "answer": "FNF è basato su browser e funziona sulla maggior parte dei computer moderni. Basta una tastiera e un browser web aggiornato per giocare!"
+      },
+      {
+        "question": "Posso creare le mie mod?",
+        "answer": "Assolutamente! FNF è open-source, e la community accoglie i nuovi creatori. Puoi trovare tutorial e risorse sul modding nei forum ufficiali della community."
+      },
+      {
+        "question": "Con quale frequenza viene aggiornato il gioco?",
+        "answer": "Il gioco base riceve aggiornamenti regolari dal team di sviluppo, mentre nuove mod della community vengono rilasciate quasi quotidianamente."
+      },
+      {
+        "question": "Esiste una versione mobile di FNF?",
+        "answer": "Sebbene ci siano alcune versioni mobili non ufficiali, la versione ufficiale è progettata per il gioco su desktop con tastiera."
+      }
+    ]
+  }
+}

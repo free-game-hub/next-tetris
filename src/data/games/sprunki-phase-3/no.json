@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Incredibox Sprunki Phase 3 - Lag din unike musikk",
+    "description": "Utforsk Incredibox Sprunki Phase 3, musikkspillet der kreativitet møter rytme. Bland lyder og lag dine egne spor med fargerike animasjoner.",
+    "keywords": "Incredibox, Sprunki Phase 3, musikkspill, musikkmaking, bland lyder, kreativ spilling, animerte karakterer, musikal komposisjon"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Phase 3",
+    "p": "Dyk inn i det livlige universet til Incredibox Sprunki Phase 3, der du kan slippe løs din musikalske kreativitet ved å mikse en rekke lyder, rytmer og melodier."
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner",
+    "features": [
+      "Interaktiv musikkmaking med dra og slipp-mekanismer.",
+      "Unike karakterer, hver representerer forskjellige musikalske elementer.",
+      "Harmonisk lyddeling for å lage personlige spor.",
+      "Visuell tilbakemelding med fargerike animasjoner og effekter.",
+      "Opptak og delingsmuligheter for å vise frem musikken din.",
+      "Uendelig re-spillbarhet med flere karakterkombinasjoner."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spillinstruksjoner",
+    "instructions": [
+      "Velg dine favoritt animerte karakterer som representerer ulike lydelementer.",
+      "Dra og slipp karakterer fra sidepanelet til lydbrettet for å begynne å lage musikk.",
+      "Eksperimenter med å legge lag på forskjellige karakterer for å lage unike melodier.",
+      "Nyt visuelle effekter som reagerer på din musikalske komposisjon.",
+      "Ta opp dine kreasjoner og del dem med venner eller Incredibox-samfunnet."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skjermbilder av Incredibox Sprunki Phase 3"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Ditt navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 3 er en fantastisk blanding av kreativitet og moro!",
+        "author": "Emily R."
+      },
+      {
+        "content": "Animasjonene og musikkelementene gjør det vanedannende underholdende.",
+        "author": "John D."
+      },
+      {
+        "content": "En fantastisk måte å utforske musikkmaking på uten tidligere erfaring.",
+        "author": "Sarah L."
+      },
+      {
+        "content": "Jeg elsker hvordan hver spilløkt gir en ny og unik opplevelse.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Perfekt for både seriøse musikere og casual spillere!",
+        "author": "Chris K."
+      },
+      {
+        "content": "Sprunki Phase 3 fanger gleden av å lage musikk uten anstrengelse.",
+        "author": "Anna G."
+      },
+      {
+        "content": "Delingsfunksjonen lar meg vise frem arbeidet mitt til venner enkelt.",
+        "author": "David P."
+      },
+      {
+        "content": "Uendelige muligheter og kombinasjoner! Blir aldri kjedelig.",
+        "author": "Laura H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte stilte spørsmål",
+    "questions": [
+      {
+        "question":"Hva er Incredibox Sprunki Phase 3?",
+        "answer":"Incredibox Sprunki Phase 3 er et musikkspill som lar spillere lage unike spor ved å blande forskjellige lyder og rytmer med animerte karakterer."
+      },
+      {
+        "question":"Hvordan spiller jeg Incredibox Sprunki Phase 3?",
+        "answer":"Velg animerte karakterer som representerer forskjellige musikalske elementer, dra dem over til lydbrettet, og bland for å lage ditt komposisjon."
+      },
+      {
+        "question":"Kan jeg dele musikkrealiseringene mine?",
+        "answer":"Ja, du kan ta opp og dele musikken din med venner eller Incredibox-samfunnet."
+      },
+      {
+        "question":"Hva er målet med spillet?",
+        "answer":"Målet er å lage harmonisk musikk ved strategisk å legge lag på karakterer og deres lyder."
+      },
+      {
+        "question":"Er Incredibox Sprunki Phase 3 egnet for alle aldre?",
+        "answer":"Ja, spillet er designet for å være underholdende for spillere i alle aldre."
+      },
+      {
+        "question":"Kan jeg spille Incredibox Sprunki Phase 3 flere ganger?",
+        "answer":"Absolutt! Med uendelige kombinasjoner er ingen to spilløkter like, noe som gir re-spillbarhet."
+      }
+    ]
+  }
+}

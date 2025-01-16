@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki x Regretevator - 創意平台冒險",
+    "description": "探索 Sprunki x Regretevator 的精彩世界，這是一款融合獨特遊玩方式、迷人畫面和謎題的跳台遊戲。學習如何掌握角色能力，克服障礙，並在這令人著迷的遊戲中解開謎題。",
+    "keywords": "Sprunki x Regretevator, 跳台遊戲, 解謎, 遊戲技巧, 角色能力, 多人模式"
+  },
+  "hero": {
+    "h1": "Sprunki x Regretevator",
+    "p": "在 Sprunki x Regretevator 的彩色世界中，挑戰自己，解開各種謎題。利用獨特的角色能力，探索並征服關卡，打敗敵人，提升你的遊玩體驗。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Regretevator 的特色",
+    "features": [
+      "引人入勝的平台遊戲，融入獨特的玩法元素。",
+      "迷人的畫面，讓遊戲世界栩栩如生。",
+      "流暢的角色動作，帶來無縫的遊玩體驗。",
+      "吸引人的音樂增強了遊戲的可玩性。",
+      "Sprunki 和 Regretevator 的特殊能力，帶來戰略性的遊玩方式。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki x Regretevator",
+    "instructions": [
+      "學習 Sprunki 和 Regretevator 的獨特技能來解謎。",
+      "仔細探索每個關卡以尋找隱藏獎勵。",
+      "掌握跳躍、滑行和牆面奔跑等技巧。",
+      "策略性地使用角色技能來克服謎題。",
+      "收集物品來解鎖強大的角色升級。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki x Regretevator 遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家對 Sprunki x Regretevator 的評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "一款創新的遊戲，畫面迷人！",
+        "author": "Alex"
+      },
+      {
+        "content": "謎題與動作的完美結合。強烈推薦！",
+        "author": "Jamie"
+      },
+      {
+        "content": "非常喜歡角色能力和關卡設計。",
+        "author": "Casey"
+      },
+      {
+        "content": "神奇的遊戲！音樂也很吸引人。",
+        "author": "Morgan"
+      },
+      {
+        "content": "具有挑戰性但又獎勵豐厚的遊玩體驗。必玩！",
+        "author": "Jordan"
+      },
+      {
+        "content": "和朋友一起的多人模式非常有趣！",
+        "author": "Taylor"
+      },
+      {
+        "content": "令人印象深刻的畫面和流暢的控制。",
+        "author": "Riley"
+      },
+      {
+        "content": "驚人的細節和引人入勝的劇情。",
+        "author": "Kris"
+      }
+    ]
+  },
+  "faq": {
+    "title": "關於 Sprunki x Regretevator 的常見問題",
+    "questions": [
+      {
+        "question": "Sprunki x Regretevator 可以在哪些平台上遊玩？",
+        "answer": "Sprunki x Regretevator 可以在 PC、Mac 和主要遊戲主機上遊玩。"
+      },
+      {
+        "question": "我可以和朋友一起玩 Sprunki x Regretevator 嗎？",
+        "answer": "是的，這款遊戲包含了一個多人模式，適合合作遊玩。"
+      },
+      {
+        "question": "Sprunki x Regretevator 的系統需求是什麼？",
+        "answer": "為了獲得最佳性能，請確保你的系統符合官方網站上列出的最低需求。"
+      },
+      {
+        "question": "Sprunki x Regretevator 內有購物選項嗎？",
+        "answer": "Sprunki x Regretevator 沒有內購選項；所有功能都可以通過遊玩解鎖。"
+      },
+      {
+        "question": "我如何為我的角色解鎖新能力？",
+        "answer": "收集遊戲中的物品來解鎖和升級角色能力。"
+      },
+      {
+        "question": "我可以在哪裡找到 Sprunki x Regretevator 的社區支援？",
+        "answer": "加入我們的在線社區論壇或社交媒體渠道，獲取支援並與其他玩家分享技巧。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推薦遊戲",
+    "games": [
+      {
+        "image": "sprunked-daytime-demo.jpg",
+        "title": "Sprunked (白天演示版)",
+        "link": "/sprunked-daytime-demo"
+      },
+      {
+        "image": "incredibox-v9.jpg",
+        "title": "Incredibox V9",
+        "link": "/incredibox-v9"
+      }
+    ]
+  }
+}

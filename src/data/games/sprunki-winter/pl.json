@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Zima - Doświadcz Spokojnego Piękna Zimy w Swojej Muzyce",
+    "description": "Mod Sprunki Zima zmienia Twoje doświadczenia muzyczne poprzez zimową estetykę, spokojne dźwięki i unikalną rozgrywkę. Dołącz teraz i ciesz się tworzeniem w śnieżnym raju.",
+    "keywords": "Sprunki Zima, mod muzyczny, zimowa gra muzyczna, cechy Sprunki Zima, jak grać w Sprunki Zima"
+  },
+  "hero": {
+    "h1": "Sprunki Zima",
+    "p": "Zanurz się w spokojnym pięknie zimy, podczas gdy Sprunki Zima owija Twoją muzyczną podróż w śnieżną magię. Twórz spokojne kompozycje w tej mroźnej krainie cudów."
+  },
+  "gameFeatures": {
+    "title": "Kluczowe Cechy Sprunki Zima",
+    "features": [
+      "Mroźna Estetyka: Ciesz się lodowymi bluesami, miękkimi bielami i fakturami śnieżynki.",
+      "Delikatne Dźwięki: Zatrzymaj się przy subtelnej perkusji i eterycznych melodiach.",
+      "Spokojny, Refleksyjny Nastrój: Zaangażuj się w wolniejsze, kontemplacyjne tworzenie muzyki.",
+      "Sezonowe Postacie: Ikony w ciepłych szalikach i zimowych klimatach.",
+      "Harmonia Wizualno-Dźwiękowa: Idealne połączenie obrazu i dźwięku, tworzące zimowe doświadczenie."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Mod Sprunki Zima",
+    "instructions": [
+      "Wybierz Postacie: Wybierz z postaci ubranych w zimowe stroje, aby uzyskać unikalne pętle.",
+      "Przeciągnij i Upuść: Nakładaj bity i melodie, aby uchwycić zimową Esencję.",
+      "Dostosuj Miks: Reguluj głośności, dodawaj efekty do spokojnych utworów.",
+      "Zapisz i Podziel się: Podziel się swoimi zimowymi kompozycjami z innymi.",
+      "Odkrywaj Wariacje: Eksperymentuj z różnymi kombinacjami postaci dla różnorodnych dźwięków."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu Gry Sprunki Zima"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Wyślij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Sprunki Zima to piękne połączenie sztuki i muzyki – to jak malowanie dźwiękiem.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Zimowa estetyka jest doskonale uchwycona; czuć jakby to był przytulny dzień w domu.",
+        "author": "James P."
+      },
+      {
+        "content": "Uwielbiam, jak gra pozwala mi się zrelaksować i być kreatywnym jednocześnie.",
+        "author": "Mira T."
+      },
+      {
+        "content": "Spokojne melodie i wizualizacje to idealna ucieczka od mojego zapracowanego dnia.",
+        "author": "Liam H."
+      },
+      {
+        "content": "Jako osoba, która kocha zimę, Sprunki Zima idealnie pasuje do mojego stylu muzycznego!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "Delikatne dźwięki gry są uspokajające i inspirujące dla moich kompozycji muzycznych.",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Fantastyczny sposób na spędzenie czasu na tworzeniu bez presji; po prostu piękne.",
+        "author": "Lucas M."
+      },
+      {
+        "content": "Bez dwóch zdań najlepszy mod muzyczny z jego zimowymi motywami i urzekającą rozgrywką.",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Co wyróżnia Sprunki Zima spośród innych modów muzycznych?",
+        "answer": "Sprunki Zima oferuje unikalną zimową estetykę i dźwięki, doskonale łącząc wizualizacje i dźwięk dla spokojnego doświadczenia w grze."
+      },
+      {
+        "question": "Jak mogę dzielić się swoimi twórczościami w Sprunki Zima?",
+        "answer": "Po skomponowaniu utworu, użyj funkcji 'Zapisz i Podziel się', aby łatwo podzielić się swoją muzyką z innymi."
+      },
+      {
+        "question": "Czy mogę dostosować postacie i pętle w grze?",
+        "answer": "Tak, możesz wybierać i łączyć różne postacie z unikalnymi pętlami, aby dostosować swoją muzykę."
+      },
+      {
+        "question": "Czy dostępna jest mobilna wersja Sprunki Zima?",
+        "answer": "Obecnie, Sprunki Zima jest dostępna na platformach komputerowych. Bądź na bieżąco z możliwością wydania mobilnego."
+      },
+      {
+        "question": "Czy dostępne są jakiekolwiek samouczki dla początkujących?",
+        "answer": "Tak, gra zawiera kompleksowy samouczek, który pomoże nowym graczom zacząć."
+      },
+      {
+        "question": "Czy Sprunki Zima obsługuje wiele języków?",
+        "answer": "Sprunki Zima obecnie obsługuje język angielski, a w przyszłych aktualizacjach planowane są dodatkowe opcje językowe."
+      }
+    ]
+  }
+}

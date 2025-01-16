@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 9 - Plongez dans un Plateforme Basé sur le Rythme",
+    "description": "Explorez la combinaison unique de rythme et de plateforme dans Sprunki Phase 9. Créez de la musique, relevez des défis et plongez dans un monde onirique captivant.",
+    "keywords": "Sprunki Phase 9, jeu basé sur le rythme, plateforme, création musicale, style Incredibox"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 9",
+    "p": "Vivez la fusion unique de gameplay basé sur le rythme et de plateforme dans le monde vibrant de Sprunki Phase 9. Créez de la musique et découvrez des défis dans un cadre d'un autre monde."
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques Clés de Sprunki Phase 9",
+    "features": [
+      "Création Musicale Élargie : Créez des compositions complètes avec plusieurs couches sonores.",
+      "Amélioration des Capacités des Personnages : Utilisez des sauts rythmiques et des boosts de rythme.",
+      "Casse-têtes et Obstacles Basés sur le Rythme : Synchronisez vos actions avec la bande sonore.",
+      "Environnements Interactifs : Réagissent aux créations musicales du joueur.",
+      "Rencontres de Boss avec Stratégies Musicales : Coordonnez vos actions pour surmonter les défis."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer à Sprunki Phase 9",
+    "instructions": [
+      "Naviguez à travers des défis de plateforme pour débloquer des couches sonores.",
+      "Mélangez des rythmes, des mélodies et des voix pour créer des bandes sonores sur mesure.",
+      "Maîtrisez les casse-têtes basés sur le rythme avec un timing précis de la bande sonore.",
+      "Alternez entre les personnages pour adapter la musique et les stratégies de jeu.",
+      "Coordonnez les couches musicales pour vaincre les boss de niveau."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran de Sprunki Phase 9"
+  },
+  "playerReviews": {
+    "title": "Ce que les Joueurs Disent de Sprunki Phase 9",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Les casse-têtes basés sur le rythme sont à la fois difficiles et amusants !",
+        "author": "Alex R."
+      },
+      {
+        "content": "J'adore les environnements interactifs et comment ils réagissent à ma musique.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Passer d'un personnage à l'autre ajoute une couche stratégique au gameplay.",
+        "author": "Sam T."
+      },
+      {
+        "content": "La bande sonore que je crée en jouant est incroyablement immersive.",
+        "author": "Casey D."
+      },
+      {
+        "content": "La Phase 9 élève la série Sprunki à un autre niveau grâce à son intégration musicale.",
+        "author": "Taylor F."
+      },
+      {
+        "content": "Les visuels oniriques sont époustouflants et captivants.",
+        "author": "Morgan E."
+      },
+      {
+        "content": "Les combats de boss avec des stratégies musicales sont uniques et satisfaisants.",
+        "author": "Jordan K."
+      },
+      {
+        "content": "Sprunki Phase 9 est un mélange parfait de musique et de jeu.",
+        "author": "Riley B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées sur Sprunki Phase 9",
+    "questions": [
+      {
+        "question": "Sur quelles plateformes Sprunki Phase 9 est-il disponible ?",
+        "answer": "Sprunki Phase 9 est disponible sur PC, Xbox, PlayStation et Nintendo Switch."
+      },
+      {
+        "question": "Puis-je personnaliser la musique dans chaque niveau ?",
+        "answer": "Oui, vous pouvez expérimenter avec des rythmes, des lignes de basse et des pistes vocales pour créer des mixes uniques."
+      },
+      {
+        "question": "Y a-t-il des options multijoueurs dans Sprunki Phase 9 ?",
+        "answer": "Actuellement, Sprunki Phase 9 se concentre sur une expérience solo."
+      },
+      {
+        "question": "Comment fonctionnent les rencontres de boss ?",
+        "answer": "Les joueurs utilisent stratégiquement leurs couches musicales pour influencer et affaiblir le boss."
+      },
+      {
+        "question": "Y a-t-il un tutoriel pour aider à commencer ?",
+        "answer": "Oui, le jeu comprend un tutoriel qui guide les joueurs à travers les bases du gameplay."
+      },
+      {
+        "question": "Puis-je rejouer les niveaux pour créer différentes bandes sonores ?",
+        "answer": "Absolument, les niveaux peuvent être rejoués pour explorer de nouvelles combinaisons musicales."
+      }
+    ]
+  }
+}

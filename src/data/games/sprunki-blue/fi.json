@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - Rauhaisa Musiikkiseikkailu",
+    "description": "Tutustu Sprunki Blueen, immersiiviseen pelimodiin, joka muuttaa pelikokemuksesi rauhoittavalla sinisellä värimaailmalla ja harmonisilla äänimaisemilla.",
+    "keywords": "Sprunki Blue, Sprunki Blue Mod, pelimodi, yksivärinen estetiikka, rauhoittavat äänimaisemat, rauhoittava musiikkipeli"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "Sukella rauhoittavaan pelimaailmaan, jossa serenit siniset värit ja harmoniset äänimaisemat määrittävät uudelleen musiikkiseikkailusi."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Bluen Keskeiset Ominaisuudet",
+    "features": [
+      "Yksivärinen Estetiikka: Koe rauhoittava sininen värimaailma, joka yhdistää pelin kaikki elementit.",
+      "Rauhoittavat Äänimaisemat: Tutki monipuolisia melodioita ja harmonioita, joita täydentävät rauhoittavat visuaalit.",
+      "Meditatiivinen Tunnelma: Keskity musiikin luomiseen ilman moniväristen elementtien häiriötekijöitä.",
+      "Mukautettavat Hahmot: Valitse hahmoja rauhoittavissa sinisissä sävyissä, joista jokaisella on ainutlaatuisia efektejä.",
+      "Jaa Luomuksesi: Tallenna ja jaa sielukkaita sävellyksiäsi Sprunki-yhteisön kanssa."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Bluea",
+    "instructions": [
+      "Valitse Hahmot: Valitse lempihahmosi, joista jokainen tarjoaa ainutlaatuisia silmukoita ja efektejä.",
+      "Vedä ja Pudota: Aseta hahmot näytölle luodaksesi virkistäviä äänikerroksia.",
+      "Kokeile ja Viimeistele: Säädä äänenvoimakkuuksia ja vaihda hahmoja täydentääksesi kappalettasi.",
+      "Tallenna ja Jaa: Jaa rauhoittavia musiikkiluomuksiasi muiden pelaajien kanssa.",
+      "Tutki Muunnelmia: Kehitä jatkuvasti äänimaisemaasi mielentilasi mukaan."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Kuvakaappaukset pelistä Sprunki Blue"
+  },
+  "playerReviews": {
+    "title": "Pelaajat arvioivat Sprunki Bluea",
+    "submitReviewLabel": "Lähetä Arviosi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arviosi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki Blue tarjoaa ainutlaatuisen ja rauhoittavan kokemuksen, joka on täydellinen pitkän päivän jälkeen.",
+        "author": "John Doe"
+      },
+      {
+        "content": "Yksivärinen design on visuaalisesti viehättävä ja lisää immersiivistä kokemusta.",
+        "author": "Jane Smith"
+      },
+      {
+        "content": "Rakastan äänimaisemia. Ne auttavat minua keskittymään ja rentoutumaan samaan aikaan.",
+        "author": "Eric Wong"
+      },
+      {
+        "content": "Kaunis yhdistelmä rauhoittavia visuaaleja ja ääniä. Ehdottomasti suositeltavaa!",
+        "author": "Anna Lee"
+      },
+      {
+        "content": "Tämä pelimodi antaa minun olla rauhoittavan musiikin säveltäjä.",
+        "author": "Mark Johnson"
+      },
+      {
+        "content": "Sprunki Blue muuttaa Sprunki-kokemuksen rauhoittavaksi matkaksi.",
+        "author": "Sophia Brown"
+      },
+      {
+        "content": "Sinisen värimaailman yksinkertaisuus ja kauneus ovat vertaansa vailla.",
+        "author": "Chris Evans"
+      },
+      {
+        "content": "On uskomatonta, kuinka väri muutos voi parantaa koko pelin tunnelmaa.",
+        "author": "Laura Green"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset Sprunki Bluesta",
+    "questions": [
+      {
+        "question":"Mikä on Sprunki Blue?",
+        "answer":"Sprunki Blue on alkuperäisen Sprunki-pelin modifikaatio, joka sisältää yhdenmukaisen sinisen värimaailman ja rauhoittavat äänimaisemat."
+      },
+      {
+        "question":"Kuinka voin tallentaa musiikkiani Sprunki Bluessa?",
+        "answer":"Kun olet tyytyväinen kappaleesi, pelissä on mahdollisuus tallentaa ja jakaa musiikkiasi."
+      },
+      {
+        "question":"Voinko pelata Sprunki Bluea useilla laitteilla?",
+        "answer":"Kyllä, Sprunki Blue on saatavilla yhteensopivilla laitteilla, jotka tukevat alkuperäistä Sprunki-peliä."
+      },
+      {
+        "question":"Onko yhteisö, jossa voin jakaa luomuksia?",
+        "answer":"Kyllä, pelaajat voivat jakaa luomuksiaan Sprunki-yhteisössä ja nauttia muiden musiikkisävellyksistä."
+      },
+      {
+        "question":"Tarvitsenko aiempaa musiikkikokemusta pelatakseni?",
+        "answer":"Ei, Sprunki Blue on suunniteltu kaikentasoisille pelaajille, jotta he voivat helposti luoda ja nauttia musiikista."
+      },
+      {
+        "question":"Onko Sprunki Blue Modin käyttöön liittyviä kustannuksia?",
+        "answer":"Sprunki Blue on saatavilla ilmaisena päivityksenä olemassa oleville Sprunki-pelin omistajille."
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Suositellut Pelit",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Red",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Chill Harmonics",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Melodic Ocean",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

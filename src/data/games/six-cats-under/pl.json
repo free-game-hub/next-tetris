@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sześć Kotów Pod - Urokliwa Przygoda z Łamigłówkami",
+    "description": "Odkryj 'Sześć Kotów Pod', urokliwą grę typu point-and-click, w której wykorzystujesz moce poltergeista, aby uratować swoją gromadę kotów. Oceniana na 4.8/5 przez graczy.",
+    "keywords": "Sześć Kotów Pod, gra łamigłówkowa, point-and-click, gra ratunkowa kotów, game jam, moce duchów, oceny Sześciu Kotów Pod"
+  },
+  "hero": {
+    "h1": "Sześć Kotów Pod",
+    "p": "Zanurz się w 'Sześciu Kotach Pod', uroczej grze typu point-and-click, w której twoje moce poltergeista pomagają prowadzić ukochane koty do bezpieczeństwa."
+  },
+  "gameFeatures": {
+    "title": "Cechy Gry",
+    "features": [
+      "Unikalna rozgrywka typu point-and-click",
+      "Urokliwa sztuka pikselowa i animacje",
+      "Wciągająca narracja z elementami nadprzyrodzonymi",
+      "Idealna dla miłośników kotów i entuzjastów łamigłówek",
+      "Krótka i przyjemna rozgrywka, doskonała na szybkie sesje"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sześć Kotów Pod",
+    "instructions": [
+      "Użyj myszy, aby wchodzić w interakcję z obiektami i prowadzić swoje koty.",
+      "Wykorzystaj moce poltergeista, aby przemieszczać przedmioty i otwierać drogi.",
+      "Rozwiązuj łamigłówki, aby przejść przez poziomy i uratować wszystkie koty.",
+      "Zwróć uwagę na wizualne wskazówki i podpowiedzi w grze.",
+      "Ciesz się narracją i uroczymi interakcjami z przyjaciółmi futrzakami."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sześć Kotów Pod - Zrzuty Ekranu Gry"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Wyślij Swoją Opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Urocza gra! Świetne animacje i niesamowite koty.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Jako właściciel kota, ta gra mocno do mnie przemawia. Prawdziwa perła!",
+        "author": "gecko"
+      },
+      {
+        "content": "Uroczo słodka gra... biedny Goldy! Wzruszająca, a jednocześnie emocjonalna.",
+        "author": "magerites"
+      },
+      {
+        "content": "Unikalne łamigłówki i wiele uroczych momentów. Podobało mi się!",
+        "author": "DLGames"
+      },
+      {
+        "content": "Połączenie uroku z odrobiną smutku sprawia, że ta gra wyróżnia się na tle innych.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Fantastyczna gra! Ukończyłem ją w 15 minut i każdą chwilę spędzoną w niej uwielbiałem.",
+        "author": "MCG"
+      },
+      {
+        "content": "Zarówno urocza, jak i smutna, ale naprawdę zabawna! Wspaniałe doświadczenie ogólnie.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Koty są urocze, a aspekt pomocy ducha jest unikalny. Gorąco polecam!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Na jakich platformach jest dostępne Sześć Kotów Pod?",
+        "answer": "Sześć Kotów Pod jest dostępne na HTML5, Windows, macOS i Linux."
+      },
+      {
+        "question": "Ile czasu zajmuje ukończenie gry?",
+        "answer": "Średnia sesja trwa około pół godziny, co zapewnia szybkie, ale przyjemne doświadczenie."
+      },
+      {
+        "question": "Czy 'Sześć Kotów Pod' jest odpowiednia dla wszystkich grup wiekowych?",
+        "answer": "Tak, gra została zaprojektowana, aby cieszyć się nią przez graczy w każdym wieku, zwłaszcza miłośników kotów."
+      },
+      {
+        "question": "Jakie są minimalne wymagania do uruchomienia gry?",
+        "answer": "Gra jest lekka i może działać na większości systemów obsługujących HTML5 lub odpowiednie wersje systemu operacyjnego."
+      },
+      {
+        "question": "Czy gra może być grana offline?",
+        "answer": "Pobieralne wersje na Windows, macOS i Linux można grać offline po zainstalowaniu."
+      },
+      {
+        "question": "Kto stworzył 'Sześć Kotów Pod'?",
+        "answer": "Gra została stworzona przez zespół Bean Loop i Mosu, z udziałem Milesa Äijälä, Robina Swifta, Tomasa Beržinskasa i Alexa Martina."
+      }
+    ]
+  }
+}

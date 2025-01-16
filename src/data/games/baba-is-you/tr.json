@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "title": "Baba is You - Yenilikçi Bulmaca Oyunu",
+        "description": "'Baba is You' adlı ödüllü bulmaca oyununu keşfedin, bu oyunda zorlukları çözmek için kuralları değiştirebilirsiniz. Şimdi mantığınızı ve yaratıcılığınızı test edin!",
+        "keywords": "Baba is You, Baba is You oyunu, bulmaca oyunu, yaratıcı bulmaca oyunu, bağımsız oyun"
+    },
+    "hero": {
+        "h1": "Baba is You - Kuralları Değiştir, Mantığını Zorla!",
+        "p": "'Baba is You', bulmacaları çözmek için tamamen yeni yollar oluşturmak üzere kural bloklarını manipüle ettiğiniz benzersiz bir bulmaca oyunudur. Bu eleştirel beğeni toplayan oyuna dalış yapın ve yaratıcılığınızı serbest bırakın!"
+    },
+    "gameFeatures": {
+        "title": "Oyun Özellikleri",
+        "features": [
+            "Yenilikçi mekanikler: Kural bloklarını hareket ettirerek oyunun kurallarını değiştirin.",
+            "Çeşitli seviye tasarımı: Mantıksal düşüncenizi zorlayan 200'den fazla seviye.",
+            "Platformlar arası destek: PC, Nintendo Switch, Google Play ve App Store'da mevcut.",
+            "Ödüllü oynanış: Bağımsız Oyunlar Festivali'nin En İyi Tasarım Ödülü ve İzleyici Ödülü sahibi.",
+            "Sonsuz yaratıcılık: Sayısız çözümleri keşfedin ve hayal gücünüzü serbest bırakın."
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Nasıl Oynanır",
+        "instructions": [
+            "'Baba is You'yu cihazınıza indirin ve yükleyin.",
+            "'Baba Is You' ve 'Bayrak Is Win' gibi temel kural bloklarına aşina olun.",
+            "Oyun mantığını değiştirmek ve hedeflerinize ulaşmak için kural bloklarını hareket ettirin.",
+            "Seviye hedeflerini tamamlayın (örneğin, bayrağa dokunmak) ve kazanın.",
+            "Mantığınızı ve yaratıcılığınızı zorlayarak oyunun tadını çıkarın!"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Oyun Ekran Görüntüleri"
+    },
+    "playerReviews": {
+        "title": "Oyuncu Yorumları",
+        "submitReviewLabel": "Yorumunuzu Gönderin",
+        "nameLabel": "Adınız",
+        "reviewLabel": "Yorumunuz",
+        "submitButtonLabel": "Gönder",
+        "reviews": [
+            {
+                "content": "'Baba is You' akıl almaz bir oyun! Kuralları manipüle etme özgürlüğü onu inanılmaz eğlenceli kılıyor.",
+                "author": "John Doe",
+                "rating": 5
+            },
+            {
+                "content": "Bu oyunun tasarımı çok yaratıcı. Her seviye zorlayıcı ama son derece ödüllendirici hissettiriyor!",
+                "author": "Jane Smith",
+                "rating": 5
+            },
+            {
+                "content": "Sanat tarzından oynanışa kadar, 'Baba is You' taze bir soluk. Bulmaca hayranları için şiddetle tavsiye edilir!",
+                "author": "Alex Johnson",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "questions": [
+            {
+                "question": "'Baba is You' hangi platformlarda mevcut?",
+                "answer": "Oyun PC, Nintendo Switch, Google Play ve App Store'da mevcut."
+            },
+            {
+                "question": "Oyun her yaşa uygun mu?",
+                "answer": "Evet, 'Baba is You' her yaş için uygun bir bulmaca oyunudur."
+            },
+            {
+                "question": "Oyun içi satın alımlar içeriyor mu?",
+                "answer": "Oyun bir kere satın alındıktan sonra tüm seviyeler ek satın alımlar olmadan dahil edilir."
+            },
+            {
+                "question": "'Baba is You'yu nereden indirebilirim?",
+                "answer": "Oyunu Steam, Google Play ve App Store gibi büyük platformlardan indirebilirsiniz."
+            },
+            {
+                "question": "Oyun birden fazla dili destekliyor mu?",
+                "answer": "Evet, 'Baba is You' İngilizce ve Çince dahil olmak üzere birden fazla dili destekler."
+            },
+            {
+                "question": "Topluluk kaynakları veya kılavuzlar var mı?",
+                "answer": "Çeşitli sosyal medya platformları ve forumlarda topluluk kaynakları ve kılavuzlar bulabilirsiniz."
+            }
+        ]
+    }
+}

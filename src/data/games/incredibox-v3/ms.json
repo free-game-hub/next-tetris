@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V3: Cipta Musik Anda Sendiri",
+    "description": "Temui Incredibox V3, permainan muzik di mana anda mencampurkan irama dan mencipta trek unik. Jelajahi ciri-ciri baru, runut bunyi, dan visual yang menarik.",
+    "keywords": "Incredibox V3, permainan muzik, cipta irama, permainan interaktif, pencampuran bunyi"
+  },
+  "hero": {
+    "h1": "Incredibox V3",
+    "p": "Lepaskan kreativiti anda dengan Incredibox V3, permainan muzik interaktif di mana anda boleh mencipta irama anda sendiri menggunakan pelbagai bunyi dan watak."
+  },
+  "gameFeatures": {
+    "title": "Ciri-Ciri Incredibox V3",
+    "features": [
+      "Penciptaan muzik interaktif dengan watak animasi",
+      "Sistem pencampuran bunyi secara seret dan lepas",
+      "Visual yang cerah dan menarik",
+      "Pelbagai bunyi termasuk melodi, kesan, dan vokal",
+      "Rekod dan kongsi trek muzik anda"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Incredibox V3",
+    "instructions": [
+      "Pilih bunyi, irama, dan kesan yang berbeza untuk diberikan kepada watak animasi.",
+      "Seret dan lepas ikona bunyi ke atas watak untuk mencipta muzik secara langsung.",
+      "Eksperimen dengan kombinasi bunyi untuk mencipta trek unik.",
+      "Gunakan tetikus atau papan kekunci untuk berinteraksi dengan permainan.",
+      "Rekod dan kongsi muzik anda atau sertai pertandingan komuniti."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Incredibox V3"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain untuk Incredibox V3",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Incredibox V3 memang sangat menyeronokkan, gabungan sempurna antara kreativiti dan hiburan.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Runut bunyi dan visual baru sentiasa membuatkan saya ingin bermain lagi!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "Permainan yang sederhana tetapi menarik ini membolehkan saya meneroka kreativiti muzik saya.",
+        "author": "David R."
+      },
+      {
+        "content": "Saya suka warna yang terang dan irama yang menarik dalam Incredibox V3!",
+        "author": "Ella M."
+      },
+      {
+        "content": "Sesuai untuk semua peringkat usia, mudah dimainkan dan sangat mengasyikkan.",
+        "author": "Liam T."
+      },
+      {
+        "content": "Ciri seret dan lepas sangat intuitif dan menjadikan penciptaan muzik sangat menyeronokkan.",
+        "author": "Olivia K."
+      },
+      {
+        "content": "Sesuai untuk pencinta muzik yang suka bereksperimen dengan bunyi yang berbeza.",
+        "author": "Mason B."
+      },
+      {
+        "content": "Incredibox V3 menawarkan gabungan visual dan audio yang menakjubkan. Sangat disyorkan!",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim tentang Incredibox V3",
+    "questions": [
+      {
+        "question": "Apa itu Incredibox V3?",
+        "answer": "Incredibox V3 adalah permainan penciptaan muzik di mana anda mencampurkan pelbagai bunyi untuk mencipta trek muzik anda sendiri menggunakan watak animasi."
+      },
+      {
+        "question": "Bagaimana cara bermain Incredibox V3?",
+        "answer": "Gunakan tetikus atau papan kekunci untuk menyeret dan melepaskan ikon bunyi ke atas watak animasi dan mencipta muzik secara langsung."
+      },
+      {
+        "question": "Bolehkah saya merakam dan berkongsi muzik saya?",
+        "answer": "Ya, anda boleh merakam trek muzik anda dan membagikannya atau menyertai pertandingan dalam komuniti permainan."
+      },
+      {
+        "question": "Di platform manakah Incredibox V3 boleh dimainkan?",
+        "answer": "Incredibox V3 boleh dimainkan secara dalam talian dan di pelbagai platform aplikasi."
+      },
+      {
+        "question": "Adakah terdapat pelbagai kategori bunyi untuk dipilih?",
+        "answer": "Ya, terdapat beberapa kategori bunyi termasuk melodi, kesan, perkusi, dan vokal."
+      },
+      {
+        "question": "Adakah Incredibox V3 sesuai untuk semua peringkat usia?",
+        "answer": "Ya, Incredibox V3 direka untuk pemain dari semua peringkat usia dan menawarkan pengalaman yang menyeronokkan dan menarik."
+      }
+    ]
+  }
+}

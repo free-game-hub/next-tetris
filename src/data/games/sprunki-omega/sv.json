@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Omega Mod - Kosmisk Musikskapande i Sprunki Incredibox",
+    "description": "Upptäck Sprunki Omega Mod, en banbrytande tillägg i Sprunki Incredibox-universumet. Fördjupa dig i förbättrade visuella effekter, futuristiska ljud och fängslande karaktärsdesign.",
+    "keywords": "Sprunki Omega Mod, Sprunki Incredibox, musikskapande, futuristiska ljud, spelmod"
+  },
+  "hero": {
+    "h1": "Sprunki Omega Mod",
+    "p": "Upplev en episkt resa i musikskapande med Sprunki Omega Mod, som förenar futuristisk estetik med innovativ spelmekanik."
+  },
+  "gameFeatures": {
+    "title": "Egenskaper i Sprunki Omega Mod",
+    "features": [
+      "Futuristisk Karaktärsdesign: Förbättrade, kosmiskt inspirerade karaktärer med eleganta estetiska drag.",
+      "Avancerade Ljud Effekter: Ett rikt bibliotek av futuristiska beats och omgivande melodier.",
+      "Fängslande Visuals: En livfull gränssnitt som kompletterar modets expansiva tema.",
+      "Utmanande Spel: Engagera dig med nya funktioner och kombinationer.",
+      "Kosmisk Kreativitet: Utforska en ny nivå av djup i musikskapande."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så här spelar du Sprunki Omega Mod",
+    "instructions": [
+      "Välj Omega Karaktärer: Dra och släpp Omega-tematiserade Sprunki-karaktärer.",
+      "Blanda Avancerade Spår: Kombinera intrikata beats för att skapa dynamiska låtar.",
+      "Lås Upp Episk Bonusar: Upptäck bonusar genom karaktärskombinationer.",
+      "Dela Din Mästerverk: Spara och dela musikspår med gemenskapen.",
+      "Utmana Remixare: Bjud in andra att remixera dina skapelser."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar av Sprunki Omega Mod"
+  },
+  "playerReviews": {
+    "title": "Spelrecensioner",
+    "submitReviewLabel": "Skicka Din Recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Karaktärsdesignen är fantastisk, och spelet är fängslande!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Ett otroligt mod som tar Sprunki till nya höjder!",
+        "author": "Sam T."
+      },
+      {
+        "content": "Jag älskar den kosmiska stämningen och det utmanande spelet.",
+        "author": "Mia L."
+      },
+      {
+        "content": "De futuristiska ljudeffekterna är helt amazing.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega är ett mod du inte vill missa.",
+        "author": "Noah P."
+      },
+      {
+        "content": "Perfekt för remixentusiaster som söker en utmaning.",
+        "author": "Liam K."
+      },
+      {
+        "content": "Visuella effekterna är fantastiska och verkligen fängslande.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "Det är ett fantastiskt musikaliskt äventyr som jag rekommenderar till alla fans!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är Sprunki Omega Mod?",
+        "answer": "Sprunki Omega Mod är ett avancerat mod för Sprunki Incredibox, med futuristiska ljud och visuella effekter."
+      },
+      {
+        "question": "Hur låser jag upp bonusar i spelet?",
+        "answer": "Experimentera med unika karaktärskombinationer för att upptäcka dolda bonusar."
+      },
+      {
+        "question": "Kan jag dela mina musikspår?",
+        "answer": "Ja, du kan spara och dela dina musikspår med Sprunki-gemenskapen."
+      },
+      {
+        "question": "Finns det nya karaktärer i modet?",
+        "answer": "Ja, modet inkluderar futuristiska Omega-tematiserade Sprunki-karaktärer."
+      },
+      {
+        "question": "Är Sprunki Omega Mod lämpligt för nybörjare?",
+        "answer": "Även om modet har utmanande element, är det tillgängligt för nykomlingar."
+      },
+      {
+        "question": "Var kan jag ladda ner Sprunki Omega Mod?",
+        "answer": "Du kan ladda ner det från den officiella Sprunki Incredibox-webbplatsen eller auktoriserade modplattformar."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Rekommenderade Spel",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki Galaxy Äventyr",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox Sol Remix",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "Kosmisk Beatbox Resa",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

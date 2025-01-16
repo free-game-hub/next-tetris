@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - 楽しい冒険ゲーム | 今すぐプレイ",
+    "description": "Sprunkiの魅力的な世界に参加しよう！この冒険ゲームのルール、機能、レビューを発見し、今すぐSprunkiをプレイしてエピックな旅に出かけよう。",
+    "keywords": "Sprunki, Sprunkiゲーム, 冒険ゲーム, Sprunkiをプレイ, Sprunki機能, ゲームルール"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Sprunkiの刺激的な冒険に飛び込もう。すべてのキャラクターがエピックな旅に出発します。何千人ものプレイヤーとともにSprunkiの魅力的な世界を体験しよう。"
+  },
+  "gameFeatures": {
+    "title": "Sprunkiのゲーム機能",
+    "features": [
+      "魅力的なキャラクターによる没入感のあるストーリーライン。",
+      "Sprunkiの世界を生き生きと描く美しいグラフィック。",
+      "スキルを試すインタラクティブなゲームプレイ。",
+      "友達とチームを組めるマルチプレイヤーモード。",
+      "終わりのない楽しみのための定期的な更新と新コンテンツ。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunkiのプレイ方法",
+    "instructions": [
+      "公式サイトやアプリストアからSprunkiアプリをダウンロードします。",
+      "キャラクターを作成し、見た目をカスタマイズします。",
+      "矢印キーまたはタッチスクリーンを使ってレベルを進む。",
+      "クエストをクリアして報酬を得て、ゲームを進めます。",
+      "他のプレイヤーとチームを組んで挑戦的なミッションを攻略します。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkiの世界を探検しよう"
+  },
+  "playerReviews": {
+    "title": "プレイヤーレビュー",
+    "submitReviewLabel": "あなたのレビューを投稿",
+    "nameLabel": "あなたの名前",
+    "reviewLabel": "あなたのレビュー",
+    "submitButtonLabel": "投稿する",
+    "reviews": [
+      {
+        "content": "Sprunkiは久しぶりに楽しんでいるゲームです！キャラクターやストーリーがとても魅力的です。",
+        "author": "JaneD"
+      },
+      {
+        "content": "美しいグラフィックと中毒性のあるゲームプレイを持つ素晴らしいゲームです！",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "マルチプレイヤーモードが大好きです。友達と遊ぶのは最高です！",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunkiは更新のたびにどんどん良くなっています。非常におすすめです！",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "挑戦はソロゲーミングセッションや友達との楽しい時間に最適です。",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "子供から大人まで楽しめる素晴らしいゲーム。家族全員が大好きです！",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "ユニークなキャラクターとクリエイティブなクエストがSprunkiを際立たせています。",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "数ヶ月Sprunkiをプレイしています。引き込まれて、全然飽きません！",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title": "よくある質問",
+    "questions": [
+      {
+        "question": "Sprunkiはどこでダウンロードできますか？",
+        "answer": "Sprunkiは公式ウェブサイトや主要なアプリストアからダウンロードできます。"
+      },
+      {
+        "question": "Sprunkiはすべてのデバイスに対応していますか？",
+        "answer": "はい、SprunkiはPC、iOS、Androidデバイスで利用可能です。"
+      },
+      {
+        "question": "Sprunkiをプレイするにはインターネット接続が必要ですか？",
+        "answer": "マルチプレイヤー機能にはインターネット接続が必要ですが、オフラインのソロミッションもプレイできます。"
+      },
+      {
+        "question": "ゲーム内購入はありますか？",
+        "answer": "はい、Sprunkiではキャラクターのカスタマイズや新コンテンツのためのオプションのゲーム内購入が提供されています。"
+      },
+      {
+        "question": "新しいコンテンツはどのくらいの頻度でリリースされますか？",
+        "answer": "新しいコンテンツや更新は定期的にリリースされ、ゲームを新鮮でエキサイティングに保っています。"
+      },
+      {
+        "question": "友達と一緒にSprunkiをプレイできますか？",
+        "answer": "もちろんです！Sprunkiでは友達や他のオンラインプレイヤーと一緒にプレイできるマルチプレイヤーモードを提供しています。"
+      }
+    ]
+  }
+}

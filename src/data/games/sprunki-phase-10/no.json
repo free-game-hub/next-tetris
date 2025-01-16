@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 - Det ultimate musikkblanding spillet",
+    "description": "Oppdag Sprunki Phase 10, et fengslende musikkblandingsspill som tilbyr kreativ frihet, unike karakterer og endeløse musikalske muligheter.",
+    "keywords": "Sprunki Phase 10, musikkblanding spill, musikalsk komposisjon, musikkspill"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10",
+    "p": "Dykk ned i verdenen av Sprunki Phase 10 - der kreativitet møter musikk. Eksperimenter med musikalske elementer og skap dine unike komposisjoner."
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner",
+    "features": [
+      "Kreativ Frihet: Uttrykk deg musikalsk uten avanserte ferdigheter.",
+      "Visuell & Lydmessig Appell: Nyt levende visuelle effekter og fengende lyder.",
+      "Gjenspillingsverdi: Utforsk forskjellige kombinasjoner for nye lyder og bonuser.",
+      "Unike Karakterer: Hver karakter produserer distinkte lyder for uendelig kreativitet.",
+      "Interaktive Bonuser: Lås opp spesielle spor og visuelle effekter gjennom eksperimentering."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Sprunki Phase 10",
+    "instructions": [
+      "Velg Karakterer: Velg fra karakterer med unike lyder.",
+      "Mix & Match: Dra og slipp for å lage ditt eget musikalske spor.",
+      "Lås Opp Bonuser: Oppdag kombinasjoner som låser opp spesielle animasjoner.",
+      "Eksperimenter: Fortsett å utforske nye lyder for uendelige muligheter.",
+      "Del Dine Kreasjoner: La andre nyte dine musikalske mesterverk."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skjermbilder fra Spillet"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 10 er et fantastisk musikkspill! Det er enkelt å utforske og lage fantastiske melodier.",
+        "author": "Alice"
+      },
+      {
+        "content": "Jeg elsker kreativiteten det tilbyr. Jeg kan eksperimentere med forskjellige lyder uten å være en musikkekspert.",
+        "author": "Bob"
+      },
+      {
+        "content": "Den visuelle appellen kombinert med de fengende lydene gjør det til et engasjerende spill for alle aldre.",
+        "author": "Chris"
+      },
+      {
+        "content": "Hver spilling gir noe nytt. Gjenspillingsverdien er en av de beste delene av Sprunki Phase 10.",
+        "author": "Dana"
+      },
+      {
+        "content": "Å låse opp bonuser er min favorittdel. Det er så givende å se nye animasjoner.",
+        "author": "Evan"
+      },
+      {
+        "content": "Jeg kan ikke slutte å spille! De unike karakterene gir en frisk tilnærming til musikkspill.",
+        "author": "Fiona"
+      },
+      {
+        "content": "Som musikkelsker har Sprunki Phase 10 overgått mine forventninger. Anbefales på det sterkeste!",
+        "author": "George"
+      },
+      {
+        "content": "Flott spill! Perfekt for å slappe av og oppdage nye musikalske kombinasjoner.",
+        "author": "Hannah"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanlige Spørsmål",
+    "questions": [
+      {
+        "question": "Hva er målet med Sprunki Phase 10?",
+        "answer": "Målet er å kreativt blande ulike musikalske elementer for å lage unike komposisjoner."
+      },
+      {
+        "question": "Trenger jeg musikkferdigheter for å spille?",
+        "answer": "Nei, Sprunki Phase 10 er designet for å være tilgjengelig for alle, uavhengig av musikkunnskap."
+      },
+      {
+        "question": "Kan jeg dele komposisjonene mine med venner?",
+        "answer": "Ja, du kan dele dine musikalske kreasjoner med venner og familie slik at de kan nyte dem."
+      },
+      {
+        "question": "Er det kjøp i spillet?",
+        "answer": "Sprunki Phase 10 tilbyr innhold i spillet som kan låses opp gjennom spilling eller valgfrie kjøp."
+      },
+      {
+        "question": "Hvilke plattformer er Sprunki Phase 10 tilgjengelig på?",
+        "answer": "Sprunki Phase 10 er tilgjengelig på flere plattformer, inkludert PC, iOS, og Android."
+      },
+      {
+        "question": "Hvor ofte slippes det nye oppdateringer?",
+        "answer": "Spillet får jevnlige oppdateringer, som introduserer nye funksjoner og innhold for å forbedre opplevelsen."
+      }
+    ]
+  }
+}

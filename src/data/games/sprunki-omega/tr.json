@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Omega Mod - Sprunki Incredibox'ta Kozmik Müzik Yaratımı",
+    "description": "Sprunki Omega Mod'u keşfedin, Sprunki Incredibox evrenine devrim niteliğinde bir ek. Gelişmiş görseller, futuristik sesler ve etkileyici karakter tasarımları ile kendinizi şımartın.",
+    "keywords": "Sprunki Omega Mod, Sprunki Incredibox, müzik yaratımı, futuristik sesler, oyun modu"
+  },
+  "hero": {
+    "h1": "Sprunki Omega Mod",
+    "p": "Sprunki Omega Mod ile müzik yaratımında epik bir yolculuğa çıkın, futuristik estetikleri yenilikçi oyun mekanikleriyle birleştirin."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Omega Mod'un Özellikleri",
+    "features": [
+      "Futuristik Karakter Tasarımları: Kapsayıcı, kozmik ilham kaynağı olan modern karakterler.",
+      "Gelişmiş Ses Efektleri: Zengin bir futuristik ritim ve ambiyans melodileri arşivi.",
+      "Sarmalayıcı Görseller: Modun geniş temasına uyum sağlayan canlı bir arayüz.",
+      "Zorlu Oynanış: Yeni özellikler ve kombinasyonlarla etkileşimde bulunun.",
+      "Kozmik Yaratıcılık: Müzik yaratımında yeni bir derinlik keşfedin."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Omega Mod Nasıl Oynanır",
+    "instructions": [
+      "Omega Karakterlerini Seçin: Omega temalı Sprunki karakterlerini sürükleyip bırakın.",
+      "Gelişmiş Parçaları Karıştırın: Karmaşık ritimleri birleştirerek dinamik parçalar oluşturun.",
+      "Epik Bonusları Açın: Karakter kombinasyonlarıyla bonuslar keşfedin.",
+      "Eserinizi Paylaşın: Müzik parçalarınızı kaydedin ve toplulukla paylaşın.",
+      "Remix Yapımcılarıyla Yarışın: Diğerlerini yarattığınız eserleri remixlemeye davet edin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Omega Mod Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Karakter tasarımları müthiş, oynanış ise büyüleyici!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Sprunki'yi yeni zirvelere taşıyan inanılmaz bir mod!",
+        "author": "Sam T."
+      },
+      {
+        "content": "Kozmik atmosferi ve zorlu oynanışı seviyorum.",
+        "author": "Mia L."
+      },
+      {
+        "content": "Futuristik ses efektleri kesinlikle harika.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega kaçırılmaması gereken bir mod.",
+        "author": "Noah P."
+      },
+      {
+        "content": "Zorluk arayan remix tutkunları için harika.",
+        "author": "Liam K."
+      },
+      {
+        "content": "Görseller etkileyici ve gerçekten sarmalayıcı.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "Her fanın deneyimlemesi gereken harika bir müzik macerası!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Omega Mod nedir?",
+        "answer": "Sprunki Omega Mod, futuristik sesler ve görseller içeren Sprunki Incredibox için gelişmiş bir moddur."
+      },
+      {
+        "question": "Oyunda bonusları nasıl açarım?",
+        "answer": "Benzersiz karakter kombinasyonları ile gizli bonusları keşfedin."
+      },
+      {
+        "question": "Müzik parçalarımı paylaşabilir miyim?",
+        "answer": "Evet, müzik parçalarınızı Sprunki topluluğuyla kaydedip paylaşabilirsiniz."
+      },
+      {
+        "question": "Modda yeni karakterler var mı?",
+        "answer": "Evet, mod futuristik Omega temalı Sprunki karakterlerini içermektedir."
+      },
+      {
+        "question": "Sprunki Omega Mod yeni başlayanlar için uygun mu?",
+        "answer": "Mod zorlu unsurlar içerse de, acemiler için erişilebilir."
+      },
+      {
+        "question": "Sprunki Omega Mod'u nereden indirebilirim?",
+        "answer": "Resmi Sprunki Incredibox web sitesinden veya yetkili mod platformlarından indirebilirsiniz."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Önerilen Oyunlar",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki Galaksi Maceraları",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox Güneş Remix",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "Kozmik Beatbox Yolculuğu",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

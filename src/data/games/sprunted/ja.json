@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "title": "Sprunted - 新しいキャラクターデザインを持つ創造的なMOD",
+        "description": "SpruntedはSprunkのファン制作のMODで、新しいキャラクターの外見、衣装、髪型、アクセサリー、表情を紹介します。コミュニティがサポートするこのユニークで創造的なゲーム体験を発見しましょう！",
+        "keywords": "sprunted, sprunted mod, sprunk mod, ゲーム mod, spruntedキャラクターデザイン, spruntedゲームプレイ"
+    },
+    "hero": {
+        "h1": "Sprunted - 創造性に満ちたMOD",
+        "p": "SpruntedはSprunkのファン制作のMODで、新しい要素と独自のスタイルでキャラクターデザインを再定義します。このコミュニティ主導の創作に参加し、エキサイティングな機能とゲームプレイを探索しましょう！"
+    },
+    "gameFeatures": {
+        "title": "Spruntedの特徴",
+        "features": [
+            "新しいキャラクターデザイン、衣装、髪型、アクセサリー、表情を含む",
+            "オリジナルのゲームに創造性と革新を加えるファン制作MOD",
+            "Sprunkのコアゲームプレイを維持しながら新しい要素を導入",
+            "プレイヤーのスタイルに合わせたキャラクターの広範なカスタマイズオプション",
+            "創造的で個性的なゲーム体験を愛するプレイヤーに最適"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Spruntedの遊び方",
+        "instructions": [
+            "Sprunted MODをSprunkゲームにダウンロードしてインストールします。",
+            "新しいキャラクターを選び、その外見やアクセサリーをカスタマイズします。",
+            "新しいキャラクターでユニークなレベルやチャレンジを探索します。",
+            "ゲーム体験を友人と共有し、コミュニティのディスカッションに参加します。",
+            "最新のコンテンツと改善を楽しむためにMODを最新の状態に保ちましょう。"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Spruntedゲームのスクリーンショット"
+    },
+    "playerReviews": {
+        "title": "プレイヤーがSpruntedについて言うこと",
+        "submitReviewLabel": "レビューを投稿する",
+        "nameLabel": "あなたの名前",
+        "reviewLabel": "あなたのレビュー",
+        "submitButtonLabel": "送信",
+        "reviews": [
+            {
+                "content": "Spruntedのキャラクターデザインは素晴らしく、ゲームに新鮮な印象を与えています！",
+                "author": "Alex"
+            },
+            {
+                "content": "ファン制作のMODとして、このゲームは作成者の情熱と創造性を本当に示しています。",
+                "author": "Jamie"
+            },
+            {
+                "content": "Spruntedは試す価値のある新しいゲームプレイとキャラクターデザインをもたらします！",
+                "author": "Taylor"
+            },
+            {
+                "content": "こんなに素晴らしいMODを作ってくれた作成者に感謝します！とても楽しいです！",
+                "author": "Chris"
+            },
+            {
+                "content": "衣装と表情がとてもよくデザインされており、ゲームがさらに楽しくなります！",
+                "author": "Jordan"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Spruntedに関するよくある質問",
+        "questions": [
+            {
+                "question": "Spruntedとは何ですか？",
+                "answer": "SpruntedはSprunkのファン制作のMODで、新しいキャラクターの外見、衣装、髪型、アクセサリー、表情を導入します。"
+            },
+            {
+                "question": "Spruntedをどうやってインストールしますか？",
+                "answer": "公式ウェブサイトや関連プラットフォームからSpruntedをダウンロードし、Sprunkゲームにインストールする手順に従ってください。"
+            },
+            {
+                "question": "Spruntedはどのような人に適していますか？",
+                "answer": "Spruntedは個性的なキャラクターデザインや創造的なゲームプレイ、新しいコンテンツの探索を楽しむプレイヤーに最適です。"
+            },
+            {
+                "question": "Spruntedは無料ですか？",
+                "answer": "はい、Spruntedはファン制作のMODであり、すべてのプレイヤーに無料で提供されます。"
+            },
+            {
+                "question": "Spruntedは定期的に更新されますか？",
+                "answer": "はい、作成者はプレイヤーのフィードバックに基づいて、Spruntedを頻繁に更新し、新しいコンテンツや改善をもたらします。"
+            },
+            {
+                "question": "Spruntedに提案やフィードバックを提供できますか？",
+                "answer": "もちろんです！Spruntedのコミュニティプラットフォームで提案を共有し、ゲームをさらに良くするのに役立ててください。"
+            }
+        ]
+    }
+}

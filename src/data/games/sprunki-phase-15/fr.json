@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 15 - Maîtrisez le mod Incredibox pour une création musicale créative",
+    "description": "Découvrez Sprunki Phase 15, un mod créé par des fans d'Incredibox. Libérez votre créativité musicale avec des personnages uniques, des combinaisons sonores et des énigmes stimulantes.",
+    "keywords": "Sprunki Phase 15, mod Incredibox, jeu de création musicale, série Sprunki, énigmes musicales"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 15",
+    "p": "Plongez dans l'univers captivant de Sprunki Phase 15, où des mélanges musicaux créatifs et des énigmes intrigantes vous attendent dans ce mod créé par des fans du célèbre jeu Incredibox."
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques du jeu - Sprunki Phase 15",
+    "features": [
+      "Dynamique de personnages innovante pour des combinaisons sonores uniques.",
+      "Énigmes stimulantes qui enrichissent le gameplay créatif.",
+      "Éléments interactifs qui réagissent à des rythmes spécifiques.",
+      "Indices visuels pour guider la création musicale et la progression.",
+      "Opportunité de jeu collaboratif dans certaines phases."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment maîtriser Sprunki Phase 15",
+    "instructions": [
+      "Comprenez l'objectif en vérifiant les mélodies ou rythmes requis.",
+      "Assemblez les bons personnages pour créer votre mélange musical.",
+      "Expérimentez avec différentes combinaisons sonores pour résoudre les énigmes.",
+      "Utilisez le timing et le séquençage pour perfectionner votre création musicale.",
+      "Soyez attentif aux indices cachés dans les indices visuels ou les changements environnementaux."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran du jeu Sprunki Phase 15"
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs - Sprunki Phase 15",
+    "submitReviewLabel": "Soumettez votre avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 15 est une évolution fantastique de la série Incredibox. Les nouvelles combinaisons sonores sont incroyablement captivantes !",
+        "author": "Joueur1"
+      },
+      {
+        "content": "Les énigmes de la Phase 15 sont stimulantes mais gratifiantes. J'ai passé des heures à parfaire mon mélange musical.",
+        "author": "Joueur2"
+      },
+      {
+        "content": "J'adore l'aspect collaboratif du gameplay. C'est amusant de jouer avec des amis et de découvrir de nouvelles arrangements sonores ensemble.",
+        "author": "Joueur3"
+      },
+      {
+        "content": "La Phase 15 introduit des mécaniques intrigantes. C'est une nouvelle approche qui rend le jeu excitant.",
+        "author": "Joueur4"
+      },
+      {
+        "content": "Les indices cachés sont un excellent ajout ! Ils apportent un élément de surprise à la jouabilité.",
+        "author": "Joueur5"
+      },
+      {
+        "content": "Sprunki Phase 15 est défiant mais ça en vaut la peine. Les possibilités musicales sont infinies !",
+        "author": "Joueur6"
+      },
+      {
+        "content": "Les graphismes et la qualité sonore de la Phase 15 sont de premier ordre. C'est un plaisir de jouer.",
+        "author": "Joueur7"
+      },
+      {
+        "content": "J'ai eu quelques difficultés avec certaines sections, mais les rejouer faisait partie du plaisir. Un excellent jeu pour les amateurs de musique !",
+        "author": "Joueur8"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées - Sprunki Phase 15",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Sprunki Phase 15 ?",
+        "answer": "Sprunki Phase 15 est un mod créé par des fans du jeu de création musicale Incredibox, avec de nouvelles combinaisons sonores et dynamiques de personnages."
+      },
+      {
+        "question": "Comment résoudre les énigmes dans Sprunki Phase 15 ?",
+        "answer": "Expérimentez avec des combinaisons sonores, le timing et le séquençage pour résoudre les énigmes et débloquer de nouveaux chemins."
+      },
+      {
+        "question": "Puis-je jouer à Sprunki Phase 15 avec des amis ?",
+        "answer": "Oui, certaines phases du jeu permettent un gameplay collaboratif."
+      },
+      {
+        "question": "Quelles sont les caractéristiques uniques de la Phase 15 ?",
+        "answer": "La Phase 15 inclut de nouvelles mécaniques, des profils sonores et des indices cachés qui améliorent l'expérience de jeu."
+      },
+      {
+        "question": "Y a-t-il des conseils pour les débutants ?",
+        "answer": "Faites bien attention aux indices visuels et sonores, et n'hésitez pas à expérimenter avec différentes combinaisons de personnages."
+      },
+      {
+        "question": "Où puis-je trouver des guides ou des astuces pour Sprunki Phase 15 ?",
+        "answer": "Les forums de jeux en ligne et la communauté officielle du jeu sont d'excellentes ressources pour des conseils et des guides."
+      }
+    ]
+  }
+}

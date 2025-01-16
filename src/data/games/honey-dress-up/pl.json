@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Honey Dress Up: Najlepsza Gra w Ubieranie",
+    "description": "Odkryj radość i kreatywność w 'Honey Dress Up', uroczej grze w ubieranie z uroczym chłopcem! Graj bezpośrednio z komputera, aby uzyskać najlepsze wrażenia.",
+    "keywords": "Honey Dress Up, gra w ubieranie, urocza gra, gra online, ubieranie na telefon, grafika ręcznie rysowana"
+  },
+  "hero": {
+    "h1": "Honey Dress Up",
+    "p": "Wyraź swoją kreatywność i styl w 'Honey Dress Up', najlepszej grze w ubieranie, gdzie urok spotyka zabawę!"
+  },
+  "gameFeatures": {
+    "title": "Cechy Honey Dress Up",
+    "features": [
+      "Urocza i wyjątkowa postać chłopca o żeńskich cechach",
+      "Czarująca grafika ręcznie rysowana w estetyce MC Paint",
+      "Ogromna garderoba z ponad 100 stylowymi ubraniami",
+      "Zawiera różnorodne kostiumy kąpielowe do różnorodnych stylizacji",
+      "Regularne aktualizacje zapewniają nowe treści i ulepszenia"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Honey Dress Up",
+    "instructions": [
+      "Wybierz swoje ulubione ubrania z obszernej garderoby.",
+      "Przeciągnij i upuść przedmioty, aby ubrać uroczego chłopca.",
+      "Użyj myszy do precyzyjnej kontroli na komputerze, aby uzyskać najlepsze doświadczenie.",
+      "Podziel się swoimi unikalnymi strojami w sekcji komentarzy.",
+      "Ciesz się ręcznie rysowanym, pozbawionym tekstu interfejsem dla płynnej rozgrywki."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z gry"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Mnóstwo zabawy przy tworzeniu strojów! (przepraszam za moje zakładki, nie mogę ich przyciąć z jakiegoś powodu)",
+        "author": "Nova (Ona/oni)"
+      },
+      {
+        "content": "Bardzo urocze!",
+        "author": "HARUHI.JIROU"
+      },
+      {
+        "content": "Gra idealna",
+        "author": "RenKun"
+      },
+      {
+        "content": "On jest taki słodki",
+        "author": "T0XI :3"
+      },
+      {
+        "content": "O tak, poszło mi całkiem nieźle B)",
+        "author": "barfbar"
+      },
+      {
+        "content": "Ta gra jest tak głupia, uwielbiam ją!!! :3",
+        "author": "MuinBrownie!!!"
+      },
+      {
+        "content": "Perfekcja",
+        "author": "yapunglin"
+      },
+      {
+        "content": "Uwielbiam tego całkowicie normalnego gościa!",
+        "author": "5ummerr"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Na jakich platformach mogę grać w 'Honey Dress Up'?",
+        "answer": "Możesz grać w 'Honey Dress Up' w przeglądarkach internetowych przez HTML5 oraz na Windowsie."
+      },
+      {
+        "question": "Jaka jest najnowsza dostępna wersja?",
+        "answer": "Najnowsza wersja 'Honey Dress Up' została zaktualizowana w lutym 2024 roku i jest dostępna online."
+      },
+      {
+        "question": "Czy jest dostępna wersja do pobrania gry?",
+        "answer": "Tak, istnieje wersja do pobrania, ale jest to starsza wersja przechowywana do celów archiwalnych."
+      },
+      {
+        "question": "Czy mogę grać w tę grę na telefonie?",
+        "answer": "'Honey Dress Up' ma wsparcie mobilne, ale najlepsze doświadczenia uzyskasz na komputerze."
+      },
+      {
+        "question": "Jakiego rodzaju grafika występuje w grze?",
+        "answer": "'Honey Dress Up' oferuje ręcznie rysowaną grafikę w estetyce MC Paint."
+      },
+      {
+        "question": "Jak mogę podzielić się swoimi kreacjami ubioru?",
+        "answer": "Możesz podzielić się swoimi strojami, komentując w sekcji komentarzy na stronie gry."
+      }
+    ]
+  }
+}

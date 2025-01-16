@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki X Geometry Dash (Fan Diff.) - 遊戲評測、規則和特色",
+    "description": "探索 Sprunki X Geometry Dash (Fan Diff.)，這是一個令人興奮的粉絲創作版本，改編自人氣遊戲。發現遊戲特色、規則和玩家體驗，適合所有 Geometry Dash 的粉絲。",
+    "keywords": "Sprunki X Geometry Dash, Geometry Dash 粉絲遊戲, Sprunki 評測, 遊戲特色, 遊戲規則"
+  },
+  "hero": {
+    "h1": "Sprunki X Geometry Dash (Fan Diff.)",
+    "p": "Sprunki X Geometry Dash (Fan Diff.) 是一個令人振奮的粉絲自製版本，帶來全新的挑戰和刺激的遊戲玩法。快來深入節奏跳躍和精緻關卡的世界吧。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki X Geometry Dash (Fan Diff.) 的特色",
+    "features": [
+      "獨特的粉絲創作關卡，挑戰你的反應能力",
+      "生動的圖形和吸引人的音軌",
+      "多種難度設定，適合各種技術水平",
+      "支持多種設備，玩得無縫流暢",
+      "排行榜與其他玩家競爭"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩 Sprunki X Geometry Dash (Fan Diff.)",
+    "instructions": [
+      "透過點擊螢幕來導航艱難的障礙賽道。",
+      "利用精確的時機避開陷阱和絆腳石。",
+      "在旅程中收集星星和獎勵。",
+      "掌握不同的關卡以提高你的得分。",
+      "使用練習模式來提升技能，而不影響你的排名。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "名稱",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki X Geometry Dash 真是令人上癮！我總是玩個不停。",
+        "author": "AlexGamer"
+      },
+      {
+        "content": "這個粉絲版本為原版遊戲帶來了新意，非常推薦！",
+        "author": "GameLover123"
+      },
+      {
+        "content": "關卡挑戰性不小，但非常公平。對於老手來說正合適！",
+        "author": "ProDashMaster"
+      },
+      {
+        "content": "喜歡這裡的音樂和圖形，真的讓你融入到遊戲中。",
+        "author": "SoundBee"
+      },
+      {
+        "content": "花了我一段時間才上手，但現在我無法自拔！",
+        "author": "JumpKing"
+      },
+      {
+        "content": "打發時間的好方法，並且在我的設備上運行順暢。",
+        "author": "TechyPlayer"
+      },
+      {
+        "content": "練習模式對於困難關卡是個救星。",
+        "author": "QuickTap"
+      },
+      {
+        "content": "這是一個卓越的粉絲改編，讓 Geometry Dash 的精髓得以延續。",
+        "author": "FanOfGD"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "Sprunki X Geometry Dash (Fan Diff.) 免費嗎？",
+        "answer": "是的，這個粉絲版本對所有用戶免費。"
+      },
+      {
+        "question": "這個遊戲可以在哪些平台上遊玩？",
+        "answer": "大多數設備都可以遊玩，包括電腦、Android 和 iOS。"
+      },
+      {
+        "question": "我可以在遊戲中和朋友競爭嗎？",
+        "answer": "可以，這裡有排行榜可以和朋友競爭。"
+      },
+      {
+        "question": "有任何應用內購買嗎？",
+        "answer": "沒有，這個粉絲版本沒有應用內購買。"
+      },
+      {
+        "question": "遊戲中有廣告嗎？",
+        "answer": "這個版本不含廣告，讓你享受不中斷的遊戲體驗。"
+      },
+      {
+        "question": "新關卡多久會新增？",
+        "answer": "粉絲們定期新增新關卡，以保持遊戲的趣味性。"
+      }
+    ]
+  }
+}

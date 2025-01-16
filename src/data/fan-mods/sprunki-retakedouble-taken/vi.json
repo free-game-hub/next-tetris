@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Double Taken - Trải Nghiệm Chơi Game Đỉnh Cao",
+    "description": "Khám phá Sprunki Retake: Double Taken - hiện tượng game mới nhất với thiết kế hoàn toàn mới và lối chơi gây cấn. Hãy gia nhập cộng đồng game và trải nghiệm cuộc phiêu lưu!",
+    "keywords": "Sprunki Retake, Double Taken, trò chơi, game điện tử, game mới, tính năng game, hướng dẫn chơi game, đánh giá người chơi"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Double Taken",
+    "p": "Chào mừng bạn đến với Sprunki Retake: Double Taken – cuộc phiêu lưu thú vị nơi sự đổi mới gặp gỡ hoài niệm. Hãy khám phá những thiết kế mới và lối chơi kịch tính."
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng của Sprunki Retake: Double Taken",
+    "features": [
+      "Thiết kế hoàn toàn mới với đồ họa tuyệt đẹp.",
+      "Câu chuyện hấp dẫn gợi nhớ lại tinh thần của game cổ điển.",
+      "Cơ chế chơi mượt mà mang đến trải nghiệm đắm chìm.",
+      "Hỗ trợ nhiều người chơi cho những trận đấu vui vẻ.",
+      "Cập nhật thường xuyên để nâng cao nội dung game và trải nghiệm người dùng."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sprunki Retake: Double Taken",
+    "instructions": [
+      "Bắt đầu bằng cách tải Sprunki Retake: Double Taken từ trang web chính thức của chúng tôi.",
+      "Theo dõi hướng dẫn để làm quen với các điều khiển và mục tiêu của game.",
+      "Sử dụng phím mũi tên và phím cách để di chuyển và thực hiện hành động.",
+      "Lên kế hoạch cho các bước đi của bạn để đối mặt với những thách thức phức tạp và boss.",
+      "Hợp tác với những người chơi khác để nâng cao trải nghiệm chơi game của bạn."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Chơi"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi Về Sprunki Retake: Double Taken",
+    "submitReviewLabel": "Gửi đánh giá của bạn",
+    "nameLabel": "Tên của bạn",
+    "reviewLabel": "Đánh giá của bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Thú vị và cực kỳ hấp dẫn. Một bổ sung tuyệt vời cho bộ sưu tập game của tôi!",
+        "author": "GamerJoe42"
+      },
+      {
+        "content": "Tôi thích những thiết kế mới. Nó khiến tôi nhớ lại tuổi thơ với thêm phần thú vị!",
+        "author": "RetroLover88"
+      },
+      {
+        "content": "Thật tuyệt vời! Tính năng đa người chơi giữ tôi kết nối với bạn bè.",
+        "author": "SocialGamer5"
+      },
+      {
+        "content": "Lối chơi đổi mới với một chút hoài niệm. Hoàn hảo cho mọi loại game thủ.",
+        "author": "AdventureSeeker23"
+      },
+      {
+        "content": "Sự kết hợp hoàn hảo giữa phong cách chơi cũ và mới. Thật đáng khen!",
+        "author": "ClassicCraze49"
+      },
+      {
+        "content": "Trò chơi này không bao giờ nhàm chán với các cập nhật thường xuyên!",
+        "author": "TechieGeek101"
+      },
+      {
+        "content": "Tôi rất trân trọng công sức bỏ ra cho đồ họa. Một trải nghiệm thị giác tuyệt vời!",
+        "author": "ArtisticMind77"
+      },
+      {
+        "content": "Một sự kết hợp liền mạch giữa thử thách và niềm vui. Rất đáng được khuyên!",
+        "author": "ChallengeAccepted17"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question":"Sprunki Retake: Double Taken là gì?",
+        "answer":"Sprunki Retake: Double Taken là phiên bản mới nhất của trò chơi Sprunki Retake phổ biến, với thiết kế mới và lối chơi cải tiến."
+      },
+      {
+        "question":"Làm thế nào để tôi tải game?",
+        "answer":"Game có thể được tải trực tiếp từ trang web chính thức hoặc từ các cửa hàng ứng dụng được ủy quyền."
+      },
+      {
+        "question":"Có tính năng đa người chơi không?",
+        "answer":"Có, Sprunki Retake: Double Taken có tính năng đa người chơi để nâng cao kết nối và khía cạnh xã hội của trò chơi."
+      },
+      {
+        "question":"Có thường xuyên cập nhật cho trò chơi không?",
+        "answer":"Chúng tôi thường xuyên cập nhật game để giới thiệu các tính năng mới, sửa lỗi và nâng cao trải nghiệm người dùng."
+      },
+      {
+        "question":"Yêu cầu hệ thống là gì?",
+        "answer":"Game yêu cầu tối thiểu 4GB RAM, một card đồ họa hiện đại và hệ điều hành cập nhật để đảm bảo hiệu suất tốt nhất."
+      },
+      {
+        "question":"Tôi có thể liên hệ với ai để được hỗ trợ?",
+        "answer":"Bạn có thể liên hệ với đội ngũ hỗ trợ của chúng tôi qua biểu mẫu liên hệ trên trang web của chúng tôi để được trợ giúp."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Trò Chơi Được Đề Xuất",
+    "games": [
+      {
+        "img": "path/to/image1.jpg",
+        "title": "Cuộc Phiêu Lưu Kỳ Diệu",
+        "link": "link_to_game1"
+      },
+      {
+        "img": "path/to/image2.jpg",
+        "title": "Giải Mã Bí Ẩn",
+        "link": "link_to_game2"
+      },
+      {
+        "img": "path/to/image3.jpg",
+        "title": "Thủ Lĩnh Đố Vui",
+        "link": "link_to_game3"
+      }
+    ]
+  }
+}

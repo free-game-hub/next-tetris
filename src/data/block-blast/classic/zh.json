@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "Block Blast - 免费在线益智游戏 | Sprunki Infected",
+    "description": "玩 Block Blast，令人上瘾的在线益智游戏，让策略与乐趣交汇。清除方块，得分，并用这款基于浏览器的免费游戏挑战你的大脑。不需要下载！",
+    "keywords": "block blast, 益智游戏, 在线游戏, 免费游戏, 脑筋急转弯, 清除方块游戏, 策略益智"
+  },
+  "hero": {
+    "h1": "Block Blast - 策略与乐趣的交汇点",
+    "p": "加入令人上瘾的益智冒险，挑战你的大脑和测试你的战略思维。不需要下载，只需在指尖享受纯粹的娱乐。"
+  },
+  "gameFeatures": {
+    "title": "为什么玩家喜欢 Block Blast",
+    "features": [
+      "100% 免费玩 - 无隐藏费用或应用内购买",
+      "随时随地畅玩 - 在桌面和移动设备上运行完美",
+      "无需下载 - 在浏览器中直接进入游戏",
+      "定期更新 - 频繁添加新挑战和功能",
+      "大脑训练 - 在娱乐中提高你的战略思维",
+      "适合全家 - 适合所有年龄段的玩家"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Block Blast",
+    "instructions": [
+      "拖动并放置方块到游戏网格",
+      "创建完整的行或列来清除方块",
+      "仔细规划你的移动以最大化得分",
+      "保持网格清晰以继续游戏",
+      "挑战自己打破你的高分"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "看看 Block Blast 的实况"
+  },
+  "playerReviews": {
+    "title": "玩家怎么说",
+    "submitReviewLabel": "分享你的体验",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评论",
+    "submitButtonLabel": "提交评论",
+    "reviews": [
+      {
+        "author": "Mike S.",
+        "content": "完美适合我的日常通勤！简单但富有挑战性，让我着迷。",
+        "rating": 5
+      },
+      {
+        "author": "Emily W.",
+        "content": "作为一个学生，我喜欢学习之间可以快速玩耍。不需要安装！",
+        "rating": 5
+      },
+      {
+        "author": "Jennifer X.",
+        "content": "我的全家都喜欢这个游戏。它既有教育意义又有趣！",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "Block Blast 真的可以免费玩吗？",
+        "answer": "是的！Block Blast 完全免费玩。享受完整游戏体验不需要隐藏费用或应用内购买。"
+      },
+      {
+        "question": "我需要下载才能玩 Block Blast 吗？",
+        "answer": "不需要下载！Block Blast 可直接在任何有互联网连接的设备的网络浏览器中运行。"
+      },
+      {
+        "question": "我可以在手机上玩 Block Blast 吗？",
+        "answer": "当然可以！Block Blast 完全适配桌面和移动设备，提供跨平台无缝的游戏体验。"
+      },
+      {
+        "question": "如何保存我在 Block Blast 中的进度？",
+        "answer": "你的高分会自动保存在浏览器中。为获得最佳体验，我们建议创建一个免费帐户以在设备之间跟踪你的进度。"
+      },
+      {
+        "question": "Block Blast 适合儿童吗？",
+        "answer": "是的！Block Blast 是亲子友好的，适合所有年龄段。它在提供乐趣和参与的同时帮助培养战略思维和解决问题的技能。"
+      },
+      {
+        "question": "Block Blast 多久更新一次？",
+        "answer": "我们会根据玩家反馈定期更新 Block Blast，添加新功能、挑战和改进，保持游戏的新鲜和令人兴奋。"
+      }
+    ]
+  }
+}

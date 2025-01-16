@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V3: Lag din egen musikk",
+    "description": "Oppdag Incredibox V3, musikkspillet der du blander rytmer og lager unike spor. Utforsk nye funksjoner, lydspor og livlige visuelle elementer.",
+    "keywords": "Incredibox V3, musikkspill, lag rytmer, interaktivt spill, lydmiksing"
+  },
+  "hero": {
+    "h1": "Incredibox V3",
+    "p": "Slipp løs din kreativitet med Incredibox V3, det interaktive musikkspillet hvor du kan lage dine egne rytmer ved å bruke en rekke lyder og karakterer."
+  },
+  "gameFeatures": {
+    "title": "Funksjoner i Incredibox V3",
+    "features": [
+      "Interaktiv musikkopprettelse med animerte karakterer",
+      "Dra-og-slipp lydenes miksingssystem",
+      "Lyse og engasjerende visuelle elementer",
+      "Variasjon av lyder inkludert melodier, effekter og vokaler",
+      "Spill inn og del musikksporene dine"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Incredibox V3",
+    "instructions": [
+      "Velg forskjellige lyder, rytmer og effekter for å tildele til animerte karakterer.",
+      "Dra og slipp lydikoner på karakterer for å lage musikk i sanntid.",
+      "Eksperimenter med lydkombinasjoner for å lage unike spor.",
+      "Bruk musen eller tastaturet for å interagere med spillet.",
+      "Spill inn og del musikken din eller delta i fellesskapskonkurranser."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V3 Skjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser for Incredibox V3",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send inn",
+    "reviews": [
+      {
+        "content": "Incredibox V3 er utrolig moro, den perfekte blandingen av kreativitet og underholdning.",
+        "author": "Alex J."
+      },
+      {
+        "content": "De nye lydsporene og de livlige visuelle elementene gjør at jeg alltid kommer tilbake for mer!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "Et enkelt, men engasjerende spill som lar meg utforske min musikalske kreativitet.",
+        "author": "David R."
+      },
+      {
+        "content": "Jeg elsker de livlige fargene og fengende rytmene i Incredibox V3!",
+        "author": "Ella M."
+      },
+      {
+        "content": "Fantastisk for alle aldre, lett å spille og høyst vanedannende.",
+        "author": "Liam T."
+      },
+      {
+        "content": "Dra-og-slipp-funksjonen er intuitiv og gjør musikkopprettelse super moro.",
+        "author": "Olivia K."
+      },
+      {
+        "content": "Perfekt for musikkelskere som liker å eksperimentere med forskjellige lyder.",
+        "author": "Mason B."
+      },
+      {
+        "content": "Incredibox V3 tilbyr en fantastisk blanding av visuelle og auditive opplevelser. Anbefales på det sterkeste!",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål om Incredibox V3",
+    "questions": [
+      {
+        "question": "Hva er Incredibox V3?",
+        "answer": "Incredibox V3 er et musikkopprettelsesspill der du blander forskjellige lyder for å lage dine egne musikkspor med animerte karakterer."
+      },
+      {
+        "question": "Hvordan spiller jeg Incredibox V3?",
+        "answer": "Bruk musen eller tastaturet for å dra og slippe lydikoner på animerte karakterer og skape musikk i sanntid."
+      },
+      {
+        "question": "Kan jeg spille inn og dele musikken min?",
+        "answer": "Ja, du kan spille inn musikksporene dine og dele dem eller delta i konkurranser innen fellesskapet til spillet."
+      },
+      {
+        "question": "Hvilke plattformer er Incredibox V3 tilgjengelig på?",
+        "answer": "Incredibox V3 er tilgjengelig for spilling på nettet og på ulike app-plattformer."
+      },
+      {
+        "question": "Er det forskjellige lydkategorier å velge mellom?",
+        "answer": "Ja, det er flere lydkategorier inkludert melodier, effekter, perkusjon og vokaler."
+      },
+      {
+        "question": "Er Incredibox V3 egnet for alle aldre?",
+        "answer": "Ja, Incredibox V3 er designet for spillere i alle aldre og tilbyr en morsom og engasjerende opplevelse."
+      }
+    ]
+  }
+}

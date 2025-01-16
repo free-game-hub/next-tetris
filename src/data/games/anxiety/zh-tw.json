@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "遊玩心理健康資源 - Nicky Case 的視覺小說遊戲",
+    "description": "探索心理健康資源，這是一款專注於心理健康、喜劇和敘事的視覺小說遊戲。保持堅強，享受這款評價4.9的HTML5遊戲。",
+    "keywords": "心理健康資源, 視覺小說, Nicky Case, HTML5遊戲, 喜劇, 心理健康, 敘事"
+  },
+  "hero": {
+    "h1": "心理健康資源",
+    "p": "展開一段感人至深的旅程，了解心理健康意識，這款由 Nicky Case 創作的高評價視覺小說遊戲《心理健康資源》。"
+  },
+  "gameFeatures": {
+    "title": "心理健康資源的主要特點",
+    "features": [
+      "引人入勝的敘事：沉浸在一個結合幽默與心理健康主題的故事中。",
+      "互動遊玩：做出影響故事情節和結果的選擇。",
+      "親切的人物：與面對現實心理健康問題的角色產生共鳴。",
+      "驚人的視覺效果：體驗引人注目的藝術設計，增強敘事性。",
+      "免費與開源：可以在多個平台上自由訪問遊戲。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩心理健康資源",
+    "instructions": [
+      "通過選擇形塑故事情節來開始你的旅程。",
+      "使用滑鼠導航並與角色和物品互動。",
+      "注意對話，以做出明智的決定。",
+      "根據你的選擇探索不同的故事路徑。",
+      "重新播放遊戲以發現替代結局和敘事。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "心理健康資源遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價心理健康資源",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "一個既具有教育意義又娛樂性的感人敘事。",
+        "author": "Alex T."
+      },
+      {
+        "content": "精美的視覺效果和引人入勝的故事情節。",
+        "author": "Jordan R."
+      },
+      {
+        "content": "提升心理健康意識的重要遊戲。",
+        "author": "Taylor S."
+      },
+      {
+        "content": "喜愛角色的幽默與深度。",
+        "author": "Morgan L."
+      },
+      {
+        "content": "讓我深思心理健康的重要性。",
+        "author": "Jamie K."
+      },
+      {
+        "content": "引人入勝的遊玩體驗，伴隨著有意義的選擇。",
+        "author": "Lee P."
+      },
+      {
+        "content": "真的是一款每個人都應該體驗的遊戲。",
+        "author": "Casey W."
+      },
+      {
+        "content": "製作精良而具深思熟慮。",
+        "author": "Sam B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "心理健康資源常見問題",
+    "questions": [
+      {
+        "question": "我可以在哪些平台上玩心理健康資源？",
+        "answer": "該遊戲可在支持HTML5的平台上玩。"
+      },
+      {
+        "question": "心理健康資源是免費的嗎？",
+        "answer": "是的，這款遊戲是免費和開源的。"
+      },
+      {
+        "question": "我可以支持遊戲的創作者嗎？",
+        "answer": "可以，你可以通過Patreon、PayPal或Ko-Fi來支持Nicky Case。"
+      },
+      {
+        "question": "這款遊戲適合所有年齡層嗎？",
+        "answer": "由於涉及敏感主題，遊戲內容適合成熟觀眾。"
+      },
+      {
+        "question": "心理健康資源有多個結局嗎？",
+        "answer": "是的，你的選擇會影響故事情節，並導致不同的結局。"
+      },
+      {
+        "question": "我可以在哪裡找到更多心理健康資源？",
+        "answer": "訪問 https://ncase.me/mental-health/ 獲取更多信息。"
+      }
+    ]
+  }
+}

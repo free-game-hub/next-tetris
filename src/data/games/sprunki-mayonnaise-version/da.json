@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Incredibox Mayonnaise - Det Søde Sprunki Musik Skabelse Mod! | Cremede Vibes",
+    "description": "Klar til den mest afslappende Incredibox oplevelse? Dyk ned i Sprunki Mayonnaise Version - hvor cremede farver møder musisk kreativitet! Dette fanlavede mod vil stjæle dit hjerte med sine beroligende visuals og legende karakterdesigns.",
+    "keywords": "incredibox mayonnaise, sprunki mod, musik skabelse spil, afslappende gameplay, incredibox musik, sprunki mayonnaise version, musik producent"
+  },
+  "hero": {
+    "h1": "Sprunki: Mayonnaise Version - Hvor Musik Bliver Cremet!",
+    "p": "Hej musikskaber! Klar til at dykke ind i den glidende, cremede version af Sprunki endnu? Gør dig klar til en musikalsk rejse, der er lige så glat som mayo! 🎵"
+  },
+  "gameFeatures": {
+    "title": "Hvorfor Du Vil Forelske Dig i Dette Mod",
+    "features": [
+      "Super beroligende mayo-inspireret farvepalette - det er som visuel ASMR! 🎨",
+      "Utrolig redesignede karakterer, der vil få dig til at sige 'aww'",
+      "Den mest afslappende gameplay-atmosfære, du nogensinde har oplevet i Incredibox",
+      "Alle dine yndlings Sprunki lyde, nu med ekstra glid",
+      "Perfekt når du har brug for en pause fra den skarpe Sennep Mod",
+      "Et helt friskt perspektiv på musikskabelse, der vil få dig til at komme tilbage for mere!"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Skaber Du Din Mayo-nificent Musik",
+    "instructions": [
+      "Trin 1: Vælg dine yndlingscremede karakterer (de er alle super søde!)",
+      "Trin 2: Træk disse glatte operatører op på din scene",
+      "Trin 3: Mix og match for at skabe dit perfekte mayo-tema mesterværk",
+      "Trin 4: Opdag fantastiske lydkombinationer med vores fantasifulde besætning",
+      "Pro tip: Slap af og lad kreativiteten flyde - det er lige så glat som mayo! 🎶"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sneak Peek: Den Cremede Verden af Mayonnaise Version"
+  },
+  "playerReviews": {
+    "title": "Hvad Vores Mayo-kærlige Community Siger",
+    "submitReviewLabel": "Del Din Oplevelse",
+    "nameLabel": "Dit Navn",
+    "reviewLabel": "Fortæl Os Din Historie",
+    "submitButtonLabel": "Del Kærligheden",
+    "reviews": [
+      {
+        "content": "Dette mod er bogstaveligt talt min daglige dosis af chill! Så terapeutisk! ✨",
+        "author": "MusicLover123"
+      },
+      {
+        "content": "De bløde farver gør mine musikskabelsessessioner meget mere fornøjelige!",
+        "author": "BeatMaker"
+      },
+      {
+        "content": "Meget mere afslappende end originalen - perfekt til sene natmusik sessioner",
+        "author": "ChillVibesOnly"
+      },
+      {
+        "content": "Kan ikke stoppe med at spille! Mayo-temat er overraskende vanedannende",
+        "author": "CreativeBeats"
+      },
+      {
+        "content": "Bedste mod nogensinde! De glatte visuals hjælper virkelig min kreativitet med at flyde",
+        "author": "MayoMaster"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Dine Mayo-ske Spørgsmål Besvaret!",
+    "questions": [
+      {
+        "question": "Hvad gør Mayonnaise Version så speciel?",
+        "answer": "Det er som at give din yndlings Incredibox et varmt, cremet kram! Vi har taget alt det, du elsker ved Sprunki, og gjort det super chill med mayo-inspirerede visuals og den mest afslappende vibe nogensinde!"
+      },
+      {
+        "question": "Hvor forskelligt er det fra andre Sprunki mods?",
+        "answer": "Tænk på det som den ultimative chill-out version! Mens andre mods måske går efter høj energi, handler vi om den glatte, afslappende oplevelse. Perfekt til når du har brug for at slappe af!"
+      },
+      {
+        "question": "Er det ligesom Sennep Mod?",
+        "answer": "De er som fætre! Mens Sennep giver zing, bringer Mayonnaise de glatte vibes. Hvis du elskede Sennep, vil du helt sikkert adore dette cremede twist!"
+      },
+      {
+        "question": "Vil mine gamle Incredibox færdigheder fungere her?",
+        "answer": "Absolut! De samme fantastiske mekanikker, du elsker, bare med et ekstra lag glathed. Det er super nemt at hoppe lige ind!"
+      },
+      {
+        "question": "Hvor kan jeg få fat i dette mod?",
+        "answer": "Du kan hente det direkte fra den officielle Sprunki Mods hjemmeside - det er helt gratis og klar til at gøre din dag glattere!"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Flere Musikalske Eventyr Venter!",
+    "games": [
+      {
+        "title": "Sprunki: Kedelig Udgave",
+        "description": "Når du har brug for den minimalistiske vibe i dit liv"
+      },
+      {
+        "title": "Sprunki GreenCore",
+        "description": "For dem der kan lide deres beats med et side af natur"
+      },
+      {
+        "title": "Underprunki 2.0",
+        "description": "Tag din musik til undergrundsscenen"
+      }
+    ]
+  }
+}

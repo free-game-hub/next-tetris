@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Sunset Mod：在黄昏的温暖光辉中创造音乐",
+    "description": "探索Sprunki Sunset Mod，这是一款受黄昏色调和宁静音景启发的音乐创作体验。学习如何玩并查看玩家评价。",
+    "keywords": "Sprunki Sunset Mod, 音乐创作, 黄昏灵感美学, 宁静音景, 音乐制作游戏"
+  },
+  "hero": {
+    "h1": "Sprunki Sunset Mod",
+    "p": "与Sprunki Sunset Mod一起沉浸在傍晚天空的温暖金色光辉中。将你的音乐创作过程转变为一种放松而深思的体验。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Sunset Mod 的主要功能",
+    "features": [
+      "黄昏灵感美学：用宁静的背景模拟天空的黄昏调色板。",
+      "温暖音景：以柔和的音调和流畅的和声构建循环，适合深思创作。",
+      "放松氛围：慢下来，探索让人感到舒适与灵魂共鸣的旋律。",
+      "角色选择：从表现黄昏温柔精神的角色中选择。",
+      "轻松分享：分享你的音乐创作，让其他人体验Sprunki的黄昏。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki Sunset Mod",
+    "instructions": [
+      "选择角色：从一系列反映黄昏温柔精神的角色中选择。",
+      "拖放：排列声音，以捕捉太阳温柔的西沉。",
+      "微调你的混音：调整音量和效果，完善你的曲目。",
+      "保存并分享：分享你的创作，传播黄昏的宁静美感。",
+      "耐心实验：发现唤起黄昏宁静氛围的旋律。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Sunset Mod 截图"
+  },
+  "playerReviews": {
+    "title": "玩家对 Sprunki Sunset Mod 的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "这个美学就像在现实生活中看日落。美丽而宁静。",
+        "author": "爱丽丝 T."
+      },
+      {
+        "content": "我喜欢这些柔和的循环和轻柔的声音，适合放松的创作。",
+        "author": "迈克 D."
+      },
+      {
+        "content": "这是放松和创造美好事物的绝佳方式。强烈推荐！",
+        "author": "朱莉亚 F."
+      },
+      {
+        "content": "非常适合深夜的创作。日落主题执行得非常好。",
+        "author": "萨姆 K."
+      },
+      {
+        "content": "我把我的曲目分享给朋友，他们都喜欢这种宁静的氛围。",
+        "author": "尼娜 L."
+      },
+      {
+        "content": "界面直观，效果恰到好处。",
+        "author": "汤姆 S."
+      },
+      {
+        "content": "视觉和声音的完美结合。很棒的体验！",
+        "author": "艾玛 R."
+      },
+      {
+        "content": "每次创作都感觉像是在宁静的黄昏旅行。",
+        "author": "利亚姆 P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "Sprunki Sunset Mod 是什么？",
+        "answer": "Sprunki Sunset Mod 是一款音乐制作游戏，提供以黄昏为灵感的主题，配有温暖的音景和放松的氛围。"
+      },
+      {
+        "question": "我如何在 Sprunki Sunset Mod 中选择角色？",
+        "answer": "从反映黄昏温柔精神的角色阵容中选择以补充你的音乐。"
+      },
+      {
+        "question": "我可以与他人分享我的创作吗？",
+        "answer": "可以，一旦你对你的曲目感到满意，你可以保存并分享给其他人。"
+      },
+      {
+        "question": "我能期待从这个 Mod 中得到什么样的声音？",
+        "answer": "期待含有柔和音调的循环，如沙沙的微风和远处的钟声，旨在激发深思的创作。"
+      },
+      {
+        "question": "我如何微调我的混音？",
+        "answer": "调整音量并添加细微效果，以完善你的曲目，直到它反映出黄昏的宁静氛围。"
+      },
+      {
+        "question": "新手玩家有教程吗？",
+        "answer": "有，游戏包括直观的说明，帮助你开始创作自己的曲目。"
+      }
+    ]
+  }
+}

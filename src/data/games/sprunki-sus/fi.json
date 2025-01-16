@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki SUS - Ultimaattinen Musiikkiseikkailu Spunky Pelissä",
+    "description": "Tutustu Sprunki SUS:n ainutlaatuiseen musiikilliseen maailmaan Spunky Pelissä. Pelaa heti selaimessasi, luo musiikillisia sävellyksiä ja jaa niitä peliyhteisölle. Ei latauksia vaadita!",
+    "keywords": "Sprunki SUS, Spunky Peli, online rytmipeli, musiikillinen luovuus, selainpeli"
+  },
+  "hero": {
+    "h1": "Sprunki SUS",
+    "p": "Liity Sprunki SUS:n ultimaattiseen musiikkiseikkailuun, rytmipeliin, joka haastaa luovuutesi. Yhdistä, jaa ja nauti ainutlaatuisista rytmeistä suoraan selaimessasi Spunky Pelissä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki SUS:n Keskeiset Ominaisuudet Spunky Pelissä",
+    "features": [
+      "Intuitiiviset Ohjaimet: Käyttäjäystävällinen käyttöliittymä kaikille taitotasolle.",
+      "Välitön Pelaaminen: Ei latauksia tarvitse – pelaa suoraan selaimessasi.",
+      "Saavutusjärjestelmä: Ansaitse palkintoja edetessäsi tasoilla.",
+      "Yhteisöominaisuudet: Yhdistä ja jaa luomuksesi muiden pelaajien kanssa.",
+      "Monipuoliset Äänityylit: Kokeile erilaisia musiikkigenrejä ja -tyylejä."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki SUS:ta Spunky Pelissä",
+    "instructions": [
+      "Valitse Hahmosi: Valitse ainutlaatuisten Sprunki SUS -hahmojen joukosta, joilla on erilaisia musiikillisia kykyjä.",
+      "Luo Mixisi: Yhdistä erilaisia hahmoja luodaksesi upeita musiikillisia yhdistelmiä.",
+      "Jaa & Nauti: Tallenna luomuksesi ja jaa niitä Spunky Pelin yhteisössä.",
+      "Navigoi Ohjaimilla: Käytä hiirtä vetämiseen ja pudottamiseen sekä näppäimistön pikakuvakkeita lisäohjauksille.",
+      "Tutki Režiimejä: Kokeile eri pelimuotoja, kuten Klassista, Haastetta, Vapaata tyyliä ja Yhteistyötä."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki SUS Pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut Sprunki SUS:sta",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Äärimmäisen hauska ja luova peli! Yhteisöosa on fantastinen.",
+        "author": "Alex G."
+      },
+      {
+        "content": "Rakastan kuinka helppoa on aloittaa ilman latauksia. Loistava nopeisiin sessioihin!",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Monipuoliset musiikkityylit pitävät minut palaamassa. Suosittelen lämpimästi!",
+        "author": "Sam R."
+      },
+      {
+        "content": "Sprunki SUS on mestariteos rentouttavassa pelaamisessa. Pakollinen kokeiltava musiikin ystäville.",
+        "author": "Casey L."
+      },
+      {
+        "content": "Käyttöliittymä on intuitiivinen ja pelimekaniikka niin mukaansatempaava!",
+        "author": "Jamie H."
+      },
+      {
+        "content": "Täydellinen yhdistelmä luovuutta ja hauskuutta. Jakaminen ystävien kanssa on upeaa!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Loistava tapa tutkia ja ilmaista musiikillista luovuutta. Rakastan sitä!",
+        "author": "Riley S."
+      },
+      {
+        "content": "En voi uskoa, että voin tehdä musiikkia niin helposti pelissä. Addiktoivaa!",
+        "author": "Morgan P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset Sprunki SUS:sta",
+    "questions": [
+      {
+        "question":"Mikä tekee Sprunki SUS:sta ainutlaatuisen Spunky Pelissä?",
+        "answer":"Sprunki SUS tarjoaa innovatiivisen käänteen ainutlaatuisten hahmodesignien ja musiikillisten elementtien avulla."
+      },
+      {
+        "question":"Kuinka pääsen pelaamaan Sprunki SUS:ta Spunky Pelissä?",
+        "answer":"Vieraile Spunky Pelin verkkosivustolla, valitse Sprunki SUS ja aloita sekoittaminen vedä ja pudota -käyttöliittymällä."
+      },
+      {
+        "question":"Voinko tallentaa Sprunki SUS -luomukseni?",
+        "answer":"Kyllä, voit tallentaa ja jakaa musiikillisia sävellyksiäsi muiden pelaajien kanssa."
+      },
+      {
+        "question":"Mitä ohjaimia käytetään Sprunki SUS:ssa?",
+        "answer":"Käytä hiirtä hahmojen vetämiseen ja pudottamiseen, sekä näppäimistön pikakuvakkeita lisäohjaukseen."
+      },
+      {
+        "question":"Onko Sprunki SUS sopiva aloittelijoille?",
+        "answer":"Ehdottomasti! Se on suunniteltu saavutettavaksi uusille pelaajille, mutta tarjoaa syvyyttä kokeneemmille."
+      },
+      {
+        "question":"Kuinka monta ääni kerrosta voin yhdistää Sprunki SUS:ssa?",
+        "answer":"Voit yhdistää useita ääni kerroksia rikkaiden musiikillisten sävellysten luomiseksi."
+      }
+    ]
+  }
+}

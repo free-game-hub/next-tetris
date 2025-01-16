@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time 2.0 - Rasakan Keajaiban Malam",
+    "description": "Masuki dunia menawan Sprunki Night Time 2.0, di mana suara dan visual yang ditingkatkan menciptakan pengalaman bermain yang tenang. Pelajari cara bermain, eksplorasi fitur, dan baca ulasan.",
+    "keywords": "Sprunki Night Time 2.0, permainan Sprunki Night Time, permainan malam, permainan suasana, modifikasi Sprunki"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time 2.0",
+    "p": "Selami keindahan tenang Sprunki Night Time 2.0, di mana suasana suara yang kaya dan visual yang hidup mengubah malam menjadi pengalaman magis."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan Sprunki Night Time",
+    "features": [
+      "Estetika Malam yang Ditingkatkan: Penerangan yang lebih baik, animasi halus, dan siluet yang lebih jelas.",
+      "Perpustakaan Suara yang Halus: Loop yang kaya menggabungkan nada lembut, hum hangat, dan senar halus.",
+      "Atmosfer yang Menenangkan: Mendorong relaksasi dan eksperimen yang sadar.",
+      "Pemilihan Karakter Interaktif: Karakter dirancang untuk mewujudkan ketenangan malam.",
+      "Petualangan Sonic Eksploratif: Temukan lapisan-lapisan baru ketenangan dalam musik Anda."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Night Time 2 Mod",
+    "instructions": [
+      "Pilih Karakter: Pilih sosok yang mewakili ketenangan malam.",
+      "Seret dan Jatuhkan: Atur karakter untuk menciptakan suasana suara yang lembut.",
+      "Sesuaikan Campuran Anda: Atur volume dan terapkan efek untuk kehangatan malam.",
+      "Simpan dan Bagikan: Bagikan komposisi Anda yang mencerminkan keajaiban malam.",
+      "Eksplorasi Lebih Jauh: Bereksperimen dengan berbagai kombinasi suara untuk mempersonalisasi pengalaman Anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Jelajahi Sprunki Night Time 2.0 melalui Tangkapan Layar"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Para Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Sangat mengagumkan! Grafik dan musiknya luar biasa.",
+        "author": "Emma"
+      },
+      {
+        "content": "Permainan yang sangat menenangkan yang membantu saya bersantai setelah seharian beraktivitas.",
+        "author": "Liam"
+      },
+      {
+        "content": "Suasana suara begitu rumit dan menenangkan. Wajib dicoba bagi siapa saja yang menyukai musik ambient.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Saya suka desain karakter dan cara mereka berinteraksi dengan lingkungan.",
+        "author": "Noah"
+      },
+      {
+        "content": "Menciptakan musik di dalam setting ini adalah pengalaman yang unik.",
+        "author": "Isabella"
+      },
+      {
+        "content": "Setiap sesi terasa seperti eksplorasi baru suara dan suasana.",
+        "author": "Olivia"
+      },
+      {
+        "content": "Visual dan suara yang ditingkatkan membuat versi kedua ini semakin baik.",
+        "author": "Jackson"
+      },
+      {
+        "content": "Malam ini terasa begitu hidup dan mendalam. Sangat dianjurkan!",
+        "author": "Aiden"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Di platform mana saja Sprunki Night Time 2.0 tersedia?",
+        "answer":"Sprunki Night Time 2.0 tersedia di PC dan konsol permainan utama."
+      },
+      {
+        "question":"Bisakah saya membagikan komposisi saya dengan teman?",
+        "answer":"Ya, Anda dapat menyimpan dan membagikan komposisi Anda dengan teman dengan mudah."
+      },
+      {
+        "question":"Apakah ada pembelian di dalam aplikasi?",
+        "answer":"Permainan dasarnya gratis, dengan pembelian opsional di dalam aplikasi untuk fitur tambahan."
+      },
+      {
+        "question":"Apakah Sprunki Night Time 2.0 cocok untuk anak-anak?",
+        "answer":"Ya, permainan ini dirancang untuk semua usia dengan tema yang menenangkan."
+      },
+      {
+        "question":"Bagaimana cara memberikan umpan balik atau melaporkan masalah?",
+        "answer":"Umpan balik dan masalah dapat dilaporkan melalui halaman dukungan resmi permainan."
+      },
+      {
+        "question":"Apakah permainan ini memerlukan koneksi internet?",
+        "answer":"Anda memerlukan koneksi internet untuk berbagi dan pembaruan, tetapi permainan offline didukung."
+      }
+    ]
+  }
+}

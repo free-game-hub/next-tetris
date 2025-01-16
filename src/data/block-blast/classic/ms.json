@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "Blok Blast - Permainan Teka-teki Dalam Talian Percuma | Sprunki Dijangkiti",
+    "description": "Mainkan Blok Blast, permainan teka-teki dalam talian yang ketagihan di mana strategi bertemu keseronokan. Hapuskan blok, kumpul mata, dan cabar minda anda dengan permainan berasaskan pelayar percuma ini. Tiada muat turun diperlukan!",
+    "keywords": "blok blast, permainan teka-teki, permainan dalam talian, permainan percuma, teka-teki otak, permainan pembersihan blok, teka-teki strategi"
+  },
+  "hero": {
+    "h1": "Blok Blast - Di Mana Strategi Bertemu Keseronokan",
+    "p": "Masuk ke dalam pengembaraan teka-teki ketagihan yang mencabar minda anda dan menguji kemahiran strategik anda. Tiada muat turun, hanya hiburan tulen di hujung jari anda."
+  },
+  "gameFeatures": {
+    "title": "Mengapa Pemain Suka Blok Blast",
+    "features": [
+      "100% Percuma untuk Dimainkan - Tiada kos tersembunyi atau pembelian dalam aplikasi",
+      "Main Di Mana Sahaja - Berfungsi dengan sempurna di desktop dan peranti mudah alih",
+      "Tiada Muat Turun Diperlukan - Langsung masuk ke dalam aksi melalui pelayar anda",
+      "Kemas Kini Berkala - Cabaran dan ciri baharu ditambah dengan kerap",
+      "Latihan Otak - Tingkatkan pemikiran strategik anda sambil berseronok",
+      "Mesra Keluarga - Sesuai untuk pemain dari semua peringkat umur"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Blok Blast",
+    "instructions": [
+      "Seret dan lepaskan blok ke atas grid permainan",
+      "Buat barisan atau lajur lengkap untuk hapuskan blok",
+      "Rancang pergerakan anda dengan teliti untuk memaksimumkan mata",
+      "Jaga grid anda bersih untuk kekal dalam permainan",
+      "Cabar diri anda untuk mengatasi skor tinggi anda"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Lihat Blok Blast dalam Aksi"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Kami",
+    "submitReviewLabel": "Kongsi Pengalaman Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Hantar Ulasan",
+    "reviews": [
+      {
+         "author": "Mike S.",
+        "content": "Sempurna untuk perjalanan harian saya! Mudah tetapi cukup mencabar untuk menarik perhatian saya.",
+        "rating": 5
+      },
+      {
+         "author": "Emily W.",
+        "content": "Sebagai pelajar, saya suka bagaimana saya boleh bermain dengan cepat di antara sesi belajar. Tiada pemasangan diperlukan!",
+        "rating": 5
+      },
+      {
+         "author": "Jennifer X.",
+        "content": "Seluruh keluarga saya menikmati permainan ini. Ia pendidikan dan menyeronokkan pada masa yang sama!",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Adakah Blok Blast benar-benar percuma untuk dimainkan?",
+        "answer": "Ya! Blok Blast adalah sepenuhnya percuma untuk dimainkan. Tiada kos tersembunyi atau pembelian dalam aplikasi diperlukan untuk menikmati pengalaman permainan penuh."
+      },
+      {
+        "question": "Adakah saya perlu muat turun apa-apa untuk bermain Blok Blast?",
+        "answer": "Tiada muat turun diperlukan! Blok Blast berjalan terus di pelayar web anda pada mana-mana peranti dengan sambungan internet."
+      },
+      {
+        "question": "Bolehkah saya bermain Blok Blast di telefon bimbit saya?",
+        "answer": "Sudah tentu! Blok Blast dioptimumkan sepenuhnya untuk kedua-dua desktop dan peranti mudah alih, menyediakan pengalaman permainan yang lancar di semua platform."
+      },
+      {
+        "question": "Bagaimana cara menyimpan kemajuan saya dalam Blok Blast?",
+        "answer": "Skor tinggi anda disimpan secara automatik dalam pelayar anda. Untuk pengalaman terbaik, kami mengesyorkan membuat akaun percuma untuk mengesan kemajuan anda di seluruh peranti."
+      },
+      {
+        "question": "Adakah Blok Blast sesuai untuk kanak-kanak?",
+        "answer": "Ya! Blok Blast mesra keluarga dan sesuai untuk semua peringkat umur. Ia membantu mengembangkan pemikiran strategik dan kemahiran menyelesaikan masalah sambil menjadi menyeronokkan dan menarik."
+      },
+      {
+        "question": "Seberapa kerap Blok Blast dikemaskini?",
+        "answer": "Kami kerap mengemaskini Blok Blast dengan ciri baharu, cabaran, dan penambahbaikan berdasarkan maklum balas pemain untuk memastikan permainan kekal segar dan menarik."
+      }
+    ]
+  }
+}

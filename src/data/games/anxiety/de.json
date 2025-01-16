@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Spiele MENTAL HEALTH RESOURCES - Ein Visual Novel Spiel von Nicky Case",
+    "description": "Entdecke MENTAL HEALTH RESOURCES, ein visuelles Roman-Spiel, das sich auf psychische Gesundheit, Comedy und Erzählungen konzentriert. Bleib stark und genieße dieses mit 4,9 bewertete HTML5-Spiel.",
+    "keywords": "MENTAL HEALTH RESOURCES, visuelles Roman, Nicky Case, HTML5 Spiel, Comedy, psychische Gesundheit, Erzählung"
+  },
+  "hero": {
+    "h1": "MENTAL HEALTH RESOURCES",
+    "p": "Begib dich auf eine bewegende Reise ins Bewusstsein für psychische Gesundheit mit dem hoch bewerteten visuellen Roman Spiel, MENTAL HEALTH RESOURCES, entwickelt von Nicky Case."
+  },
+  "gameFeatures": {
+    "title": "Hauptmerkmale von MENTAL HEALTH RESOURCES",
+    "features": [
+      "Fesselnde Erzählung: Tauche ein in eine Geschichte, die Humor mit Themen der psychischen Gesundheit verbindet.",
+      "Interaktives Gameplay: Triff Entscheidungen, die die Handlung und ihre Ergebnisse beeinflussen.",
+      "Nachvollziehbare Charaktere: Verbinde dich mit Charakteren, die mit realen Herausforderungen der psychischen Gesundheit umgehen.",
+      "Atemberaubende Grafiken: Erlebe beeindruckende Kunst und Design, die die Erzählung bereichern.",
+      "Kostenlos & Open Source: Greife auf das Spiel kostenlos auf verschiedenen Plattformen zu."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du MENTAL HEALTH RESOURCES",
+    "instructions": [
+      "Beginne deine Reise, indem du Entscheidungen triffst, die die Erzählung prägen.",
+      "Nutze die Maus, um dich zu bewegen und mit Charakteren und Objekten zu interagieren.",
+      "Achte auf die Dialoge, um informierte Entscheidungen zu treffen.",
+      "Erkunde verschiedene Erzählpfade, basierend auf deinen Entscheidungen.",
+      "Spiele das Spiel erneut, um alternative Enden und Erzählungen zu entdecken."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots von MENTAL HEALTH RESOURCES"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen für MENTAL HEALTH RESOURCES",
+    "submitReviewLabel": "Bewertung Abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Einreichen",
+    "reviews": [
+      {
+        "content": "Eine berührende Erzählung, die sowohl lehrreich als auch unterhaltsam ist.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Wunderschöne Grafiken und eine fesselnde Handlung.",
+        "author": "Jordan R."
+      },
+      {
+        "content": "Ein wichtiges Spiel, um das Bewusstsein für psychische Gesundheit zu fördern.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Hat mir den Humor und die Tiefe der Charaktere gefallen.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Hat mich tief über mein psychisches Wohlbefinden nachdenken lassen.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Fesselndes Gameplay mit bedeutungsvollen Entscheidungen.",
+        "author": "Lee P."
+      },
+      {
+        "content": "Ein Spiel, das wirklich jeder erleben sollte.",
+        "author": "Casey W."
+      },
+      {
+        "content": "Ebenfalls hervorragend gestaltet und durchdacht.",
+        "author": "Sam B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "MENTAL HEALTH RESOURCES FAQ",
+    "questions": [
+      {
+        "question": "Auf welchen Plattformen kann ich MENTAL HEALTH RESOURCES spielen?",
+        "answer": "Das Spiel ist auf HTML5-unterstützten Plattformen verfügbar."
+      },
+      {
+        "question": "Ist MENTAL HEALTH RESOURCES kostenlos?",
+        "answer": "Ja, das Spiel ist kostenlos und Open Source."
+      },
+      {
+        "question": "Kann ich den Schöpfer des Spiels unterstützen?",
+        "answer": "Ja, du kannst Nicky Case über Patreon, PayPal oder Ko-Fi unterstützen."
+      },
+      {
+        "question": "Ist dieses Spiel für alle Altersgruppen geeignet?",
+        "answer": "Die Inhalte des Spiels sind aufgrund ihrer sensiblen Themen für reifere Zuschauer geeignet."
+      },
+      {
+        "question": "Gibt es mehrere Enden in MENTAL HEALTH RESOURCES?",
+        "answer": "Ja, deine Entscheidungen beeinflussen die Handlung und können zu unterschiedlichen Enden führen."
+      },
+      {
+        "question": "Wo kann ich weitere Ressourcen zur psychischen Gesundheit finden?",
+        "answer": "Besuche https://ncase.me/mental-health/ für mehr Informationen."
+      }
+    ]
+  }
+}

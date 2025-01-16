@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Incredibox Sprunki Vaihe 3 - Luo oma ainutlaatuinen musiikkisi",
+    "description": "Tutustu Incredibox Sprunki Vaihe 3:een, musiikin luomispeliin, jossa luovuus kohtaa rytmin. Sekoita ääniä ja luo omia kappaleitasi värikkäiden animaatioiden avulla.",
+    "keywords": "Incredibox, Sprunki Vaihe 3, musiikkipeli, musiikin luominen, äänten sekoittaminen, luova pelaaminen, animoidut hahmot, musiikillinen sävellys"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Vaihe 3",
+    "p": "Sukella Incredibox Sprunki Vaihe 3:n eloisaan maailmaan, jossa voit päästää irti musiikillisen luovuutesi sekoittamalla erilaisia ääniä, rytmejä ja melodioita."
+  },
+  "gameFeatures": {
+    "title": "Pelin ominaisuudet",
+    "features": [
+      "Interaktiivinen musiikintekeminen, jossa voit vetää ja pudottaa hahmoja.",
+      "Ainutlaatuiset hahmot, jotka edustavat erilaisia musiikkielementtejä.",
+      "Harmoninen äänikerrosten luominen henkilökohtaisten kappaleiden tekemiseksi.",
+      "Visuaalista palautetta värikkäiden animaatioiden ja efektien avulla.",
+      "Tallennus- ja jakamisvaihtoehtoja musiikkisi esittelemiseksi.",
+      "Loppumattomat mahdollisuudet useiden hahmoyhdistelmien ansiosta."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Pelin ohjeet",
+    "instructions": [
+      "Valitse suosikkianimoidut hahmot, jotka edustavat erilaisia ääni-elementtejä.",
+      "Vedä ja pudota hahmoja sivupalkista ääni-laudalle aloittaaksesi musiikin luomisen.",
+      "Koe erilaisten hahmojen kerrostaminen ainutlaatuisten melodioiden luomiseksi.",
+      "Nauti visuaalisista efekteistä, jotka reagoivat musiikilliseen sävellykseesi.",
+      "Tallenna luomuksesi ja jaa ne ystäviesi tai Incredibox-yhteisön kanssa."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox Sprunki Vaihe 3 Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien arvostelut",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki Vaihe 3 on uskomaton yhdistelmä luovuutta ja hauskuutta!",
+        "author": "Emily R."
+      },
+      {
+        "content": "Animaatiot ja musiikkielementit tekevät siitä koukuttavan viihdyttävän.",
+        "author": "John D."
+      },
+      {
+        "content": "Fantastinen tapa tutkia musiikin luomista ilman aiempaa kokemusta.",
+        "author": "Sarah L."
+      },
+      {
+        "content": "Rakastan, kuinka jokainen sessio tarjoaa tuoreita ja ainutlaatuisia kokemuksia.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Erinomainen sekä vakaville muusikoille että rentoille pelaajille!",
+        "author": "Chris K."
+      },
+      {
+        "content": "Sprunki Vaihe 3 vangitsee musiikin tekemisen ilon vaivattomasti.",
+        "author": "Anna G."
+      },
+      {
+        "content": "Jakamisominaisuus antaa minun näyttää tekemäni työt ystäville helposti.",
+        "author": "David P."
+      },
+      {
+        "content": "Loppumattomat mahdollisuudet ja yhdistelmät! Ei koskaan käy tylsäksi.",
+        "author": "Laura H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein kysytyt kysymykset",
+    "questions": [
+      {
+        "question":"Mikä on Incredibox Sprunki Vaihe 3?",
+        "answer":"Incredibox Sprunki Vaihe 3 on musiikin luomispeli, joka mahdollistaa pelaajille ainutlaatuisten kappaleiden tekemisen sekoittamalla erilaisia ääniä ja rytmejä animoitujen hahmojen avulla."
+      },
+      {
+        "question":"Kuinka pelaan Incredibox Sprunki Vaihe 3:ta?",
+        "answer":"Valitse animoidut hahmot, jotka edustavat erilaisia musiikkielementtejä, vedä ne ääni-laudalle ja sekoita luodaksesi sävellyksesi."
+      },
+      {
+        "question":"Voinko jakaa musiikkiluomukseni?",
+        "answer":"Kyllä, voit tallentaa ja jakaa musiikkisi ystävien tai Incredibox-yhteisön kanssa."
+      },
+      {
+        "question":"Mikä on pelin tavoite?",
+        "answer":"Tavoitteena on luoda harmonista musiikkia kerrostamalla hahmoja ja niiden ääniä strategisesti."
+      },
+      {
+        "question":"Onko Incredibox Sprunki Vaihe 3 sopiva kaikille ikäryhmille?",
+        "answer":"Kyllä, peli on suunniteltu olevan nautittava kaikenikäisille pelaajille."
+      },
+      {
+        "question":"Voinko pelata Incredibox Sprunki Vaihe 3:ta useita kertoja?",
+        "answer":"Ehdottomasti! Loppumattomien yhdistelmien ansiosta mikään sessio ei ole samanlainen, tarjoten näin uusinta pelattavuutta."
+      }
+    ]
+  }
+}

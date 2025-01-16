@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Cipta Rentak Muzik Anda Sendiri",
+    "description": "Mainkan Incredibox V7, permainan muzik kreatif di mana anda mengawal Incredicrew untuk mencipta rentak unik. Terokai ciri permainan, peraturan, dan ulasan pemain.",
+    "keywords": "Incredibox V7, permainan muzik, Incredicrew, cipta rentak, ciri Incredibox"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Selami dunia Incredibox V7 dan lepaskan kreativiti muzik anda. Kawal Incredicrew untuk mencipta melodi dan rentak unik anda sendiri."
+  },
+  "gameFeatures": {
+    "title": "Ciri-ciri Permainan Incredibox V7",
+    "features": [
+      "Kawal Incredicrew - setiap satu mempunyai kebolehan suara yang unik.",
+      "Pelbagai genre muzik dan tema untuk diterokai.",
+      "Kreativiti tanpa had tanpa cara yang betul atau salah untuk bermain.",
+      "Kongsi penciptaan muzik anda dengan komuniti.",
+      "Antaramuka mesra pengguna untuk kawalan dengan tetikus dan papan kekunci."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Incredibox V7",
+    "instructions": [
+      "Pilih Watak Anda: Pilih daripada pelbagai watak, masing-masing mempunyai kebolehan dan animasi khas.",
+      "Pilih Lagu: Pilih gaya muzik atau tema pilihan anda untuk mula mencipta.",
+      "Permainan: Gabungkan bunyi dan irama untuk mencipta rentak yang unik.",
+      "Gunakan Tetikus: Klik pada watak untuk menambah atau membuang bunyi.",
+      "Gunakan Papan Kekunci: Gunakan pintasan untuk manipulasi bunyi yang cepat."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Skrin Incredibox V7"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain Incredibox V7",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Incredibox V7 adalah cara yang sangat menyeronokkan untuk meneroka penciptaan muzik!",
+        "author": "Alice"
+      },
+      {
+        "content": "Saya suka pelbagai gabungan bunyi yang boleh dibuat. Ia tidak pernah habis keseronokannya!",
+        "author": "John"
+      },
+      {
+        "content": "Watak-wataknya sangat unik, dan mencipta rentak adalah ketagihan.",
+        "author": "Maya"
+      },
+      {
+        "content": "Sungguh menakjubkan betapa kreatifnya anda boleh menjadi. Tidak ada dua rentak yang sama!",
+        "author": "Liam"
+      },
+      {
+        "content": "Kongsi penciptaan saya dengan rakan-rakan adalah bahagian terbaik!",
+        "author": "Sophia"
+      },
+      {
+        "content": "Pintasan papan kekunci memudahkan untuk menukar bunyi dengan cepat.",
+        "author": "Henry"
+      },
+      {
+        "content": "Permainan yang hebat untuk kanak-kanak dan orang dewasa yang menyukai muzik.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 telah menjadi pilihan saya untuk relaksasi kreatif.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim Incredibox V7",
+    "questions": [
+      {
+        "question": "Apa itu Incredibox V7?",
+        "answer": "Incredibox V7 adalah permainan muzik di mana anda dapat mencipta rentak unik dengan mengawal sekumpulan watak yang dikenali sebagai Incredicrew."
+      },
+      {
+        "question": "Bagaimana untuk memulakan permainan Incredibox V7?",
+        "answer": "Untuk memulakan, pilih watak dan gaya lagu. Kemudian campurkan bunyi yang berbeza untuk mencipta rentak anda."
+      },
+      {
+        "question": "Bolehkah saya bermain Incredibox V7 dengan papan kekunci?",
+        "answer": "Ya, anda boleh menggunakan pintasan papan kekunci untuk menambah atau membuang bunyi dengan cepat."
+      },
+      {
+        "question": "Adakah terdapat pelbagai gaya muzik di Incredibox V7?",
+        "answer": "Ya, permainan ini menawarkan pelbagai gaya dan tema yang boleh dipilih."
+      },
+      {
+        "question": "Adakah terdapat cara untuk berkongsi penciptaan saya?",
+        "answer": "Sudah tentu, anda boleh berkongsi penciptaan muzik anda dengan pemain lain dalam komuniti."
+      },
+      {
+        "question": "Adakah Incredibox V7 sesuai untuk semua peringkat umur?",
+        "answer": "Ya, Incredibox V7 adalah permainan yang menyeronokkan dan kreatif sesuai untuk kanak-kanak dan dewasa."
+      }
+    ]
+  }
+}

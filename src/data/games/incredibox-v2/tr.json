@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V2 Oyunu - Etkileşimli Müzik Deneyimi",
+    "description": "Incredibox V2'yi keşfedin, kendinize ait parçaları oluşturmanızı sağlayan etkileşimli bir müzik oyunu.",
+    "keywords": "Incredibox V2, müzik oyunu, etkileşimli, müzik yarat, ses karıştırma, Incredibox V1, Incredibox Mustard"
+  },
+  "hero": {
+    "h1": "Incredibox V2",
+    "p": "Incredibox V2 dünyasına dalın, yaratıcılığın eğlence ile buluştuğu etkileşimli bir müzik oyunu. Ritimleri ve armonileri birleştirerek kendinize özgü parçalar oluşturun."
+  },
+  "gameFeatures": {
+    "title": "Oyun Özellikleri",
+    "features": [
+      "Etkileşimli Müzik Oluşturma: Animasyonlu karakterler ile eşsiz parçalar oluşturmak için ikonları sürükleyip bırakın.",
+      "Çeşitli Müzikal Tarzlar: Her biri farklı bir işitsel deneyim sunan çeşitli stilleri keşfedin.",
+      "Yaratıcı Özgürlük: Seslerle denemeler yaparak mükemmel karışımınızı bulun.",
+      "Etkileyici Görseller: Renkli animasyonlar ve ilginç karakterlerin keyfini çıkarın.",
+      "Sosyal Paylaşım: Müzikal eserlerinizi başkalarıyla paylaşın ve yaratıcıların bir topluluğuna katılın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox V2 Nasıl Oynanır",
+    "instructions": [
+      "Oyunu Başlatın: Cihazınızda Incredibox V2 Modunu açın.",
+      "Bir Stil Seçin: Birkaç müzik tarzından birini seçerek başlayın.",
+      "Ses Ekleyin: Karakterlere ritim, melodi veya efekt için ikonları sürükleyin.",
+      "Karışımınızı Oluşturun: Sesleri birleştirerek kendinize özgü parçayı oluşturun, istediğiniz gibi düzenleyin.",
+      "Kaydedin & Paylaşın: Yarattığınız eseri kaydedin ve dünyayla paylaşın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Incredibox V2, yaratıcılık ve eğlencenin mükemmel bir karışımı! Yeni karışımlar yapmayı çok seviyorum.",
+        "author": "Alex"
+      },
+      {
+        "content": "Mevcut tarzlar inanılmaz derecede çeşitli, bu da oyunu her zaman taze ve heyecan verici kılıyor.",
+        "author": "Samira"
+      },
+      {
+        "content": "Farklı ses kombinasyonlarını keşfederek saatler geçirebilirim!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Görseller oldukça etkileyici ve ritme girmek çok kolay.",
+        "author": "Zane"
+      },
+      {
+        "content": "Yaratımlarımı arkadaşlarımla paylaşmak en güzel kısım! Harika eğlenceler yaşadık.",
+        "author": "Luka"
+      },
+      {
+        "content": "Hızlı geri bildirim ve enerji veren ritimler bu oyunu bağımlılık yapıyor!",
+        "author": "Maya"
+      },
+      {
+        "content": "Kullanıcı dostu arayüz harika, çocuklarım bile rahatça oynayabiliyor.",
+        "author": "Chris"
+      },
+      {
+        "content": "Biraz yaratıcılığı seven müzik tutkunları için mutlaka oynanması gereken bir oyun.",
+        "author": "Nina"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Incredibox V2 nedir?",
+        "answer": "Incredibox V2, oyunculara sesleri ve ritimleri karıştırarak kendi müzik parçalarını oluşturan etkileşimli bir müzik oyunudur."
+      },
+      {
+        "question": "Incredibox V2'de müzik oluşturmaya nasıl başlayabilirim?",
+        "answer": "Oyunu başlatın, bir müzik tarzı seçin ve karışımınızı oluşturmak için ses ikonlarını sürükleyin."
+      },
+      {
+        "question": "Müzik eserlerimi paylaşabilir miyim?",
+        "answer": "Evet, karışımlarınızı kolayca kaydedip başkalarıyla paylaşabilirsiniz."
+      },
+      {
+        "question": "Oynamak için müzik deneyimine ihtiyaç var mı?",
+        "answer": "Hayır, Incredibox V2 herkesin erişebilmesi için tasarlanmıştır, müzik geçmişi gerektirmez."
+      },
+      {
+        "question": "Oyunda farklı müzik stilleri var mı?",
+        "answer": "Evet, Incredibox V2 çeşitli müzik stilleri sunar, her biri benzersiz sesler ve karakterlere sahiptir."
+      },
+      {
+        "question": "Incredibox V2 her yaş için uygun mu?",
+        "answer": "Evet, basit kontrolleri sayesinde her yaş grubundaki oyuncular için keyifli ve erişilebilir bir oyundur."
+      }
+    ]
+  }
+}

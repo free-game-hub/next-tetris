@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Spunky Sprunkin: Ultieme Muzikale Game-ervaring | Spunky Game",
+    "description": "Duik in Spunky Sprunkin - een innovatieve muzikale avontuur dat beat-mixing en visuele kunst combineert. Speel direct, geen downloads nodig. Ontdek unieke geluidlandschappen en creëer je eigen muziek!",
+    "keywords": "Spunky Sprunkin, Spunky Game, muzikale game, beat mixing, muziek creatie, online games"
+  },
+  "hero": {
+    "h1": "Spunky Sprunkin: Ultieme Muzikale Avontuur",
+    "p": "Stap in de wereld van Spunky Sprunkin waar muziekcreatie samensmelt met visuele kunst. Geen downloads nodig, geniet van vloeiend spel direct in je browser!"
+  },
+  "gameFeatures": {
+    "title": "Belangrijkste Kenmerken van Spunky Sprunkin",
+    "features": [
+      "Versterkte Visuals met Adembenemende Karakterontwerpen",
+      "Unieke Geluidlandschappen die Klassieke en Moderne Stijlen Mixen",
+      "Interactieve Elementen met Verborgen Animaties",
+      "Creatieve Vrijheid door Onbeperkte Muzikale Combinaties",
+      "Direct Spelen zonder Downloads Vereist"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Spunky Sprunkin",
+    "instructions": [
+      "🎭 Kies Je Karakters - Selecteer uit verschillende muzikale mogelijkheden.",
+      "🎵 Mix Je Beats - Sleep en zet karakters om muzikale combinaties te creëren.",
+      "🎼 Maak Muziek - Laag geluiden en ontgrendel speciale effecten om je meesterwerk te maken.",
+      "📥 Bewaar Creaties - Bewaar en deel je muzikale composities met anderen.",
+      "📜 Verken Tutorials - Toegang tot tutorials om je beat-making vaardigheden te verfijnen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spunky Sprunkin Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "Speler Reviews voor Spunky Sprunkin",
+    "submitReviewLabel": "Dien Je Review In",
+    "nameLabel": "Naam",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Verzenden",
+    "reviews": [
+      {
+        "content": "Spunky Sprunkin heeft mijn waardering voor ritme games helemaal veranderd!",
+        "author": "Anna M."
+      },
+      {
+        "content": "De creativiteit en vrijheid in dit spel zijn ongeëvenaard. Geweldig!",
+        "author": "John D."
+      },
+      {
+        "content": "Een uitstekende game om muziek te maken wanneer je onderweg bent. De directe speelfunctie is geweldig.",
+        "author": "Liam T."
+      },
+      {
+        "content": "Het is intuïtief en vermakelijk. Een must-try voor muziekliefhebbers.",
+        "author": "Sophie K."
+      },
+      {
+        "content": "De graphics en geluidsontwerp zijn prachtig. Geweldig werk aan dit spel!",
+        "author": "Cara L."
+      },
+      {
+        "content": "Perfecte balans tussen uitdaging en creativiteit. Sterk aanbevolen!",
+        "author": "Marcus W."
+      },
+      {
+        "content": "Ik hou van de unieke geluidsstijlen en de mogelijkheid om deze creatief te mixen.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Dit spel wordt met elke update beter. Petje af voor de ontwikkelaars!",
+        "author": "Tommy C."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen Over Spunky Sprunkin",
+    "questions": [
+      {
+        "question": "Wat maakt Spunky Sprunkin anders dan andere muziek games?",
+        "answer": "Spunky Sprunkin combineert intuïtieve muziekcreatie met unieke visuals en gameplaymechanica die je niet vindt in andere ritmespellen."
+      },
+      {
+        "question": "Hoe begin ik met het spelen van Spunky Sprunkin?",
+        "answer": "Bezoek Spunky Game, kies karakters en sleep ze naar het geluidbord om muzikale composities te maken zonder downloads."
+      },
+      {
+        "question": "Kan ik mijn Spunky Sprunkin creaties opslaan?",
+        "answer": "Zeker! Bewaar en deel je muzikale meesterwerken met andere Spunky Game spelers over de hele wereld."
+      },
+      {
+        "question": "Is Spunky Sprunkin geschikt voor beginners?",
+        "answer": "Ja, het heeft een intuïtieve interface die nieuwkomers verwelkomt, terwijl het diepgang biedt voor ervaren spelers."
+      },
+      {
+        "question": "Zijn er verschillende geluidsstijlen in Spunky Sprunkin?",
+        "answer": "Ja! Het spel heeft een diverse reeks geluidsstijlen, van klassieke beats tot moderne elektronische elementen."
+      },
+      {
+        "question": "Kan ik Spunky Sprunkin op mobiele apparaten spelen?",
+        "answer": "Ja, Spunky Sprunkin is volledig geoptimaliseerd voor zowel desktop- als mobiel spelen."
+      }
+    ]
+  }
+}

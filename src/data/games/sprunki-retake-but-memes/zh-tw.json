@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake 但是迷因 - 你的幽默音樂遊樂場",
+    "description": "探索 Sprunki Retake 但是迷因 Mod，網路幽默與音樂創作的結合。沉浸在迷因主題角色與爆笑音景的世界，讓你的創作變成充滿歡笑的即興演奏。",
+    "keywords": "Sprunki Retake, 迷因 Mod, 迷因主題角色, 幽默音景, 音樂創作"
+  },
+  "hero": {
+    "h1": "Sprunki Retake 但是迷因",
+    "p": "投入 Sprunki Retake 但是迷因 Mod，每一段音樂創作都能引發一場搞笑的體驗。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki 迷因 Mod 特點",
+    "features": [
+      "迷因主題角色：設計得讓人聯想到知名迷因，擁有標誌性的視覺效果和有趣的口號。",
+      "幽默音景：發現那些非傳統的循環音和搞笑音效的組合。",
+      "歡樂混亂：一個無拘無束的有趣氛圍，讓你大膽嘗試奇特的組合。",
+      "俏皮動畫：動態的動畫增強了你作品的幽默精髓。",
+      "網路啟發的幽默：包含了流行時刻和著名迷因的參考。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩 Sprunki Retake 但是迷因 Mod",
+    "instructions": [
+      "選擇角色：從迷因靈感的角色中選擇，將幽默與節奏融合。",
+      "拖放：在螢幕上排列角色，創作充滿笑話的曲目。",
+      "實驗與享受：調整音量，並接受荒謬的組合帶來的樂趣。",
+      "保存與分享：保存令人發笑的旋律並與朋友分享。",
+      "笑著重玩：不斷探索，找到新的搞笑組合。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評論",
+    "submitReviewLabel": "提交你的評論",
+    "nameLabel": "姓名",
+    "reviewLabel": "評論",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "我從沒想過音樂創作會這麼有趣！",
+        "author": "Alex K."
+      },
+      {
+        "content": "幽默與創意的完美結合。",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Sprunki Retake 但是迷因 Mod 是我立刻獲得歡笑的首選。",
+        "author": "Sam R."
+      },
+      {
+        "content": "每次遊玩都像是一場新的迷因冒險！",
+        "author": "Chris T."
+      },
+      {
+        "content": "我與朋友分享了我的旋律，他們都非常喜歡。",
+        "author": "Taylor M."
+      },
+      {
+        "content": "如果你喜歡迷因和音樂，這絕對是必玩的！",
+        "author": "Jordan W."
+      },
+      {
+        "content": "樂趣無窮，我無法停止創作！",
+        "author": "Morgan F."
+      },
+      {
+        "content": "迷因的參考非常到位！",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title":"常見問題",
+    "questions": [
+      {
+        "question":"我該如何選擇角色？",
+        "answer":"點擊角色名單來選擇你喜愛的迷因角色。"
+      },
+      {
+        "question":"我可以保存我的音樂創作嗎？",
+        "answer":"可以，你可以保存並與他人分享你的旋律。"
+      },
+      {
+        "question":"有沒有相關的教學可供參考？",
+        "answer":"遊戲提供直觀的指引來幫助你進行遊玩。"
+      },
+      {
+        "question":"玩這個遊戲需要連接網路嗎？",
+        "answer":"不需要，第一次下載後你就可以離線享受遊戲。"
+      },
+      {
+        "question":"我可以自定義音效嗎？",
+        "answer":"你可以調整音量並嘗試不同的聲音組合。"
+      },
+      {
+        "question":"多久會新增迷因？",
+        "answer":"遊戲會定期更新，以包含最新的流行迷因。"
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "推薦遊戲",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "恐怖 Mod",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Sprunki Mod",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

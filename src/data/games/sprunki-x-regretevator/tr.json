@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki x Regretevator - Yaratıcı Bir Platform Macerası",
+    "description": "Sprunki x Regretevator'un heyecan verici dünyasını keşfedin, eşsiz oyun mekaniklerini, çekici grafikleri ve bulmacaları harmanlayan bir platform oyunudur. Karakter yeteneklerini ustalıkla kullanmayı, engelleri aşmayı ve bu büyüleyici oyunda bulmacaları çözmeyi öğrenin.",
+    "keywords": "Sprunki x Regretevator, platform oyunu, bulmaca çözme, oyun ipuçları, karakter yetenekleri, çoklu oyuncu modu"
+  },
+  "hero": {
+    "h1": "Sprunki x Regretevator",
+    "p": "Sprunki x Regretevator'da zorluklar ve bulmacalarla dolu renkli bir dünyayı keşfedin. Eşsiz karakter yeteneklerinizi kullanarak seviyeleri fethedin, düşmanları yenin ve oyun deneyiminizi geliştirin."
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Regretevator Özellikleri",
+    "features": [
+      "Eşsiz oyun öğeleriyle harmanlanmış etkileyici platform deneyimi.",
+      "Oyun dünyasını canlı hale getiren çekici grafikler.",
+      "Sorunsuz bir oyun deneyimi için akıcı karakter hareketleri.",
+      "Oyun deneyimini artıran dikkat çekici müzik.",
+      "Stratejik oyun için Sprunki ve Regretevator'un özel yetenekleri."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki x Regretevator Nasıl Oynanır",
+    "instructions": [
+      "Bulmacaları çözmek için Sprunki ve Regretevator'un eşsiz becerilerini öğrenin.",
+      "Her seviyeyi gizli ödüller için kapsamlı bir şekilde keşfedin.",
+      "Zıplama, kayma ve duvar koşusu gibi teknikleri ustalaşın.",
+      "Bulmacaları aşmak için karakter becerilerini stratejik olarak kullanın.",
+      "Güçlü karakter yükseltmeleri için nesneleri toplayın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki x Regretevator Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki x Regretevator Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Şirin grafikleri olan yenilikçi bir oyun!",
+        "author": "Alex"
+      },
+      {
+        "content": "Bulmacalar ve aksiyonu harika bir şekilde harmanlayan bir oyun. Kesinlikle tavsiye ediyorum!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Karakter yeteneklerini ve seviye tasarımlarını çok sevdim.",
+        "author": "Casey"
+      },
+      {
+        "content": "Fantastik bir oyun! Müzik de oldukça akılda kalıcı.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Zorlu ama ödüllendirici bir oyun deneyimi. Oynanması gereken bir oyun!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Arkadaşlarla çok oyunculu modu harika!",
+        "author": "Taylor"
+      },
+      {
+        "content": "Etkileyici grafikler ve akıcı kontroller.",
+        "author": "Riley"
+      },
+      {
+        "content": "Detay seviyesi ve ilgi çekici hikaye muazzam.",
+        "author": "Kris"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki x Regretevator Hakkındaki Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki x Regretevator hangi platformlarda mevcut?",
+        "answer": "Sprunki x Regretevator, PC, Mac ve ana oyun konsollarında mevcuttur."
+      },
+      {
+        "question": "Sprunki x Regretevator'u arkadaşlarımla oynayabilir miyim?",
+        "answer": "Evet, oyun kooperatif oyun deneyimi için çoklu oyuncu modunu içermektedir."
+      },
+      {
+        "question": "Sprunki x Regretevator için sistem gereksinimleri nelerdir?",
+        "answer": "Optimal performans için sisteminizin oyunun resmi web sitesinde listelenen minimum gereksinimleri karşıladığından emin olun."
+      },
+      {
+        "question": "Sprunki x Regretevator'da oyun içi satın almalar var mı?",
+        "answer": "Sprunki x Regretevator, oyun içi satın almalar içermez; tüm özelliklere oyun oynayarak erişebilirsiniz."
+      },
+      {
+        "question": "Karakterlerim için yeni yetenekleri nasıl açabilirim?",
+        "answer": "Yeni yetenekleri açmak ve yükseltmek için oyun içi nesneleri toplayın."
+      },
+      {
+        "question": "Sprunki x Regretevator için topluluk desteğini nerede bulabilirim?",
+        "answer": "Destek almak ve diğer oyuncularla ipuçlarını paylaşmak için çevrimiçi topluluk forumlarımıza veya sosyal medya kanallarımıza katılın."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Önerilen Oyunlar",
+    "games": [
+      {
+        "image": "sprunked-daytime-demo.jpg",
+        "title": "Sprunked (Gündüz Demo)",
+        "link": "/sprunked-daytime-demo"
+      },
+      {
+        "image": "incredibox-v9.jpg",
+        "title": "Incredibox V9",
+        "link": "/incredibox-v9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Verken de Diepten van Avontuur",
+    "description": "Duik in de wereld van Sperunky Free, een spannend avonturenspel dat je vaardigheden in verkenning en overleving op de proef stelt. Ontdek unieke kenmerken, spelinstructies en lees spelersreviews.",
+    "keywords": "Sperunky Free, avonturenspel, verkenning, overleven, game reviews"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Beginn aan een epische reis met Sperunky Free, waar je door verraderlijke grotten navigeert, obstakels overwint en verborgen schatten ontdekt!"
+  },
+  "gameFeatures": {
+    "title": "Kenmerken van Sperunky Free",
+    "features": [
+      "Uitgebreide grottenstelsels om te verkennen",
+      "Dynamische gameplay met willekeurige niveaus",
+      "Diverse vallen en vijanden",
+      "Multiplayer-modus voor coöperatief spel",
+      "Rijke graphics en meeslepende geluidseffecten"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Sperunky Free",
+    "instructions": [
+      "Gebruik de pijltoetsen om je personage door de grotten te bewegen.",
+      "Druk op de spatiebalk om te springen en obstakels te ontwijken.",
+      "Verzamel schatten om je score te verhogen.",
+      "Gebruik gereedschappen zoals touwen en explosieven om moeilijke gebieden te navigeren.",
+      "Werk samen met vrienden in multiplayer-modus om complexe uitdagingen op te lossen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sperunky Free Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spelersreviews van Sperunky Free",
+    "submitReviewLabel": "Dien Je Review In",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Review",
+    "submitButtonLabel": "Indienen",
+    "reviews": [
+      {
+        "content": "Sperunky Free biedt een spannende ervaring met elk level dat nieuwe verrassingen genereert.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "De graphics zijn prachtig en voegen veel toe aan de meeslepende gameplay.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Ik hou ervan om met mijn vrienden in multiplayer-modus te spelen, het is een geweldige manier om samen te strategiseren.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Uitdagend maar lonend, Sperunky Free houdt je terugkomen voor meer.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "De verscheidenheid aan vallen houdt me alert, het is nooit saai!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Geweldige balans tussen avontuur en strategie, zeer aan te raden voor fans van beide genres.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Een van de meest spannende games die ik dit jaar heb gespeeld!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Een must-play voor iedereen die houdt van avontuur en verkenning spellen.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen: Sperunky Free",
+    "questions": [
+      {
+        "question": "Op welke platforms is Sperunky Free beschikbaar?",
+        "answer": "Sperunky Free is beschikbaar op PC, Mac en diverse gameconsoles."
+      },
+      {
+        "question": "Kan ik Sperunky Free met mijn vrienden spelen?",
+        "answer": "Ja, Sperunky Free heeft een multiplayer-modus voor coöperatief spel met vrienden."
+      },
+      {
+        "question": "Zijn er verschillende moeilijkheidsniveaus in het spel?",
+        "answer": "Ja, je kunt kiezen uit meerdere moeilijkheidsniveaus om bij je vaardigheidsniveau te passen."
+      },
+      {
+        "question": "Heb ik een internetverbinding nodig om te spelen?",
+        "answer": "Een internetverbinding is vereist voor de multiplayer-modus, maar niet voor de singleplayer."
+      },
+      {
+        "question": "Is er een manier om mijn voortgang op te slaan?",
+        "answer": "Ja, Sperunky Free laat je je voortgang opslaan en op een later moment verdergaan."
+      },
+      {
+        "question": "Zijn er microtransacties in het spel?",
+        "answer": "Nee, Sperunky Free bevat geen microtransacties."
+      }
+    ]
+  }
+}

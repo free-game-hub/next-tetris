@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Aşama 30 - Yeni Müzikal Maceraya Dalın",
+    "description": "Sprunki evrenine Aşama 30 Mod ile katılın. Yeni karakterler, dinamik ses manzaraları ve yenilikçi oyun deneyimlerini keşfedin. Hem yeni hem de deneyimli oyuncular için mükemmel.",
+    "keywords": "Sprunki Aşama 30, Sprunki Mod, müzikal macera, dinamik ses manzaraları, yaratıcı oyun deneyimi"
+  },
+  "hero": {
+    "h1": "Sprunki Aşama 30",
+    "p": "Sprunki Aşama 30 Mod ile yeni bir müzikal yolculuğa çıkın. Gizem, macera ve sonsuz yaratıcı olanaklarla dolu bir dünyaya dalın."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Aşama 30'un Ana Özellikleri",
+    "features": [
+      "Yeni Karakterler: Yenilikçi tasarıma sahip karakterler, müzikal olanaklarınızı genişleten benzersiz döngüler ve efektler sunar.",
+      "Dinamik Ses Manzaraları: Ritimli beatler, atmosferik melodiler ve katmanlı efektlerle yaratıcı deneyimler için keyif alın.",
+      "Görsel Olarak Çarpıcı Temalar: Sizi canlı ve etkileyici bir dünyaya çeken sanatsal bir estetik deneyimleyin.",
+      "Geliştirilmiş Oynanış: Akıcı mekanikler ve özenle hazırlanmış ses kombinasyonları sezgisel bir deneyim sunuyor.",
+      "Topluluk Paylaşımı: Müzikal bestelerinizi kaydedip toplulukla paylaşarak sergileyin."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Aşama 30 Mod Nasıl Oynanır",
+    "instructions": [
+      "Karakterleri Seçin: Her biri benzersiz döngülere sahip yeni ve eski karakterlerden seçim yapın.",
+      "Sürükleyin ve Bırakın: Karakterleri ekranda düzenleyerek beat ve efektleri katmanlayın.",
+      "Deneyin ve Geliştirin: Parçanızı geliştirmek için ses seviyelerini ve kombinasyonları ayarlayın.",
+      "Kaydedin ve Paylaşın: Bestenizi kaydedin ve toplulukla paylaşın.",
+      "Ortamları Keşfedin: İlerledikçe canlı ve dinamik ortamları keşfedin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Aşama 30 Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunki Aşama 30 bir başyapıt. Yaratıcılığı ve oynanışı kusursuz bir şekilde birleştiriyor.",
+        "author": "Alice J."
+      },
+      {
+        "content": "Yeni karakterler ve döngüler, bestelerimi çok daha dinamik hale getirdi.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Aşama 30'un görsel tasarımını kesinlikle seviyorum. Keşfetmek bir zevk.",
+        "author": "Mike L."
+      },
+      {
+        "content": "Geliştirilmiş oyun kontrolleri çok sezgisel ve müzik yapmayı kolaylaştırıyor.",
+        "author": "Jane D."
+      },
+      {
+        "content": "Oyunun müziği kaydetme ve paylaşma imkânı harika. Arkadaşlarım çok etkilendi!",
+        "author": "John T."
+      },
+      {
+        "content": "Aşama 30, Sprunki deneyimimi başka bir seviyeye taşıdı. Harika!",
+        "author": "Anna P."
+      },
+      {
+        "content": "Uzun zamandır hayranıyım, bu en iyi aşama. Tüm oyunculara şiddetle tavsiye ederim.",
+        "author": "Robert K."
+      },
+      {
+        "content": "Yeni ses manzaralarıyla denemeler yapmayı seviyorum. Son derece taze ve etkileyici geliyor.",
+        "author": "Lisa R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Aşama 30 nedir?",
+        "answer": "Sprunki Aşama 30, yeni karakterler, ses manzaraları ve oyun özellikleri sunan Sprunki serisinin en son modudur."
+      },
+      {
+        "question": "Sprunki Aşama 30'da bestelerimi nasıl kaydedebilirim?",
+        "answer": "Bir parçayı tamamladıktan sonra oyun arayüzünde 'Kaydet' butonuna tıklayarak bestelerinizi kaydedebilirsiniz."
+      },
+      {
+        "question": "Yaratımlarımı başkalarıyla paylaşabilir miyim?",
+        "answer": "Evet, kaydedilen bestelerinizi oyundaki paylaşım özelliği aracılığıyla toplulukla paylaşabilirsiniz."
+      },
+      {
+        "question": "Sprunki Aşama 30'daki yeni karakterler ücretsiz mi?",
+        "answer": "Evet, yeni karakterlerin tamamı modda mevcut ve ücretsiz olarak ek döngü ve efektler sunuyor."
+      },
+      {
+        "question": "Aşama 30'un önceki versiyonlardan farkı nedir?",
+        "answer": "Aşama 30, geliştirilmiş oyun deneyimi, yeni karakterler, benzersiz ses manzaraları ve görsel olarak çarpıcı bir tema sunuyor."
+      },
+      {
+        "question": "Sprunki Aşama 30 yeni oyuncular için uygun mu?",
+        "answer": "Kesinlikle! Yeni başlayanlar için sezgisel olacak şekilde tasarlandı, ayrıca deneyimli oyunculara da derinlik sunuyor."
+      }
+    ]
+  }
+}

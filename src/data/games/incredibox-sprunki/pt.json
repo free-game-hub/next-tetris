@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "title": "Sprunki - Crie Música Através da Brincadeira",
+        "description": "Transforme-se em um produtor musical com apenas alguns cliques! Sprunki é um jogo de ritmo inovador onde a criatividade encontra a diversão.",
+        "keywords": "jogo de ritmo, criação musical, beatbox, incredibox, sprunki, jogo musical, música interativa"
+    },
+    "hero": {
+        "h1": "Bem-vindo ao Sprunki",
+        "p": "Sua jornada para se tornar um produtor musical começa com um único clique. Não é necessária experiência musical - basta trazer sua criatividade!"
+    },
+    "gameFeatures": {
+        "title": "Por que os Jogadores Amam o Sprunki",
+        "features": [
+            "Interface intuitiva de arrastar e soltar para criação musical instantânea",
+            "Múltiplas versões temáticas, incluindo Modo Solar e Modo Escuro",
+            "Crie, salve e compartilhe suas obras musicais únicas",
+            "Perfeito tanto para sessões rápidas quanto para criatividade prolongada",
+            "Nenhum conhecimento musical necessário - apenas pura diversão"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Como Jogar",
+        "instructions": [
+            "Escolha sua versão favorita do Sprunki",
+            "Arraste personagens para o palco para adicionar sons diferentes",
+            "Misture e combine diferentes elementos sonoros",
+            "Crie combinações harmoniosas para desbloquear animações especiais",
+            "Salve suas composições favoritas",
+            "Compartilhe suas criações com amigos"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Experimente a Magia"
+    },
+    "playerReviews": {
+        "title": "O que Nossos Jogadores Dizem",
+        "submitReviewLabel": "Compartilhe Sua Experiência",
+        "nameLabel": "Seu Nome",
+        "reviewLabel": "Sua Avaliação",
+        "submitButtonLabel": "Enviar Avaliação",
+        "reviews": [
+            {
+                "content": "Nunca fui talentoso musicalmente, mas o Sprunki me faz sentir como um verdadeiro produtor. Não consigo parar de jogar!",
+                "author": "Mike, 23"
+            },
+            {
+                "content": "Perfeito para desestressar após o trabalho. As combinações são infinitas e é muito gratificante quando você cria algo que soa incrível.",
+                "author": "Sarah, 19"
+            },
+            {
+                "content": "Comecei a jogar com meus filhos e agora estou mais viciado do que eles! Uma maneira tão criativa de passar o tempo juntos.",
+                "author": "David, 35"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Perguntas Frequentes",
+        "questions": [
+            {
+                "question": "Preciso ter experiência musical para jogar?",
+                "answer": "De jeito nenhum! Sprunki é projetado para todos, independentemente do histórico musical. A interface intuitiva facilita a criação de música com ótimo som."
+            },
+            {
+                "question": "Posso salvar minhas criações?",
+                "answer": "Sim! Você pode salvar suas composições favoritas e até compartilhá-las com amigos."
+            },
+            {
+                "question": "Existe uma versão móvel disponível?",
+                "answer": "Sim, Sprunki está disponível em plataformas de desktop e móvel, para que você possa criar música em qualquer lugar!"
+            },
+            {
+                "question": "Com que frequência é adicionado novo conteúdo?",
+                "answer": "Regularmente atualizamos o jogo com novos sons, personagens e versões temáticas para manter a criatividade fluindo!"
+            }
+        ]
+    }
+}

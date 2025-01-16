@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Abgerny Goblos - Goblin Müzik Macerasına Dalın",
+    "description": "Abgerny Goblos ile macera dolu bir müzik yapma yolculuğu yaşayın. Goblin temalı karakterler, doğal ses manzaraları ve rustik estetikleri keşfedin. Müzik ve fantastik dünyalara meraklılar için mükemmel.",
+    "keywords": "Abgerny Goblos, müzik mod, goblin teması, Sprunki mod, müzik macerası, fantastik oyun, müzik besteleme"
+  },
+  "hero": {
+    "h1": "Abgerny Goblos",
+    "p": "Abgerny Goblos'un ilginç dünyasına dalın. Eşsiz goblin ilhamlı estetiklerle Sprunki'nin ikonik müzik çerçevesini harmanlayın. Gizli goblin köylerini yansıtan doğa temalı besteler yaratın."
+  },
+  "gameFeatures": {
+    "title": "Abgerny Goblos Özellikleri",
+    "features": [
+      "Benzersiz silüetlere sahip goblin temalı karakterler.",
+      "Primal ve eğlenceli melodilerle dolu doğal ses manzaraları.",
+      "Yumuşak renk paletleri ve zarif animasyonlarla rustik estetik.",
+      "Katmanlı melodiler oluşturmak için özel müzik besteleme araçları.",
+      "Bestelerinizi topluluk ile kaydedin ve paylaşın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Abgerny Goblos Nasıl Oynanır",
+    "instructions": [
+      "Karakter Seçimi: Eşsiz ses öğelerine sahip goblin benzeri figürler arasından seçim yapın.",
+      "Sürükleyip Bırak: Figürleri düzenleyerek eski ormanları anımsatan melodiler oluşturun.",
+      "Deneyin ve Ayarlayın: Şarkınıza bir goblin marşı yaratmak için kaydırın, ayarlayın ve efektler ekleyin.",
+      "Kaydedin: Bestenizi gelecekte keyifle dinlemek için saklayın.",
+      "Paylaşın: Müziğinizi arkadaşlarınızla veya çevrimiçi topluluklarla sergileyin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Abgerny Goblos Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Abgerny Goblos, hayal gücümü eşsiz seslerle dolu bir dünyaya açtı!",
+        "author": "Gamer123"
+      },
+      {
+        "content": "Goblin teması müzik yaratmama doğal bir çekicilik katıyor.",
+        "author": "MüzikSever"
+      },
+      {
+        "content": "Tuhaf müzik modlarını sevenler için kesinlikle denemelidir!",
+        "author": "FantastikHayran"
+      },
+      {
+        "content": "Karakterler ve sesler müzik oluşturarak mükemmel bir uyum sağlıyor.",
+        "author": "SesYapımcısı"
+      },
+      {
+        "content": "Farklı karakterlerle yeni melodiler yaratmak için denemek hoşuma gitti.",
+        "author": "YaratıcıZihin"
+      },
+      {
+        "content": "Eğlenceli bir tema aracılığıyla müzikal yaratıcılığı keşfetmenin harika bir yolu.",
+        "author": "SanatçıRuh"
+      },
+      {
+        "content": "Rustik estetikleri ve eğlenceli ses manzaralarını çok sevdim!",
+        "author": "GörselSanatçı"
+      },
+      {
+        "content": "Müzik besteleme ile ilgilenen herkese tavsiye ederim!",
+        "author": "HarmoniAvcısı"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Abgerny Goblos nedir?",
+        "answer": "Abgerny Goblos, goblin temalı estetikleri Sprunki’nin müzik yapma çerçevesi ile birleştiren bir müzik modudur."
+      },
+      {
+        "question": "Müziği nasıl oluşturmaya başlarım?",
+        "answer": "Karakterlerinizi seçin ve temalı melodiler oluşturmak için düzenlemeye başlayın."
+      },
+      {
+        "question": "Bestelerimi kaydedebilir miyim?",
+        "answer": "Evet, yaratımınızdan memnun kaldığınızda parçanızı gelecekte dinlemek için kaydedebilirsiniz."
+      },
+      {
+        "question": "Topluluk özellikleri var mı?",
+        "answer": "Evet, bestelerinizi arkadaşlarınızla ve çevrimiçi topluluklarla paylaşabilirsiniz."
+      },
+      {
+        "question": "Belirli bir yaş sınırı var mı?",
+        "answer": "Abgerny Goblos, müziğe ve yaratıcılığa meraklı herkes için uygundur."
+      },
+      {
+        "question": "Ses öğelerini ayarlayabilir miyim?",
+        "answer": "Evet, müziğinizi özelleştirmek için ses seviyeleri ve efektlerle deney yapabilirsiniz."
+      }
+    ]
+  },
+  "recommendedGames": {
+    "title": "Tavsiye Edilen Oyunlar",
+    "games": [
+      {
+        "image": "image_url_1",
+        "title": "Sprunki Klasik Mod",
+        "link": "#"
+      }, 
+      {
+        "image": "image_url_2",
+        "title": "Fantastik Ses Manzarası Oluşturucu",
+        "link": "#"
+      },
+      {
+        "image": "image_url_3",
+        "title": "Orman Harmonu",
+        "link": "#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Irori: Perjalanan Kuliner Lintas Tanah",
+    "description": "Masuki dunia 2.5D yang nyaman di Irori, di mana Anda bermain sebagai koki di kereta lintas tanah. Masak tusuk sate yang lezat dengan bahan fantastis dan temui para pelancong lain yang mencari kenyamanan.",
+    "keywords": "permainan Irori, permainan memasak fantasi, kereta lintas tanah, permainan 2.5D, permainan nyaman, PomePomelo"
+  },
+  "hero": {
+    "h1": "Irori: Perjalanan Kuliner Lintas Tanah",
+    "p": "Naiklah ke kereta lintas tanah dan jadilah koki, menyajikan tusuk sate lezat untuk menghangatkan hati dan perut para pelancong. Nikmati pengalaman yang nyaman dan menarik dalam dunia 2.5D yang lembut dan mengundang."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Grafis 2.5D yang menawan dengan desain karakter yang lembut",
+      "Berbagai bahan fantastis yang menyenangkan",
+      "Alur cerita interaktif dengan teman yang imut",
+      "Sesi permainan singkat namun memuaskan (3-5 menit)",
+      "Berinteraksi dengan penumpang lain melalui memasak dan cerita"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Petunjuk Permainan",
+    "instructions": [
+      "Pilih berbagai tusuk sate untuk dimasak menggunakan bahan fantasi.",
+      "Sesuaikan waktu memasak untuk memastikan tusuk sate dipanggang dengan sempurna.",
+      "Berinteraksi dengan penumpang untuk mengetahui cerita dan preferensi mereka.",
+      "Buka bahan dan resep baru seiring kemajuan Anda.",
+      "Akhiri setiap sesi dengan menerima umpan balik dari penumpang."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "SAYA SANGAT MENYUKAI PERMAINAN INI. Estetika dan gameplay-nya sangat menenangkan.",
+        "author": "Soulessvoidd"
+      },
+      {
+        "content": "Dapur bergerak Howl bertemu dengan fiksi interaktif! Unik dan menyenangkan.",
+        "author": "MultiDarkZen"
+      },
+      {
+        "content": "Suasana damai dan resep dalam permainan yang lezat menjadikannya favorit di koleksi permainan saya.",
+        "author": "Littlebuddy_2015"
+      },
+      {
+        "content": "Irori adalah pelarian yang indah. Cerita dari pelancong lain sangat menghangatkan hati.",
+        "author": "Angie"
+      },
+      {
+        "content": "Gaya seni ini sangat mengagumkan. Sangat imut dan dirancang dengan indah.",
+        "author": "superlocolillool"
+      },
+      {
+        "content": "Pengalaman permainan yang singkat tetapi manis. Tidak sabar untuk pembaruan selanjutnya!",
+        "author": "Caring_Koala_Bro"
+      },
+      {
+        "content": "Menarik tetapi sederhana. Cara yang nyaman untuk bersantai di akhir hari yang panjang.",
+        "author": "FRIDAY_NIGHT_FUNKE"
+      },
+      {
+        "content": "Saya tidak dapat memainkan permainan ini karena alasan teknis, tetapi ini terlihat sangat menjanjikan!",
+        "author": "catstuckinabox"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+      "question":"Apa itu 2.5D?",
+      "answer":"2.5D mengacu pada gaya visual yang menggabungkan elemen 2D dan 3D, menawarkan kedalaman dan perspektif sambil mempertahankan desain antarmuka yang datar."
+      },
+      {
+      "question":"Berapa lama setiap sesi permainan?",
+      "answer":"Setiap sesi berlangsung sekitar 3-5 menit, sempurna untuk permainan singkat."
+      },
+      {
+      "question":"Bisakah saya memainkan Irori di berbagai platform?",
+      "answer":"Ya, Irori tersedia di platform HTML5, Windows, dan macOS."
+      },
+      {
+      "question":"Di mana saya bisa membagikan pengalaman permainan saya?",
+      "answer":"Anda bisa membagikan pengalaman dan pemikiran Anda di forum komunitas kami."
+      },
+      {
+      "question":"Apakah permainan ini masih diperbarui?",
+      "answer":"Tim pengembang saat ini sedang istirahat, tetapi pembaruan di masa mendatang direncanakan."
+      },
+      {
+      "question":"Siapa yang mengembangkan Irori?",
+      "answer":"Irori dikembangkan oleh PomePomelo dengan kontribusi dari beberapa desainer dan programmer berbakat."
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "image": "path/to/other-game1.jpg",
+      "title": "Masakan Mistis: Sang Koki Terpesona",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game2.jpg",
+      "title": "Makanan Fantasi: Kronik Kuliner",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game3.jpg",
+      "title": "Kocokan Ajaib: Kisah Cita Rasa",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game4.jpg",
+      "title": "Odyssey Edible: Perjalanan Gastronomi",
+      "link": "#"
+    }
+  ]
+}

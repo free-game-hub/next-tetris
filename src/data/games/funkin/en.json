@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Friday Night Funkin (FNF) - The Ultimate Rhythm Battle Game | Play Now",
+    "description": "Jump into Friday Night Funkin' (FNF), the viral rhythm game sensation! Battle through musical showdowns, explore community mods, and experience the game that took the internet by storm. Free to play, easy to learn, hard to master!",
+    "keywords": "Friday Night Funkin, FNF, rhythm game, rap battle, Newgrounds game, FNF mods, music game, indie game"
+  },
+  "hero": {
+    "h1": "Friday Night Funkin' - Where Music Meets Challenge",
+    "p": "Join millions of players in the internet's most popular rhythm battle game. Face off against a colorful cast of characters in musical showdowns, prove your rhythm skills, and become part of our thriving community!"
+  },
+  "gameFeatures": {
+    "title": "What Makes FNF Special",
+    "features": [
+      "Original Viral Soundtrack: Groove to professionally crafted songs that have captivated millions",
+      "Active Modding Community: Access thousands of community-created characters, songs, and levels",
+      "Classic Art Style: Enjoy the distinctive Flash-era inspired animations and character designs",
+      "Regular Updates: Experience new content and features as the game continuously evolves",
+      "Open Source Development: Be part of a game that grows with its community"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play",
+    "instructions": [
+      "Use arrow keys (⬆️⬇️⬅️➡️) to match the rhythm of incoming notes",
+      "Hit notes accurately to maintain your health and score combo points",
+      "Progress through Story Mode to unlock new characters and tracks",
+      "Try Freeplay Mode to practice your favorite songs",
+      "Explore the mod section to discover community-created content"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "FNF in Action"
+  },
+  "playerReviews": {
+    "title": "Community Feedback",
+    "submitReviewLabel": "Share Your FNF Experience",
+    "nameLabel": "Username",
+    "reviewLabel": "Your Review",
+    "submitButtonLabel": "Post Review",
+    "reviews": [
+      {
+        "content": "The modding community keeps this game fresh! There's always something new to try, and the base game is already amazing.",
+        "author": "RhythmMaster2023",
+        "rating": 5
+      },
+      {
+        "content": "Started playing when it went viral, still can't put it down. The open-source nature makes it even better!",
+        "author": "FunkinPlayer",
+        "rating": 5
+      },
+      {
+        "content": "Best rhythm game I've played in years. The community keeps getting bigger and better!",
+        "author": "BeatDropper",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "Is Friday Night Funkin' free to play?",
+        "answer": "Yes! The base game is completely free to play through Newgrounds and other official platforms."
+      },
+      {
+        "question": "How do I install mods for FNF?",
+        "answer": "Most mods can be downloaded from trusted mod platforms. Each mod typically comes with installation instructions, but generally involves placing files in your game directory."
+      },
+      {
+        "question": "What are the minimum system requirements?",
+        "answer": "FNF is browser-based and runs on most modern computers. You just need a keyboard and an up-to-date web browser to play!"
+      },
+      {
+        "question": "Can I create my own mods?",
+        "answer": "Absolutely! FNF is open-source, and the community welcomes new creators. You can find modding tutorials and resources in the official community forums."
+      },
+      {
+        "question": "How often is the game updated?",
+        "answer": "The base game receives regular updates from the development team, while new community mods are released almost daily."
+      },
+      {
+        "question": "Is there a mobile version of FNF?",
+        "answer": "While there are some unofficial mobile ports, the official version is designed for desktop play with a keyboard."
+      }
+    ]
+  }
+}

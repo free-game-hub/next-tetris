@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Incredibox Sprunki Phase 3 - Stwórz swoją unikalną muzykę",
+    "description": "Odkryj Incredibox Sprunki Phase 3, grę muzyczną, w której kreatywność spotyka rytm. Miksuj dźwięki i twórz swoje utwory przy użyciu kolorowych animacji.",
+    "keywords": "Incredibox, Sprunki Phase 3, gra muzyczna, tworzenie muzyki, miksowanie dźwięków, kreatywna gra, animowane postacie, kompozycja muzyczna"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Phase 3",
+    "p": "Zanurz się w kolorowy wszechświat Incredibox Sprunki Phase 3, gdzie możesz uwolnić swoją muzyczną kreatywność, miksując różnorodne dźwięki, rytmy i melodie."
+  },
+  "gameFeatures": {
+    "title": "Cechy Gry",
+    "features": [
+      "Interaktywne tworzenie muzyki z mechanicznymi przeciągnij i upuść.",
+      "Unikalne postacie, każda reprezentująca różne elementy muzyczne.",
+      "Harmonijne nakładanie dźwięków do tworzenia spersonalizowanych utworów.",
+      "Wizualna informacja zwrotna z kolorowymi animacjami i efektami.",
+      "Opcje nagrywania i udostępniania do prezentacji swojej muzyki.",
+      "Nieskończona powtarzalność z wieloma kombinacjami postaci."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Instrukcje dotyczące gry",
+    "instructions": [
+      "Wybierz swoje ulubione animowane postacie, które reprezentują różne elementy dźwiękowe.",
+      "Przeciągnij i upuść postacie z panelu bocznego na planszę dźwiękową, aby zacząć tworzyć muzykę.",
+      "Eksperymentuj, nakładając różne postacie, aby stworzyć unikalne melodie.",
+      "Ciesz się efektami wizualnymi, które reagują na twoją kompozycję muzyczną.",
+      "Nagrywaj swoje dzieła i dziel się nimi z przyjaciółmi lub społecznością Incredibox."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu Incredibox Sprunki Phase 3"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Twoje imię",
+    "reviewLabel": "Twoja opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 3 to niesamowite połączenie kreatywności i zabawy!",
+        "author": "Emily R."
+      },
+      {
+        "content": "Animacje i elementy muzyczne sprawiają, że gra jest uzależniająco rozrywkowa.",
+        "author": "John D."
+      },
+      {
+        "content": "Fantastyczny sposób na odkrywanie tworzenia muzyki bez wcześniejszego doświadczenia.",
+        "author": "Sarah L."
+      },
+      {
+        "content": "Uwielbiam, jak każda sesja oferuje świeże i unikalne doświadczenie.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Idealna zarówno dla poważnych muzyków, jak i dla casualowych graczy!",
+        "author": "Chris K."
+      },
+      {
+        "content": "Sprunki Phase 3 uchwyca radość tworzenia muzyki w sposób bez wysiłku.",
+        "author": "Anna G."
+      },
+      {
+        "content": "Funkcja udostępniania pozwala mi łatwo pokazać swoją pracę przyjaciołom.",
+        "author": "David P."
+      },
+      {
+        "content": "Nieskończone możliwości i kombinacje! Nigdy się nie nudzi.",
+        "author": "Laura H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question":"Czym jest Incredibox Sprunki Phase 3?",
+        "answer":"Incredibox Sprunki Phase 3 to gra muzyczna, która pozwala graczom tworzyć unikalne utwory poprzez miksowanie różnych dźwięków i rytmów za pomocą animowanych postaci."
+      },
+      {
+        "question":"Jak grać w Incredibox Sprunki Phase 3?",
+        "answer":"Wybierz animowane postacie reprezentujące różne elementy muzyczne, przeciągnij je na planszę dźwiękową i miksuj, aby stworzyć swoją kompozycję."
+      },
+      {
+        "question":"Czy mogę dzielić się swoimi muzycznymi dziełami?",
+        "answer":"Tak, możesz nagrywać i dzielić się swoją muzyką z przyjaciółmi lub społecznością Incredibox."
+      },
+      {
+        "question":"Jaki jest cel gry?",
+        "answer":"Celem jest tworzenie harmonijnej muzyki poprzez strategiczne nakładanie postaci i ich dźwięków."
+      },
+      {
+        "question":"Czy Incredibox Sprunki Phase 3 jest odpowiednia dla wszystkich wieku?",
+        "answer":"Tak, gra została zaprojektowana tak, aby była przyjemna dla graczy w każdym wieku."
+      },
+      {
+        "question":"Czy mogę grać w Incredibox Sprunki Phase 3 wiele razy?",
+        "answer":"Oczywiście! Dzięki nieskończonym kombinacjom, żadna sesja nie jest taka sama, co zapewnia dużą powtarzalność."
+      }
+    ]
+  }
+}

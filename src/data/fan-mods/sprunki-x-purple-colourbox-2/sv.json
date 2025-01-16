@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Purple Mode - En Livlig Spelupplevelse",
+    "description": "Utforska den monokromatiska världen av Sprunki Purple Mode, där kreativitet möter unikhet. Upptäck spelets funktioner, spelinstruktioner, användarrecensioner och vanliga frågor.",
+    "keywords": "Sprunki Purple Mode, monokromatisk lila spel, unik spelupplevelse, musikskapande spel"
+  },
+  "hero": {
+    "h1": "Sprunki Purple Mode",
+    "p": "Dyk ner i den unika monokromatiska lila världen av Sprunki Purple Mode, där kreativiteten inte känner några gränser."
+  },
+  "gameFeatures": {
+    "title": "Spelfunktioner av Sprunki Purple Mode",
+    "features": [
+      "Monokromatisk Lila Palett: Kliv in i ett universum där allt är badat i lila.",
+      "Innovativ Galleri: Utforska galleriet med en twist, även om det bara är för den visuella appellen.",
+      "Enfärgad Karaktärsschema: Unika karaktärer med distinkta enfärgade designer.",
+      "Speciellt Elektroniskt Ljudspår: Njut av en samling elektroniska ljud som tillför spänning.",
+      "Oändlig Musikskapande: Unika ljud för varje karaktär möjliggör oändliga melodimöjligheter."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så Här Spelar Du Sprunki Purple Mode",
+    "instructions": [
+      "Välj Karaktärer: Välj 6 musikspår från originalet Incredibox.",
+      "Dra och Släpp: Placera en av de tjugo ikonerna på en av de sju stolparna för att skapa ljud.",
+      "Skapa Unika Mixar: Varje karaktärs ljud är distinkt och tillåter oändlig musikalisk kreativitet.",
+      "Första Buggen: När du placerar Simon, den tolfte karaktären, kan en extra polo kvarstå.",
+      "Andra Buggen: Det är svårt att lämna galleriet på grund av en saknad utgångsknapp."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelbilder"
+  },
+  "playerReviews": {
+    "title": "Spelarnas Recensioner för Sprunki Purple Mode",
+    "submitReviewLabel": "Skicka Din Recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Den lila färgtemat sätter verkligen detta spel isär. Det är hypnotiskt!",
+        "author": "Alice"
+      },
+      {
+        "content": "Att skapa melodier med unika karaktärsljud är otroligt.",
+        "author": "Ben"
+      },
+      {
+        "content": "Jag älskar det elektroniska ljudspåret, det tillför så mycket till spelet.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Galleri-funktionen behöver förbättras men det är intressant ändå.",
+        "author": "David"
+      },
+      {
+        "content": "Lite buggy men fortfarande ett superroligt spel att spela.",
+        "author": "Eve"
+      },
+      {
+        "content": "Det lila temat är visuellt tilltalande och innovativt.",
+        "author": "Frank"
+      },
+      {
+        "content": "Det är en kreativ twist på den traditionella musikspelsgenren.",
+        "author": "Grace"
+      },
+      {
+        "content": "Skulle älska att se fler uppdateringar, men överlag är det riktigt roligt!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är Sprunki Purple Mode?",
+        "answer": "Ett spel där alla visuella element domineras av en lila färgschema, vilket erbjuder en unik konstnärlig stil."
+      },
+      {
+        "question": "Varför har galleriet ingen utgångsknapp?",
+        "answer": "Detta är en känd bugg. Vi arbetar på att lägga till en utgångsknapp i framtida uppdateringar."
+      },
+      {
+        "question": "Är varje karaktärs ljud unikt?",
+        "answer": "Ja, varje karaktär har ett distinkt ljud, vilket erbjuder oändliga musikaliska möjligheter."
+      },
+      {
+        "question": "Kan jag spela detta spel på mobil?",
+        "answer": "För närvarande är spelet optimerat för spel på skrivbordet."
+      },
+      {
+        "question": "Vem skapade modden?",
+        "answer": "Den ursprungliga modden tillhör Freepies, känd som purple colorbox v6."
+      },
+      {
+        "question": "Hur kan jag rapportera en bugg?",
+        "answer": "Vänligen kontakta vårt supportteam via hjälpsektionen på vår webbplats."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Démo de Sprunked de jour - Créez votre propre aventure musicale",
+    "description": "Plongez dans l'univers de la Démo de Sprunked de jour, un jeu musical unique mêlant des éléments de Sprunki et Incredibox. Créez vos propres mélodies grâce à une interface de scratch intuitive et partagez vos créations avec le monde.",
+    "keywords": "Sprunked, Démo de Sprunked de jour, Sprunki, Incredibox, jeu musical, créer de la musique, aventure musicale"
+  },
+  "hero": {
+    "h1": "Sprunked (Démo de jour)",
+    "p": "Embarquez pour un voyage musical avec Sprunked, où la créativité rencontre le plaisir ! Créez des mélodies uniques et explorez des possibilités musicales infinies."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités de Sprunked",
+    "features": [
+      "Interface de Scratch fluide : Commencez à créer de la musique instantanément.",
+      "Bibliothèque de sons éclectique : Une gamme diversifiée de sons amusants.",
+      "Exploration musicale sans limites : Créativité illimitée avec vos mélodies.",
+      "Amplifiez vos créations : Partagez vos chefs-d'œuvre avec le monde.",
+      "Débloquez de nouvelles fonctionnalités : Découvrez plus de personnages et de sons en jouant."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment jouer à la Démo de Sprunked de jour",
+    "instructions": [
+      "Choisissez votre personnage : Sélectionnez un personnage original avec des sons uniques.",
+      "Explorez l'interface : Trouvez et utilisez divers sons et effets.",
+      "Scratch pour découvrir des sons : Dévoilez des morceaux audio cachés.",
+      "Composez vos mélodies : Superposez et combinez des sons pour créer des morceaux uniques.",
+      "Partagez vos créations : Montrez votre musique en ligne ou avec vos amis."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran de la Démo de Sprunked de jour"
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs",
+    "submitReviewLabel": "Soumettez votre avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "J'adore absolument l'interface, facile et intuitive !",
+        "author": "Alice"
+      },
+      {
+        "content": "La bibliothèque de sons est tellement diversifiée, je passe des heures à créer.",
+        "author": "Bob"
+      },
+      {
+        "content": "Un moyen fantastique de faire preuve de créativité et de se détendre.",
+        "author": "Charlie"
+      },
+      {
+        "content": "Partager mes créations n'a jamais été aussi amusant.",
+        "author": "Dana"
+      },
+      {
+        "content": "Débloquer de nouvelles fonctionnalités garde le jeu frais.",
+        "author": "Eli"
+      },
+      {
+        "content": "Engageant et ça stimule ma créativité musicale !",
+        "author": "Frank"
+      },
+      {
+        "content": "La communauté est tellement inspirante, j'adore collaborer.",
+        "author": "Grace"
+      },
+      {
+        "content": "À ne pas manquer pour quiconque aime la musique.",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées sur Sprunked",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Incredibox Sprunked ?",
+        "answer": "C'est une plateforme captivante pour mélanger des rythmes et explorer la créativité avec des personnages originaux."
+      },
+      {
+        "question": "Quelles sont les fonctionnalités de Sprunki Sprunked ?",
+        "answer": "Rempli de sons, de personnages charmants et d'effets pour améliorer votre expérience musicale."
+      },
+      {
+        "question": "Quelle est l'histoire derrière Sprunked ?",
+        "answer": "Créé pour offrir une expérience nouvelle, chaque personnage apporte sa personnalité à votre parcours."
+      },
+      {
+        "question": "Quelle est la réaction de la communauté Sprunked à Incredibox ?",
+        "answer": "Très apprécié pour son expérience immersive, attirant un large public."
+      },
+      {
+        "question": "Pourquoi les joueurs devraient-ils aimer jouer à Sprunked ?",
+        "answer": "Pour ses styles amusants, ses visuels et son expression créative sans fin."
+      },
+      {
+        "question": "Qu'est-ce qui rend Sprunked spécial ?",
+        "answer": "De nouveaux sons, visuels et interactivité élèvent l'expérience au-delà des prédécesseurs."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Recommandé pour vous",
+    "games": [
+      {
+        "title": "Le Monde de Sprunki Dandy",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Cataclysm",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

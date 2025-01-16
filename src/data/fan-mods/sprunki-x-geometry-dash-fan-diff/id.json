@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki X Geometry Dash (Fan Diff.) - Ulasan Game, Aturan, dan Fitur",
+    "description": "Jelajahi Sprunki X Geometry Dash (Fan Diff.), adaptasi menarik yang dibuat penggemar dari game populer ini. Temukan fitur game, aturan, dan pengalaman pemain. Sempurna bagi penggemar Geometry Dash.",
+    "keywords": "Sprunki X Geometry Dash, game penggemar Geometry Dash, ulasan game Sprunki, fitur game, aturan game"
+  },
+  "hero": {
+    "h1": "Sprunki X Geometry Dash (Fan Diff.)",
+    "p": "Versi yang dibuat penggemar ini membawa tantangan baru dan gameplay yang mendebarkan ke layar Anda. Selami dunia lompatan ritmis dan level yang rumit."
+  },
+  "gameFeatures": {
+    "title": "Fitur dari Sprunki X Geometry Dash (Fan Diff.)",
+    "features": [
+      "Level unik yang dibuat penggemar yang menguji reflek Anda",
+      "Grafis yang cerah dan soundtrack yang menarik",
+      "Beberapa pengaturan kesulitan untuk semua tingkat keterampilan",
+      "Kompatibilitas dengan berbagai perangkat untuk permainan yang lancar",
+      "Papan peringkat untuk bersaing dengan pemain lain"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki X Geometry Dash (Fan Diff.)",
+    "instructions": [
+      "Navigasikan melalui rintangan yang menantang dengan mengetuk layar.",
+      "Hindari jebakan dan lubang dengan ketepatan waktu.",
+      "Kumpulkan bintang dan bonus di sepanjang perjalanan Anda.",
+      "Kuasi berbagai level untuk meningkatkan skor Anda.",
+      "Gunakan mode latihan untuk memperbaiki keterampilan Anda tanpa mempengaruhi peringkat."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Game"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Sprunki X Geometry Dash sangat adiktif! Saya tidak bisa berhenti memainkannya.",
+        "author": "AlexGamer"
+      },
+      {
+        "content": "Versi penggemar ini memberi twist segar pada game aslinya, sangat direkomendasikan!",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Levelnya menantang tetapi adil. Sempurna untuk gamer berpengalaman!",
+        "author": "ProDashMaster"
+      },
+      {
+        "content": "Suka musik dan grafisnya. Ini benar-benar membangkitkan semangat bermain.",
+        "author": "SoundBee"
+      },
+      {
+        "content": "Butuh waktu sedikit untuk menjadi bagus, tetapi sekarang saya terpesona!",
+        "author": "JumpKing"
+      },
+      {
+        "content": "Cara yang hebat untuk menghabiskan waktu, dan berjalan lancar di perangkat saya.",
+        "author": "TechyPlayer"
+      },
+      {
+        "content": "Mode latihan sangat membantu untuk level yang sulit.",
+        "author": "QuickTap"
+      },
+      {
+        "content": "Adaptasi hebat dari penggemar yang menjaga esensi Geometry Dash tetap hidup.",
+        "author": "FanOfGD"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apakah Sprunki X Geometry Dash (Fan Diff.) gratis untuk dimainkan?",
+        "answer": "Ya, versi penggemar ini gratis untuk semua pengguna."
+      },
+      {
+        "question": "Di platform mana game ini tersedia?",
+        "answer": "Game ini tersedia di sebagian besar perangkat termasuk PC, Android, dan iOS."
+      },
+      {
+        "question": "Bisakah saya bersaing dengan teman-teman di dalam game?",
+        "answer": "Ya, ada papan peringkat dimana Anda bisa bersaing dengan teman-teman."
+      },
+      {
+        "question": "Apakah ada pembelian dalam aplikasi?",
+        "answer": "Tidak, versi penggemar ini tidak memiliki pembelian dalam aplikasi."
+      },
+      {
+        "question": "Apakah game ini memiliki iklan?",
+        "answer": "Versi ini tidak menyertakan iklan, memungkinkan permainan yang tidak terputus."
+      },
+      {
+        "question": "Seberapa sering level baru ditambahkan?",
+        "answer": "Level baru ditambahkan oleh penggemar secara teratur untuk menjaga gameplay tetap menarik."
+      }
+    ]
+  }
+}

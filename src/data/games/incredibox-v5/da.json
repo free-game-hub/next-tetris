@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V5 - Skab dit eget beat | Musikspil guide",
+    "description": "Udforsk Incredibox V5, det kreative musikspil hvor du kan blive DJ og blande forskellige lyde for at skabe unikke beats. Lær spillets regler og kontroller, og bliv en del af det globale musikfællesskab.",
+    "keywords": "Incredibox V5, musikspil, kreativt beat, DJ spil, Incredicrew"
+  },
+  "hero": {
+    "h1": "Incredibox V5",
+    "p": "Få oplevelsen af Incredibox V5, skab dit eget musikbeat, og bliv en del af den globale fanskare."
+  },
+  "gameFeatures": {
+    "title": "Spilfunktioner",
+    "features": [
+      "Innovativ musikskabende oplevelse",
+      "Enkel og intuitiv betjening",
+      "Variation i karakterer og lydbiblioteker",
+      "Fantastiske visuelle effekter og animationer",
+      "Del musik online og interager med fællesskabet"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spilregler og betjeningsvejledning",
+    "instructions": [
+      "Vælg forskellige karakterer, hver repræsenterer et musikalsk lag.",
+      "Klik på karaktererne for at tilføje eller fjerne lyde.",
+      "Træk lyde-ikonerne til karaktererne for at begynde at skabe.",
+      "Brug mellemrumstasten til at afspille eller pause dit musikværk.",
+      "Prøv forskellige kombinationer for at opdage skjulte musikeffekter."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spilskærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Dette spil er vanedannende, super kreativt og virkelig sjovt!",
+        "author": "Lily"
+      },
+      {
+        "content": "Jeg elsker grafikken og lydene i Incredibox V5, det passer til alle aldre!",
+        "author": "John"
+      },
+      {
+        "content": "Perfekt til at slå tiden ihjel og opbygge musikalske færdigheder.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Fantastisk! Jeg deler mine kreationer med fællesskabet hver dag.",
+        "author": "Alex"
+      },
+      {
+        "content": "Venligt for nybegyndere, jeg har fået en ny interesse for musik.",
+        "author": "Karen"
+      },
+      {
+        "content": "Simpelt men dybt, enorm genrefyldt oplevelse.",
+        "author": "Michael"
+      },
+      {
+        "content": "De skjulte spor tilføjer så meget til spilbarheden, man finder altid noget nyt.",
+        "author": "Emily"
+      },
+      {
+        "content": "Virkelig et paradis for musikelskere, varmt anbefalet!",
+        "author": "David"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål",
+    "questions": [
+      {
+        "question": "Hvordan skaber jeg musik i Incredibox V5?",
+        "answer": "Ved at klikke på karaktererne for at tilføje eller fjerne lyde og bruge træk-funktionaliteten for at eksperimentere med forskellige lydkombinationer."
+      },
+      {
+        "question": "Er Incredibox V5 egnet for nybegyndere?",
+        "answer": "Bestemt, spillet tilbyder enkle vejledninger og masser af indhold at udforske."
+      },
+      {
+        "question": "Kan jeg dele mine musikværker?",
+        "answer": "Ja, Incredibox V5 giver dig mulighed for at dele dine værker med fællesskabet og interagere med andre spillere."
+      },
+      {
+        "question": "Hvordan finder jeg skjulte spor?",
+        "answer": "Prøv forskellige lydkombinationer for at opdage de skjulte overraskelsesspor."
+      },
+      {
+        "question": "Hvilken aldersgruppe er spillet egnet til?",
+        "answer": "Incredibox V5 er for alle aldre, især musikelskere."
+      },
+      {
+        "question": "Hvordan kan jeg blive en del af Incredibox fællesskabet?",
+        "answer": "Del dine musikværker og deltag i diskussioner for at blive en del af fællesskabet."
+      }
+    ]
+  }
+}

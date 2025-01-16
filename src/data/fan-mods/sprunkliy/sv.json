@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkliy Game - Enkelt och Spännande Gameplay",
+    "description": "Utforska Sprunkliy, en förenklad remix av sprunki. Upptäck spel egenskaper, instruktioner, recensioner och vanliga frågor.",
+    "keywords": "Sprunkliy, Sprunki remix, enkelt gameplay, spelrecensioner, vanliga frågor"
+  },
+  "hero": {
+    "h1": "Sprunkliy",
+    "p": "Välkommen till Sprunkliy, en förenklad remix av det populära spelet sprunki. Dyka ner i spännande äventyr med strömlinjeformad gameplay."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunkliy",
+    "features": [
+      "Förenklad gameplay för alla åldrar",
+      "Engagerande och färgglad grafik",
+      "Lätta kontroller att lära sig",
+      "Utmanande nivåer med belönande prestationer",
+      "En remake av Amsosprunki på Scratch"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så här spelar du Sprunkliy",
+    "instructions": [
+      "Starta spelet och välj din karaktär.",
+      "Navigera genom nivåerna genom att undvika hinder.",
+      "Samla belöningar för att öka din poäng.",
+      "Använd förenklade kontroller för att få din karaktär att hoppa eller springa.",
+      "Fullfölj nivåer för att låsa upp nya utmaningar."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar från Sprunkliy"
+  },
+  "playerReviews": {
+    "title": "Spelrecensioner",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Ditt namn",
+    "reviewLabel": "Din recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunkliy är precis den typ av enkel underhållning jag behövde!",
+        "author": "Alex"
+      },
+      {
+        "content": "Perfekt spel för snabb stressavlastning under pauser.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Jag älskar den enkla designen och de lätta kontrollerna.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Nivåerna är utmanande men inte frustrerande. Älskar det!",
+        "author": "Casey"
+      },
+      {
+        "content": "Det är fantastiskt hur en enkel remix kan bli ett bra spel.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Mina barn kan inte sluta spela Sprunkliy. Det är så fängslande!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Stort spel för alla åldrar - roligt och beroendeframkallande!",
+        "author": "Charlie"
+      },
+      {
+        "content": "Jag uppskattar den icke-komplicerade gameplayen. Tummen upp!",
+        "author": "Pat"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question":"Vad är Sprunkliy?",
+        "answer":"Sprunkliy är en förenklad remix av det ursprungliga spelet sprunki, designat för att erbjuda tydlig och engagerande gameplay."
+      },
+      {
+        "question":"Vem utvecklade Sprunkliy?",
+        "answer":"Remixen skapades av Amsosprunki på Scratch och delas av depicpro."
+      },
+      {
+        "question":"Hur spelar jag Sprunkliy?",
+        "answer":"Använd enkla kontroller för att styra din karaktär genom olika nivåer, undvik hinder och samla belöningar."
+      },
+      {
+        "question":"Är Sprunkliy lämpligt för barn?",
+        "answer":"Ja, dess förenklade gameplay gör det lämpligt för spelare i alla åldrar."
+      },
+      {
+        "question":"Kan jag skicka in min egen recension?",
+        "answer":"Absolut! Vi välkomnar dina synpunkter och erfarenheter med Sprunkliy."
+      },
+      {
+        "question":"Var kan jag hitta fler spel som liknar Sprunkliy?",
+        "answer":"Kolla in vår spelrekommendationsmodul för liknande engagerande spel."
+      }
+    ]
+  }
+}

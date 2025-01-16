@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - Verbeter je Horror Muziekervaring",
+    "description": "Duik in de griezelige wereld van Sprunki Ketchup 2.0, waar muziek maken een angstaanjagende ervaring wordt. Ontdek de spelregels, functies en spelersreviews.",
+    "keywords": "Sprunki Ketchup 2.0, horror muziek spel, spookachtige geluidslandschappen, spelkenmerken, spelersreviews"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "Verken de onheilspellende rijken van Sprunki Ketchup 2.0, waar horror en muziek samenkomen in een spannende game-ervaring."
+  },
+  "gameFeatures": {
+    "title": "Belangrijkste Kenmerken van Sprunki Ketchup 2.0",
+    "features": [
+      "Intensieve Horror Esthetiek met bedreigende karakterontwerpen.",
+      "Donkere Geluidslandschappen en griezelige herhalingen.",
+      "Verhoogde Spanning met experimentele muziek lagen.",
+      "Complexe personages en verontrustende achtergronden.",
+      "Deel je creaties met een gemeenschap van horrorliefhebbers."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Sprunki Ketchup 2.0",
+    "instructions": [
+      "Kies Personages: Selecteer figuren die een griezelige charme uitstralen.",
+      "Sleep en Zet ze op je canvas om angstaanjagende composities te creëren.",
+      "Experimenteer met volume en effecten om spookachtige perfectie te bereiken.",
+      "Verfijn je lagen om verborgen elementen van schrik te onthullen.",
+      "Bewaar en deel je horror muziekcomposities met vrienden."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots van Sprunki Ketchup 2.0"
+  },
+  "playerReviews": {
+    "title": "Wat Spelers Zeggen Over Sprunki Ketchup 2.0",
+    "submitReviewLabel": "Dien je Review In",
+    "nameLabel": "Naam",
+    "reviewLabel": "Beoordeling",
+    "submitButtonLabel": "Verzenden",
+    "reviews": [
+      {
+        "content": "Dit spel heeft horror in muziek gerevolutioneerd—een must-play voor spanningszoekers.",
+        "author": "Alex"
+      },
+      {
+        "content": "Ik heb me nog nooit zo op het puntje van mijn stoel gevoeld terwijl ik deuntjes maak, de spanning is echt!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Perfecte mix van muziek en horror. Sprunki Ketchup 2.0 houdt me aan het scherm gekluisterd!",
+        "author": "Chris"
+      },
+      {
+        "content": "De angstaanjagende geluidslandschappen zijn verbluffend. Maak je klaar om geschrokken te worden.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Geweldig voor Halloween-feesten, speel het luid en schrik je vrienden!",
+        "author": "Casey"
+      },
+      {
+        "content": "Ik hou absoluut van de griezelige sfeer en de creatieve vrijheid die het biedt.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0 is een ervaring als geen ander. Zeer aan te bevelen.",
+        "author": "Morgan"
+      },
+      {
+        "content": "De sfeer van het spel is intens griezelig en perfect voor horrorliefhebbers.",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Veelgestelde Vragen over Sprunki Ketchup 2.0",
+    "questions": [
+      {
+        "question":"Wat is Sprunki Ketchup 2.0?",
+        "answer":"Sprunki Ketchup 2.0 is een horror-thema muziekspel dat onheilspellende geluidslandschappen en visuals introduceert."
+      },
+      {
+        "question":"Hoe maak ik muziek in dit spel?",
+        "answer":"Kies en rangschik griezelige karakterloops op het scherm om je eigen angstaanjagende tracks te componeren."
+      },
+      {
+        "question":"Kan ik mijn muziekcreaties delen?",
+        "answer":"Ja, je kunt je composities opslaan en delen met andere spelers."
+      },
+      {
+        "question":"Is Sprunki Ketchup 2.0 geschikt voor kinderen?",
+        "answer":"Het wordt aanbevolen voor een volwassen publiek vanwege de horrorelementen."
+      },
+      {
+        "question":"Zijn er in-game aankopen?",
+        "answer":"Sprunki Ketchup 2.0 biedt verschillende functies die beschikbaar zijn voor uitbreiding via in-game aankopen."
+      },
+      {
+        "question":"Op welke platforms is Sprunki Ketchup 2.0 beschikbaar?",
+        "answer":"Het spel is beschikbaar op de grootste gameplatforms, waaronder PC en consoles."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Aanbevolen Spellen",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "Spannende Echo's",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "Vervlogen Harmonieën",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "Schaduw Symfonie",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

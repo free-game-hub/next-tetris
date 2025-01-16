@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - 一個有趣的冒險遊戲 | 現在就開始遊玩",
+    "description": "加入 Sprunki 的刺激世界！探索這款引人入勝的冒險遊戲的規則、特徵和評價。立即遊玩 Sprunki，開始一場史詩般的旅程。",
+    "keywords": "Sprunki, Sprunki 遊戲, 冒險遊戲, 玩 Sprunki, Sprunki 特徵, 遊戲規則"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "沉浸在 Sprunki 的驚險冒險中，每個角色都展開一場史詩旅行。與成千上萬的玩家一起體驗引人入勝的 Sprunki 世界。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki 遊戲特徵",
+    "features": [
+      "引人入勝的故事情節與迷人的角色。",
+      "驚艷的圖形將 Sprunki 的世界栩栩如生呈現。",
+      "互動性遊戲玩法挑戰你的技巧。",
+      "多人模式讓你可以與朋友組隊。",
+      "定期更新和新內容，無盡的樂趣。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki",
+    "instructions": [
+      "從官方網站或應用商店下載 Sprunki 應用程式。",
+      "創建你的角色並自訂其外觀。",
+      "使用方向鍵或觸控屏在關卡間移動。",
+      "完成任務獲取獎勵並在遊戲中進步。",
+      "與其他玩家組隊，共同應對挑戰任務。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "探索 Sprunki 世界"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki 是我很久以來玩得最開心的遊戲！角色和故事都非常引人入勝。",
+        "author": "JaneD"
+      },
+      {
+        "content": "一款極好的遊戲，擁有華麗的圖形和上癮的遊戲玩法！",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "我喜歡多人模式，和朋友一起玩超有趣！",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki 隨著每次更新不斷變得更好。強烈推薦！",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "挑戰非常適合單人遊玩或者和朋友一起享受樂趣。",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "非常適合小孩和成人的遊戲。我家每個人都愛它！",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "獨特的角色和創意的任務讓 Sprunki 脫穎而出。",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "我已經玩了 Sprunki 數月。引人入勝，永遠不會感到厭倦！",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title":"常見問題",
+    "questions": [
+      {
+        "question":"我可以在哪裡下載 Sprunki？",
+        "answer":"Sprunki 可以從官方網站或主要應用商店下載。"
+      },
+      {
+        "question":"Sprunki 是否適用於所有設備？",
+        "answer":"是的，Sprunki 在 PC、iOS 和 Android 設備上均可用。"
+      },
+      {
+        "question":"我需要連接網路才能玩 Sprunki 嗎？",
+        "answer":"多人功能需要網路連線，但你可以離線玩單人任務。"
+      },
+      {
+        "question":"遊戲內有購買選項嗎？",
+        "answer":"是的，Sprunki 提供選擇性的遊戲內購買，用於角色自訂和新內容。"
+      },
+      {
+        "question":"新內容多長時間會發布？",
+        "answer":"新內容和更新會定期發布，以保持遊戲的新鮮感和刺激性。"
+      },
+      {
+        "question":"我可以和朋友一起玩 Sprunki 嗎？",
+        "answer":"當然可以！Sprunki 提供多人模式，讓你可以與朋友或其他線上玩家一起遊玩。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Diktatur Mod - En Unik Musik Utmaning",
+    "description": "Utforska Sprunki Diktatur Mod, där musik möter auktoritära estetik. Upptäck dess funktioner, spelinstruktioner och läs spelarrecensioner.",
+    "keywords": "Sprunki Diktatur, Sprunki Diktatur Mod, musik utmaning, auktoritära teman, spelmekanik"
+  },
+  "hero": {
+    "h1": "Sprunki Diktatur Mod",
+    "p": "Kliv in i en värld där musik och auktoritär estetik kolliderar. Skapa fängslande kompositioner inom en strikt kontrollerad miljö."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunki Diktatur Mod",
+    "features": [
+      "Auktoritär Estetik: Neutrala färger och maktsymboler definierar atmosfären.",
+      "Strikta Ljudlandskap: Strukturerade, upprepande takter imiterar ett regimes order.",
+      "Intensivt Humör: Skapa kompositioner som fångar livet under strikt kontroll.",
+      "Lager av Komplexitet: Justera volymer för att avslöja djupare lager inom den strikta ramen.",
+      "Tankeväckande Berättelse: Upplev en skarp ljudresa som är unik i sitt slag."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man Spelar Sprunki Diktatur Mod",
+    "instructions": [
+      "Välj Karaktärer: Välj figurer som symboliserar auktoritet eller tyst motstånd.",
+      "Dra och Släpp: Ordna takterna för att återge kommando och dämpad energi.",
+      "Experimentera och Justera: Hitta gömd komplexitet inom strukturerade loopar.",
+      "Spara och Dela: Skapa och dela låtar som förmedlar kontroll och spänning.",
+      "Uttrycksfull Skapelse: Trots begränsningar, utforska djupet av komposition."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar från Sprunki Diktatur Mod"
+  },
+  "playerReviews": {
+    "title": "Spelarrecensioner för Sprunki Diktatur Mod",
+    "submitReviewLabel": "Skicka Din Recension",
+    "nameLabel": "Ditt Namn",
+    "reviewLabel": "Din Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunki Diktatur Mod erbjuder en fräsch vändning på musikskapande. Det är lite utmanande men mycket givande!",
+        "author": "Alex P."
+      },
+      {
+        "content": "En unik och fängslande upplevelse. Det auktoritära temat ger en oväntad djupdimension till spelet.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Stämningen är intensiv och full av spänning. Jag älskar hur spelet pressar kreativa gränser.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Ett tankeväckande mod. Det får dig att tänka på musik på ett helt nytt sätt.",
+        "author": "Casey M."
+      },
+      {
+        "content": "Jag njöt av att utforska den lager av komplexitet inom den strikta ramen. Det är inte som något annat mod.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Ljudlandskapen är hypnotiska. Starkt rekommenderat för dem som söker en unik utmaning.",
+        "author": "Jordan T."
+      },
+      {
+        "content": "En fascinerande tolkning av den vanliga Sprunki-stilen. Begränsningarna boostar faktiskt kreativiteten.",
+        "author": "Riley F."
+      },
+      {
+        "content": "Det är ett djupt dyck in i en auktoritärt stiliserad värld. Perfekt för musik- och strategientusiaster.",
+        "author": "Peyton R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Diktatur Mod FAQ",
+    "questions": [
+      {
+        "question": "Vad är Sprunki Diktatur Mod?",
+        "answer": "Sprunki Diktatur Mod är en musikskapande utmaning som utspelar sig i en auktoritärt tematisk miljö."
+      },
+      {
+        "question": "Hur börjar jag spela?",
+        "answer": "Välj karaktärer som passar temat, arrangera takter och experimentera med ljudlandskap."
+      },
+      {
+        "question": "Kan jag dela mina kompositioner?",
+        "answer": "Ja, du kan spara och dela dina låtar med vänner eller gemenskapen."
+      },
+      {
+        "question": "Är kreativiteten begränsad i det här modet?",
+        "answer": "Även om atmosfären är begränsad, finns det fortfarande plats för kreativitet och uttryck."
+      },
+      {
+        "question": "Vad gör det här modet annorlunda än andra?",
+        "answer": "Dess auktoritära tema och strukturerade ljudlandskap erbjuder en unik och utmanande musikskapande upplevelse."
+      },
+      {
+        "question": "Behöver jag tidigare erfarenhet av musikskapande?",
+        "answer": "Ingen tidigare erfarenhet krävs. Spelet är designat för att vara tillgängligt för alla spelare."
+      }
+    ]
+  }
+}

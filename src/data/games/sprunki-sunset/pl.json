@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Mod Sprunki Sunset: Twórz Muzykę w Ciepłym Blasku Zmierzchu",
+    "description": "Odkryj Mod Sprunki Sunset, doświadczenie twórczości muzycznej inspirowane wieczornymi odcieniami i spokojnymi pejzażami dźwiękowymi. Dowiedz się, jak grać i ciesz się recenzjami graczy.",
+    "keywords": "Mod Sprunki Sunset, twórczość muzyczna, estetyka inspirowana zachodem słońca, spokojne pejzaże dźwiękowe, gra muzyczna"
+  },
+  "hero": {
+    "h1": "Mod Sprunki Sunset",
+    "p": "Zanurz się w ciepłych, złotych odcieniach późnopopołudniowego nieba z Modem Sprunki Sunset. Przekształć swoją sesję muzyczną w relaksujące, refleksyjne doświadczenie."
+  },
+  "gameFeatures": {
+    "title": "Kluczowe Cechy Modu Sprunki Sunset",
+    "features": [
+      "Estetyka Inspirowana Zachodem Słońca: Naśladuj wieczorną paletę nieba z kojącymi tłem.",
+      "Ciepłe Pejzaże Dźwiękowe: Pętli z łagodnymi tonami i miękkimi harmoniami dla twórczej refleksji.",
+      "Relaksująca Atmosfera: Zwolnij tempo i odkryj pocieszające oraz pełne duszy melodie.",
+      "Wybór Postaci: Wybierz postaci odzwierciedlające stonowanego ducha zmierzchu.",
+      "Łatwe Udostępnianie: Podziel się swoimi muzycznymi kreacjami i pozwól innym doświadczyć zachodu słońca Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Mod Sprunki Sunset",
+    "instructions": [
+      "Wybierz Postacie: Wybierz spośród postaci odzwierciedlających stonowany duch zmierzchu.",
+      "Przeciągnij i Upuść: Układaj dźwięki, aby uchwycić łagodny spadek słońca.",
+      "Dostosuj Swoją Mieszankę: Reguluj głośności i efekty, aby udoskonalić swój utwór.",
+      "Zapisz i Udostępnij: Podziel się swoją kreacją i rozpowszechnij cichą piękność zmierzchu.",
+      "Eksperymentuj z Cierpliwością: Odkrywaj melodie, które wywołują spokojny nastrój zmierzchu."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu Modu Sprunki Sunset"
+  },
+  "playerReviews": {
+    "title": "Recenzje Graczy Modu Sprunki Sunset",
+    "submitReviewLabel": "Prześlij Swoją Recenzję",
+    "nameLabel": "Imię",
+    "reviewLabel": "Recenzja",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Estetyka jest jak oglądanie zachodu słońca w rzeczywistości. Piękne i uspokajające.",
+        "author": "Alice T."
+      },
+      {
+        "content": "Uwielbiam stonowane pętle i łagodne dźwięki, idealne na relaksującą sesję.",
+        "author": "Mike D."
+      },
+      {
+        "content": "To świetny sposób na relaks i stworzenie czegoś pięknego. Gorąco polecam!",
+        "author": "Julia F."
+      },
+      {
+        "content": "Idealne na późnonocną kreatywność. Temat zachodu słońca jest cudownie zrealizowany.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Podzieliłem się swoimi utworami z przyjaciółmi, a oni uwielbiają spokojny klimat.",
+        "author": "Nina L."
+      },
+      {
+        "content": "Interfejs jest intuicyjny, a efekty dodają idealny akcent.",
+        "author": "Tom S."
+      },
+      {
+        "content": "Idealne połączenie kojących wizualizacji i uspokajających dźwięków. Wspaniałe doświadczenie!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Każda sesja to jak podróż przez spokojny zmierzch.",
+        "author": "Liam P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Co to jest Mod Sprunki Sunset?",
+        "answer": "Mod Sprunki Sunset to gra muzyczna, która oferuje temat inspirowany zmierzchem z ciepłymi pejzażami dźwiękowymi i relaksującą atmosferą."
+      },
+      {
+        "question": "Jak wybrać postacie w Modzie Sprunki Sunset?",
+        "answer": "Wybierz spośród postaci, które odzwierciedlają stonowany duch zmierzchu, aby dopełnić swoją muzykę."
+      },
+      {
+        "question": "Czy mogę podzielić się swoimi kreacjami z innymi?",
+        "answer": "Tak, gdy będziesz zadowolony ze swojego utworu, możesz go zapisać i udostępnić innym."
+      },
+      {
+        "question": "Jakie dźwięki mogę oczekiwać od tego modu?",
+        "answer": "Oczekuj pętli z łagodnymi tonami, takimi jak szelest wiatru i odległe dzwonki, zaprojektowanych, aby inspirować do twórczej refleksji."
+      },
+      {
+        "question": "Jak mogę dostosować moją mieszankę?",
+        "answer": "Reguluj głośności i dodawaj subtelne efekty, aby doskonalić swój utwór, aż będzie odzwierciedlał spokojny nastrój zmierzchu."
+      },
+      {
+        "question": "Czy jest samouczek dla nowych graczy?",
+        "answer": "Tak, gra zawiera intuicyjne instrukcje, które pomogą Ci rozpocząć tworzenie własnych utworów."
+      }
+    ]
+  }
+}

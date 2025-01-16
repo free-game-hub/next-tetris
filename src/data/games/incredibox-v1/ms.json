@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V1 - Terjun ke Dalam Dunia Ritma dan Beatboxing",
+    "description": "Jelajahi Incredibox V1, permainan penciptaan musik yang menawan yang menggabungkan ritme, melodi, dan beatboxing. Buat trek unik dengan gameplay seret-dan-lepas. Sempurna untuk para pencinta musik yang mencari kreativitas dan kesenangan.",
+    "keywords": "Incredibox V1, permainan penciptaan musik, ritme, beatboxing, Incredibox Alpha Game"
+  },
+  "hero": {
+    "h1": "Incredibox V1",
+    "p": "Luangkan kreativitas musik Anda dengan Incredibox V1, di mana ritme bertemu melodi dalam petualangan beatboxing yang interaktif."
+  },
+  "gameFeatures": {
+    "title": "Mengapa Incredibox V1 Menonjol",
+    "features": [
+      "Buat trek musik unik dengan gameplay seret-dan-lepas yang mudah.",
+      "Jelajahi pemandangan suara yang beragam dengan karakter beatboxing yang dianimasikan.",
+      "Buka bonus visual dengan menemukan kombinasi suara.",
+      "Bagikan komposisi Anda dengan komunitas penggemar musik.",
+      "Terlibat dalam pengalaman audiovisual yang imersif."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Menguasai Incredibox V1",
+    "instructions": [
+      "Pilih Gaya: Pilih dari berbagai gaya musik untuk memulai perjalanan musik Anda.",
+      "Buat Campuran: Seret ikon suara ke avatar untuk menetapkan suara yang berbeda dan menyusun komposisi Anda.",
+      "Eksperimen: Lapisi suara untuk menjelajahi ritme dan efek baru, membuka animasi tersembunyi.",
+      "Kontrol Mouse: Klik dan seret untuk memanipulasi suara, menyesuaikan campuran Anda dengan mudah.",
+      "Pintasan Keyboard: Gunakan pintasan yang tersedia untuk penyesuaian suara cepat (tergantung versi)."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V1 Dalam Aksi"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Tentang Incredibox V1",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Incredibox V1 adalah cara yang unik dan menyenangkan untuk menciptakan musik. Sangat mudah diakses bahkan jika Anda tidak terlatih secara musik.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Animasi yang fantastis! Mereka benar-benar menambah pengalaman yang imersif.",
+        "author": "Samantha P."
+      },
+      {
+        "content": "Saya suka bagaimana saya bisa dengan mudah membagikan kreasi saya. Komunitasnya sangat mendukung!",
+        "author": "Mike T."
+      },
+      {
+        "content": "Sederhana tapi adiktif. Saya menghabiskan berjam-jam bereksperimen dengan suara yang berbeda.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Cara yang hebat untuk mengekspresikan kreativitas. Bonus visual adalah sentuhan yang memuaskan.",
+        "author": "Chris R."
+      },
+      {
+        "content": "Ini lebih dari sekadar permainan, ini adalah platform kreatif!",
+        "author": "Patricia G."
+      },
+      {
+        "content": "Anak-anak saya dan saya menikmati menciptakan musik bersama. Ramah keluarga dan menyenangkan!",
+        "author": "John D."
+      },
+      {
+        "content": "Kontrol yang sangat intuitif. Saya suka kesederhanaan dan kedalamannya.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ Incredibox V1",
+    "questions": [
+      {
+        "question": "Apa itu Incredibox V1?",
+        "answer": "Incredibox V1 adalah permainan penciptaan musik interaktif yang menggabungkan elemen ritme, melodi, dan beatboxing melalui karakter yang dianimasikan."
+      },
+      {
+        "question": "Bagaimana cara bermain Incredibox V1?",
+        "answer": "Pilih gaya musik, seret ikon suara ke karakter untuk membuat campuran Anda, dan jelajahi kombinasi suara untuk efek dan animasi tambahan."
+      },
+      {
+        "question": "Apakah saya bisa menggunakan pintasan keyboard di Incredibox V1?",
+        "answer": "Di beberapa versi, pintasan keyboard tersedia untuk membisukan suara, menyolo, dan menyusun ulang dengan cepat, meskipun interaksi utama dilakukan melalui mouse."
+      },
+      {
+        "question": "Apakah Incredibox V1 cocok untuk semua usia?",
+        "answer": "Ya, antarmuka yang intuitif dan grafik yang menarik menjadikannya dapat diakses dan menghibur bagi pemain dari segala usia."
+      },
+      {
+        "question": "Dapatkah saya membagikan kreasi musik saya dari Incredibox V1?",
+        "answer": "Tentu saja, pemain dapat membagikan komposisi mereka secara online untuk menginspirasi dan berinteraksi dengan komunitas penggemar musik."
+      },
+      {
+        "question": "Apa yang membedakan Incredibox V1 dari permainan musik lainnya?",
+        "answer": "Kombinasi gameplay seret-dan-lepas, penceritaan yang dianimasikan, dan berbagi komunitas membedakannya sebagai permainan sekaligus alat kreatif."
+      }
+    ]
+  }
+}

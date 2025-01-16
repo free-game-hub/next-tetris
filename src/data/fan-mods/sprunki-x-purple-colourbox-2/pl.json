@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Purple Mode - Pełen energii doświadczenie gamingowe",
+    "description": "Odkryj monochromatyczny świat Sprunki Purple Mode, gdzie kreatywność spotyka się z unikalnością. Poznaj cechy gry, instrukcje rozgrywki, opinie graczy oraz FAQ.",
+    "keywords": "Sprunki Purple Mode, monochromatyczna purpurowa gra, unikalne doświadczenie gamingowe, gra do tworzenia muzyki"
+  },
+  "hero": {
+    "h1": "Sprunki Purple Mode",
+    "p": "Zanurz się w unikalnym monochromatycznym purpurowym świecie Sprunki Purple Mode, gdzie kreatywność nie ma granic."
+  },
+  "gameFeatures": {
+    "title": "Cechy gry Sprunki Purple Mode",
+    "features": [
+      "Monochromatyczna paleta purpurowa: Wskocz do uniwersum, gdzie wszystko otoczone jest purpurą.",
+      "Innowacyjna galeria: Odkryj galerię z zaskoczeniem, nawet jeśli chodzi tylko o estetykę.",
+      "Jednokolorowy schemat postaci: Unikalne postacie wyróżniające się jednokolorowym designem.",
+      "Specjalna elektroniczna ścieżka dźwiękowa: Ciesz się kolekcją elektronicznych dźwięków, które dodają emocji.",
+      "Niekończąca się twórczość muzyczna: Unikalne dźwięki każdej postaci dają nieskończone możliwości melodii."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki Purple Mode",
+    "instructions": [
+      "Wybierz postacie: Wybierz 6 utworów muzycznych z oryginalnego Incredibox.",
+      "Przeciągnij i upuść: Umieść jeden z dwudziestu ikon na jednym z siedmiu słupów, aby stworzyć dźwięki.",
+      "Twórz unikalne mieszanki: Dźwięk każdej postaci jest odmienny, co pozwala na nieskończoną muzykalną kreatywność.",
+      "Pierwszy błąd: Przy umieszczaniu Simona, dwunastej postaci, może pozostać dodatkowy słup.",
+      "Drugi błąd: Wyjście z galerii jest trudne z powodu braku przycisku wyjścia."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z gry"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy o Sprunki Purple Mode",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Purpurowa kolorystyka naprawdę wyróżnia tę grę. To fascynujące!",
+        "author": "Alice"
+      },
+      {
+        "content": "Tworzenie melodii z unikalnymi dźwiękami postaci jest niesamowite.",
+        "author": "Ben"
+      },
+      {
+        "content": "Uwielbiam elektroniczną ścieżkę dźwiękową, dodaje tak wiele do gry.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Funkcja galerii wymaga poprawy, ale mimo to jest interesująca.",
+        "author": "David"
+      },
+      {
+        "content": "Trochę błędna, ale wciąż super fajna gra do zabawy.",
+        "author": "Eve"
+      },
+      {
+        "content": "Purpurowa kolorystyka jest wizualnie atrakcyjna i innowacyjna.",
+        "author": "Frank"
+      },
+      {
+        "content": "To kreatywne podejście do tradycyjnego gatunku gier muzycznych.",
+        "author": "Grace"
+      },
+      {
+        "content": "Chciałbym zobaczyć więcej aktualizacji, ale ogólnie jest naprawdę zabawnie!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "questions": [
+      {
+        "question": "Czym jest Sprunki Purple Mode?",
+        "answer": "Gra, w której wszystkie elementy wizualne dominująją w purpurowej kolorystyce, oferując unikalny styl artystyczny."
+      },
+      {
+        "question": "Dlaczego w galerii nie ma przycisku wyjścia?",
+        "answer": "To znany błąd. Pracujemy nad dodaniem przycisku wyjścia w przyszłych aktualizacjach."
+      },
+      {
+        "question": "Czy dźwięk każdej postaci jest unikalny?",
+        "answer": "Tak, każda postać ma odmienny dźwięk, co oferuje niekończące się możliwości muzyczne."
+      },
+      {
+        "question": "Czy mogę grać w tę grę na telefonie?",
+        "answer": "Obecnie gra jest zoptymalizowana do gry na komputerze stacjonarnym."
+      },
+      {
+        "question": "Kto stworzył oryginalny mod?",
+        "answer": "Oryginalny mod należy do Freepies, znany jako purpurowy kolorbox v6."
+      },
+      {
+        "question": "Jak mogę zgłosić błąd?",
+        "answer": "Proszę skontaktować się z naszym zespołem wsparcia poprzez sekcję pomocy na naszej stronie."
+      }
+    ]
+  }
+}

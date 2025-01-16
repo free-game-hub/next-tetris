@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sort the Court - Um Jogo de Simulação Divertido e Viciante",
+    "description": "Explore o mundo encantador de Sort the Court, onde suas decisões moldam o destino do seu reino. Aprenda as regras do jogo, recursos e opiniões dos jogadores.",
+    "keywords": "Sort the Court, jogo de simulação, tomada de decisão, jogo Unity, Ludum Dare 34"
+  },
+  "hero": {
+    "h1": "Sort the Court",
+    "p": "Assuma o papel de um monarca e tome decisões sábias para controlar o destino do seu reino em Sort the Court. Desfrute deste emocionante jogo de simulação desenvolvido por Graeme Borland e mergulhe em seu mundo encantador."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo",
+    "features": [
+      "Jogabilidade envolvente com tomada de decisões",
+      "Gráficos charmosos e adoráveis",
+      "Desenvolvido com Unity, garantindo performance suave",
+      "Suporte a múltiplos idiomas, incluindo o português",
+      "Disponível nas plataformas HTML5, Windows e Linux"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sort the Court",
+    "instructions": [
+      "Use seu teclado, mouse ou controle para as ações.",
+      "Tome decisões respondendo Sim ou Não a diversos pedidos.",
+      "Equilibre as necessidades do seu povo, riqueza e militar.",
+      "Navegue por eventos aleatórios para expandir seu reino.",
+      "As sessões de jogo duram apenas alguns minutos, perfeitas para uma pausa rápida."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "O que os Jogadores Estão Dizendo",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sort the Court é um joguinho encantador que garante horas de diversão!",
+        "author": "Emily Thompson"
+      },
+      {
+        "content": "As decisões que você toma realmente impactam o resultado do seu reino, e eu adoro esse aspecto.",
+        "author": "Brian Cooper"
+      },
+      {
+        "content": "Os gráficos são adoráveis e a música é um toque especial. Perfeito para jogos casuais.",
+        "author": "Sophia Li"
+      },
+      {
+        "content": "Não consigo acreditar que terminei em 53 dias! Um jogo imperdível para amantes de estratégia.",
+        "author": "Alex Russo"
+      },
+      {
+        "content": "Gostaria que o jogo ainda estivesse em desenvolvimento. É divertido e viciante!",
+        "author": "Michael Lee"
+      },
+      {
+        "content": "Um fantástico jogo de simulação que é simples, mas cativante.",
+        "author": "Lydia Green"
+      },
+      {
+        "content": "Não consegui abrir no meu Mac, mas funcionou perfeitamente no Windows.",
+        "author": "Jordan Hart"
+      },
+      {
+        "content": "O jogo pode não ser mais atualizado, mas ainda vale a pena jogar!",
+        "author": "Chris Vance"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"Sort the Court ainda está em desenvolvimento ativo?",
+        "answer":"Não, Sort the Court não está atualmente em desenvolvimento ativo."
+      },
+      {
+        "question":"Em quais plataformas posso jogar Sort the Court?",
+        "answer":"Você pode jogar Sort the Court em HTML5, Windows e Linux."
+      },
+      {
+        "question":"Existem problemas de compatibilidade com o sistema?",
+        "answer":"O jogo não foi atualizado há vários anos, então pode não funcionar em sistemas mais novos."
+      },
+      {
+        "question":"Como eu salvo meu progresso?",
+        "answer":"O jogo possui uma função de salvamento automático, então seu progresso é salvo automaticamente."
+      },
+      {
+        "question":"Posso jogar Sort the Court no Mac?",
+        "answer":"A versão para download pode não funcionar no Mac, mas você pode tentar executá-lo em um navegador."
+      },
+      {
+        "question":"Como posso enviar um relatório de bug?",
+        "answer":"Você pode enviar relatórios de bugs pelos fóruns da comunidade."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Jogos Recomendados",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Reigns",
+        "link": "https://linktogame.com/reigns"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Kingdoms and Castles",
+        "link": "https://linktogame.com/kingdomsandcastles"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Banished",
+        "link": "https://linktogame.com/banished"
+      }
+    ]
+  }
+}

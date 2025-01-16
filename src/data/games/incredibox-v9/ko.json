@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki 게임 | 온라인에서 Incredibox Sprunki Mods 플레이하기",
+    "description": "Sprunki 게임의 생동감 넘치는 세계를 발견하세요. Incredibox의 혁신적인 확장으로, 맞춤형 모드, 독특한 사운드트랙 및 테마별 단계가 포함되어 있습니다. 음악적 걸작을 만들고, 혼합하고, 온라인으로 공유하세요.",
+    "keywords": "Sprunki 게임, Incredibox 모드, Sprunki 모드, Sprunki 온라인 플레이, Sprunki 단계, Sprunki 음악"
+  },
+  "hero": {
+    "h1": "온라인 Incredibox Sprunki 게임",
+    "p": "팬이 만든 확장판 Sprunki 게임의 창작적인 세계에 푹 빠져보세요. 맞춤형 모드, 새로운 단계 및 인터랙티브한 게임 플레이로 끝없는 음악적 모험을 제공합니다."
+  },
+  "gameFeatures": {
+    "title": "Sprunki 게임의 주요 특징",
+    "features": [
+      "맞춤형 Sprunki 모드: 독특한 캐릭터와 비트를 가진 팬 제작 수정 사항 탐험하기.",
+      "테마별 Sprunki 단계: 공포, 코미디 및 판타지 확장을 경험하세요.",
+      "인터랙티브 드래그 앤 드롭 게임 플레이: 쉽게 사운드트랙을 혼합하고 생성할 수 있습니다.",
+      "창작의 자유: 독특한 트랙을 디자인하고 활기찬 커뮤니티와 공유하세요.",
+      "강력한 커뮤니티 지원: 대회에 참여하고 신선한 아이디어를 위해 협력하세요."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox Sprunki 게임을 플레이하는 방법",
+    "instructions": [
+      "게임 시작하기: Sprunkin.com에 접속하여 모험을 시작하세요.",
+      "캐릭터 선택하기: 각기 다른 사운드를 추가하는 다채로운 캐릭터 중에서 선택하세요.",
+      "믹스 생성하기: 아이콘을 드래그하여 완벽한 트랙을 구축하고 애니메이션을 감상하세요.",
+      "특별한 기능 잠금 해제하기: 사운드를 조합하여 숨겨진 기능을 발견하세요.",
+      "저장 및 공유하기: 자신의 창작물을 기록하고 친구들과 공유하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki 게임 스크린샷"
+  },
+  "playerReviews": {
+    "title": "Sprunki 게임에 대한 플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "Sprunki 게임의 창의성은 비교할 수 없어요. 사운드 믹싱에 몇 시간을 보냈어요!",
+        "author": "Emily R."
+      },
+      {
+        "content": "Incredibox에 정말 재미있는 변화를 줘요! 새로운 모드 덕분에 계속 돌아오게 돼요.",
+        "author": "Jake L."
+      },
+      {
+        "content": "특히 공포 주제가 좋아요! 새로운 차원을 더해줍니다.",
+        "author": "Sarah B."
+      },
+      {
+        "content": "인터랙티브하고 사용하기 쉬워요. 캐주얼한 음악 제작자와 진지한 음악 제작자 모두에게 적합합니다.",
+        "author": "Mike D."
+      },
+      {
+        "content": "커뮤니티 측면이 환상적이에요. 다른 제작자들을 만나고 많은 것을 배웠어요.",
+        "author": "Linda K."
+      },
+      {
+        "content": "결코 질리지 않아요! 업데이트와 새로운 모드가 항상 흥미로워요.",
+        "author": "Tommy V."
+      },
+      {
+        "content": "음악적 창의성을 표현하기에 놀라운 플랫폼이에요. 강력 추천합니다!",
+        "author": "Sandra E."
+      },
+      {
+        "content": "시각적 디자인과 다양한 요소를 조합할 수 있는 능력이 좋아요.",
+        "author": "Chris P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sprunki Incredibox에 대한 자주 묻는 질문",
+    "questions": [
+      {
+        "question":"Sprunki 모드란 무엇인가요?",
+        "answer":"Sprunki 모드는 고유한 캐릭터와 테마가 포함된 팬이 만든 Incredibox의 각색입니다."
+      },
+      {
+        "question":"Sprunki Incredibox를 어떻게 다운로드하나요?",
+        "answer":"공식 사이트, Google Play 또는 Apple App Store에서 다운로드하세요."
+      },
+      {
+        "question":"Sprunki 모드를 온라인에서 어디서 플레이할 수 있나요?",
+        "answer":"게임 플랫폼, 공식 모드 사이트 또는 팬이 호스팅하는 서버를 통해 플레이할 수 있습니다."
+      },
+      {
+        "question":"Sprunki 모드를 독특하게 만드는 것은 무엇인가요?",
+        "answer":"창의적인 트위스트를 제공하며 맞춤형 테마와 매력적인 디자인을 갖추고 있습니다."
+      },
+      {
+        "question":"Sprunki 단계란 무엇인가요?",
+        "answer":"공포나 판타지와 같은 테마별 확장으로, 새로운 캐릭터와 도전 과제가 포함되어 있습니다."
+      },
+      {
+        "question":"공포 테마의 Sprunki 모드가 있나요?",
+        "answer":"네, Sprunki Horror Mod와 Sprunki The Lost File이 포함되어 있습니다."
+      }
+    ]
+  }
+}

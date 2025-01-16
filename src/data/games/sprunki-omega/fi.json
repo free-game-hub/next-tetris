@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Omega Mod - Kososminen musiikin luominen Sprunki Incrediboxissa",
+    "description": "Tutustu Sprunki Omega Modiin, joka on mullistava lisäys Sprunki Incredibox -universumissa. Uppoudu parannettuihin visuaaleihin, futuristisiin ääniin ja vangitseviin hahmosuunnitelmiin.",
+    "keywords": "Sprunki Omega Mod, Sprunki Incredibox, musiikin luominen, futuristiset äänet, pelimuokkaus"
+  },
+  "hero": {
+    "h1": "Sprunki Omega Mod",
+    "p": "Koe eeppinen matka musiikin luomiseen Sprunki Omega Modilla, joka yhdistää futuristisen estetiikan innovatiiviseen pelattavuuteen."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Omega Modin ominaisuudet",
+    "features": [
+      "Futuristiset hahmosuunnitelmat: Parannellut, kosmisesti inspiroidut hahmot, joissa on hieno estetiikka.",
+      "Edistyneet äänitehosteet: Rikas kirjasto futuristisia rytmejä ja ympäristömeloja.",
+      "Uppouttavat visuaalit: Eloisa käyttöliittymä, joka täydentää modin laajaa teemaa.",
+      "Haastava pelattavuus: Osallistu uusiin ominaisuuksiin ja yhdistelmiin.",
+      "Kososminen luovuus: Tutki musiikin luomisen uusi syvyys."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Sprunki Omega Modia",
+    "instructions": [
+      "Valitse Omega-hahmot: Vedä ja pudota Omega-teemaisia Sprunki-hahmoja.",
+      "Sekoita edistyneitä kappaleita: Yhdistä monimutkaisia rytmejä luodaksesi dynaamisia kappaleita.",
+      "Avaa eeppisiä bonuksia: Löydä bonuksia hahmojen yhdistelmiä käyttämällä.",
+      "Jaa mestariteoksesi: Tallenna ja jaa musiikkikappaleita yhteisön kanssa.",
+      "Kutsu remixereitä: Kutsu muita remixamaan luomuksiasi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Omega Modin kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien arvostelut",
+    "submitReviewLabel": "Jätä arvostelu",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Hahmosuunnitelmat ovat erinomaisia ja pelattavuus koukuttavaa!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Mahtava mod, joka vie Sprunkin uusiin korkeuksiin!",
+        "author": "Sam T."
+      },
+      {
+        "content": "Rakastan kosmista tunnelmaa ja haastavaa pelattavuutta.",
+        "author": "Mia L."
+      },
+      {
+        "content": "Futuristiset äänitehosteet ovat yksinkertaisesti upeita.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega on mod, jota et halua missata.",
+        "author": "Noah P."
+      },
+      {
+        "content": "Loistava remixinnostuneille, jotka etsivät haastetta.",
+        "author": "Liam K."
+      },
+      {
+        "content": "Visuaalit ovat upeita ja todella uppouttavia.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "Se on fantastinen musiikkiseikkailu, jota suosittelen kaikille faneille!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein kysyttyjä kysymyksiä",
+    "questions": [
+      {
+        "question": "Mikä on Sprunki Omega Mod?",
+        "answer": "Sprunki Omega Mod on edistynyt mod Sprunki Incrediboxille, jossa on futuristisia ääniä ja visuaaleja."
+      },
+      {
+        "question": "Kuinka avaan bonuksia pelissä?",
+        "answer": "Kokeile ainutlaatuisia hahmojen yhdistelmiä löytääksesi piilotettuja bonuksia."
+      },
+      {
+        "question": "Voinko jakaa musiikkikappaleitani?",
+        "answer": "Kyllä, voit tallentaa ja jakaa musiikkikappaleesi Sprunki-yhteisön kanssa."
+      },
+      {
+        "question": "Onko modissa uusia hahmoja?",
+        "answer": "Kyllä, modissa on futuristisia Omega-teemaisia Sprunki-hahmoja."
+      },
+      {
+        "question": "Onko Sprunki Omega Mod sopiva aloittelijoille?",
+        "answer": "Vaikka modissa on haastavia elementtejä, se on saavutettavissa uusille pelaajille."
+      },
+      {
+        "question": "Mistä voin ladata Sprunki Omega Modin?",
+        "answer": "Voit ladata sen viralliselta Sprunki Incredibox -verkkosivustolta tai valtuutetuilta modialustoilta."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Suositellut pelit",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki Galaxy Adventures",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox Solar Remix",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "Cosmic Beatbox Journey",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

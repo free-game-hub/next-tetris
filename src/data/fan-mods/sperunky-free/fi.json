@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Tutki Seikkailun Syvyyksiä",
+    "description": "Sukella Sperunky Free -pelin jännittävään maailmaan, joka haastaa taitosi tutkimisessa ja selviytymisessä. Löydä ainutlaatuisia ominaisuuksia, peliohjeita ja lue pelaajien arvosteluja.",
+    "keywords": "Sperunky Free, seikkailupeli, tutkiminen, selviytyminen, peliarvostelut"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Aloita eeppinen matka Sperunky Free -pelissä, jossa navigoit vaarallisissa luolastoissa, voitat esteitä ja löydät piilossa olevia aarteita!"
+  },
+  "gameFeatures": {
+    "title": "Sperunky Free:n Ominaisuudet",
+    "features": [
+      "Laajat luolastoet tutkittavaksi",
+      "Dynaaminen pelimuoto satunnaistetuilla tasoilla",
+      "Monipuolinen valikoima loukut ja vihollisia",
+      "Moninpelitila yhteistyöpeliin ystävien kanssa",
+      "Rikkaat graafiset elementit ja immersiiviset ääniefektit"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sperunky Free:tä",
+    "instructions": [
+      "Käytä nuolinäppäimiä liikuttaaksesi hahmoasi luolissa.",
+      "Paina välinäppäintä hypätäksesi ja väistääksesi esteitä.",
+      "Kerää aarteita kasvattaaksesi pisteitäsi.",
+      "Käytä työkaluja kuten köysiä ja pommeja navigoidaksesi vaikeissa paikoissa.",
+      "Yhteistyö ystävien kanssa moninpelitilassa ratkaistaksesi monimutkaisia haasteita."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sperunky Free Pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut Sperunky Freestä",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sperunky Free tarjoaa jännittävän kokemuksen, sillä jokainen taso luo uusia yllätyksiä.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Grafiikat ovat kauniita ja tuovat paljon syvyyttä immersiiviseen peliin.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Rakastan pelata ystävieni kanssa moninpelitilassa, se on loistava tapa strategisoida yhdessä.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Haastavaa mutta palkitsevaa, Sperunky Free saa sinut palaamaan yhä uudelleen.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "Loukkupäivyyteen pitää mindin hereillä, ikinä ei tule tylsää!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Loistava tasapaino seikkailun ja strategian välillä, erittäin suositeltavaa molemmista genreistä tykkääville.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Yksi jännittävimmistä peleistä, joita olen pelannut koko vuonna!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Pakollinen peli kaikille, jotka rakastavat seikkailu- ja tutkimuspelejä.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset: Sperunky Free",
+    "questions": [
+      {
+        "question": "Millä alustoilla Sperunky Free on saatavilla?",
+        "answer": "Sperunky Free on saatavilla PC:llä, Macilla ja eri pelikonsoleilla."
+      },
+      {
+        "question": "Voinko pelata Sperunky Free:tä ystävieni kanssa?",
+        "answer": "Kyllä, Sperunky Free:ssä on moninpelitila yhteistyöpeliin ystävien kanssa."
+      },
+      {
+        "question": "Onko pelissä erilaisia vaikeustasoja?",
+        "answer": "Kyllä, voit valita useista vaikeustasoista vastaamaan taitotasoasi."
+      },
+      {
+        "question": "Tarvitseeko minun olla internet-yhteys pelatakseni?",
+        "answer": "Internet-yhteys on tarpeen moninpelitilassa, mutta ei yksinpeliä varten."
+      },
+      {
+        "question": "Onko tapa tallentaa edistymiseni?",
+        "answer": "Kyllä, Sperunky Free mahdollistaa edistymisesi tallentamisen ja jatkamisen myöhemmin."
+      },
+      {
+        "question": "Onko pelissä mikromaksuja?",
+        "answer": "Ei, Sperunky Free ei sisällä mikromaksuja."
+      }
+    ]
+  }
+}

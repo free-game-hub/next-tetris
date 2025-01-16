@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 9 - Dyk dig ned i et rytme-baseret platformspil",
+    "description": "Udforsk den unikke blanding af rytme og platforming i Sprunki Phase 9. Skab musik, tag udfordringer op, og dyk ned i en fascinerende drømmeverden.",
+    "keywords": "Sprunki Phase 9, rytme-baseret spil, platformspiller, musikproduktion, Incredibox stil"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 9",
+    "p": "Oplev den unikke fusion af rytme-baseret gameplay og platforming i den farverige verden af Sprunki Phase 9. Skab musik og opdag udfordringer i et overjordisk miljø."
+  },
+  "gameFeatures": {
+    "title": "Nøglefunktioner i Sprunki Phase 9",
+    "features": [
+      "Udvidet Musikproduktion: Byg hele kompositioner med flere lydlag.",
+      "Forbedrede Karakterevner: Udnyt rytmespring og beat boosts.",
+      "Rytme-baserede Puslespil og Forhindringer: Synkroniser handlinger med soundtracket.",
+      "Interaktive Miljøer: Reager på spillerens musikalske kreationer.",
+      "Boss-konfrontationer med Musikstrategier: Koordiner handlinger for at overvinde udfordringer."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan spiller du Sprunki Phase 9",
+    "instructions": [
+      "Naviger gennem platformingsudfordringer for at låse op for lydlag.",
+      "Mix beats, melodier og vokaler for at skabe brugerdefinerede soundtracks.",
+      "Mestring af rytme-baserede puslespil med præcis timing på soundtracket.",
+      "Skift mellem karakterer for at tilpasse musik- og gameplaystrategier.",
+      "Koordiner musiklag for at besejre bossene i niveauet."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots fra Sprunki Phase 9"
+  },
+  "playerReviews": {
+    "title": "Hvad spillerne siger om Sprunki Phase 9",
+    "submitReviewLabel": "Indsend din anmeldelse",
+    "nameLabel": "Dit navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "De rytme-baserede puslespil er både udfordrende og sjove!",
+        "author": "Alex R."
+      },
+      {
+        "content": "Jeg elsker de interaktive miljøer og hvordan de reagerer på min musik.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "At skifte mellem karakterer tilføjer et strategisk lag til gameplayet.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Soundtracket jeg skaber mens jeg spiller, er utrolig medrivende.",
+        "author": "Casey D."
+      },
+      {
+        "content": "Phase 9 løfter Sprunki-serien til et nyt niveau med sin musikintegration.",
+        "author": "Taylor F."
+      },
+      {
+        "content": "Drømmeverdenens visuelle elementer er fantastiske og fængslende.",
+        "author": "Morgan E."
+      },
+      {
+        "content": "Bosskampe med musikstrategier er unikke og tilfredsstillende.",
+        "author": "Jordan K."
+      },
+      {
+        "content": "Sprunki Phase 9 er en perfekt blanding af musik og gaming.",
+        "author": "Riley B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål om Sprunki Phase 9",
+    "questions": [
+      {
+        "question": "På hvilke platforme er Sprunki Phase 9 tilgængelig?",
+        "answer": "Sprunki Phase 9 er tilgængelig på PC, Xbox, PlayStation og Nintendo Switch."
+      },
+      {
+        "question": "Kan jeg tilpasse musikken i hvert niveau?",
+        "answer": "Ja, du kan eksperimentere med beats, baslinjer og vokalspor for at lave unikke mixes."
+      },
+      {
+        "question": "Er der multiplayer muligheder i Sprunki Phase 9?",
+        "answer": "I øjeblikket fokuserer Sprunki Phase 9 på en enkeltspilleroplevelse."
+      },
+      {
+        "question": "Hvordan fungerer boss-konfrontationer?",
+        "answer": "Spillere bruger deres musiklag strategisk for at påvirke og svække bossen."
+      },
+      {
+        "question": "Er der en tutorial til at hjælpe med at komme i gang?",
+        "answer": "Ja, spillet inkluderer en tutorial, der guider spillerne gennem grundlæggende gameplay."
+      },
+      {
+        "question": "Kan jeg genopleve niveauer for at skabe forskellige soundtracks?",
+        "answer": "Absolut, niveauer kan genopleves for at udforske nye musikalske kombinationer."
+      }
+    ]
+  }
+}

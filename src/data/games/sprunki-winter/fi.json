@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Talvi - Koe Talven Rauhallinen Kauneus Musiikissasi",
+    "description": "Sprunki Talvi Mod muuttaa musiikin tekemistäsi talviteemaisella estetiikalla, rauhallisilla äänimaisemilla ja ainutlaatuisella pelimekaniikalla. Liity nyt ja nauti säveltämisestä lumisessa paratiisissa.",
+    "keywords": "Sprunki Talvi, musiikkimodi, talvimusiikkipeli, Sprunki Talvi ominaisuudet, kuinka pelata Sprunki Talvea"
+  },
+  "hero": {
+    "h1": "Sprunki Talvi",
+    "p": "Sukella talven rauhalliseen kauneuteen, kun Sprunki Talvi kietoo musiikillisen matkatasi lumiseen lumoamiseen. Luo rauhoittavia sävellyksiä tässä jääkylmässä ihmemaisemassa."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Talven Avainominaisuudet",
+    "features": [
+      "Kylmät Esteettiset: Nauti jäisistä sinisistä sävyistä, pehmeistä valkoisista väreistä ja lumihiutaleiden tekstuureista.",
+      "Hennot Äänimaisemat: Ota vastaan hienovaraiset rytmit ja ilmavat melodiat.",
+      "Rauhallinen, Mietiskelijä Tunnelma: Osallistu hitaampaan, pohdiskelevaan musiikin luomiseen.",
+      "Kausittaiset Hahmot: Ikoneja lämpimissä huiveissa ja lumiteemaisessa tunnelmassa.",
+      "Visuaalinen-Äänellinen Harmonia: Täydellinen yhdistelmä kuvaa ja ääntä talvikokemukseen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Talvi Modia",
+    "instructions": [
+      "Valitse Hahmot: Valitse talvivaatteisiin pukeutuvista hahmoista ainutlaatuisia silmukoita varten.",
+      "Vedä ja Pudota: Kerää rytmejä ja melodioita tallentamaan talven olemus.",
+      "Säädä Sekoitustasi: Säädä äänenvoimakkuutta, lisää efektejä rauhallisiin kappaleisiin.",
+      "Tallenna ja Jaa: Jaa talviset sävellyksesi muiden kanssa.",
+      "Tutki Vaihtoehtoja: Kokeile erilaisia hahmoyhdistelmiä monimuotoisten äänimaisemien luomiseksi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Talvi Pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki Talvi on upea taiteen ja musiikin yhdistelmä - se on kuin maalaamista äänillä.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Talviset estetiikat on vangittu täydellisesti; tuntuu kuin olisi mukava päivä sisätiloissa.",
+        "author": "James P."
+      },
+      {
+        "content": "Rakastan, kuinka peli antaa minun rentoutua ja olla luova samanaikaisesti.",
+        "author": "Mira T."
+      },
+      {
+        "content": "Rauhalliset melodiat ja visuaalit ovat täydellinen pakopaikka kiireisestä päivästäni.",
+        "author": "Liam H."
+      },
+      {
+        "content": "Koska rakastan talvea, Sprunki Talvi sopii musiikkityylini täydellisesti!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "Pelin hennot äänimaisemat ovat rauhoittavia ja inspiroivia musiikkisävellyksilleni.",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Fantastinen tapa viettää aikaa luoden ilman painetta; yksinkertaisesti kaunista.",
+        "author": "Lucas M."
+      },
+      {
+        "content": "Ilman muuta paras musiikkimodi talviteemoineen ja kiehtuvalla pelimekaniikalla.",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysyttyjä Kysymyksiä",
+    "questions": [
+      {
+        "question": "Mikä tekee Sprunki Talvesta erilaisen muiden musiikkimodien joukossa?",
+        "answer": "Sprunki Talvi tarjoaa ainutlaatuista talviteemaa esteettikassa ja äänimaisemissa, yhdistäen täydellisesti kuvat ja äänen rauhoittavaksi pelikokemukseksi."
+      },
+      {
+        "question": "Kuinka voin jakaa luomukseni Sprunki Talvessa?",
+        "answer": "Säveltäessäsi kappaleesi, käytä 'Tallenna ja Jaa' -ominaisuutta jakaaksesi musiikkisi helposti muiden kanssa."
+      },
+      {
+        "question": "Voinko räätälöidä pelin hahmot ja silmukat?",
+        "answer": "Kyllä, voit valita ja järjestellä erilaisia hahmoja, joilla on ainutlaatuiset silmukat, räätälöidäksesi musiikkisi."
+      },
+      {
+        "question": "Onko Sprunki Talvelle saatavilla mobiiliversiota?",
+        "answer": "Tällä hetkellä Sprunki Talvi on saatavilla työpöytäalustoilla. Pysy kuulolla mahdollisista mobiilijulkaisuista."
+      },
+      {
+        "question": "Onko aloittelijoille saatavilla opetuksia?",
+        "answer": "Kyllä, pelissä on kattava opetus, joka auttaa uusia pelaajia alkuun."
+      },
+      {
+        "question": "Tukeeko Sprunki Talvi useita kieliä?",
+        "answer": "Sprunki Talvi tukee tällä hetkellä englantia, ja lisää kielivaihtoehtoja on suunniteltu tulevissa päivityksissä."
+      }
+    ]
+  }
+}

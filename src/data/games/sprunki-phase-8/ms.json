@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Fasa 8: Pengembaraan Berirama dalam Permainan",
+    "description": "Terjun ke dalam Sprunki Fasa 8, gabungan menarik antara platforming dan penciptaan muzik yang diilhamkan oleh Incredibox. Temui watak unik, grafik berwarna-warni, dan tahap yang mencabar.",
+    "keywords": "Sprunki Fasa 8, Incredibox, permainan platform, permainan muzik, penyesuaian watak, permainan berirama"
+  },
+  "hero": {
+    "h1": "Sprunki Fasa 8",
+    "p": "Bebaskan kreativiti dan bakat muzik anda dalam Sprunki Fasa 8, di mana setiap tahap mencabar kemahiran berirama dan platforming anda."
+  },
+  "gameFeatures": {
+    "title": "Ciri-ciri Permainan",
+    "features": [
+      "Integrasi Muzik dengan elemen dari Incredibox",
+      "Pilihan Penyesuaian Watak yang Luas",
+      "Grafik Berwarna-warni dan animasi yang menarik",
+      "Reka Bentuk Tahap yang Pelbagai dengan cabaran strategik",
+      "Pengumpul dan Kuasa untuk meningkatkan pengalaman bermain"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Arahan Permainan",
+    "instructions": [
+      "Navigasi melalui tahap dengan mengelak halangan dan mencipta muzik.",
+      "Gunakan kawalan yang mudah untuk pergerakan dan lompatan untuk meneroka persekitaran.",
+      "Tukar antara watak untuk memanfaatkan kebolehan unik mereka.",
+      "Picit segmen muzik untuk menyelaraskan dengan irama permainan.",
+      "Seimbangkan antara mengharungi cabaran dan mencipta muzik untuk kejayaan."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Skrin Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Integrasi muziknya sungguh menakjubkan! Bermain sambil mencipta melodi adalah pengalaman yang sangat unik.",
+        "author": "Alex M."
+      },
+      {
+        "content": "Penyesuaian watak memberi sentuhan peribadi kepada permainan, menjadikan setiap permainan unik.",
+        "author": "Jamie T."
+      },
+      {
+        "content": "Grafik berwarna-warni sangat memukau dan menjadikan permainan ini sangat menyeronokkan.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Saya suka meneroka laluan dan rahsia baru dalam setiap tahap. Sentiasa ada sesuatu yang baru!",
+        "author": "Sam K."
+      },
+      {
+        "content": "Permainan berasaskan irama adalah perspektif baru bagi permainan platform, dan ia dilaksanakan dengan cemerlang.",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Fasa 8 adalah kegembiraan mutlak bagi peminat muzik dan pemain!",
+        "author": "Jordan L."
+      },
+      {
+        "content": "Setiap tahap adalah cabaran, tetapi muziknya memberi semangat kepada saya!",
+        "author": "Taylor R."
+      },
+      {
+        "content": "Menggabungkan muzik dengan permainan adalah idea bijak, dan permainan ini melaksanakannya dengan sempurna.",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Apakah objektif Sprunki Fasa 8?",
+        "answer": "Objektif utama adalah untuk melayari melalui pelbagai tahap, mengelak halangan dan musuh sambil mencipta muzik."
+      },
+      {
+        "question": "Bagaimana saya boleh mengawal watak?",
+        "answer": "Gunakan kawalan yang mudah untuk pergerakan dan lompatan, dan tukar antara watak secara strategik untuk memanfaatkan kebolehan unik mereka."
+      },
+      {
+        "question": "Bolehkah saya menyesuaikan watak saya?",
+        "answer": "Ya, pemain boleh memilih dari pelbagai watak dengan gaya visual dan bunyi yang berbeza untuk pengalaman yang diperibadikan."
+      },
+      {
+        "question": "Apa yang menjadikan permainan ini unik?",
+        "answer": "Integrasi penciptaan muzik dengan elemen platforming menawarkan pengalaman permainan yang unik dan menarik."
+      },
+      {
+        "question": "Adakah terdapat pelbagai laluan melalui tahap?",
+        "answer": "Ya, Sprunki Fasa 8 menggalakkan ulang permainan dengan pelbagai laluan dan kawasan rahsia untuk diterokai."
+      },
+      {
+        "question": "Adakah permainan ini mempunyai pengumpul dan kuasa?",
+        "answer": "Pemain boleh mengumpul item yang membuka kebolehan baru dan meningkatkan penciptaan muzik mereka semasa mereka maju."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Permainan Disyorkan",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Fasa 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Fasa 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

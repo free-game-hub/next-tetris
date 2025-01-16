@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "RandomGamesPrunki - Mainkan Sekarang dan Temukan Petualangan Baru",
+    "description": "Selami dunia mendebarkan RandomGamesPrunki dan jelajahi banyak petualangan seru. Rasakan kegembiraan bermain game dengan koleksi yang menarik dan bervariasi ini. Mulai bermain hari ini!",
+    "keywords": "RandomGamesPrunki, permainan seru, permainan online, mainkan RandomGamesPrunki, koleksi permainan, permainan petualangan"
+  },
+  "hero": {
+    "h1": "RandomGamesPrunki",
+    "p": "Selamat datang di RandomGamesPrunki, destinasi utama untuk permainan yang bervariasi dan menarik. Tenggelamlah dalam dunia penuh petualangan, tantangan, dan kesenangan tanpa akhir. Mulai perjalananmu hari ini!"
+  },
+  "gameFeatures": {
+    "title": "Fitur-Fitur RandomGamesPrunki",
+    "features": [
+      "Koleksi Permainan yang Beragam: Banyak pilihan permainan untuk dipilih.",
+      "Navigasi Mudah: Antarmuka ramah pengguna untuk meningkatkan pengalaman bermainmu.",
+      "Pembaruan Rutin: Permainan baru ditambahkan secara berkala untuk menjaga semangat tetap hidup.",
+      "Permainan Multi-Platform: Nikmati permainan di perangkat apa pun, kapan saja, di mana saja.",
+      "Didorong oleh Komunitas: Bergabunglah dengan komunitas pemain yang hidup untuk berbagi pengalaman."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain RandomGamesPrunki",
+    "instructions": [
+      "Pilih permainan dari perpustakaan RandomGamesPrunki.",
+      "Ikuti petunjuk di layar untuk memahami aturan permainan.",
+      "Gunakan kontrol keyboard dan mouse untuk pengalaman bermain yang menarik.",
+      "Selesaikan tantangan dan misi untuk mendapatkan hadiah dan meningkatkan level.",
+      "Bergabunglah dengan komunitas untuk berbagi tips dan trik dengan pemain lain."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar RandomGamesPrunki"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain tentang RandomGamesPrunki",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "RandomGamesPrunki menawarkan pilihan permainan yang fantastis yang tidak pernah membosankan.",
+        "author": "AlexGamer87"
+      },
+      {
+        "content": "Saya telah ketagihan sejak mulai bermain. Pembaruan membuat saya tetap bersemangat!",
+        "author": "FunSeeker101"
+      },
+      {
+        "content": "Sangat menyenangkan memiliki begitu banyak permainan berbeda dalam satu tempat. Sangat direkomendasikan!",
+        "author": "GamerQueen23"
+      },
+      {
+        "content": "Aspek komunitas memberi banyak tambahan pada pengalaman. Senang berbagi tips!",
+        "author": "TechGuru55"
+      },
+      {
+        "content": "Platform permainan andalan saya. Keragaman permainan di sini sangat tidak tertandingi.",
+        "author": "WildSpirits"
+      },
+      {
+        "content": "RandomGamesPrunki membuat bermain game menjadi sangat mudah diakses dan menyenangkan.",
+        "author": "GameplayPro"
+      },
+      {
+        "content": "Meningkatkan keterampilan saya dalam berbagai genre permainan. Platform yang mengesankan!",
+        "author": "MasterBlaster"
+      },
+      {
+        "content": "Grafis dan mekanisme permainan sangat memukau. Sangat menghibur!",
+        "author": "PixelPioneer"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan tentang RandomGamesPrunki",
+    "questions": [
+      {
+        "question": "Apa itu RandomGamesPrunki?",
+        "answer": "RandomGamesPrunki adalah platform permainan yang menampilkan koleksi permainan yang beragam untuk berbagai selera dan preferensi."
+      },
+      {
+        "question": "Bagaimana cara saya mulai bermain RandomGamesPrunki?",
+        "answer": "Cukup pilih permainan dari perpustakaan luas kami, ikuti petunjuk, dan mulai bermain segera."
+      },
+      {
+        "question": "Apakah ada biaya yang terlibat dalam bermain RandomGamesPrunki?",
+        "answer": "RandomGamesPrunki menawarkan permainan gratis dan premium. Nikmati permainan gratis kami atau buka fitur tambahan dengan opsi premium."
+      },
+      {
+        "question": "Bisakah saya bermain RandomGamesPrunki di perangkat mobile saya?",
+        "answer": "Ya! RandomGamesPrunki kompatibel dengan berbagai perangkat, memungkinkan Anda bermain di ponsel, tablet, atau komputer Anda."
+      },
+      {
+        "question": "Bagaimana saya bisa memberikan masukan atau melaporkan masalah?",
+        "answer": "Anda dapat mengirimkan masukan melalui formulir kontak di situs web kami atau bergabung dengan forum komunitas kami untuk melaporkan masalah."
+      },
+      {
+        "question": "Apakah ada komunitas untuk membahas permainan RandomGamesPrunki?",
+        "answer": "Tentu saja! Kami mendorong bergabung dengan forum komunitas kami untuk terhubung dengan pemain lain, membahas strategi, dan berbagi pengalaman Anda."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Permainan yang Direkomendasikan",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Petualangan Quest",
+        "link": "url/to/adventure-quest"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Pulau Misteri",
+        "link": "url/to/mystery-island"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Dunia Puzzle",
+        "link": "url/to/puzzle-world"
+      }
+    ]
+  }
+}

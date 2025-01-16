@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 11 - Lag Musikk med Innovative Beats og Lyd",
+    "description": "Utforsk Sprunki Phase 11, et musikkdrevet spill inspirert av Incredibox. Bland vokal-løkker, arranger lyder og innovér dine musikalske kreasjoner.",
+    "keywords": "Sprunki Phase 11, musikkspill, beatboxing, lyddesign, vokal-løkker, spilldesign"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 11",
+    "p": "Dyk ned i den lydrike verdenen av Sprunki Phase 11 hvor kreativitet møter musikalsk innovasjon."
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner",
+    "features": [
+      "Innovativ lydbasert lagdeling med vokal- og instrument-løkker",
+      "Brukervennlig dra-og-slipp-grensesnitt",
+      "Tilbyr utfordringer for å øke kreativiteten",
+      "Visuelle designforbedringer",
+      "Interaktive og engasjerende spillmekanikker"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Sprunki Phase 11",
+    "instructions": [
+      "Velg Karakterer: Velg fra et unikt sett med karakterer, hver med distinkte lyder.",
+      "Dra og Slipp: Lag lag med karakterene inn i spillgrensesnittet for å lage spor.",
+      "Eksperimenter: Lek med rekkefølge og timing for å skape innovative lyder.",
+      "Fullfør Utfordringer: Engasjer deg med mål for mer moro.",
+      "Nyt Musikken: Lytt til og del dine unike komposisjoner."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spillskjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send Inn Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 11 er den beste fasen så langt! Musikkombinasjonene er uendelige.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Jeg elsker de nye visuelle elementene og karakterene. Det gjør å lage musikk så morsomt!",
+        "author": "Samantha R."
+      },
+      {
+        "content": "Utfordringene i fase 11 holder meg engasjert i flere timer.",
+        "author": "Jordan P."
+      },
+      {
+        "content": "Fantastisk spill for alle som elsker musikk og kreativitet.",
+        "author": "Chris M."
+      },
+      {
+        "content": "Dra-og-slipp-funksjonen er super intuitiv. Jeg kan ikke slutte å spille!",
+        "author": "Jess F."
+      },
+      {
+        "content": "Hver oppdatering av Sprunki blir bare bedre. Fase 11 er revolusjonerende!",
+        "author": "Pat L."
+      },
+      {
+        "content": "Et must-spill for alle Incredibox-fans!",
+        "author": "Jamie W."
+      },
+      {
+        "content": "Sprunki Phase 11 har gjort musikkkomposisjon til en morsom aktivitet for alle.",
+        "author": "Taylor G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte Stilte Spørsmål",
+    "questions": [
+      {
+        "question": "Hvilke plattformer er Sprunki Phase 11 tilgjengelig på?",
+        "answer": "Sprunki Phase 11 er tilgjengelig på ulike plattformer, inkludert PC, iOS og Android."
+      },
+      {
+        "question": "Hvordan deler jeg musikken jeg har laget i Sprunki Phase 11?",
+        "answer": "Når komposisjonen din er ferdig, kan du dele sporene dine via sosiale medier direkte fra spillet."
+      },
+      {
+        "question": "Er det noen in-game kjøp i Sprunki Phase 11?",
+        "answer": "Ja, Sprunki Phase 11 tilbyr in-game kjøp for ekstra lyder og karakterer."
+      },
+      {
+        "question": "Kan jeg spille Sprunki Phase 11 offline?",
+        "answer": "Ja, du kan nyte Sprunki Phase 11 i offline-modus med begrensede funksjoner."
+      },
+      {
+        "question": "Er det en tutorial som hjelper meg å lære spillet?",
+        "answer": "Ja, det finnes en omfattende tutorial som veileder nye spillere gjennom grunnleggende lyddesign."
+      },
+      {
+        "question": "Hvilken aldersgruppe er Sprunki Phase 11 egnet for?",
+        "answer": "Sprunki Phase 11 er egnet for spillere fra 8 år og oppover."
+      }
+    ]
+  }
+}

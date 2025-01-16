@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "Block Blast - Permainan Teka-teki Online Gratis | Sprunki Infected",
+    "description": "Mainkan Block Blast, permainan teka-teki online adiktif di mana strategi bertemu dengan kesenangan. Hapus blok, kumpulkan poin, dan tantang pikiran Anda dengan permainan berbasis browser ini. Tidak perlu unduhan!",
+    "keywords": "block blast, permainan teka-teki, permainan online, permainan gratis, pengasah otak, permainan hapus blok, teka-teki strategi"
+  },
+  "hero": {
+    "h1": "Block Blast - Tempat Strategi Bertemu Kesenangan",
+    "p": "Masuklah ke petualangan teka-teki adiktif yang menantang pikiran Anda dan menguji pemikiran strategis Anda. Tanpa unduhan, hanya hiburan murni di ujung jari Anda."
+  },
+  "gameFeatures": {
+    "title": "Mengapa Pemain Menyukai Block Blast",
+    "features": [
+      "100% Gratis untuk Dimainkan - Tidak ada biaya tersembunyi atau pembelian dalam aplikasi",
+      "Main di Mana Saja - Bekerja dengan sempurna pada perangkat desktop dan seluler",
+      "Tidak Perlu Unduhan - Langsung lompat ke dalam aksi melalui browser Anda",
+      "Pembaruan Reguler - Tantangan baru dan fitur ditambahkan secara berkala",
+      "Latihan Otak - Tingkatkan pemikiran strategis Anda sambil bersenang-senang",
+      "Ramah Keluarga - Cocok untuk pemain dari segala usia"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Block Blast",
+    "instructions": [
+      "Seret dan letakkan blok ke dalam grid permainan",
+      "Buat baris atau kolom lengkap untuk menghapus blok",
+      "Rencanakan gerakan Anda dengan hati-hati untuk memaksimalkan poin",
+      "Jaga grid tetap bersih untuk tetap dalam permainan",
+      "Tantang diri Anda untuk mengalahkan skor tertinggi Anda"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Lihat Block Blast dalam Aksi"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Kami",
+    "submitReviewLabel": "Bagikan Pengalaman Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim Ulasan",
+    "reviews": [
+      {
+         "author": "Mike S.",
+        "content": "Sempurna untuk perjalanan harian saya! Sederhana namun cukup menantang untuk membuat saya ketagihan.",
+        "rating": 5
+      },
+      {
+         "author": "Emily W.",
+        "content": "Sebagai siswa, saya suka bagaimana saya bisa bermain cepat antara sesi belajar. Tidak perlu instalasi!",
+        "rating": 5
+      },
+      {
+         "author": "Jennifer X.",
+        "content": "Seluruh keluarga saya menikmati permainan ini. Edukatif dan menyenangkan pada saat yang sama!",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apakah Block Blast benar-benar gratis untuk dimainkan?",
+        "answer": "Ya! Block Blast sepenuhnya gratis untuk dimainkan. Tidak ada biaya tersembunyi atau pembelian dalam aplikasi yang diperlukan untuk menikmati pengalaman permainan penuh."
+      },
+      {
+        "question": "Apakah saya perlu mengunduh apa pun untuk memainkan Block Blast?",
+        "answer": "Tidak perlu unduhan! Block Blast berjalan langsung di browser web Anda pada perangkat apa pun dengan koneksi internet."
+      },
+      {
+        "question": "Bisakah saya bermain Block Blast di ponsel saya?",
+        "answer": "Tentu saja! Block Blast sepenuhnya dioptimalkan untuk perangkat desktop dan seluler, memberikan pengalaman bermain yang mulus di semua platform."
+      },
+      {
+        "question": "Bagaimana cara menyimpan kemajuan saya di Block Blast?",
+        "answer": "Skor tinggi Anda secara otomatis disimpan di browser Anda. Untuk pengalaman terbaik, kami merekomendasikan membuat akun gratis untuk melacak kemajuan Anda di berbagai perangkat."
+      },
+      {
+        "question": "Apakah Block Blast cocok untuk anak-anak?",
+        "answer": "Ya! Block Blast ramah keluarga dan cocok untuk semua usia. Permainan ini membantu mengembangkan pemikiran strategis dan keterampilan pemecahan masalah sambil tetap menyenangkan dan menarik."
+      },
+      {
+        "question": "Seberapa sering Block Blast diperbarui?",
+        "answer": "Kami secara teratur memperbarui Block Blast dengan fitur, tantangan, dan peningkatan baru berdasarkan umpan balik pemain untuk menjaga permainan tetap segar dan menarik."
+      }
+    ]
+  }
+}

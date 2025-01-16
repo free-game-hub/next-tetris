@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Mengalir Melalui Memori: Sebuah Petualangan Mengharukan dengan Hantu dan Anjing",
+    "description": "Jelajahi kisah yang menghangatkan hati dari 'Mengalir Melalui Memori', sebuah permainan teka-teki yang menyentuh hati dengan anjing hantu yang membantu keluarganya mengatasi kesedihan. Temukan fitur permainan, kontrol, dan baca ulasan pemain.",
+    "keywords": "Mengalir Melalui Memori, permainan anjing hantu, permainan teka-teki, permainan hewan peliharaan keluarga, ulasan permainan, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Mengalir Melalui Memori",
+    "p": "Mulailah perjalanan yang mengharukan dengan teman hantu saat mereka menjelajahi rumah mereka, membantu keluarga mereka sembuh dari kehilangan. Sebuah permainan teka-teki yang indah yang dibuat dengan penuh perhatian oleh Picogram untuk Global Game Jam 2019."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Narasi yang menghangatkan hati yang menjelajahi tema kehilangan dan penyembuhan.",
+      "Grafis yang menawan dan musik atmosferik oleh Grahm Nesbitt.",
+      "Kontrol sederhana yang cocok untuk semua usia.",
+      "Dapat dimainkan di platform HTML5, dapat diakses di berbagai perangkat.",
+      "Mendapatkan rating 4.8 dari 5 bintang oleh lebih dari 3.850 pemain."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Instruksi Permainan",
+    "instructions": [
+      "Gunakan Tombol Panah pada keyboard Anda untuk menggerakkan anjing hantu.",
+      "Tekan 'Z' untuk berinteraksi dengan objek dan melanjutkan alur cerita.",
+      "Jelajahi setiap ruangan untuk menemukan kenangan dan membantu keluarga dalam mengatasi.",
+      "Perhatikan petunjuk halus di lingkungan untuk mencari petunjuk.",
+      "Nikmati pengalaman sebagai perjalanan introspektif, bukan sekadar permainan."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "SANGAT IMUT :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Suka ini! Sangat imut dan meninggalkan perasaan hangat.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "Ini sangat manis. Ini sangat baik dibuat untuk permainan yang begitu singkat.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Bukan pertama kalinya saya bermain ini, saya baru-baru ini kehilangan anjing saya. Ini menghangatkan hati saya.",
+        "author": "Ini luar biasa"
+      },
+      {
+        "content": "Bravo, bahagia, sedih, dan imut, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "Anjingnya sangat imut saat membawa sepotong roti.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Sungguh menggemaskan <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "Kira-kira mendengarkan playlist Eminem saya saat bermain mungkin merusak suasana, tetapi ini tetap salah satu permainan terbaik yang saya mainkan dalam waktu lama.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Di platform mana 'Mengalir Melalui Memori' tersedia?",
+        "answer":"Permainan ini tersedia di platform HTML5, sehingga dapat diakses di sebagian besar perangkat dengan browser web modern."
+      },
+      {
+        "question":"Bagaimana cara berinteraksi dengan objek dalam permainan?",
+        "answer":"Gunakan tombol 'Z' pada keyboard Anda untuk berinteraksi dengan objek dan melanjutkan alur cerita."
+      },
+      {
+        "question":"Siapa yang menciptakan musik untuk permainan ini?",
+        "answer":"Musik atmosferik dalam 'Mengalir Melalui Memori' dikomposisikan oleh Grahm Nesbitt."
+      },
+      {
+        "question":"Apakah permainan ini cocok untuk semua usia?",
+        "answer":"Ya, permainan ini memiliki kontrol sederhana dan narasi yang menghangatkan hati cocok untuk pemain dari segala usia."
+      },
+      {
+        "question":"Berapa lama waktu yang dibutuhkan untuk menyelesaikan permainan?",
+        "answer":"Permainan ini relatif singkat, menawarkan pengalaman yang kompak namun emosional yang dapat diselesaikan dalam sekali duduk."
+      },
+      {
+        "question":"Bisakah saya bermain 'Mengalir Melalui Memori' di perangkat mobile saya?",
+        "answer":"Jika perangkat mobile Anda mendukung permainan HTML5 melalui browser web, Anda seharusnya dapat memainkan permainan ini."
+      }
+    ]
+  }
+}

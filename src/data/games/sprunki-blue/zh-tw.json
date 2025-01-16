@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - 寧靜的音樂探索",
+    "description": "探索Sprunki Blue，這款身臨其境的遊戲模組以舒緩的藍色調和和諧的音景改變你的遊戲體驗。",
+    "keywords": "Sprunki Blue, Sprunki Blue Mod, 遊戲模組, 單色美學, 舒緩音景, 寧靜音樂遊戲"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "沉浸在一個寧靜的遊戲環境中，舒緩的藍色與和諧的音景重新定義你的音樂探索。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Blue的主要特徵",
+    "features": [
+      "單色美學：體驗統一的舒緩藍色調，讓遊戲中的每一個元素均融為一體。",
+      "舒緩音景：發現多樣的旋律和和聲，配合平靜的視覺效果。",
+      "冥想心情：專注於音樂創作，無需多種顏色的干擾。",
+      "可自訂角色：選擇穿著舒鬆藍色服裝的角色，每個角色都有獨特效果。",
+      "分享你的創作：保存並與Sprunki社群分享你的心靈作品。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩Sprunki Blue",
+    "instructions": [
+      "選擇角色：挑選你喜愛的角色，每個角色都會提供獨特的循環和效果。",
+      "拖曳與放置：將它們放置在螢幕上，創建清新的音層。",
+      "實驗與調整：調整音量並更換角色來完善你的音軌。",
+      "保存並分享：與其他玩家分享你的寧靜音樂創作。",
+      "探索變化：不斷發展你的音景，以匹配你的心情。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Blue的遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "Sprunki Blue的玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki Blue提供獨特且舒緩的體驗，尤其是在漫長的一天後。",
+        "author": "約翰·多"
+      },
+      {
+        "content": "單色設計視覺上讓人愉悅，增強了身臨其境的體驗。",
+        "author": "簡·史密斯"
+      },
+      {
+        "content": "愛上這些音景。它們同時幫助我專注並放鬆。",
+        "author": "艾瑞克·黃"
+      },
+      {
+        "content": "視覺和聲音的美妙結合。強烈推薦！",
+        "author": "安娜·李"
+      },
+      {
+        "content": "這個遊戲模組讓我成為我寧靜音樂逃避的作曲家。",
+        "author": "馬克·約翰遜"
+      },
+      {
+        "content": "Sprunki Blue將Sprunki的體驗轉變為一次寧靜的旅程。",
+        "author": "索非亞·布朗"
+      },
+      {
+        "content": "藍色調的簡約與美感無可匹敵。",
+        "author": "克里斯·伊凡斯"
+      },
+      {
+        "content": "顏色的變化能如此提升整個遊戲的氛圍，真是太神奇了。",
+        "author": "勞拉·格林"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sprunki Blue常見問題",
+    "questions": [
+      {
+        "question":"什麼是Sprunki Blue？",
+        "answer":"Sprunki Blue是原始Sprunki遊戲的模組，特色為統一的藍色調和舒緩音景。"
+      },
+      {
+        "question":"我如何在Sprunki Blue中保存我的音樂？",
+        "answer":"當你對音軌感到滿意時，可以在遊戲中選擇保存與分享你的音樂。"
+      },
+      {
+        "question":"我可以在多個設備上玩Sprunki Blue嗎？",
+        "answer":"可以，Sprunki Blue適用於支援原始Sprunki遊戲的相容設備。"
+      },
+      {
+        "question":"有社群可以分享創作嗎？",
+        "answer":"有，玩家可以與Sprunki社群分享他們的創作，並欣賞其他人的音樂作品。"
+      },
+      {
+        "question":"我需要具備任何音樂經驗才能玩嗎？",
+        "answer":"不需要，Sprunki Blue專為所有經驗水平的玩家設計，以便輕鬆創作並享受音樂。"
+      },
+      {
+        "question":"Sprunki Blue Mod有任何費用嗎？",
+        "answer":"Sprunki Blue作為對現有Sprunki遊戲擁有者的免費更新提供。"
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "推薦遊戲",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Red",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Chill Harmonics",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Melodic Ocean",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

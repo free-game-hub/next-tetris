@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki x Regretevator - 創造的なプラットフォーミングアドベンチャー",
+    "description": "ユニークなゲームプレイ、魅力的なグラフィックス、パズルが融合したプラットフォーミングゲーム、Sprunki x Regretevatorの魅力的な世界を発見しよう。キャラクターの能力をマスターし、障害物を克服し、この魅力的なゲームでパズルを解いていこう。",
+    "keywords": "Sprunki x Regretevator, プラットフォーミングゲーム, パズル解決, ゲーム攻略, キャラクター能力, マルチプレイヤーモード"
+  },
+  "hero": {
+    "h1": "Sprunki x Regretevator",
+    "p": "Sprunki x Regretevatorで挑戦とパズルに満ちたカラフルな世界を旅しよう。ユニークなキャラクター能力を駆使して、レベルを攻略し、敵を倒し、ゲーム体験をさらに向上させよう。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Regretevatorの特徴",
+    "features": [
+      "ユニークなゲーム要素が組み合わさった魅力的なプラットフォーミング。",
+      "ゲームの世界に命を吹き込む魅力的なグラフィックス。",
+      "シームレスなゲームプレイのための滑らかなキャラクター動作。",
+      "ゲーム体験を高めるキャッチーなサウンドトラック。",
+      "戦略的なプレイのためのSprunkiとRegretevatorの特別な能力。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki x Regretevatorの遊び方",
+    "instructions": [
+      "SprunkiとRegretevatorのユニークなスキルを学んでパズルを解こう。",
+      "隠された報酬のために各レベルを徹底的に探索しよう。",
+      "ジャンプ、スライディング、壁走りなどのテクニックをマスターしよう。",
+      "パズルを克服するためにキャラクターのスキルを戦略的に使用しよう。",
+      "アイテムを集めてキャラクターの強力なアップグレードを解除しよう。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki x Regretevatorのゲームスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "Sprunki x Regretevatorのプレイヤーレビュー",
+    "submitReviewLabel": "レビューを投稿する",
+    "nameLabel": "名前",
+    "reviewLabel": "レビュー",
+    "submitButtonLabel": "投稿",
+    "reviews": [
+      {
+        "content": "魅力的なグラフィックスを持つ革新的なゲーム！",
+        "author": "アレックス"
+      },
+      {
+        "content": "パズルとアクションの素晴らしい組み合わせ。非常にお勧めです！",
+        "author": "ジェイミー"
+      },
+      {
+        "content": "キャラクターの能力とレベルデザインが大好きだった。",
+        "author": "ケイシー"
+      },
+      {
+        "content": "素晴らしいゲーム！サウンドトラックもキャッチー。",
+        "author": "モーガン"
+      },
+      {
+        "content": "挑戦的でありながら報いのあるゲームプレイ。必見です！",
+        "author": "ジョーダン"
+      },
+      {
+        "content": "友達と一緒に楽しむマルチプレイヤーモードが最高！",
+        "author": "テイラー"
+      },
+      {
+        "content": "印象的なグラフィックスと滑らかな操作。",
+        "author": "ライリー"
+      },
+      {
+        "content": "驚くべき詳細レベルと魅力的なストーリーライン。",
+        "author": "クリス"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki x Regretevatorに関するよくある質問",
+    "questions": [
+      {
+        "question": "Sprunki x Regretevatorはどのプラットフォームで利用できますか？",
+        "answer": "Sprunki x RegretevatorはPC、Mac、主要なゲームコンソールで利用可能です。"
+      },
+      {
+        "question": "友達と一緒にSprunki x Regretevatorをプレイできますか？",
+        "answer": "はい、このゲームには協力プレイ用のマルチプレイヤーモードがあります。"
+      },
+      {
+        "question": "Sprunki x Regretevatorのシステム要件は何ですか？",
+        "answer": "最適なパフォーマンスのために、システムが公式ウェブサイトに記載されたゲームの最低要件を満たしていることを確認してください。"
+      },
+      {
+        "question": "Sprunki x Regretevatorに課金要素はありますか？",
+        "answer": "Sprunki x Regretevatorには課金要素はありません。すべての機能はゲームプレイを通じてアクセス可能です。"
+      },
+      {
+        "question": "キャラクターの新しい能力をどうやって解除できますか？",
+        "answer": "ゲーム内アイテムを集めてキャラクターの能力を解除し、アップグレードします。"
+      },
+      {
+        "question": "Sprunki x Regretevatorのコミュニティサポートはどこで見つけることができますか？",
+        "answer": "私たちのオンラインコミュニティフォーラムやソーシャルメディアチャンネルに参加して、サポートや他のプレイヤーとヒントを共有しましょう。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "おすすめゲーム",
+    "games": [
+      {
+        "image": "sprunked-daytime-demo.jpg",
+        "title": "Sprunked (デイタイムデモ)",
+        "link": "/sprunked-daytime-demo"
+      },
+      {
+        "image": "incredibox-v9.jpg",
+        "title": "Incredibox V9",
+        "link": "/incredibox-v9"
+      }
+    ]
+  }
+}

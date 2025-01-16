@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 - 终极音乐混音游戏",
+    "description": "发现Sprunki Phase 10，这是一款迷人的音乐混音游戏，提供创造自由、独特角色以及无尽的音乐可能性。",
+    "keywords": "Sprunki Phase 10, 音乐混音游戏, 音乐创作, 音乐游戏"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10",
+    "p": "沉浸在Sprunki Phase 10的世界中 - 创意与音乐的完美结合。实验音乐元素，创作你独特的作品。"
+  },
+  "gameFeatures": {
+    "title": "游戏特色",
+    "features": [
+      "创造自由：无需高级技能，尽情表达你的音乐创意。",
+      "视觉与音效魅力：享受生动的视觉效果和动听的音轨。",
+      "重玩价值：探索不同组合，获得新的音效与奖励。",
+      "独特角色：每个角色都有独特音效，带来无限创作可能。",
+      "互动奖励：通过实验解锁特殊音轨和视觉效果。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki Phase 10",
+    "instructions": [
+      "选择角色：挑选具有独特音效的角色。",
+      "混音搭配：拖放音符，创造你的音乐轨道。",
+      "解锁奖励：发现组合以解锁特殊动画。",
+      "实验探索：不断探索新的音效，享受无限可能。",
+      "分享你的创作：让他人欣赏你的音乐杰作。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 10是一款极好的音乐游戏！它易于探索，能创造出惊人的曲调。",
+        "author": "艾丽斯"
+      },
+      {
+        "content": "我喜欢它所提供的创意。我可以在不需要成为音乐专家的情况下，实验不同的音效。",
+        "author": "鲍勃"
+      },
+      {
+        "content": "视觉的吸引力加上动听的音效，让这个游戏适合所有年龄段的玩家。",
+        "author": "克里斯"
+      },
+      {
+        "content": "每次游戏都有新的体验。重玩价值是Sprunki Phase 10最棒的部分之一。",
+        "author": "达娜"
+      },
+      {
+        "content": "解锁奖励是我最喜欢的部分。看到新的动画真是太令人振奋了。",
+        "author": "伊万"
+      },
+      {
+        "content": "我停不下来！独特的角色为音乐游戏带来了新的视角。",
+        "author": "菲奥娜"
+      },
+      {
+        "content": "作为一个音乐爱好者，Sprunki Phase 10超出了我的期待。强烈推荐！",
+        "author": "乔治"
+      },
+      {
+        "content": "非常好的游戏！适合放松并探索新的音乐组合。",
+        "author": "汉娜"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "questions": [
+      {
+        "question": "Sprunki Phase 10的目标是什么？",
+        "answer": "目标是创造性地混合各种音乐元素，创造独特的作品。"
+      },
+      {
+        "question": "玩这个游戏需要音乐技能吗？",
+        "answer": "不需要，Sprunki Phase 10旨在让所有人都能轻松上手，毫不受限于音乐专业背景。"
+      },
+      {
+        "question": "我可以与朋友分享我的作品吗？",
+        "answer": "可以，你可以与朋友和家人分享你的音乐创作，让他们来欣赏。"
+      },
+      {
+        "question": "游戏中有内购吗？",
+        "answer": "Sprunki Phase 10提供可以通过游戏玩法或可选购买解锁的内购内容。"
+      },
+      {
+        "question": "Sprunki Phase 10在哪些平台上可用？",
+        "answer": "Sprunki Phase 10可在多个平台上游玩，包括PC、iOS和Android。"
+      },
+      {
+        "question": "新更新的发布频率如何？",
+        "answer": "游戏定期更新，引入新功能和内容以提升体验。"
+      }
+    ]
+  }
+}

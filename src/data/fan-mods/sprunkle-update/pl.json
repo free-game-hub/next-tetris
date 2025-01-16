@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Gra Sprunkle: Graj i Odkrywaj | Oficjalna Strona",
+    "description": "Odkryj ekscytujący świat Sprunkle, wciągającej gry online z unikalnymi funkcjami i wyzwaniami. Poznaj zasady gry, metody sterowania oraz przeczytaj opinie graczy, aby poprawić swoje doświadczenia w grze.",
+    "keywords": "gra Sprunkle, Sprunkle online, graj w Sprunkle, zasady gry Sprunkle, opinie o Sprunkle"
+  },
+  "hero": {
+    "h1": "Gra Sprunkle",
+    "p": "Zanurz się w ekscytującą przygodę z Sprunkle, fascynującą grą online, która trzyma graczy w napięciu!"
+  },
+  "gameFeatures": {
+    "title": "Cechy Sprunkle",
+    "features": [
+      "Wciągająca rozgrywka z dynamiczną animacją",
+      "Unikalne wyzwania na różnych poziomach umiejętności",
+      "Interesująca fabuła, która rozwija się w zależności od wyborów gracza",
+      "Opcje wieloosobowe do grania z przyjaciółmi",
+      "Regularne aktualizacje z nowymi poziomami i postaciami"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Sprunkle",
+    "instructions": [
+      "Pokieruj swoją postacią za pomocą klawiszy strzałek na klawiaturze.",
+      "Zbieraj ulepszenia, aby zwiększyć swoje możliwości w trakcie gry.",
+      "Pokonuj bossów na końcu każdego poziomu, aby przejść dalej.",
+      "Uważaj na pułapki i przeszkody, które mogą pojawić się niespodziewanie.",
+      "Stwórz drużynę z przyjaciółmi w trybie wieloosobowym, aby wspólnie przeżywać przygodę."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu Gry Sprunkle"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Prześlij Swoją Opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Sprunkle jest po prostu uzależniające! Poziomy są świetnie zaprojektowane i wymagające.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Uwielbiam grafikę w Sprunkle. Jest kolorowa i przyjemna!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Granie w Sprunkle z przyjaciółmi to prawdziwa frajda. Tryb wieloosobowy to najlepsze!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Aktualizacje są częste i zawsze wprowadzają coś nowego do gry.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Sterowanie w Sprunkle jest łatwe do nauczenia, ale opanowanie go wymaga umiejętności.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Cieszy mnie fabuła oraz rozgrywka oparta na wyborach w Sprunkle.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "Ścieżka dźwiękowa jest chwytliwa i dodaje pikanterii do gry.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "To gra, którą poleciłbym każdemu, kto lubi dobre wyzwanie.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Jak zapisać postęp w Sprunkle?",
+        "answer": "Twój postęp w Sprunkle jest automatycznie zapisywany w punktach kontrolnych."
+      },
+      {
+        "question": "Czy mogę grać w Sprunkle na urządzeniu mobilnym?",
+        "answer": "Obecnie Sprunkle jest dostępne dla przeglądarek komputerowych. Wersja mobilna jest w fazie rozwoju."
+      },
+      {
+        "question": "Czy istnieje sposób na zresetowanie postępu w grze?",
+        "answer": "Tak, możesz zresetować postęp w grze z menu ustawień."
+      },
+      {
+        "question": "Czy w Sprunkle są zakupy w grze?",
+        "answer": "Sprunkle oferuje opcjonalne zakupy w grze, ale nie są one konieczne do pełnego cieszenia się grą."
+      },
+      {
+        "question": "Jak mogę zgłosić błąd lub problem w grze?",
+        "answer": "Proszę skorzystać z formularza kontaktowego na naszej stronie, aby zgłosić wszelkie błędy lub problemy."
+      },
+      {
+        "question": "Czy tryb wieloosobowy jest darmowy?",
+        "answer": "Tak, tryb wieloosobowy w Sprunkle jest darmowy, a ty możesz zaprosić przyjaciół do zabawy."
+      }
+    ]
+  }
+}

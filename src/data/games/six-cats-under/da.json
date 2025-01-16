@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Six Cats Under - En Fængslende Puslespilseventyr",
+    "description": "Opdag 'Six Cats Under', et charmerende pege-og-klik puslespil, hvor du bruger poltergeistkrefter til at redde din katteflok. Bedømt til 4.8/5 af spillere.",
+    "keywords": "Six Cats Under, puslespil, pege-og-klik, katte-redningsspil, game jam, spøgelseskræfter, Six Cats Under bedømmelser"
+  },
+  "hero": {
+    "h1": "Six Cats Under",
+    "p": "Dyk ind i 'Six Cats Under', et dejligt pege-og-klik puslespil, hvor dine poltergeistkrefter hjælper med at føre dine elskede katte til sikkerhed."
+  },
+  "gameFeatures": {
+    "title": "Spilfunktioner",
+    "features": [
+      "Unik pege-og-klik puslespil gameplay",
+      "Charmerende pixelkunst og animationer",
+      "Fængslende fortælling med spøgelsesagtige elementer",
+      "Perfekt for katteelskere og puslespilsentusiaster",
+      "Kort og sød spilleoplevelse, ideel til hurtige sessioner"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spiller du Six Cats Under",
+    "instructions": [
+      "Brug din mus til at interagere med objekter og guide dine katte.",
+      "Udnyt poltergeist evner til at flytte genstande og åbne veje.",
+      "Løs puslespil for at komme videre gennem niveauerne og redde alle kattene.",
+      "Vær opmærksom på visuelle spor og ledetråde gennem hele spillet.",
+      "Nyd fortællingen og de charmerende interaktioner med dine kattevenner."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Six Cats Under - Spilskærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Et dejligt spil! Fantastiske animationer og helt bedårende katte.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Som katteejer resonerer dette spil dybt. En absolut perle!",
+        "author": "gecko"
+      },
+      {
+        "content": "Et bedårende sødt spil... stakkels Goldy! Hjerteligt men følelsesladet.",
+        "author": "magerites"
+      },
+      {
+        "content": "Unikke puslespil og så mange bedårende øjeblikke. Elskede det!",
+        "author": "DLGames"
+      },
+      {
+        "content": "Kombinationen af sødme og et strejf af tristhed får dette spil til at skille sig ud.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Fantastisk spil! Færdiggjorde det på 15 minutter, elskede hvert øjeblik.",
+        "author": "MCG"
+      },
+      {
+        "content": "Både bedårende og trist, men virkelig sjovt! Fantastisk oplevelse samlet set.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Katte er bedårende, og den spøgelsesagtige hjælperdel er unik. Kan varmt anbefales!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+        "question":"Hvilke platforme er Six Cats Under tilgængelig på?",
+        "answer":"Six Cats Under er tilgængelig på HTML5, Windows, macOS og Linux."
+      },
+      {
+        "question":"Hvor lang tid tager det at gennemføre spillet?",
+        "answer":"Den gennemsnitlige session varer ca. en halv time, hvilket giver en hurtig men fornøjelig oplevelse."
+      },
+      {
+        "question":"Er 'Six Cats Under' egnet til alle aldre?",
+        "answer":"Ja, spillet er designet til at blive nydt af spillere i alle aldre, især katteelskere."
+      },
+      {
+        "question":"Hvad er minimumskravene for at køre spillet?",
+        "answer":"Spillet er letvægts og kan køre på de fleste systemer, der understøtter HTML5 eller de respektive OS-versioner."
+      },
+      {
+        "question":"Kan spillet spilles offline?",
+        "answer":"De downloadbare versioner til Windows, macOS og Linux kan spilles offline efter installation."
+      },
+      {
+        "question":"Hvem har udviklet 'Six Cats Under'?",
+        "answer":"Spillet er udviklet af Team Bean Loop og Mosu, med bidrag fra Miles Äijälä, Robin Swift, Tomas Beržinskas og Alex Martin."
+      }
+    ]
+  }
+}

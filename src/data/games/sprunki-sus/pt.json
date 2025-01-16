@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki SUS - Aventura Musical Definitiva no Spunky Game",
+    "description": "Descubra o mundo musical único de Sprunki SUS no Spunky Game. Jogue instantaneamente no seu navegador, crie composições musicais e compartilhe com a comunidade gamer. Não há necessidade de downloads!",
+    "keywords": "Sprunki SUS, Spunky Game, jogo de ritmo online, criatividade musical, jogo no navegador"
+  },
+  "hero": {
+    "h1": "Sprunki SUS",
+    "p": "Participe da aventura musical definitiva com Sprunki SUS, um jogo de ritmo que desafia sua criatividade. Misture, compartilhe e divirta-se com batidas únicas diretamente no seu navegador no Spunky Game."
+  },
+  "gameFeatures": {
+    "title": "Principais Recursos de Sprunki SUS no Spunky Game",
+    "features": [
+      "Controles Intuitivos: Interface amigável adequada para todos os níveis de habilidade.",
+      "Jogo Instantâneo: Sem necessidade de download – jogue diretamente no seu navegador.",
+      "Sistema de Conquistas: Ganhe recompensas enquanto avança pelos níveis.",
+      "Recursos Comunitários: Conecte-se e compartilhe suas criações com outros jogadores.",
+      "Estilos Sonoros Diversos: Experimente com vários gêneros e estilos musicais."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki SUS no Spunky Game",
+    "instructions": [
+      "Selecione Seu Personagem: Escolha entre personagens únicos de Sprunki SUS com habilidades musicais distintas.",
+      "Crie Sua Mixagem: Combine diferentes personagens para produzir combinações musicais incríveis.",
+      "Compartilhe & Aproveite: Salve suas criações e compartilhe dentro da comunidade do Spunky Game.",
+      "Navegue pelos Controles: Use seu mouse para arrastar e soltar ações e atalhos de teclado para controles avançados.",
+      "Explore os Modos: Experimente diferentes modos de jogo como Clássico, Desafio, Livre e Colaboração."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo Sprunki SUS"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores para Sprunki SUS",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Um jogo incrivelmente divertido e criativo! O aspecto comunitário é fantástico.",
+        "author": "Alex G."
+      },
+      {
+        "content": "Adoro como é fácil começar sem necessidade de download. Ótimo para sessões rápidas!",
+        "author": "Jordan T."
+      },
+      {
+        "content": "A variedade de estilos musicais me faz voltar sempre. Altamente recomendado!",
+        "author": "Sam R."
+      },
+      {
+        "content": "Sprunki SUS é uma obra-prima dos jogos casuais. Um imperdível para amantes de música.",
+        "author": "Casey L."
+      },
+      {
+        "content": "A interface é intuitiva e a jogabilidade é muito envolvente!",
+        "author": "Jamie H."
+      },
+      {
+        "content": "Mistura perfeita de criatividade e diversão. Compartilhar com os amigos é uma explosão!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Uma ótima maneira de explorar e expressar a criatividade musical. Adoro!",
+        "author": "Riley S."
+      },
+      {
+        "content": "Não consigo acreditar que posso fazer música tão fácil em um jogo. Viciante!",
+        "author": "Morgan P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes sobre Sprunki SUS",
+    "questions": [
+      {
+        "question":"O que torna Sprunki SUS único no Spunky Game?",
+        "answer":"Sprunki SUS oferece uma reviravolta inovadora com designs de personagens únicos e elementos musicais."
+      },
+      {
+        "question":"Como posso começar a jogar Sprunki SUS no Spunky Game?",
+        "answer":"Visite o site do Spunky Game, selecione Sprunki SUS e comece a misturar com a interface de arrastar e soltar."
+      },
+      {
+        "question":"Posso salvar minhas criações de Sprunki SUS?",
+        "answer":"Sim, você pode salvar e compartilhar suas composições musicais com outros jogadores."
+      },
+      {
+        "question":"Quais controles são usados em Sprunki SUS?",
+        "answer":"Use seu mouse para arrastar e soltar personagens, e atalhos de teclado para controles adicionais."
+      },
+      {
+        "question":"Sprunki SUS é adequado para iniciantes?",
+        "answer":"Com certeza! Foi projetado para ser acessível a novatos, enquanto oferece profundidade para jogadores experientes."
+      },
+      {
+        "question":"Quantas camadas sonoras posso combinar em Sprunki SUS?",
+        "answer":"Você pode combinar várias camadas sonoras para composições musicais ricas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V8 - Jännittävä post-apokalyptinen musiikkimatka",
+    "description": "Liity Incredibox V8:een, ainutlaatuiseen musiikkien luomispeliin, joka sijoittuu muutettuun maailmaan suuren katastrofin jälkeen. Tutki ääniä, kohtaa haasteita ja rakenna maailma uudelleen musiikin kautta.",
+    "keywords": "Incredibox V8, musiikkipeli, post-apokalyptinen, pelin ominaisuudet, musiikin luominen"
+  },
+  "hero": {
+    "h1": "Incredibox V8",
+    "p": "Aloita musiikkimatka muuttuneessa maailmassa. Tutki uusia ääniä, rakenna musiikkiryhmäsi ja voita haasteita Incredibox V8:ssa."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V8:n keskeiset ominaisuudet",
+    "features": [
+      "Tutki Muutettua Maailmaa: Löydä musiikillisia ääniä raunioiden joukosta.",
+      "Rakenna Musiikkiryhmäsi: Valitse hahmoja, joilla on ainutlaatuisia ääniä, luodaksesi bändisi.",
+      "Kohtaa Musiikillisia Haasteita: Kokeile taitojasi luovilla esteillä.",
+      "Ilmaise Luovuutta: Käytä rytmejä ja melodioita rakentamaan tyhjää maailmaa uudelleen.",
+      "Uppouttava Kokemus: Sukella post-apokalyptiseen ympäristöön rikkailla äänimaisemilla."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Incredibox V8:aa",
+    "instructions": [
+      "Aloita matka tutkimalla maailmaa ja keräämällä musiikillisia ääniä.",
+      "Käytä intuitiivista käyttöliittymää kootaaksesi ainutlaatuisen musiikkikappaleesi.",
+      "Säädä kappaleitasi voittaaksesi esteet ja haasteet, joita kohtaat.",
+      "Jokainen luomasi kappale tuo energiaa ja toivoa tyhjään maailmaan.",
+      "Jaa luomuksesi ja inspiroi muita musiikin voimalla."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V8 kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Mitä pelaajat sanovat Incredibox V8:sta",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Incredibox V8 on todella innovatiivinen kokemus dynaamisten musiikinluontimahdollisuuksiensa ansiosta. Rakastan rauniot, ja uusien äänten luomista.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Pelin käyttöliittymä on erittäin helppokäyttöinen, ja musiikilliset haasteet pitävät minut kiinnostuneena.",
+        "author": "Samantha L."
+      },
+      {
+        "content": "Täydellinen luovuuden ja strategian yhdistelmä. Musiikkiryhmäni rakentaminen on äärimmäisen palkitsevaa!",
+        "author": "Michael K."
+      },
+      {
+        "content": "En koskaan ajatellut, että musiikin tekeminen post-apokalyptisessa maailmassa voisi olla näin kohottavaa. Suosittelen vahvasti Incredibox V8:aa!",
+        "author": "Laura F."
+      },
+      {
+        "content": "Tämä peli on fantastinen yhdistelmä äänien tutkimista ja tarinankerrontaa. En voi lakata pelaamasta!",
+        "author": "Daniel M."
+      },
+      {
+        "content": "Incredibox V8 työntää luovuutesi rajoja parhaimmalla mahdollisella tavalla. Loistava peli!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Jokainen luomani kappale tuntuu kuin uusi elämän hengitys tässä ainutlaatuisessa maailmassa. Rakastan sitä!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Incredibox V8:n tunnelma ja musiikinluontityökalut ovat vertaansa vailla. Pakollinen peli!",
+        "author": "Sophia H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Incredibox V8 Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question":"Mikä on Incredibox V8?",
+        "answer":"Incredibox V8 on musiikinluontipeli, joka sijoittuu post-apokalyptiseen maailmaan, jossa tutkimme, luomme musiikkia ja kohtaamme haasteita toivon uudelleenrakentamiseksi."
+      },
+      {
+        "question":"Kuinka aloitan musiikin luomisen pelissä?",
+        "answer":"Aloita tutkimalla muuttunutta maailmaa kerätäksesi erilaisia ääniä, ja käytä sitten käyttöliittymää luodaksesi ainutlaatuisia musiikkikappaleita."
+      },
+      {
+        "question":"Milleräisia haasteita kohtaaan?",
+        "answer":"Pelaajat kohtaavat haasteita, jotka testaavat heidän musiikillisia taitojaan ja luovuuttaan pelin edetessä."
+      },
+      {
+        "question":"Voinko pelata Incredibox V8:aa mobiililaitteilla?",
+        "answer":"Kyllä, Incredibox V8 on yhteensopiva useimpien mobiililaitteiden kanssa, mahdollistaen saumattoman musiikinluontikokemuksen matkalla."
+      },
+      {
+        "question":"Kuinka voin jakaa musiikkiluomukseni?",
+        "answer":"Voit jakaa musiikkisi suoraan pelistä erilaisten sosiaalisen median alustojen kautta inspiroidaksesi muita."
+      },
+      {
+        "question":"Onko Incredibox V8:ssa moninpelitila?",
+        "answer":"Tällä hetkellä Incredibox V8 keskittyy yksinpelikokemukseen, joka perustuu luovuuteen ja tutkimiseen."
+      }
+    ]
+  }
+}

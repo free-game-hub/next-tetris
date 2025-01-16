@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Peli | Pelaa Incredibox Sprunki Modit Verkossa",
+    "description": "Tutustu Sprunki Pelin eloisaan maailmaan, innovatiiviseen Incredibox laajennukseen, jossa on ainutlaatuisia muokkauksia, erikoissoundtrackeja ja teemavaiheita. Luo, sekoita ja jaa musiikillisia mestariteoksiasi verkossa.",
+    "keywords": "Sprunki Peli, Incredibox Modit, Sprunki Modit, Pelaa Sprunki Verkossa, Sprunki Vaiheet, Sprunki Musiikki"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Peli Verkossa",
+    "p": "Sukella Sprunki Pelin luovaan universumiin, fanien tekemään laajennukseen, joka tarjoaa loputtomasti musiikillisia seikkailuja ainutlaatuisilla muokkauksilla, uusilla vaiheilla ja interaktiivisella pelillä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Pelin Tärkeimmät Ominaisuudet",
+    "features": [
+      "Mukautetut Sprunki Modit: Tutki fanien tekemiä muokkauksia, joissa on ainutlaatuisia hahmoja ja rytmejä.",
+      "Teemalliset Sprunki Vaiheet: Koe kauhuteemaiset, komediat ja fantasiat.",
+      "Interaktiivinen Raahaa ja Pudota Pelimekaniikka: Sekoita ja luo soundtracks helposti.",
+      "Luova Vapaus: Suunnittele ainutlaatuisia kappaleita ja jaa niitä eloisassa yhteisössä.",
+      "Vahva Yhteisön Tuki: Liity kilpailuihin ja tee yhteistyötä uusien ideoiden kehittämiseksi."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Incredibox Sprunki Peliä",
+    "instructions": [
+      "Aloita Peli: Siirry Sprunkin.com sivustolle aloittamaan seikkailusi.",
+      "Valitse Hahmot: Valitse eloisista hahmoista, joista jokainen tuo oman ainutlaatuisen äänensä.",
+      "Luo Sekoituksia: Raahaa ikoneita rakentaaksesi täydellisen kappaleesi ja katso animaatioita.",
+      "Avaat Erikoisuuksia: Yhdistä ääniä löytääksesi piilotettuja ominaisuuksia.",
+      "Tallenna ja Jaa: Tallenna luomuksesi ja jaa niitä ystävillesi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Pelin Näyttökuvat"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut Sprunki Pelistä",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Luovuus Sprunki Pelissä on vertaansa vailla. Olen viettänyt tunteja sekoittaen ääniä!",
+        "author": "Emily R."
+      },
+      {
+        "content": "Ihan mahtava käännös Incrediboxista! Uudet modit houkuttelevat minut aina takaisin.",
+        "author": "Jake L."
+      },
+      {
+        "content": "Rakastan teemavaiheita - erityisesti kauhua! Se tuo uuden ulottuvuuden.",
+        "author": "Sarah B."
+      },
+      {
+        "content": "Interaktiivinen ja helppokäyttöinen. Erinomainen sekä rentoille että vakaville musiikkikipurroille.",
+        "author": "Mike D."
+      },
+      {
+        "content": "Yhteisön osuus on fantastinen - olen tavannut muita luojia ja oppinut paljon.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Ei ikinä tylsistytä! Päivitykset ja uudet modit ovat aina jännittäviä.",
+        "author": "Tommy V."
+      },
+      {
+        "content": "Upea alusta musiikillisen luovuuden ilmaisemiseen. Suosittelen lämpimästi!",
+        "author": "Sandra E."
+      },
+      {
+        "content": "Rakastan visuaalisia suunnitelmia ja mahdollisuutta yhdistää erilaisia elementtejä.",
+        "author": "Chris P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset Sprunki Incrediboxista",
+    "questions": [
+      {
+        "question":"Mikä on Sprunki Mod?",
+        "answer":"Sprunki Mod on fanien luoma sovitus Incrediboxista, jossa on ainutlaatuisia hahmoja ja teemoja."
+      },
+      {
+        "question":"Kuinka voin ladata Sprunki Incrediboxin?",
+        "answer":"Lataa se viralliselta sivustolta, Google Playsta tai Apple App Storesta."
+      },
+      {
+        "question":"Missä voin pelata Sprunki Modia verkossa?",
+        "answer":"Pelaa pelialustoilla, virallisilla modisivustoilla tai fanien isännöimillä palvelimilla."
+      },
+      {
+        "question":"Mikä tekee Sprunki Modeista ainutlaatuisia?",
+        "answer":"Ne tarjoavat luovia käänteitä mukautetuilla teemoilla ja viehättävillä suunnitelmilla."
+      },
+      {
+        "question":"Mitä ovat Sprunki Vaiheet?",
+        "answer":"Teemallisia laajennuksia, kuten kauhuteemaa tai fantasiaa, joissa on uusia hahmoja ja haasteita."
+      },
+      {
+        "question":"Onko olemassa kauhuteemaisia Sprunki Modeja?",
+        "answer":"Kyllä, mukaan lukien Sprunki Horror Mod ja Sprunki The Lost File."
+      }
+    ]
+  }
+}

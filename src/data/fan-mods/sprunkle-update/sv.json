@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle Spelet: Spela & Utforska | Officiell Webbplats",
+    "description": "Upptäck den spännande världen av Sprunkle, ett fängslande online-spel med unika funktioner och utmaningar. Lär dig om spelets regler, kontrollmetoder och läs spelarnas recensioner för att förbättra din spelupplevelse.",
+    "keywords": "Sprunkle spel, Sprunkle online, spela Sprunkle, Sprunkle spelregler, Sprunkle recensioner"
+  },
+  "hero": {
+    "h1": "Sprunkle Spelet",
+    "p": "Ge dig ut på det spännande äventyret i Sprunkle, det fängslande online-spelet som håller spelarna på helspänn!"
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunkle",
+    "features": [
+      "Fängslande spelupplevelse med dynamisk animation",
+      "Unika utmaningar för olika färdighetsnivåer",
+      "Engagerande berättelse som utvecklas med spelarens val",
+      "Multiplayer-alternativ för att spela med vänner",
+      "Regelbundna uppdateringar med nya nivåer och karaktärer"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så Spelar Du Sprunkle",
+    "instructions": [
+      "Navigera din karaktär med piltangenterna på ditt tangentbord.",
+      "Samla kraftuppgraderingar för att öka dina förmågor under spelet.",
+      "Besegra bossarna i slutet av varje nivå för att komma vidare.",
+      "Var uppmärksam på fällor och hinder som dyker upp oväntat.",
+      "Team upp med vänner i multiplayer-läget för en samarbetsupplevelse."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar från Sprunkle"
+  },
+  "playerReviews": {
+    "title": "Spel recensioner",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunkle är helt enkelt beroendeframkallande! Nivåerna är väl utformade och utmanande.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Jag älskar grafiken i Sprunkle. Den är färgglad och inbjudande!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Att spela Sprunkle med vänner är jättekul. Multiplayer-läget är bäst!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Uppdateringarna kommer ofta och lägger alltid till något nytt i spelet.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Kontrollerna i Sprunkle är lätta att lära sig men att bemästra dem kräver skicklighet.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Jag gillar berättelsen och valbaserat gameplay i Sprunkle.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "Soundtracket är catchy och ökar upplevelsen.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "Det är ett spel jag skulle rekommendera till alla som gillar en bra utmaning.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Hur sparar jag min framsteg i Sprunkle?",
+        "answer": "Din framsteg i Sprunkle sparas automatiskt vid kontrollpunkter."
+      },
+      {
+        "question": "Kan jag spela Sprunkle på min mobila enhet?",
+        "answer": "För närvarande finns Sprunkle tillgänglig för skrivbordswebbläsare. En mobilversion är under utveckling."
+      },
+      {
+        "question": "Finns det ett sätt att återställa min spelframsteg?",
+        "answer": "Ja, du kan återställa din spelframsteg från inställningsmenyn."
+      },
+      {
+        "question": "Finns det några köp i spelet i Sprunkle?",
+        "answer": "Sprunkle erbjuder valfria köp i spelet, men de är inte nödvändiga för att fullt ut njuta av spelet."
+      },
+      {
+        "question": "Hur kan jag rapportera en bugg eller problem i spelet?",
+        "answer": "Vänligen använd kontaktformuläret på vår webbplats för att rapportera eventuella buggar eller problem."
+      },
+      {
+        "question": "Är multiplayerläge gratis att spela?",
+        "answer": "Ja, multiplayerläget i Sprunkle är gratis att spela, och du kan bjuda in vänner att delta."
+      }
+    ]
+  }
+}

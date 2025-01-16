@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V1 - Khám Phá Thế Giới Âm Nhạc Và Beatbox",
+    "description": "Khám phá Incredibox V1, một trò chơi tạo nhạc hấp dẫn kết hợp giữa nhịp điệu, giai điệu và beatbox. Tạo ra những bản nhạc độc đáo với gameplay kéo và thả. Hoàn hảo cho những người yêu thích âm nhạc đang tìm kiếm sự sáng tạo và niềm vui.",
+    "keywords": "Incredibox V1, trò chơi tạo nhạc, nhịp điệu, beatbox, Incredibox Alpha Game"
+  },
+  "hero": {
+    "h1": "Incredibox V1",
+    "p": "Hãy để sự sáng tạo âm nhạc của bạn tỏa sáng với Incredibox V1, nơi nhịp điệu gặp giai điệu trong một cuộc phiêu lưu beatbox tương tác."
+  },
+  "gameFeatures": {
+    "title": "Tại Sao Incredibox V1 Nổi Bật",
+    "features": [
+      "Tạo ra những bản nhạc độc đáo với gameplay kéo và thả dễ dàng.",
+      "Khám phá những âm hưởng đa dạng với các nhân vật beatbox hoạt hình.",
+      "Mở khóa phần thưởng hình ảnh bằng cách khám phá các tổ hợp âm thanh.",
+      "Chia sẻ các tác phẩm của bạn với cộng đồng yêu âm nhạc.",
+      "Tham gia vào trải nghiệm nghe nhìn sống động."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Làm Chủ Incredibox V1",
+    "instructions": [
+      "Chọn Một Phong Cách: Lựa chọn từ nhiều phong cách âm nhạc để bắt đầu hành trình sáng tạo của bạn.",
+      "Tạo Một Bản Phối: Kéo các biểu tượng âm thanh vào các nhân vật để gán âm thanh riêng biệt và tạo ra tác phẩm của bạn.",
+      "Thử Nghiệm: Kết hợp âm thanh để khám phá nhịp điệu và hiệu ứng mới, mở khóa các hoạt hình ẩn.",
+      "Điều Khiển Bằng Chuột: Nhấp và kéo để thao tác âm thanh, điều chỉnh bản phối của bạn dễ dàng.",
+      "Phím Tắt Bàn Phím: Sử dụng các phím tắt có sẵn để điều chỉnh âm thanh một cách nhanh chóng (tùy thuộc vào phiên bản)."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V1 Trong Hành Động"
+  },
+  "playerReviews": {
+    "title": "Người Chơi Nói Gì Về Incredibox V1",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên Của Bạn",
+    "reviewLabel": "Đánh Giá Của Bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Incredibox V1 là một cách độc đáo và thú vị để sáng tạo âm nhạc. Nó dễ tiếp cận ngay cả khi bạn không được đào tạo âm nhạc.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Các hoạt hình thật tuyệt vời! Chúng thực sự tăng thêm chiều sâu cho trải nghiệm.",
+        "author": "Samantha P."
+      },
+      {
+        "content": "Tôi thích cách mà tôi có thể dễ dàng chia sẻ các tác phẩm của mình. Cộng đồng rất khuyến khích!",
+        "author": "Mike T."
+      },
+      {
+        "content": "Đơn giản nhưng gây nghiện. Tôi đã dành hàng giờ để thử nghiệm với những âm thanh khác nhau.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Một cách tuyệt vời để thể hiện sự sáng tạo. Phần thưởng hình ảnh là một điểm nhấn đáng giá.",
+        "author": "Chris R."
+      },
+      {
+        "content": "Nó không chỉ là một trò chơi, mà còn là một nền tảng sáng tạo!",
+        "author": "Patricia G."
+      },
+      {
+        "content": "Tôi và các con đều thích sáng tạo âm nhạc cùng nhau. Nó thân thiện với gia đình và rất vui!",
+        "author": "John D."
+      },
+      {
+        "content": "Điều khiển rất trực quan. Tôi thích sự đơn giản và chiều sâu của nó.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Câu Hỏi Thường Gặp Về Incredibox V1",
+    "questions": [
+      {
+      "question":"Incredibox V1 là gì?",
+      "answer":"Incredibox V1 là một trò chơi tạo nhạc tương tác kết hợp giữa nhịp điệu, giai điệu và beatbox thông qua các nhân vật hoạt hình."
+      },
+      {
+      "question":"Tôi làm thế nào để chơi Incredibox V1?",
+      "answer":"Chọn một phong cách âm nhạc, kéo các biểu tượng âm thanh vào các nhân vật để tạo ra bản phối của bạn, và khám phá các tổ hợp âm thanh để có thêm hiệu ứng và hoạt hình."
+      },
+      {
+      "question":"Tôi có thể sử dụng phím tắt bàn phím trong Incredibox V1 không?",
+      "answer":"Trong một số phiên bản, có sẵn các phím tắt bàn phím cho việc tắt âm nhanh, solo và sắp xếp lại, mặc dù chủ yếu tương tác qua chuột."
+      },
+      {
+      "question":"Incredibox V1 có phù hợp cho mọi lứa tuổi không?",
+      "answer":"Có, giao diện trực quan và đồ họa hấp dẫn làm cho nó dễ tiếp cận và giải trí cho người chơi mọi lứa tuổi."
+      },
+      {
+      "question":"Tôi có thể chia sẻ các sáng tạo âm nhạc từ Incredibox V1 không?",
+      "answer":"Chắc chắn rồi, người chơi có thể chia sẻ các tác phẩm của họ trực tuyến để truyền cảm hứng và kết nối với cộng đồng yêu âm nhạc."
+      },
+      {
+      "question":"Điều gì làm cho Incredibox V1 khác với các trò chơi âm nhạc khác?",
+      "answer":"Sự kết hợp giữa gameplay kéo và thả, kể chuyện hoạt hình, và chia sẻ cộng đồng khiến nó trở nên khác biệt như một trò chơi và một công cụ sáng tạo."
+      }
+    ]
+  }
+}

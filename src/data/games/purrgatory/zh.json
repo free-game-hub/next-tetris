@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Purrgatory - 奇妙的来世视觉小说",
+    "description": "探索Purrgatory的迷人世界，这是一部关于时间静止的来世视觉小说。结识古怪的角色，解开谜团，并享受精心手绘的体验。",
+    "keywords": "Purrgatory, 视觉小说, 来世游戏, 点击式解谜, 奇妙角色, 游戏特点"
+  },
+  "hero": {
+    "h1": "Purrgatory - 奇妙的来世冒险",
+    "p": "进入Purrgatory，一个充满奇思妙想的视觉小说。探索，与迷人的角色成为朋友，并发现永恒其实并不坏！"
+  },
+  "gameFeatures": {
+    "title": "Purrgatory 游戏特点",
+    "features": [
+      "引人入胜的点击式探索",
+      "手绘视觉与迷人角色",
+      "多重结局与丰富的故事体验",
+      "提供英文、西班牙文和简体中文版本",
+      "获得“我不会画”游戏创作比赛奖"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Purrgatory",
+    "instructions": [
+      "使用鼠标与世界互动。",
+      "使用键盘快速导航。",
+      "探索不同地点以揭示秘密。",
+      "解谜以推进剧情。",
+      "与角色互动以了解他们的故事。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Purrgatory 游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Purrgatory的评价",
+    "submitReviewLabel": "提交您的评论",
+    "nameLabel": "姓名",
+    "reviewLabel": "评论",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "卡在停电部分，但从社区获得了帮助！喜欢大家的合作精神！",
+        "author": "Blormp"
+      },
+      {
+        "content": "氛围和角色友谊令人愉悦。忍不住一直想着它！",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "一年后回来完成它。很幸运能体验这个美丽的故事。",
+        "author": "kayak"
+      },
+      {
+        "content": "角色设计得很好。游戏的好结局让我惊叹不已。",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatory 为每个角色提供了独特个性，与其动物形态相匹配。",
+        "author": "dizie"
+      },
+      {
+        "content": "绝对是富有寓意的旅程，还有搞笑的双关语！",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "美丽的故事和引人入胜的角色瞬间吸引了我。",
+        "author": "Maple"
+      },
+      {
+        "content": "这款游戏的简单性捕捉了生活的简单与乐趣的本质。",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "questions": [
+      {
+        "question": "Purrgatory 可以在哪些平台上玩？",
+        "answer": "Purrgatory 可以在 HTML5 和 Windows 平台上玩。"
+      },
+      {
+        "question": "当灯熄灭时该如何解谜？",
+        "answer": "试着去找娜塔莉的地方，用蜡烛作为光源。"
+      },
+      {
+        "question": "游戏有多个结局吗？",
+        "answer": "是的，Purrgatory 根据你的选择有多个结局。"
+      },
+      {
+        "question": "Purrgatory 提供哪些语言版本？",
+        "answer": "它提供英文、西班牙文和简体中文版本。"
+      },
+      {
+        "question": "Purrgatory 有可用的原声带吗？",
+        "answer": "是的，原声带可以在多个平台上播放。"
+      },
+      {
+        "question": "如果游戏无法启动，我该怎么办？",
+        "answer": "尝试刷新页面或使用另一个浏览器。为了更好的性能，请下载Windows版本。"
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "奇妙旅程",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "梦幻后世",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "神秘冒险",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

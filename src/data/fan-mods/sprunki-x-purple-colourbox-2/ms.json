@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Mod Purple Sprunki - Pengalaman Permainan yang Ceria",
+    "description": "Jelajahi dunia monokromatik Mod Purple Sprunki, di mana kreativiti bertemu dengan keunikan. Temui ciri-ciri permainan, arahan permainan, ulasan pengguna, dan soalan lazim.",
+    "keywords": "Mod Purple Sprunki, permainan ungu monokromatik, pengalaman permainan unik, permainan penciptaan muzik"
+  },
+  "hero": {
+    "h1": "Mod Purple Sprunki",
+    "p": "Sertai dunia ungu monokromatik yang unik di Mod Purple Sprunki, di mana kreativiti tiada had."
+  },
+  "gameFeatures": {
+    "title": "Ciri-Ciri Permainan Mod Purple Sprunki",
+    "features": [
+      "Palet Ungu Monokromatik: Masuki satu alam di mana segala-galanya diselimuti ungu.",
+      "Galeri Inovatif: Jelajahi galeri dengan cara yang unik, walaupun hanya untuk daya tarik visual.",
+      "Skema Watak Warna Tunggal: Watak-watak unik yang ditandai dengan reka bentuk warna tunggal.",
+      "Santunan Bunyi Elektronik Khas: Nikmati koleksi bunyi elektronik yang menambah keseronokan.",
+      "Penciptaan Muzik Tanpa Had: Bunyi unik bagi setiap watak membolehkan kemungkinan melodi tanpa batas."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Mod Purple Sprunki",
+    "instructions": [
+      "Pilih Watak: Pilih 6 trek muzik dari Incredibox asal.",
+      "Seret dan Lepas: Letakkan salah satu daripada dua puluh ikon ke salah satu daripada tujuh tiang untuk mencipta bunyi.",
+      "Cipta Campuran Unik: Bunyi setiap watak adalah berbeza, membolehkan kreativiti muzik tanpa had.",
+      "Ralat Pertama: Apabila meletakkan Simon, watak ke dua belas, satu polo tambahan mungkin kekal.",
+      "Ralat Kedua: Keluar dari galeri adalah sukar disebabkan butang keluar yang tiada."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkap Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain untuk Mod Purple Sprunki",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Tema warna ungu benar-benar membezakan permainan ini. Ia sangat menawan!",
+        "author": "Alice"
+      },
+      {
+        "content": "Mencipta melodi dengan bunyi watak unik adalah sesuatu yang luar biasa.",
+        "author": "Ben"
+      },
+      {
+        "content": "Saya suka santunan bunyi elektronik, ia menambah banyak pada permainan.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Ciri galeri perlu diperbaiki tetapi ia menarik walaupun begitu.",
+        "author": "David"
+      },
+      {
+        "content": "Agak ada bug tetapi masih merupakan permainan yang sangat menyeronokkan untuk dimainkan.",
+        "author": "Eve"
+      },
+      {
+        "content": "Skema ungu ini menarik secara visual dan inovatif.",
+        "author": "Frank"
+      },
+      {
+        "content": "Ia adalah sentuhan kreatif pada genre permainan muzik tradisional.",
+        "author": "Grace"
+      },
+      {
+        "content": "Saya suka untuk melihat lebih banyak kemas kini, tetapi secara keseluruhannya sangat menyeronokkan!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Apa itu Mod Purple Sprunki?",
+        "answer": "Sebuah permainan di mana semua elemen visual didominasi oleh skema warna ungu, menawarkan gaya seni yang unik."
+      },
+      {
+        "question": "Mengapa galeri tiada butang keluar?",
+        "answer": "Ini adalah bug yang diketahui. Kami sedang berusaha untuk menambah butang keluar dalam kemas kini akan datang."
+      },
+      {
+        "question": "Adakah bunyi setiap watak unik?",
+        "answer": "Ya, setiap watak mempunyai bunyi yang berbeza, menawarkan kemungkinan muzik tanpa had."
+      },
+      {
+        "question": "Bolehkah saya bermain permainan ini di telefon bimbit?",
+        "answer": "Pada masa ini, permainan ini dioptimumkan untuk permainan desktop."
+      },
+      {
+        "question": "Siapa yang mencipta mod asal?",
+        "answer": "Mod asal adalah milik Freepies, dikenali sebagai purple colorbox v6."
+      },
+      {
+        "question": "Bagaimana saya boleh melaporkan bug?",
+        "answer": "Sila hubungi pasukan sokongan kami melalui bahagian bantuan di laman web kami."
+      }
+    ]
+  }
+}

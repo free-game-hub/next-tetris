@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Irori : Le Voyage Culinaire à Travers les Terres",
+    "description": "Plongez dans le monde chaleureux en 2.5D d'Irori, où vous incarnez le chef d'un train traversant les terres. Préparez de délicieuses brochettes avec des ingrédients fantastiques et rencontrez d'autres voyageurs en quête de réconfort.",
+    "keywords": "Jeu Irori, jeu de cuisine fantastique, train à travers les terres, jeu en 2.5D, jeux chaleureux, PomePomelo"
+  },
+  "hero": {
+    "h1": "Irori : Le Voyage Culinaire à Travers les Terres",
+    "p": "Montez à bord du train traversant les terres et devenez le chef, préparant de délicieuses brochettes pour réchauffer le cœur et l'estomac des voyageurs. Profitez d'une expérience chaleureuse et engageante dans un monde doux et accueillant en 2.5D."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du Jeu",
+    "features": [
+      "Graphismes charmants en 2.5D avec des designs de personnages doux",
+      "Une délicieuse variété d'ingrédients fantastiques",
+      "Une histoire interactive avec un adorable compagnon",
+      "Des sessions de jeu courtes mais enrichissantes (3-5 minutes)",
+      "Interagissez avec les autres passagers à travers la cuisine et les histoires"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Instructions de Jeu",
+    "instructions": [
+      "Sélectionnez une variété de brochettes à cuisiner avec des ingrédients fantastiques.",
+      "Ajustez le temps de cuisson pour garantir que les brochettes sont parfaitement grillées.",
+      "Interagissez avec les passagers pour connaître leurs histoires et préférences.",
+      "Débloquez de nouveaux ingrédients et recettes au fur et à mesure de votre progression.",
+      "Terminez chaque session en recevant des retours des passagers."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "J'AIME DÉJÀ CE JEU TANT. L'esthétique et le gameplay sont incroyablement apaisants.",
+        "author": "Soulessvoidd"
+      },
+      {
+        "content": "La cuisine mobile de Howl rencontre la fiction interactive ! Unique et réjouissant.",
+        "author": "MultiDarkZen"
+      },
+      {
+        "content": "L'atmosphère paisible et les délicieuses recettes en jeu en font un incontournable de ma collection de jeux.",
+        "author": "Littlebuddy_2015"
+      },
+      {
+        "content": "Irori est une belle échappatoire. Les histoires des autres voyageurs sont réconfortantes.",
+        "author": "Angie"
+      },
+      {
+        "content": "Le style artistique est tout simplement incroyable. C'est mignon et magnifiquement conçu.",
+        "author": "superlocolillool"
+      },
+      {
+        "content": "Une expérience de jeu courte mais douce. J'attends les mises à jour avec impatience !",
+        "author": "Caring_Koala_Bro"
+      },
+      {
+        "content": "Captivant mais simple. Une manière agréable de se détendre à la fin d'une longue journée.",
+        "author": "FRIDAY_NIGHT_FUNKE"
+      },
+      {
+        "content": "Je ne peux pas jouer au jeu pour des raisons techniques, mais il semble vraiment prometteur !",
+        "author": "catstuckinabox"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Qu'est-ce que le 2.5D ?",
+        "answer": "Le 2.5D fait référence à un style visuel qui mélange des éléments 2D et 3D, offrant profondeur et perspective tout en maintenant un design d'interface plat."
+      },
+      {
+        "question": "Combien de temps dure chaque session de jeu ?",
+        "answer": "Chaque session dure environ 3-5 minutes, parfait pour des séances de jeu rapides."
+      },
+      {
+        "question": "Puis-je jouer à Irori sur plusieurs plateformes ?",
+        "answer": "Oui, Irori est disponible sur les plateformes HTML5, Windows et macOS."
+      },
+      {
+        "question": "Où puis-je partager mes expériences de jeu ?",
+        "answer": "Vous pouvez partager vos expériences et réflexions sur notre forum communautaire."
+      },
+      {
+        "question": "Le jeu est-il toujours mis à jour ?",
+        "answer": "L'équipe de développement est actuellement en pause, mais des mises à jour futures sont prévues."
+      },
+      {
+        "question": "Qui a développé Irori ?",
+        "answer": "Irori est développé par PomePomelo avec la contribution de plusieurs designers et programmeurs talentueux."
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "image": "path/to/other-game1.jpg",
+      "title": "Cuisine Mystique : Le Chef Enchanté",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game2.jpg",
+      "title": "Gastronomie Fantastique : Chroniques Culinaires",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game3.jpg",
+      "title": "Fouet Fantaisiste : Contes de Cuisines",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game4.jpg",
+      "title": "Odysée Comestible : Le Voyage Gastronomique",
+      "link": "#"
+    }
+  ]
+}

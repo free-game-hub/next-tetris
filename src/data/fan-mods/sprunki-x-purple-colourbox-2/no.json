@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Purple Mode - En Livlig Spillopplevelse",
+    "description": "Utforsk den monokromatiske verdenen av Sprunki Purple Mode, hvor kreativitet møter unikhet. Oppdag spillfunksjoner, spillinstruksjoner, brukeranmeldelser og vanlige spørsmål.",
+    "keywords": "Sprunki Purple Mode, monokromatisk lilla spill, unik spillopplevelse, musikkproduksjonsspill"
+  },
+  "hero": {
+    "h1": "Sprunki Purple Mode",
+    "p": "Fordyp deg i den unike monokromatiske lilla verdenen til Sprunki Purple Mode, der kreativiteten ikke har noen grenser."
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner i Sprunki Purple Mode",
+    "features": [
+      "Monokromatisk Lilla Palett: Dyk ned i et univers der alt er badet i lilla.",
+      "Innovativt Galleri: Utforsk galleriet med en vri, selv om det bare er for visuelt behag.",
+      "Enkel Fargekarakterordning: Unike karakterer særpreget av sitt ensfarget design.",
+      "Spesielt Elektronisk Lydspor: Nyt en samling av elektroniske lyder som gir spenning.",
+      "Uendelig Musikkproduksjon: Unike lyder for hver karakter gir uendelige melodi muligheter."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hvordan Spille Sprunki Purple Mode",
+    "instructions": [
+      "Velg Karakterer: Velg 6 musikkspor fra originalen Incredibox.",
+      "Dra og Slipp: Plasser ett av de tyve ikonene på en av de syv stengene for å skape lyder.",
+      "Lag Unike Mikser: Hver karakters lyd er distinkt, noe som gir uendelig musikalsk kreativitet.",
+      "Første Feil: Når du plasserer Simon, den tolvte karakteren, kan det bli liggende en ekstra polo.",
+      "Andre Feil: Å forlate galleriet er vanskelig på grunn av en manglende utgangsknapp."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spillbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser for Sprunki Purple Mode",
+    "submitReviewLabel": "Send Inn Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Det lilla fargetemaet gjør virkelig dette spillet unikt. Det er hypnotiserende!",
+        "author": "Alice"
+      },
+      {
+        "content": "Å lage melodier med unike karakterlyder er fantastisk.",
+        "author": "Ben"
+      },
+      {
+        "content": "Jeg elsker det elektroniske lydsporet, det tilfører så mye til spillet.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Galleri-funksjonen trenger forbedring, men det er interessant likevel.",
+        "author": "David"
+      },
+      {
+        "content": "Litt feil her og der, men fortsatt et super morsomt spill å spille.",
+        "author": "Eve"
+      },
+      {
+        "content": "Det lilla temaet er visuelt tiltalende og innovativt.",
+        "author": "Frank"
+      },
+      {
+        "content": "Det er en kreativ vri på den tradisjonelle musikksjanger.",
+        "author": "Grace"
+      },
+      {
+        "content": "Ønsker å se flere oppdateringer, men generelt er det virkelig gøy!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte Stilte Spørsmål",
+    "questions": [
+      {
+        "question": "Hva er Sprunki Purple Mode?",
+        "answer": "Et spill der alle visuelle elementer domineres av et lilla fargetema, som tilbyr en unik kunstnerisk stil."
+      },
+      {
+        "question": "Hvorfor har galleriet ingen utgangsknapp?",
+        "answer": "Dette er en kjent feil. Vi jobber med å legge til en utgangsknapp i fremtidige oppdateringer."
+      },
+      {
+        "question": "Er lyden til hver karakter unik?",
+        "answer": "Ja, hver karakter har en distinkt lyd, som tilbyr uendelige musikalske muligheter."
+      },
+      {
+        "question": "Kan jeg spille dette spillet på mobil?",
+        "answer": "For øyeblikket er spillet optimalisert for desktopspill."
+      },
+      {
+        "question": "Hvem laget den originale modden?",
+        "answer": "Den originale modden tilhører Freepies, kjent som lilla colorbox v6."
+      },
+      {
+        "question": "Hvordan kan jeg rapportere en feil?",
+        "answer": "Vennligst kontakt vår supportavdeling gjennom hjelpeseksjonen på nettsiden vår."
+      }
+    ]
+  }
+}

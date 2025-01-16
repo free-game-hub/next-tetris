@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Spillet | Spill Incredibox Sprunki Mods Online",
+    "description": "Oppdag den livlige verdenen av Sprunki Spillet, en innovativ utvidelse av Incredibox med egendefinerte mods, unike lydspor og tematiserte faser. Lag, bland og del dine musikalske mesterverk online.",
+    "keywords": "Sprunki Spillet, Incredibox Mods, Sprunki Mods, Spill Sprunki Online, Sprunki Faser, Sprunki Musikk"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Spillet Online",
+    "p": "Fordyp deg i det kreative universet av Sprunki Spillet, en fanlaget utvidelse som tilbyr uendelige musikalske eventyr med egendefinerte mods, nye faser og interaktivt gameplay."
+  },
+  "gameFeatures": {
+    "title": "Nøkkelfunksjoner i Sprunki Spillet",
+    "features": [
+      "Egendefinerte Sprunki Mods: Utforsk fanlagde modifikasjoner med unike karakterer og beats.",
+      "Tematiserte Sprunki Faser: Opplev horror, komedie og fantasy-utvidelser.",
+      "Interaktiv Dra-og-slipp Gameplay: Enkel blanding og oppretting av lydspor.",
+      "Kreativ Frihet: Design unike spor og del med et livlig fellesskap.",
+      "Sterk Fellesskapsstøtte: Bli med på konkurranser og samarbeide for friske ideer."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hvordan spille Incredibox Sprunki Spillet",
+    "instructions": [
+      "Start Spillet: Besøk Sprunkin.com for å begynne ditt eventyr.",
+      "Velg Karakterer: Velg blant livlige karakterer, hver med en unik lyd.",
+      "Lag Blandinger: Dra ikoner for å bygge ditt perfekte spor og se animasjoner.",
+      "Lås Opp Spesialer: Kombiner lyder for å oppdage skjulte funksjoner.",
+      "Lagre og Del: Ta opp dine kreasjoner og del med venner."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Spillet Skjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser for Sprunki Spillet",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Kreativiteten i Sprunki Spillet er uten sidestykke. Jeg har brukt timer på å blande lyder!",
+        "author": "Emily R."
+      },
+      {
+        "content": "Så gøy vri på Incredibox! De nye modene får meg til å komme tilbake.",
+        "author": "Jake L."
+      },
+      {
+        "content": "Jeg elsker de tematiserte fasene—spesielt horror! Legger til en ny dimensjon.",
+        "author": "Sarah B."
+      },
+      {
+        "content": "Interaktivt og enkelt å bruke. Flott for både tilfeldige og seriøse musikkprodusenter.",
+        "author": "Mike D."
+      },
+      {
+        "content": "Fellesskapsaspektet er fantastisk—jeg har møtt andre skapere og lært mye.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Blir aldri gammelt! Oppdateringene og nye mods er alltid spennende.",
+        "author": "Tommy V."
+      },
+      {
+        "content": "Fantastisk plattform for å uttrykke musikalsk kreativitet. Anbefales på det sterkeste!",
+        "author": "Sandra E."
+      },
+      {
+        "content": "Elsker de visuelle designene og muligheten til å kombinere forskjellige elementer.",
+        "author": "Chris P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål om Sprunki Incredibox",
+    "questions": [
+      {
+        "question": "Hva er Sprunki Mod?",
+        "answer": "Sprunki Mod er en fanlaget tilpasning av Incredibox, med unike karakterer og temaer."
+      },
+      {
+        "question": "Hvordan laster jeg ned Sprunki Incredibox?",
+        "answer": "Last ned fra den offisielle siden, Google Play, eller Apple App Store."
+      },
+      {
+        "question": "Hvor kan jeg spille Sprunki Mod online?",
+        "answer": "Spill via spillplattformer, offisielle mod-sider, eller fan-drevne servere."
+      },
+      {
+        "question": "Hva gjør Sprunki Mods unike?",
+        "answer": "De tilbyr kreative vendinger med egendefinerte temaer og fengslende design."
+      },
+      {
+        "question": "Hva er Sprunki Faser?",
+        "answer": "Tematiserte utvidelser som horror eller fantasy, med nye karakterer og utfordringer."
+      },
+      {
+        "question": "Finnes det horror-tematiserte Sprunki Mods?",
+        "answer": "Ja, inkludert Sprunki Horror Mod og Sprunki The Lost File."
+      }
+    ]
+  }
+}

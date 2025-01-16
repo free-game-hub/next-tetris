@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 11 - Kreiere Musik mit innovativen Beats und Klängen",
+    "description": "Erlebe Sprunki Phase 11, ein musikgetriebenes Spiel inspiriert von Incredibox. Mische Gesangsloops, arrangiere Klänge und bringe deine musikalischen Kreationen zum Leben.",
+    "keywords": "Sprunki Phase 11, Musikspiel, Beatboxing, Klanggestaltung, Gesangsloops, Spieldesign"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 11",
+    "p": "Tauche ein in die klangreiche Welt von Sprunki Phase 11, wo Kreativität auf musikalische Innovation trifft."
+  },
+  "gameFeatures": {
+    "title": "Spielmerkmale",
+    "features": [
+      "Innovatives Layering mit Gesangs- und Instrumentaloops",
+      "Benutzerfreundliche Drag-and-Drop-Oberfläche",
+      "Herausforderungen zur Steigerung der Kreativität",
+      "Verbesserungen im visuellen Design",
+      "Interaktive und mitreißende Spielmechanik"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du Sprunki Phase 11",
+    "instructions": [
+      "Charaktere auswählen: Wähle aus einer einzigartigen Auswahl von Charakteren, jeder mit eigenen Klängen.",
+      "Drag and Drop: Schichte die Charaktere in die Spieloberfläche, um Tracks zu erstellen.",
+      "Experimentieren: Spiele mit Reihenfolge und Timing, um innovative Klänge zu kreieren.",
+      "Herausforderungen abschließen: Nimm an Aufgaben teil, um mehr Spaß zu haben.",
+      "Genieße die Musik: Höre zu und teile deine einzigartigen Kompositionen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spiel-Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Bewertung abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Einreichen",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 11 ist die beste Phase bisher! Die Musikkombinationen sind endlos.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Ich liebe die neuen grafischen Elemente und Charaktere. Musik zu kreieren macht so viel Spaß!",
+        "author": "Samantha R."
+      },
+      {
+        "content": "Die Herausforderungen in Phase 11 beschäftigen mich stundenlang.",
+        "author": "Jordan P."
+      },
+      {
+        "content": "Ein großartiges Spiel für alle, die Musik und Kreativität lieben.",
+        "author": "Chris M."
+      },
+      {
+        "content": "Die Drag-and-Drop-Funktion ist super intuitiv. Ich kann nicht aufhören zu spielen!",
+        "author": "Jess F."
+      },
+      {
+        "content": "Jedes Update von Sprunki wird besser. Phase 11 ist revolutionär!",
+        "author": "Pat L."
+      },
+      {
+        "content": "Ein Muss für alle Incredibox-Fans!",
+        "author": "Jamie W."
+      },
+      {
+        "content": "Sprunki Phase 11 hat die Musikkomposition zu einer unterhaltsamen Aktivität für alle gemacht.",
+        "author": "Taylor G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "questions": [
+      {
+      "question": "Auf welchen Plattformen ist Sprunki Phase 11 verfügbar?",
+      "answer": "Sprunki Phase 11 ist auf verschiedenen Plattformen wie PC, iOS und Android verfügbar."
+      },
+      {
+      "question": "Wie teile ich meine in Sprunki Phase 11 erstellte Musik?",
+      "answer": "Sobald deine Komposition fertig ist, kannst du deine Tracks direkt aus dem Spiel über soziale Medien teilen."
+      },
+      {
+      "question": "Gibt es In-Game-Käufe in Sprunki Phase 11?",
+      "answer": "Ja, Sprunki Phase 11 bietet In-Game-Käufe für zusätzliche Klänge und Charaktere an."
+      },
+      {
+      "question": "Kann ich Sprunki Phase 11 offline spielen?",
+      "answer": "Ja, du kannst Sprunki Phase 11 im Offline-Modus mit eingeschränkten Funktionen genießen."
+      },
+      {
+      "question": "Gibt es ein Tutorial, das mir hilft, das Spiel zu lernen?",
+      "answer": "Ja, es gibt ein umfassendes Tutorial, das neue Spieler durch die Grundlagen der Klanggestaltung führt."
+      },
+      {
+      "question": "Für welche Altersgruppe ist Sprunki Phase 11 geeignet?",
+      "answer": "Sprunki Phase 11 ist für Spieler ab 8 Jahren geeignet."
+      }
+    ]
+  }
+}

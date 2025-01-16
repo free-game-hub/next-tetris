@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Drift Through Memory: Een Ontroerende Avontuur met Geesten en Honden",
+    "description": "Verken het hartverwarmende verhaal van 'Drift Through Memory', een ontroerende puzzelgame waarin een spookhond zijn gezin helpt omgaan met rouw. Ontdek de kenmerken van de game, de besturing en lees spelersreviews.",
+    "keywords": "Drift Through Memory, spookhond game, puzzelgame, gezinsdier game, game reviews, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Drift Through Memory",
+    "p": "Ga op een aangrijpende reis met een spookachtige metgezel terwijl ze hun huis verkennen en hun gezin helpen genezen van verlies. Een prachtige puzzelgame met zorg gemaakt door Picogram voor de Global Game Jam 2019."
+  },
+  "gameFeatures": {
+    "title": "Game Kenmerken",
+    "features": [
+      "Hartverwarmend verhaal dat thema's van verlies en genezing verkent.",
+      "Schitterende graphics en sfeervolle muziek van Grahm Nesbitt.",
+      "Eenvoudige besturing geschikt voor alle leeftijden.",
+      "Speelbaar op HTML5-platforms, toegankelijk op verschillende apparaten.",
+      "Beoordeeld met 4.8 van de 5 sterren door meer dan 3.850 spelers."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Gameplay Instructies",
+    "instructions": [
+      "Gebruik de pijltjestoetsen op je toetsenbord om de spookhond te verplaatsen.",
+      "Druk op 'Z' om met objecten te interageren en door het verhaal te vorderen.",
+      "Verken elke kamer om herinneringen te ontdekken en het gezin te helpen omgaan met verlies.",
+      "Let op subtiele hints in de omgeving voor aanwijzingen.",
+      "Geniet van de ervaring als een introspectieve reis, niet alleen als een game."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spelersreviews",
+    "submitReviewLabel": "Dien je Review in",
+    "nameLabel": "Naam",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Indienen",
+    "reviews": [
+      {
+        "content": "ZO SCHATTIG :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Ik vond dit geweldig! Het was zo schattig en liet me met een warm gevoel achter.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "Dit was zo lief. Dit was heel goed gemaakt voor zo'n korte game.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Dit is niet de eerste keer dat ik dit speel, ik heb onlangs mijn hond verloren. Het verwarmt mijn hart.",
+        "author": "Dit is gaaf"
+      },
+      {
+        "content": "Bravo, blij, verdrietig en schattig, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "De hond is zo schattig als hij een stuk brood draagt.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Letterlijk schattig <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "Ik denk dat het luisteren naar mijn Eminem-afspeellijst tijdens het spelen de sfeer heeft verpest, maar het blijft een van de beste games die ik in een tijd heb gespeeld.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veel Gestelde Vragen",
+    "questions": [
+      {
+        "question": "Op welke platformen is 'Drift Through Memory' beschikbaar?",
+        "answer": "De game is beschikbaar op HTML5-platforms, waardoor deze toegankelijk is op de meeste apparaten met een moderne webbrowser."
+      },
+      {
+        "question": "Hoe kan ik met objecten in het spel interageren?",
+        "answer": "Gebruik de 'Z'-toets op je toetsenbord om met objecten te interageren en door het verhaal voort te gaan."
+      },
+      {
+        "question": "Wie heeft de muziek voor de game gemaakt?",
+        "answer": "De sfeervolle muziek in 'Drift Through Memory' is gecomponeerd door Grahm Nesbitt."
+      },
+      {
+        "question": "Is de game geschikt voor alle leeftijden?",
+        "answer": "Ja, de game heeft eenvoudige besturing en een hartverwarmend verhaal dat geschikt is voor spelers van alle leeftijden."
+      },
+      {
+        "question": "Hoe lang duurt het om de game te voltooien?",
+        "answer": "De game is relatief kort, en biedt een compacte maar emotionele ervaring die in één zitting kan worden voltooid."
+      },
+      {
+        "question": "Kan ik 'Drift Through Memory' op mijn mobiele apparaat spelen?",
+        "answer": "Als je mobiele apparaat HTML5-games via een webbrowser ondersteunt, zou je de game moeten kunnen spelen."
+      }
+    ]
+  }
+}

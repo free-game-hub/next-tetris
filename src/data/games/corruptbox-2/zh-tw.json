@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox 2 - 一个超现实的 Sprunki Mod 体验",
+    "description": "探索 Corruptbox 2，这是 Sprunki mod 的终极升级。在这个数字恐怖杰作中，深入扭曲的视觉效果、令人毛骨悚然的音景和不可预测的游戏玩法。",
+    "keywords": "corruptbox 2, corruptbox mod, Sprunki mod, 节奏游戏, 数字恐怖, 实验音乐, 黑暗美学, 故障艺术"
+  },
+  "hero": {
+    "h1": "Corruptbox 2: 混乱与创造力的结合",
+    "p": "进入 Corruptbox 2 的超现实世界，在这里，故障视觉、令人毛骨悚然的声音和混乱的游戏玩法重新定义了 Sprunki 体验。你准备好迎接疯狂了吗？"
+  },
+  "gameFeatures": {
+    "title": "Corruptbox 2 的独特之处是什么？",
+    "features": [
+      "令人难以置信的升级，具有增强的扭曲视觉和故障动画。",
+      "沉浸式的数字恐怖美学，将心爱的 Sprunki 角色转变为噩梦般的版本。",
+      "不可预测的游戏扭曲，让你保持紧张和投入。",
+      "实验性的音乐创作，带有诡异、扭曲的声音，带来独特的听觉体验。",
+      "混乱创意与节奏挑战的无缝融合。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Corruptbox 2",
+    "instructions": [
+      "下载并安装 Sprunki 基础游戏。",
+      "从可信来源获取 Corruptbox 2 mod。",
+      "启动游戏并从 mod 菜单中选择 Corruptbox 2。",
+      "沉浸在扭曲视觉和令人毛骨悚然音景的混乱世界中。",
+      "尝试使用损坏的角色，并在疯狂中创造和谐。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Corruptbox 2 的实际操作"
+  },
+  "playerReviews": {
+    "title": "玩家对 Corruptbox 2 的评价",
+    "submitReviewLabel": "提交您的评论",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的评论",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Corruptbox 2 将我喜欢的第一版的一切都放大了。视觉效果和声音设计都令人惊叹！",
+        "author": "乔丹 M.",
+        "rating": 5
+      },
+      {
+        "content": "一个超现实且混乱的体验，让我一次又一次地回来。Corruptbox 2 是一部杰作。",
+        "author": "克里斯 T.",
+        "rating": 5
+      },
+      {
+        "content": "数字恐怖和音乐实验的完美结合。强烈推荐给黑暗美学的爱好者。",
+        "author": "泰勒 L.",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "关于 Corruptbox 2 的常见问题",
+    "questions": [
+      {
+        "question": "什么是 Corruptbox 2？",
+        "answer": "Corruptbox 2 是流行的 Sprunki mod 的升级版本，具有扭曲的视觉效果、阴森的音景和混乱的游戏玩法。"
+      },
+      {
+        "question": "我如何安装 Corruptbox 2？",
+        "answer": "首先，安装 Sprunki 基础游戏。然后，从可信来源下载 Corruptbox 2 并将其添加到游戏的 mod 文件夹中。"
+      },
+      {
+        "question": "Corruptbox 2 是免费的吗？",
+        "answer": "是的，Corruptbox 2 是一个免费 mod，但需要 Sprunki 基础游戏才能玩。"
+      },
+      {
+        "question": "Corruptbox 2 与 Corruptbox v1 有何不同？",
+        "answer": "Corruptbox 2 引入了增强的视觉效果、更复杂的游戏扭曲，以及比原版更黑暗的美学。"
+      },
+      {
+        "question": "我可以在任何平台上玩 Corruptbox 2 吗？",
+        "answer": "Corruptbox 2 兼容支持 Sprunki 基础游戏的平台。查看游戏的要求以获取更多详细信息。"
+      },
+      {
+        "question": "我在哪里可以找到关于 Corruptbox 2 的更多信息？",
+        "answer": "请访问官方的 Sprunki modding 社区或可信的论坛，以获取 Corruptbox 2 的最新更新和提示。"
+      }
+    ]
+  }
+}

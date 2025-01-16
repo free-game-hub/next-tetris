@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 - Permainan Campuran Muzik Terhebat",
+    "description": "Temui Sprunki Phase 10, sebuah permainan campuran muzik yang menarik yang menawarkan kebebasan kreatif, watak unik, dan kemungkinan muzik tanpa batas.",
+    "keywords": "Sprunki Phase 10, permainan campuran muzik, komposisi muzik, permainan muzik"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10",
+    "p": "Masuki dunia Sprunki Phase 10 - di mana kreativiti bertemu muzik. Uji elemen muzik dan ciptakan komposisi unik anda sendiri."
+  },
+  "gameFeatures": {
+    "title": "Ciri-Ciri Permainan",
+    "features": [
+      "Kebebasan Kreatif: Luahkan diri anda secara muzik tanpa kemahiran lanjutan.",
+      "Daya Tarik Visual & Audio: Nikmati visual yang ceria dan bunyi yang mudah diingati.",
+      "Nilai Ulangan: Teroka pelbagai kombinasi untuk bunyi dan bonus baru.",
+      "Watak Unik: Setiap watak menghasilkan bunyi yang berbeza untuk kreativiti tanpa had.",
+      "Bonus Interaktif: Buka trek dan visual khas melalui eksperimen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Phase 10",
+    "instructions": [
+      "Pilih Watak: Pilih daripada watak yang mempunyai bunyi unik.",
+      "Campur & Padankan: Seret dan lepas untuk mencipta trek muzik anda sendiri.",
+      "Buka Bonus: Temui kombinasi yang membuka animasi khas.",
+      "Uji: Terus meneroka bunyi baru untuk kemungkinan tanpa batas.",
+      "Kongsi Karya Anda: Biarkan orang lain menikmati karya muzik anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 10 adalah permainan muzik yang hebat! Ia mudah dijelajahi dan mencipta melodi yang menakjubkan.",
+        "author": "Alice"
+      },
+      {
+        "content": "Saya suka kreativiti yang ditawarkannya. Saya boleh bereksperimen dengan pelbagai bunyi tanpa perlu menjadi pakar muzik.",
+        "author": "Bob"
+      },
+      {
+        "content": "Daya tarikan visual digabungkan dengan bunyi yang catchy menjadikannya permainan yang menarik untuk semua peringkat umur.",
+        "author": "Chris"
+      },
+      {
+        "content": "Setiap sesi menawarkan sesuatu yang baru. Nilai ulangan adalah salah satu bahagian terbaik dalam Sprunki Phase 10.",
+        "author": "Dana"
+      },
+      {
+        "content": "Membuka bonus adalah bahagian kegemaran saya. Sangat memuaskan untuk melihat animasi baru.",
+        "author": "Evan"
+      },
+      {
+        "content": "Saya tidak dapat berhenti bermain! Watak unik membawa pendekatan baru kepada permainan muzik.",
+        "author": "Fiona"
+      },
+      {
+        "content": "Sebagai peminat muzik, Sprunki Phase 10 telah melebihi jangkaan saya. Sangat disyorkan!",
+        "author": "George"
+      },
+      {
+        "content": "Permainan yang hebat! Ia sempurna untuk bersantai dan menemui kombinasi muzik baru.",
+        "author": "Hannah"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Apakah objektif Sprunki Phase 10?",
+        "answer": "Objektifnya adalah untuk mencampurkan pelbagai elemen muzik dengan cara yang kreatif untuk menghasilkan komposisi unik."
+      },
+      {
+        "question": "Adakah saya perlu kemahiran muzik untuk bermain?",
+        "answer": "Tidak, Sprunki Phase 10 direka untuk boleh diakses oleh semua orang, tanpa mengira kepakaran muzik."
+      },
+      {
+        "question": "Bolehkah saya berkongsi komposisi saya dengan rakan-rakan?",
+        "answer": "Ya, anda boleh berkongsi karya muzik anda dengan rakan dan keluarga untuk mereka nikmati."
+      },
+      {
+        "question": "Adakah terdapat pembelian dalam permainan?",
+        "answer": "Sprunki Phase 10 menawarkan kandungan dalam permainan yang boleh dibuka melalui permainan atau pembelian pilihan."
+      },
+      {
+        "question": "Di platform manakah Sprunki Phase 10 tersedia?",
+        "answer": "Sprunki Phase 10 tersedia di pelbagai platform, termasuk PC, iOS, dan Android."
+      },
+      {
+        "question": "Seberapa kerap kemas kini baru dikeluarkan?",
+        "answer": "Permainan ini menerima kemas kini secara berkala, memperkenalkan ciri dan kandungan baru untuk meningkatkan pengalaman."
+      }
+    ]
+  }
+}

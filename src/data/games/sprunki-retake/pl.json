@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Horrorem Twisty Spunky Game",
+    "description": "Zanurz się w Sprunki Retake, przerażającej reinterpretacji ukochanej gry Spunky. Odkrywaj mroczne wizje, niesamowite dźwięki i odkrywaj ukryte tajemnice w tej unikalnej muzycznej podróży.",
+    "keywords": "Sprunki Retake, Spunky Game, gra horror, Sprunki mod, tworzenie muzyki"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Horrorem Twisty Spunky Game",
+    "p": "Przeżyj nawiedzony świat Sprunki Retake, gdzie eteryczne postacie i upiorne melodie tworzą ekscytującą muzyczną podróż. Graj online już teraz, nie wymaga pobierania!"
+  },
+  "gameFeatures": {
+    "title": "Cechy Sprunki Retake",
+    "features": [
+      "Nawiedzające Dźwięki: Twórz przerażające kompozycje z upiornymi bitami.",
+      "Eteryczne Postacie: Odkrywaj cienie redesignowane z nadprzyrodzonymi zwrotami akcji.",
+      "Mroczna Atmosfera: Zanuż się w nastrojowych wizjach i przerażających animacjach.",
+      "Ukryte Tajemnice: Odblokuj tajemnicze animacje i mroczne narracje.",
+      "Mobilna Optimizacja: Bezproblemowe tworzenie muzyki horrorowej na komputerze i urządzeniach mobilnych."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki Retake",
+    "instructions": [
+      "Wybierz Postacie: Wybierz spośród linii przeróżnych, przerażających postaci.",
+      "Tworzenie Mrocznej Muzyki: Łącz dźwięki, aby stworzyć upiorne arcydzieła.",
+      "Odkryj Tajemnice: Odkrywaj ukryte kombinacje, aby ujawniać straszne sekrety i animacje.",
+      "Podziel się Tworami: Podziel się swoimi muzycznymi kompozycjami z globalną społecznością.",
+      "Odkrywaj Aktualizacje: Ciesz się regularnymi aktualizacjami z nową zawartością i postaciami."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z gry Sprunki Retake"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy o Sprunki Retake",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Horrorowy twist dodaje ekscytującego elementu do klasycznej gry Spunky!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Uwielbiam te upiorne kompozycje muzyczne! Idealne na straszny wieczór.",
+        "author": "Sam W."
+      },
+      {
+        "content": "Animacje i efekty dźwiękowe są znakomite. gorąco polecam!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Grając w to w nocy czuję dreszcze - w pozytywnym sensie!",
+        "author": "Taylor K."
+      },
+      {
+        "content": "Gotycka reinterpretacja to to, czego gra potrzebowała. Fantastyczne!",
+        "author": "Morgan H."
+      },
+      {
+        "content": "Absolutnie uwielbiam atmosferę i projekt postaci.",
+        "author": "Dana P."
+      },
+      {
+        "content": "Interesujące i kreatywnie mroczne podejście do ukochanej gry.",
+        "author": "Chris G."
+      },
+      {
+        "content": "Muzyczne kompozycje są niesamowicie nawiedzające!",
+        "author": "Pat R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ Sprunki Retake",
+    "questions": [
+      {
+        "question": "Co wyróżnia Sprunki Retake?",
+        "answer": "Sprunki Retake wprowadza elementy horroru, mroczne wizje i upiorne dźwięki, oferując unikalną muzyczną podróż."
+      },
+      {
+        "question": "Jak odblokować nową zawartość?",
+        "answer": "Eksperymentuj z kombinacjami dźwięków, aby odkryć ukryte animacje i tajne funkcje."
+      },
+      {
+        "question": "Czy mogę grać w Sprunki Retake na urządzeniach mobilnych?",
+        "answer": "Tak, jest zoptymalizowana zarówno dla komputerów, jak i urządzeń mobilnych."
+      },
+      {
+        "question": "Czy są ekskluzywne postacie?",
+        "answer": "Tak, w grze znajdują się wyjątkowo zaprojektowane postacie z nadprzyrodzonymi elementami."
+      },
+      {
+        "question": "Czy potrzebne jest doświadczenie muzyczne?",
+        "answer": "Nie, gra jest zaprojektowana tak, aby była dostępna dla wszystkich graczy, niezależnie od muzycznego tła."
+      },
+      {
+        "question": "Czy Sprunki Retake jest darmowa?",
+        "answer": "Tak, ciesz się Sprunki Retake za darmo przez przeglądarkę internetową."
+      }
+    ]
+  }
+}

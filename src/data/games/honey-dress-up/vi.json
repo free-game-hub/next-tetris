@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Honey Dress Up: Trò Chơi Thay Đồ Dễ Thương Tuyệt Vời",
+    "description": "Khám phá niềm vui và sự sáng tạo trong 'Honey Dress Up', một trò chơi thay đồ thú vị với một cậu bé dễ thương! Chơi trực tiếp từ máy tính của bạn để có trải nghiệm tốt nhất.",
+    "keywords": "Honey Dress Up, trò chơi thay đồ, trò chơi dễ thương, thay đồ online, thay đồ trên di động, đồ họa vẽ tay"
+  },
+  "hero": {
+    "h1": "Honey Dress Up",
+    "p": "Thể hiện sự sáng tạo và phong cách của bạn trong 'Honey Dress Up', trò chơi thay đồ cuối cùng nơi sự dễ thương kết hợp với niềm vui!"
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng Của Honey Dress Up",
+    "features": [
+      "Nhân vật nam dễ thương và độc đáo",
+      "Đồ họa vẽ tay hấp dẫn với phong cách MC Paint",
+      "Tủ đồ rộng lớn với hơn 100 món trang phục phong cách",
+      "Bao gồm nhiều loại đồ bơi cho phong cách đa dạng",
+      "Cập nhật thường xuyên để đảm bảo nội dung mới và cải tiến"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Honey Dress Up",
+    "instructions": [
+      "Chọn những món đồ yêu thích từ tủ đồ phong phú.",
+      "Kéo và thả các món đồ để thay đồ cho nhân vật nam dễ thương.",
+      "Sử dụng chuột của bạn để điều khiển chính xác trên PC cho trải nghiệm tốt nhất.",
+      "Chia sẻ các bộ trang phục độc đáo của bạn trong phần bình luận.",
+      "Thưởng thức giao diện vẽ tay, không có văn bản để gameplay liền mạch."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình Trò Chơi"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên Của Bạn",
+    "reviewLabel": "Đánh Giá Của Bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Rất vui khi tạo ra những bộ trang phục! (xin lỗi vì các tab của mình, mình không thể cắt cho lý do nào đó)",
+        "author": "Nova (Cô/ Họ)"
+      },
+      {
+        "content": "Rất dễ thương!",
+        "author": "HARUHI.JIROU"
+      },
+      {
+        "content": "Trò chơi tuyệt vời",
+        "author": "RenKun"
+      },
+      {
+        "content": "Cậu ấy thật dễ thương",
+        "author": "T0XI :3"
+      },
+      {
+        "content": "Ừ đúng rồi, mình làm khá tốt B)",
+        "author": "barfbar"
+      },
+      {
+        "content": "Trò chơi này thật ngốc nghếch, mình rất thích!!! :3",
+        "author": "MuinBrownie!!!"
+      },
+      {
+        "content": "Hoàn hảo",
+        "author": "yapunglin"
+      },
+      {
+        "content": "Mình thích cậu nhóc hoàn toàn bình thường này!",
+        "author": "5ummerr"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question": "Mình có thể chơi 'Honey Dress Up' trên nền tảng nào?",
+        "answer": "Bạn có thể chơi 'Honey Dress Up' trên trình duyệt web qua HTML5 và trên Windows."
+      },
+      {
+        "question": "Phiên bản mới nhất là gì?",
+        "answer": "Phiên bản mới nhất của 'Honey Dress Up' được cập nhật vào tháng 2 năm 2024 và có sẵn trực tuyến."
+      },
+      {
+        "question": "Có phiên bản tải xuống của trò chơi không?",
+        "answer": "Có, có một phiên bản tải xuống, nhưng đó là phiên bản cũ được giữ lại cho mục đích lưu trữ."
+      },
+      {
+        "question": "Mình có thể chơi trò chơi này trên di động không?",
+        "answer": "'Honey Dress Up' hỗ trợ di động, nhưng trải nghiệm tốt nhất trên máy tính."
+      },
+      {
+        "question": "Trò chơi sử dụng loại đồ họa nào?",
+        "answer": "'Honey Dress Up' có đồ họa vẽ tay với phong cách MC Paint."
+      },
+      {
+        "question": "Làm thế nào để mình chia sẻ những bộ trang phục của mình?",
+        "answer": "Bạn có thể chia sẻ trang phục của mình bằng cách bình luận trong phần bình luận trên trang trò chơi."
+      }
+    ]
+  }
+}

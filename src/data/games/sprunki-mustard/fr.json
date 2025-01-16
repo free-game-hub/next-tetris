@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Sprunki Moutarde - Jeu de Mixage Musical Créatif pour DJ | Expérience de Création Musicale en Ligne",
+    "description": "Plongez dans le monde musical de Sprunki Moutarde ! Créez des rythmes uniques en tant que DJ dans ce jeu innovant de création musicale mettant en scène des personnages sur le thème de la moutarde. Jouez gratuitement en ligne et libérez votre créativité musicale !",
+    "keywords": "sprunted, Sprunki Moutarde, jeu musical, jeu de DJ, jeu de mixage, création musicale en ligne, jeu de rythme, production musicale"
+  },
+  "hero": {
+    "h1": "Sprunki Moutarde : Libérez Votre Créativité Musicale",
+    "p": "Plongez dans un monde vibrant de création musicale où des rythmes funky rencontrent des personnages uniques sur le thème de la moutarde. Transformez vos idées musicales en réalité en quelques clics !"
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques du Jeu",
+    "features": [
+      "Personnages uniques sur le thème de la moutarde, chacun avec des éléments sonores distincts",
+      "Interface intuitive de glisser-déposer pour une création musicale sans effort",
+      "Riche combinaison d'effets sonores pour des possibilités musicales infinies",
+      "Jouabilité en ligne gratuite sans téléchargement requis",
+      "Mécaniques de jeu améliorées inspirées du classique Incredibox"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer",
+    "instructions": [
+      "Sélectionnez vos personnages préférés sur le thème de la moutarde, chacun offrant des éléments sonores uniques",
+      "Faites glisser et déposez les personnages sur la scène pour commencer à mixer les sons",
+      "Expérimentez avec différentes combinaisons pour créer des rythmes et des mélodies uniques",
+      "Réglez votre composition en temps réel",
+      "Enregistrez et partagez vos chefs-d'œuvre musicaux avec des amis"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran du Jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Partagez Votre Expérience",
+    "nameLabel": "Votre Surnom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre l'Avis",
+    "reviews": [
+      {
+        "content": "En tant qu'amateur de musique, je suis extrêmement impressionné par ce jeu. L'interface est épurée, les commandes sont intuitives, et le rendu musical est étonnamment bon !",
+        "author": "MusicLover123",
+        "rating": 5
+      },
+      {
+        "content": "Un outil de création musicale tellement divertissant ! Même sans aucune expérience musicale, j'ai pu créer des rythmes géniaux. Hautement recommandé !",
+        "author": "BeatMaker",
+        "rating": 5
+      },
+      {
+        "content": "Le thème de la moutarde est brillamment unique, et les combinaisons sonores sont infinies. J'ai passé des heures à jouer et je découvre encore de nouvelles possibilités.",
+        "author": "CreativePlayer",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Sprunki Moutarde est-il gratuit ?",
+        "answer": "Oui, Sprunki Moutarde est entièrement gratuit à jouer dans votre navigateur sans besoin de téléchargement ou d'installation."
+      },
+      {
+        "question": "Ai-je besoin d'une expérience musicale pour jouer ?",
+        "answer": "Pas du tout ! Le jeu est conçu pour être intuitif et accessible à tous, quel que soit leur background musical."
+      },
+      {
+        "question": "Puis-je enregistrer mes créations musicales ?",
+        "answer": "Oui ! Le jeu inclut une fonctionnalité d'enregistrement qui vous permet de sauvegarder vos créations pour les retravailler ultérieurement ou les partager avec des amis."
+      },
+      {
+        "question": "Quels navigateurs supportent le jeu ?",
+        "answer": "Le jeu fonctionne sur tous les navigateurs modernes, notamment Chrome, Firefox, Safari et Edge."
+      },
+      {
+        "question": "Combien d'effets sonores différents sont disponibles ?",
+        "answer": "Le jeu offre une grande variété d'effets sonores comprenant rythmes, mélodies et voix, permettant des centaines de combinaisons uniques."
+      },
+      {
+        "question": "Pourquoi le thème de la moutarde ?",
+        "answer": "Le thème de la moutarde est un choix de design unique qui rend le jeu visuellement distinctif tout en ajoutant un élément de fun et de mémorabilité à l'expérience."
+      }
+    ]
+  }
+}

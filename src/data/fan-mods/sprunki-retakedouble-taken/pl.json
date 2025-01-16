@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Double Taken - Najlepsze Doświadczenie w Graniu",
+    "description": "Odkryj Sprunki Retake: Double Taken – najnowszą sensację w świecie gier z zupełnie nowymi projektami i ekscytującą rozgrywką. Dołącz do społeczności graczy i przeżyj przygodę!",
+    "keywords": "Sprunki Retake, Double Taken, gra, gra wideo, nowe gry, cechy gry, instrukcje do gry, recenzje graczy"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Double Taken",
+    "p": "Witaj w Sprunki Retake: Double Taken – ekscytującej przygodzie, gdzie innowacja spotyka nostalgię. Zanurz się w nowych projektach i emocjonującej rozgrywce."
+  },
+  "gameFeatures": {
+    "title": "Cechy Sprunki Retake: Double Taken",
+    "features": [
+      "Zupełnie nowe projekty z oszałamiającą grafiką.",
+      "Wciągająca fabuła, która oddaje ducha gier retro.",
+      "Płynne mechaniki rozgrywki, które zapewniają pełne zanurzenie.",
+      "Wsparcie dla trybu wieloosobowego, by grać z przyjaciółmi.",
+      "Częste aktualizacje, które wzbogacają treści gry i doświadczenie graczy."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki Retake: Double Taken",
+    "instructions": [
+      "Zacznij od pobrania Sprunki Retake: Double Taken z naszej oficjalnej strony.",
+      "Przejdź przez samouczek, aby zapoznać się z kontrolami i celami gry.",
+      "Używaj klawiszy strzałek i spacji do nawigacji i działań.",
+      "Planuj swoje ruchy, aby stawić czoła złożonym wyzwaniom i bossom.",
+      "Współpracuj z innymi graczami, aby wzbogacić swoje doświadczenie."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu Gry"
+  },
+  "playerReviews": {
+    "title": "Recenzje Graczy Sprunki Retake: Double Taken",
+    "submitReviewLabel": "Prześlij swoją recenzję",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Recenzja",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Ekscytująca i głęboko angażująca. Doskonałe uzupełnienie mojej kolekcji gier!",
+        "author": "GamerJoe42"
+      },
+      {
+        "content": "Kocham nowe projekty. To jak powrót do dzieciństwa z dodatkowymi emocjami!",
+        "author": "RetroLover88"
+      },
+      {
+        "content": "Absolutnie genialne! Funkcja wieloosobowa łączy mnie z przyjaciółmi.",
+        "author": "SocialGamer5"
+      },
+      {
+        "content": "Innowacyjna rozgrywka z nutą nostalgii. Idealne dla każdego gracza.",
+        "author": "AdventureSeeker23"
+      },
+      {
+        "content": "Piękne połączenie przeszłości i teraźniejszości w stylu gier. Oczywiście na plus!",
+        "author": "ClassicCraze49"
+      },
+      {
+        "content": "Ta gra nigdy się nie nudzi dzięki regularnym aktualizacjom!",
+        "author": "TechieGeek101"
+      },
+      {
+        "content": "Doceniam wysiłek włożony w grafikę. Uczta dla oczu!",
+        "author": "ArtisticMind77"
+      },
+      {
+        "content": "Bezproblemowe połączenie wyzwania i przyjemności. Gorąco polecam!",
+        "author": "ChallengeAccepted17"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question":"Czym jest Sprunki Retake: Double Taken?",
+        "answer":"Sprunki Retake: Double Taken to najnowsza wersja popularnej gry Sprunki Retake, z nowymi projektami i ulepszoną rozgrywką."
+      },
+      {
+        "question":"Jak mogę pobrać grę?",
+        "answer":"Grę można pobrać bezpośrednio z naszej oficjalnej strony lub z autoryzowanych sklepów z aplikacjami."
+      },
+      {
+        "question":"Czy jest opcja wieloosobowa?",
+        "answer":"Tak, Sprunki Retake: Double Taken zawiera funkcję wieloosobową, aby zwiększyć łączność i aspekt społeczny gier."
+      },
+      {
+        "question":"Czy są regularne aktualizacje gry?",
+        "answer":"Często aktualizujemy grę, aby wprowadzać nowe funkcje, naprawiać błędy i poprawiać doświadczenie użytkowników."
+      },
+      {
+        "question":"Jakie są wymagania systemowe?",
+        "answer":"Gra wymaga minimum 4 GB pamięci RAM, nowoczesnej karty graficznej i zaktualizowanego systemu operacyjnego, aby zapewnić najlepszą wydajność."
+      },
+      {
+        "question":"Z kim mogę się skontaktować w celu uzyskania wsparcia?",
+        "answer":"Możesz skontaktować się z naszym zespołem wsparcia za pomocą formularza kontaktowego na naszej stronie w celu uzyskania pomocy."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Zalecane Gry",
+    "games": [
+      {
+        "img": "path/to/image1.jpg",
+        "title": "Adventure Quest",
+        "link": "link_to_game1"
+      },
+      {
+        "img": "path/to/image2.jpg",
+        "title": "Mystery Solver",
+        "link": "link_to_game2"
+      },
+      {
+        "img": "path/to/image3.jpg",
+        "title": "Puzzle Masters",
+        "link": "link_to_game3"
+      }
+    ]
+  }
+}

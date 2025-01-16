@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Abgerny Goblos - 迷失於哥布林音樂冒險",
+    "description": "和Abgerny Goblos一起體驗冒險的音樂創作旅程。探索以哥布林為主題的人物、自然的音景與質樸的美學。非常適合音樂和奇幻愛好者。",
+    "keywords": "Abgerny Goblos, 音樂模組, 哥布林主題, Sprunki模組, 音樂冒險, 奇幻遊戲, 音樂創作"
+  },
+  "hero": {
+    "h1": "Abgerny Goblos",
+    "p": "深入發現Abgerny Goblos的奇特世界，這是獨特的哥布林風格美學與Sprunki標誌性音樂框架的完美結合。創作和大自然共鳴的作品，仿佛在隱秘的哥布林村莊中回響。"
+  },
+  "gameFeatures": {
+    "title": "Abgerny Goblos 特色",
+    "features": [
+      "以哥布林為主題的人物，擁有獨特輪廓。",
+      "自然音景，包含原始與遊玩的旋律。",
+      "質樸美學，搭配柔和的色彩調和微妙的動畫。",
+      "獨特的音樂創作工具，幫助你製作多層次的曲調。",
+      "儲存並與社群分享你的作品。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩Abgerny Goblos",
+    "instructions": [
+      "選擇角色：從具備獨特音效元素的哥布林角色中選擇。",
+      "拖放排列：排列角色，創造出仿古森林中回蕩的旋律。",
+      "實驗與調整：調整、微調並增加效果，以製作出一首哥布林的國歌。",
+      "儲存：保存你的創作，以供未來享用。",
+      "分享：展示你的音樂給朋友或網上社群。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Abgerny Goblos 截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Abgerny Goblos讓我想像到一個充滿獨特聲音的世界！",
+        "author": "Gamer123"
+      },
+      {
+        "content": "哥布林主題為我的音樂創作增添了自然魅力。",
+        "author": "MusicLover"
+      },
+      {
+        "content": "對於喜愛奇特音樂模組的人來說絕對必試！",
+        "author": "FantasyFan"
+      },
+      {
+        "content": "角色與聲音無縫融合，創造出迷人的音樂。",
+        "author": "SoundCrafter"
+      },
+      {
+        "content": "我喜歡嘗試不同角色來創作新曲調。",
+        "author": "CreativeMind"
+      },
+      {
+        "content": "這是一個透過有趣主題探索音樂創意的絕佳方式。",
+        "author": "ArtisticSoul"
+      },
+      {
+        "content": "喜歡那種質樸的美學和遊玩的音景！",
+        "author": "VisualArtist"
+      },
+      {
+        "content": "強烈推薦給任何對音樂創作感興趣的人！",
+        "author": "HarmonyHunter"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "什麼是Abgerny Goblos？",
+        "answer": "Abgerny Goblos是一個結合哥布林主題美學和Sprunki音樂創作框架的音樂模組。"
+      },
+      {
+        "question": "我該如何開始創作音樂？",
+        "answer": "選擇角色，然後開始排列它們以創作主題曲調。"
+      },
+      {
+        "question": "我可以保存我的作品嗎？",
+        "answer": "可以，當你對創作感到滿意時，可以將作品保存，以便未來收聽。"
+      },
+      {
+        "question": "有社群功能嗎？",
+        "answer": "有的，你可以將作品與朋友和線上社群分享。"
+      },
+      {
+        "question": "有年齡限制嗎？",
+        "answer": "Abgerny Goblos適合所有對音樂和創意充滿熱情的年齡層。"
+      },
+      {
+        "question": "我可以調整音效元素嗎？",
+        "answer": "可以，你可以實驗音量和效果，來自定義你的音樂。"
+      }
+    ]
+  },
+  "recommendedGames": {
+    "title": "推薦遊戲",
+    "games": [
+      {
+        "image": "image_url_1",
+        "title": "Sprunki經典模組",
+        "link": "#"
+      }, 
+      {
+        "image": "image_url_2",
+        "title": "奇幻音景創作工具",
+        "link": "#"
+      },
+      {
+        "image": "image_url_3",
+        "title": "林間和聲",
+        "link": "#"
+      }
+    ]
+  }
+}

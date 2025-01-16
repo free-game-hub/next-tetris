@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Maak Je Eigen Muziek Beats",
+    "description": "Speel Incredibox V7, een creatief muziekspel waarbij je de Incredicrew aanstuurt om unieke beats te maken. Ontdek de spelfeatures, regels en beoordelingen van spelers.",
+    "keywords": "Incredibox V7, muziekspel, Incredicrew, maak beats, Incredibox features"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Duik in de wereld van Incredibox V7 en ontketen je muzikale creativiteit. Beheer de Incredicrew om je eigen unieke melodieën en beats te creëren."
+  },
+  "gameFeatures": {
+    "title": "Spelfeatures van Incredibox V7",
+    "features": [
+      "Beheer de Incredicrew - elk met unieke geluidscapaciteiten.",
+      "Diverse muzikale stijlen en thema's om te ontdekken.",
+      "Eindeloze creativiteit zonder goed of fout om te spelen.",
+      "Deel je muziekcreaties met de gemeenschap.",
+      "Gebruiksvriendelijke interface voor zowel muis- als toetsenbordbesturing."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Incredibox V7",
+    "instructions": [
+      "Kies Je Personage: Selecteer uit allerlei personages, elk met speciale vaardigheden en animaties.",
+      "Selecteer een Nummer: Kies je favoriete muzikale stijl of thema om te beginnen met creëren.",
+      "Gameplay: Combineer geluiden en ritmes om een unieke beat te maken.",
+      "Gebruik de Muis: Klik op personages om geluiden toe te voegen of te verwijderen.",
+      "Gebruik het Toetsenbord: Gebruik sneltoetsen voor snelle geluidsmanipulatie."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 Schermafbeeldingen"
+  },
+  "playerReviews": {
+    "title": "Speler Beoordelingen van Incredibox V7",
+    "submitReviewLabel": "Verzend Je Beoordeling",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Beoordeling",
+    "submitButtonLabel": "Verzenden",
+    "reviews": [
+      {
+        "content": "Incredibox V7 is zo'n leuke manier om muziekcreatie te verkennen!",
+        "author": "Alice"
+      },
+      {
+        "content": "Ik hou van de verschillende geluidscombinaties die je kunt maken. Het is eindeloos leuk!",
+        "author": "John"
+      },
+      {
+        "content": "De personages zijn zo uniek en het creëren van beats is verslavend.",
+        "author": "Maya"
+      },
+      {
+        "content": "Het is geweldig hoe creatief je kunt zijn. Geen twee beats zijn hetzelfde!",
+        "author": "Liam"
+      },
+      {
+        "content": "Mijn creaties delen met vrienden is het beste deel!",
+        "author": "Sophia"
+      },
+      {
+        "content": "De sneltoetsen maken het zo gemakkelijk om snel van geluid te wisselen.",
+        "author": "Henry"
+      },
+      {
+        "content": "Geweldig spel voor kinderen en volwassenen die van muziek houden.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 is mijn favoriete manier voor creatieve ontspanning.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 Veelgestelde Vragen",
+    "questions": [
+      {
+        "question": "Wat is Incredibox V7?",
+        "answer": "Incredibox V7 is een muziekspel waarin je unieke beats kunt creëren door een groep personages, de Incredicrew, te beheersen."
+      },
+      {
+        "question": "Hoe begin ik met het spelen van Incredibox V7?",
+        "answer": "Om te beginnen, kies je een personage en een muziekstijl. Mix vervolgens verschillende geluiden om je beat te creëren."
+      },
+      {
+        "question": "Kan ik Incredibox V7 spelen met een toetsenbord?",
+        "answer": "Ja, je kunt sneltoetsen gebruiken om geluiden snel toe te voegen of te verwijderen."
+      },
+      {
+        "question": "Zijn er verschillende muzikale stijlen in Incredibox V7?",
+        "answer": "Ja, het spel biedt verschillende stijlen en thema's om uit te kiezen."
+      },
+      {
+        "question": "Is er een manier om mijn creaties te delen?",
+        "answer": "Zeker, je kunt je muziekcreaties met andere spelers in de gemeenschap delen."
+      },
+      {
+        "question": "Is Incredibox V7 geschikt voor alle leeftijden?",
+        "answer": "Ja, Incredibox V7 is een leuk en creatief spel voor zowel kinderen als volwassenen."
+      }
+    ]
+  }
+}

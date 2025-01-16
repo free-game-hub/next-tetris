@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Mod Brud Virus w Sprunki Retake - Innowacyjne Doświadczenie Muzyczne",
+    "description": "Odkryj unikalny Mod Brud Virus w Sprunki Retake, z postaciami inspirowanymi wirusami i niestabilnymi dźwiękowymi krajobrazami, które wyzwają twoją kreatywność. Naucz się grać i poznaj szczegółowe instrukcje dotyczące rozgrywki.",
+    "keywords": "Sprunki Retake Brud Virus, mod muzyczny, mod z motywem wirusa, Sprunki, kreatywna gra"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Brud Virus",
+    "p": "Zanurz się w fascynujący świat Modu Brud Virus w Sprunki Retake, gdzie twoje umiejętności tworzenia muzyki stają w obliczu wyzwania spowodowanego dźwiękowymi anomaliami wirusowymi."
+  },
+  "gameFeatures": {
+    "title": "Cechy Modu Brud Virus w Sprunki Retake",
+    "features": [
+      "Postacie inspirowane wirusami",
+      "Niestabilne krajobrazy dźwiękowe",
+      "Kreatywne eksperymentowanie",
+      "Funkcja zapisywania i udostępniania",
+      "Wizualnie imponujące interakcje"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Mod Brud Virus w Sprunki Retake",
+    "instructions": [
+      "Wybierz swoje ulubione postacie o tematyce wirusowej z dostępnej listy.",
+      "Przeciągnij i upuść elementy na ekranie, aby zacząć tworzyć muzykę.",
+      "Udoskonal swój utwór, regulując głośność i dodając efekty.",
+      "Dostosuj się do niespodziewanych zmian dźwięku spowodowanych przez wirus dźwiękowy.",
+      "Zapisz swoje unikalne dzieło i podziel się nim z społecznością muzyczną."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z Modu Brud Virus w Sprunki Retake"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Wyślij swoją opinię",
+    "nameLabel": "Twoje imię",
+    "reviewLabel": "Twoja opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Mod Brud Virus dodał świeżego twistu do rozgrywki. Przeniósł moją kreatywność na nowe wyżyny!",
+        "author": "Ashley"
+      },
+      {
+        "content": "Uwielbiam nieprzewidywalność krajobrazów dźwiękowych. Ten mod to absolutny must-have dla miłośników muzyki.",
+        "author": "Liam"
+      },
+      {
+        "content": "Sprunki Retake Brud Virus oferuje wspaniałe wyzwanie. Wizualny design jest tak samo angażujący jak muzyka.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Każda sesja to unikalne doświadczenie. Temat wirusa jest wspaniale zintegrowany z rozgrywką.",
+        "author": "Ethan"
+      },
+      {
+        "content": "Świetny mod z ogromnym potencjałem kreatywnym! To emocjonująca przygoda dla każdego miłośnika muzyki.",
+        "author": "Mia"
+      },
+      {
+        "content": "Równowaga między chaosem a rytmem czyni ten mod fascynującym. Zdecydowanie polecam!",
+        "author": "Oliver"
+      },
+      {
+        "content": "Cieszyłem się zamienianiem błędów w rytmy. To było zabawne i satysfakcjonujące doświadczenie.",
+        "author": "Amelia"
+      },
+      {
+        "content": "Mod Brud Virus przekształca tworzenie muzyki w ekscytującą zagadkę. Wspaniała robota!",
+        "author": "Noah"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question":"Jaki jest główny cel Modu Brud Virus w Sprunki Retake?",
+        "answer":"Głównym celem jest tworzenie unikalnych utworów, korzystając z wirusowych anomalii w krajobrazach dźwiękowych."
+      },
+      {
+        "question":"Czy mogę dzielić się swoimi kompozycjami z innymi?",
+        "answer":"Tak, możesz zapisywać swoje utwory i dzielić się nimi z innymi, aby pokazać swoje umiejętności kreatywne."
+      },
+      {
+        "question":"Czy dostępne są jakiekolwiek samouczki dla nowych graczy?",
+        "answer":"Tak, gra zawiera samouczek, który pomoże nowym graczom zrozumieć podstawowe mechaniki i innowacyjne funkcje."
+      },
+      {
+        "question":"Czy ten mod jest odpowiedni dla wszystkich grup wiekowych?",
+        "answer":"Tak, Mod Brud Virus w Sprunki Retake jest zaprojektowany z myślą o graczach w każdym wieku, którzy interesują się muzyką i kreatywnością."
+      },
+      {
+        "question":"Czy postacie mają unikalne zdolności?",
+        "answer":"Tak, każda postać ma wyraźne cechy wizualne i dźwiękowe inspirowane wirusowym motywem, które można wykorzystać w swoich kompozycjach."
+      },
+      {
+        "question":"Czy mogę grać w ten mod offline?",
+        "answer":"Tak, możesz korzystać ze wszystkich funkcjonalności Modu Brud Virus w Sprunki Retake offline."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Zalecane Mody",
+    "recommendations": [
+      {
+        "image": "link-to-image-1.jpg",
+        "title": "Mod Horror w Sprunki",
+        "link": "https://example.com/sprunki-horror-mod"
+      },
+      {
+        "image": "link-to-image-2.jpg",
+        "title": "Mod Przygodowy w Sprunki",
+        "link": "https://example.com/sprunki-adventure-mod"
+      }
+    ]
+  }
+}

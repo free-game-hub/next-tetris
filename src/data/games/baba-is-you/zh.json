@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Baba is You - 创新益智游戏",
+    "description": "探索《Baba is You》，一款屡获殊荣的益智游戏，通过改变规则来解谜，挑战逻辑与创造力。立即了解更多！",
+    "keywords": "Baba is You, Baba is You 游戏, 益智游戏, 创意解谜游戏, 独立游戏"
+  },
+  "hero": {
+    "h1": "Baba is You - 改变规则，挑战逻辑！",
+    "p": "《Baba is You》是一款独特的益智游戏，通过操控规则方块来创造全新的解谜方式。这款备受赞誉的游戏将带你进入一个充满创意和挑战的世界！"
+  },
+  "gameFeatures": {
+    "title": "游戏特色",
+    "features": [
+      "创新的游戏机制：通过移动规则方块改变游戏规则。",
+      "丰富的关卡设计：超过200个关卡，挑战你的逻辑思维。",
+      "跨平台支持：可在PC、Nintendo Switch、Google Play和App Store上畅玩。",
+      "屡获殊荣：荣获Independent Games Festival最佳设计奖与观众选择奖。",
+      "无限创意：探索无数种解谜方式，尽情发挥你的想象力。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何开始游戏",
+    "instructions": [
+      "下载并安装《Baba is You》到你的设备。",
+      "进入游戏后，熟悉基础规则方块，如“Baba Is You”和“Flag Is Win”。",
+      "通过移动规则方块，改变游戏逻辑以达成目标。",
+      "完成关卡目标（如触碰旗帜）即可获胜。",
+      "享受游戏的同时，不断挑战自己的逻辑与创造力！"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "《Baba is You》是一款让我大开眼界的游戏！规则的自由组合让我感受到无穷的乐趣。",
+        "author": "张三",
+        "rating": 5
+      },
+      {
+        "content": "这款游戏的设计太有创意了，每一关都让我觉得充满挑战却又非常有趣！",
+        "author": "李四",
+        "rating": 5
+      },
+      {
+        "content": "无论是画风还是玩法，《Baba is You》都让我感到耳目一新，推荐给所有益智游戏爱好者！",
+        "author": "王五",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "《Baba is You》支持哪些平台？",
+        "answer": "游戏支持PC、Nintendo Switch、Google Play和App Store等平台。"
+      },
+      {
+        "question": "游戏是否适合所有年龄段？",
+        "answer": "是的，《Baba is You》是一款适合所有年龄段玩家的益智游戏。"
+      },
+      {
+        "question": "游戏中是否有内购内容？",
+        "answer": "游戏本体为付费内容，购买后无需额外内购即可畅玩全部关卡。"
+      },
+      {
+        "question": "我可以在哪里下载《Baba is You》？",
+        "answer": "您可以在各大游戏平台（如Steam、Google Play、App Store等）下载游戏。"
+      },
+      {
+        "question": "游戏是否支持中文？",
+        "answer": "是的，《Baba is You》支持多种语言，包括中文。"
+      },
+      {
+        "question": "是否有玩家社区或攻略资源？",
+        "answer": "您可以通过各大社交平台或论坛找到相关的玩家社区与攻略资源。"
+      }
+    ]
+  }
+}

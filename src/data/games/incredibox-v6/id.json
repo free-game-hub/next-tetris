@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V6 - Game Musik Kreatif yang Memberikan Kamu Kemungkinan Tak Terbatas",
+    "description": "Jelajahi Incredibox V6, sebuah game kreasi musik yang sangat populer di kalangan pemain di seluruh dunia. Kontrol karakter 'Incredicrew' untuk menciptakan irama musik yang unik!",
+    "keywords": "Incredibox V6, game musik, irama kreatif, game DJ, game interaktif"
+  },
+  "hero": {
+    "h1": "Incredibox V6",
+    "p": "Bergabunglah dengan Incredibox V6 dan mulai perjalanan kreasi musikmu. Rasakan gameplay yang menyenangkan dan efek visual yang mempesona, jadilah master musikmu sendiri."
+  },
+  "gameFeatures": {
+    "title": "Fitur Unggulan Incredibox V6",
+    "features": [
+      "Kontrol sekelompok karakter bernama 'Incredicrew' untuk menciptakan musik.",
+      "Setiap karakter memiliki suara khas: bernyanyi, mengetuk, dan memainkan alat musik.",
+      "Pengoperasian yang sederhana, cukup klik untuk menambah atau menghapus suara.",
+      "Kombinasi efek suara yang kaya, memicu kreativitas musikmu.",
+      "Efek visual yang indah, membuat proses kreasi musikmu semakin menyenangkan."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Incredibox V6",
+    "instructions": [
+      "Pilih karakter di grid, setiap karakter menghasilkan suara yang berbeda.",
+      "Klik untuk menambah atau menghapus suara karakter dan buatlah irama.",
+      "Coba berbagai kombinasi suara untuk menemukan irama favoritmu.",
+      "Gunakan mouse atau pintasan keyboard untuk pengoperasian yang mudah.",
+      "Nikmati musik saat berkreasi dan eksplorasi gaya personal mu."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot Game Incredibox V6"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasanmu",
+    "nameLabel": "Namamu",
+    "reviewLabel": "Isi Ulasan",
+    "submitButtonLabel": "Kirim Ulasan",
+    "reviews": [
+      {
+        "content": "Incredibox V6 membantu saya menemukan hobi baru dalam kreasi musik!",
+        "author": "Li Wei"
+      },
+      {
+        "content": "Efek visual dan suara sangat luar biasa, bermainnya sangat adiktif.",
+        "author": "Jessica"
+      },
+      {
+        "content": "Ini adalah salah satu game musik paling kreatif yang pernah saya mainkan.",
+        "author": "Tom"
+      },
+      {
+        "content": "Sangat direkomendasikan untuk orang yang tertarik dengan musik, pengoperasiannya mudah tetapi sangat menyenangkan.",
+        "author": "Chen"
+      },
+      {
+        "content": "Proses kreasi yang menyenangkan, dan saya belajar banyak tentang ritme.",
+        "author": "Maria"
+      },
+      {
+        "content": "Bahkan jika tidak mengerti musik, saya bisa bermain dengan baik, benar-benar edukatif.",
+        "author": "David"
+      },
+      {
+        "content": "Baik dari segi gameplay maupun desain visual, game ini sangat luar biasa.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Teman merekomendasikan game ini, dan saya tidak kecewa!",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan Umum",
+    "questions": [
+      {
+        "question":"Bagaimana cara memperbarui Incredibox V6 ke versi terbaru?",
+        "answer":"Anda bisa mengunduh versi terbaru di situs resmi."
+      },
+      {
+        "question":"Bagaimana cara menyimpan karya musik saya?",
+        "answer":"Anda bisa mengklik opsi simpan dalam permainan untuk menyimpan karya musik ke perangkat Anda."
+      },
+      {
+        "question":"Apakah Incredibox V6 bisa dimainkan secara multiplayer?",
+        "answer":"Saat ini Incredibox V6 adalah game solo, tetapi Anda bisa berbagi karya Anda dengan teman."
+      },
+      {
+        "question":"Apa saja pilihan efek suara yang ada dalam game?",
+        "answer":"Game ini memiliki berbagai kombinasi vokal, ketukan, dan alat musik untuk dipilih."
+      },
+      {
+        "question":"Bisakah Incredibox V6 dimainkan di perangkat mobile?",
+        "answer":"Ya, Incredibox V6 mendukung pengoperasian di perangkat mobile."
+      },
+      {
+        "question":"Bagaimana cara mendapatkan lebih banyak kombinasi suara?",
+        "answer":"Anda bisa membuka lebih banyak kombinasi suara dengan bermain game."
+      }
+    ]
+  }
+}

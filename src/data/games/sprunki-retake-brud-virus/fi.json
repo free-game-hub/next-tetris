@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Brud Virus Mod - Innovatiivinen Musiikkikokemus",
+    "description": "Tutustu ainutlaatuiseen Sprunki Retake Brud Virus Mod -kokemukseen, jossa on virusaiheisia hahmoja ja epävakaita äänimaastoja, jotka haastavat luovuutesi. Opi pelaamaan ja paljasta syvälliset peliohjeet.",
+    "keywords": "Sprunki Retake Brud Virus, musiikkimodi, virusaiheinen modi, Sprunki, luova pelaaminen"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Brud Virus",
+    "p": "Sukella mielenkiintoiseen Sprunki Retake Brud Virus Mod -maailmaan, jossa musiikkikokemuksesi kohtaa virusperäisten äänianomaliien haasteet."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Retake Brud Virus Modin Ominaisuudet",
+    "features": [
+      "Virusaiheiset Hahmot",
+      "Epävakaat Äänimaastot",
+      "Luova Kokeilu",
+      "Tallenna ja Jaa Toiminnallisuus",
+      "Visuaalisesti Huomionarvoiset Vuorovaikutukset"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Retake Brud Virus Modia",
+    "instructions": [
+      "Valitse suosikkivirusaiheiset hahmosi.",
+      "Raahaa ja pudota elementtejä näyttösi päälle musiikin luomiseksi.",
+      "Hio kappalettasi säätämällä ääniä ja lisäämällä efektejä.",
+      "Sopeudu odottamattomiin äänenmuutoksiin, joita virus aiheuttaa.",
+      "Tallenna ainutlaatuinen luomuksesi ja jaa se musiikkiyhteisön kanssa."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Kuvakaappaukset Sprunki Retake Brud Virus Modista"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Brud Virus Mod toi virkistävän käänteen pelimekaniikkaan. Se nosti luovuuttani uusille korkeuksille!",
+        "author": "Ashley"
+      },
+      {
+        "content": "Rakastan äänenmaailman arvaamattomuutta. Tämä modi on pakollinen kokeiltavaksi musiikin ystäville.",
+        "author": "Liam"
+      },
+      {
+        "content": "Sprunki Retake Brud Virus tarjoaa hauskan haasteen. Visuaalinen muotoilu on yhtä mukaansatempaavaa kuin musiikki.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Jokainen sessio on ainutlaatuinen kokemus. Virusteema on briljantisti integroituna pelimekaniikkaan.",
+        "author": "Ethan"
+      },
+      {
+        "content": "Erinomainen modi, jossa on valtavasti luovaa potentiaalia! Jännittävä matka kaikille musiikin rakastajille.",
+        "author": "Mia"
+      },
+      {
+        "content": "Kaoksen ja rytmin tasapaino tekee tästä modista kiehtovan. Suosittelen ehdottomasti!",
+        "author": "Oliver"
+      },
+      {
+        "content": "Nautin virheiden muuttamisesta rytmeiksi. Se oli hauska ja palkitseva kokemus.",
+        "author": "Amelia"
+      },
+      {
+        "content": "Brud Virus Mod muuttaa musiikin luomisen jännittäväksi pulmaksi. Upeaa työtä!",
+        "author": "Noah"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question":"Mikä on Sprunki Retake Brud Virus Modin pääasiallinen tavoite?",
+        "answer":"Pääasiallinen tavoite on luoda ainutlaatuisia kappaleita, hyväksymällä virusperäiset anomaliat äänimaastoissa."
+      },
+      {
+        "question":"Voinko jakaa sävellykseni muiden kanssa?",
+        "answer":"Kyllä, voit tallentaa kappaleesi ja jakaa niitä muille esitelläksesi luovuutta."
+      },
+      {
+        "question":"Onko uusia pelaajia varten saatavilla oppaita?",
+        "answer":"Kyllä, pelissä on opas, joka auttaa uusia pelaajia ymmärtämään perusmekaniikat ja innovatiiviset ominaisuudet."
+      },
+      {
+        "question":"Onko tämä modi sopiva kaikille ikäryhmille?",
+        "answer":"Kyllä, Sprunki Retake Brud Virus Mod on suunniteltu kaikille ikäryhmille, jotka ovat kiinnostuneita musiikista ja luovuudesta."
+      },
+      {
+        "question":"Onko hahmoilla ainutlaatuisia kykyjä?",
+        "answer":"Kyllä, jokaisella hahmolla on ainutlaatuisia visuaalisia ja äänellisiä piirteitä, jotka vaikuttavat virus teemaan, ja joita voit hyödyntää sävellyksissäsi."
+      },
+      {
+        "question":"Voinko pelata tätä modia ilman internetyhteyttä?",
+        "answer":"Kyllä, voit nauttia kaikista Sprunki Retake Brud Virus Modin toiminnoista offline-tilassa."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Suositellut Modit",
+    "recommendations": [
+      {
+        "image": "link-to-image-1.jpg",
+        "title": "Sprunki Kauhumoidi",
+        "link": "https://example.com/sprunki-horror-mod"
+      },
+      {
+        "image": "link-to-image-2.jpg",
+        "title": "Sprunki Seikkailumoidi",
+        "link": "https://example.com/sprunki-adventure-mod"
+      }
+    ]
+  }
+}

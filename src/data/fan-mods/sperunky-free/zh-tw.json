@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: 探索冒險的深淵",
+    "description": "快來體驗Sperunky Free的世界，這是一款刺激的冒險遊戲，挑戰你的探索與生存技能。發現獨特的遊戲特性，遊戲玩法說明，還有玩家評價。",
+    "keywords": "Sperunky Free, 冒險遊戲, 探索, 生存, 遊戲評價"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "開始你的史詩之旅，與Sperunky Free一起，穿越危險的洞穴，克服各種障礙，發掘隱藏的寶藏！"
+  },
+  "gameFeatures": {
+    "title": "Sperunky Free的特色",
+    "features": [
+      "龐大的洞穴系統供你探索",
+      "隨機生成的關卡帶來動態的遊戲體驗",
+      "各種陷阱和敵人",
+      "合作遊玩模式的多人遊戲",
+      "豐富的圖形和身臨其境的音效"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩Sperunky Free",
+    "instructions": [
+      "使用方向鍵移動角色在洞穴中探索。",
+      "按空白鍵跳躍以避開障礙物。",
+      "收集寶藏以提高你的分數。",
+      "使用繩索和炸彈等工具來穿越困難區域。",
+      "在多人模式中與朋友合作，解決複雜的挑戰。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sperunky Free遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家對Sperunky Free的評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sperunky Free 每一個關卡都帶來新的驚喜，讓人激動不已。",
+        "author": "GameLover123"
+      },
+      {
+        "content": "遊戲的畫面非常漂亮，讓身臨其境的遊戲體驗更加出色。",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "我喜歡和朋友一起玩多人模式，這是策略合作的絕佳方式。",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "具有挑戰性卻又令人滿足，Sperunky Free 讓我一再返回遊玩。",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "各種陷阱讓我保持警覺，絕不無聊！",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "冒險與策略的完美平衡，非常推薦給這兩種類型的粉絲。",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "這是我整年玩過最刺激的遊戲之一！",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "對於愛好冒險和探索遊戲的人來說，這是必玩之作。",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題：Sperunky Free",
+    "questions": [
+      {
+        "question": "Sperunky Free可以在哪些平台上遊玩？",
+        "answer": "Sperunky Free可在PC、Mac及多種遊戲主機上遊玩。"
+      },
+      {
+        "question": "我可以和朋友一起玩Sperunky Free嗎？",
+        "answer": "可以，Sperunky Free提供合作遊玩模式，可以與朋友一起遊玩。"
+      },
+      {
+        "question": "遊戲中有不同的難度級別嗎？",
+        "answer": "有的，你可以根據自己的技能水平選擇多種難度。"
+      },
+      {
+        "question": "我需要網路連接才能遊玩嗎？",
+        "answer": "多人模式需要網路連接，但單人模式不需要。"
+      },
+      {
+        "question": "有辦法保存我的進度嗎？",
+        "answer": "有的，Sperunky Free允許你保存進度，並可在之後繼續遊玩。"
+      },
+      {
+        "question": "遊戲中有微交易嗎？",
+        "answer": "沒有，Sperunky Free不包含任何微交易。"
+      }
+    ]
+  }
+}

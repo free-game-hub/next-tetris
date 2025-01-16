@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 30 - 探索全新的音乐冒险",
+    "description": "加入Sprunki宇宙，体验Phase 30 Mod。发现新角色、动态音景和创新的游戏玩法。新老玩家皆可畅享。",
+    "keywords": "Sprunki Phase 30, Sprunki Mod, 音乐冒险, 动态音景, 创意游戏玩法"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 30",
+    "p": "踏上一段全新的音乐旅程，与Sprunki Phase 30 Mod一起探索充满神秘、冒险和无限创意可能性的世界。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Phase 30 主要特点",
+    "features": [
+      "新角色：全新设计的角色带来独特的循环和效果，拓展你的音乐创作空间。",
+      "动态音景：享受节奏感强烈的节拍、氛围旋律和层次丰富的效果，尽情进行创意实验。",
+      "视觉震撼的主题：体验艺术美学，使你沉浸在一个生动且引人入胜的世界中。",
+      "增强的玩法：流畅的机制和精心策划的音效组合，确保了直观的体验。",
+      "社区分享：通过保存并与社区分享你的音乐创作，展现你的才华。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何游玩Sprunki Phase 30 Mod",
+    "instructions": [
+      "选择角色：从新角色和经典角色中选择，每个角色都有独特的循环效果。",
+      "拖放操作：将角色摆放在屏幕上，叠加节拍和效果。",
+      "实验与改进：调整音量和组合，提升你的曲目质量。",
+      "保存与分享：保存你的作品并与社区分享。",
+      "探索环境：在进程中发现生动而动态的环境。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 30 截图"
+  },
+  "playerReviews": {
+    "title": "玩家评论",
+    "submitReviewLabel": "提交你的评论",
+    "nameLabel": "姓名",
+    "reviewLabel": "评论",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 30 是一部杰作。它将创意和游戏玩法完美结合。",
+        "author": "Alice J."
+      },
+      {
+        "content": "新角色和循环让我的作品变得更加生动。",
+        "author": "Sam K."
+      },
+      {
+        "content": "我绝对喜欢Phase 30的视觉设计。探索它是一种乐趣。",
+        "author": "Mike L."
+      },
+      {
+        "content": "增强的游戏控制非常直观，使得创作音乐变得简单。",
+        "author": "Jane D."
+      },
+      {
+        "content": "能保存和分享音乐真是太神奇了。我的朋友们都赞叹不已！",
+        "author": "John T."
+      },
+      {
+        "content": "Phase 30将我的Sprunki体验提升到了一个新高度。太棒了！",
+        "author": "Anna P."
+      },
+      {
+        "content": "作为一个老粉，这绝对是迄今为止最好的阶段。强烈推荐给所有玩家。",
+        "author": "Robert K."
+      },
+      {
+        "content": "我喜欢尝试新的音景，感觉非常新鲜且引人入胜。",
+        "author": "Lisa R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "什么是Sprunki Phase 30?",
+        "answer": "Sprunki Phase 30是Sprunki系列的最新mod，提供新角色、音景和游戏玩法特点。"
+      },
+      {
+        "question": "如何在Sprunki Phase 30中保存我的作品？",
+        "answer": "在完成音乐曲目后，可以通过点击游戏界面的“保存”按钮来保存你的作品。"
+      },
+      {
+        "question": "我可以与他人分享我的创作吗？",
+        "answer": "可以，你可以通过游戏中的分享功能与社区分享你的已保存作品。"
+      },
+      {
+        "question": "Sprunki Phase 30中的新角色可以免费使用吗？",
+        "answer": "可以，所有新角色在mod中都是免费的，提供额外的循环和效果。"
+      },
+      {
+        "question": "Phase 30与之前版本有什么不同？",
+        "answer": "Phase 30提供增强的游戏体验、新角色、独特的音景和视觉震撼的主题。"
+      },
+      {
+        "question": "Sprunki Phase 30适合新玩家吗？",
+        "answer": "绝对适合！它的设计非常直观，适合新手，同时也为经验丰富的玩家提供了深度。"
+      }
+    ]
+  }
+}

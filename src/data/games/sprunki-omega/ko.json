@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki 오메가 모드 - Sprunki Incredibox에서의 우주 음악 창작",
+    "description": "Sprunki Incredibox 세계에 혁신을 가져온 Sprunki 오메가 모드를 발견하세요. 향상된 비주얼, 미래적인 사운드, 매력적인 캐릭터 디자인에 빠져보세요.",
+    "keywords": "Sprunki 오메가 모드, Sprunki Incredibox, 음악 창작, 미래적인 사운드, 게임 모드"
+  },
+  "hero": {
+    "h1": "Sprunki 오메가 모드",
+    "p": "Sprunki 오메가 모드와 함께하는 음악 창작의 서사적 여정을 경험하세요. 미래적인 미학과 혁신적인 게임 플레이가 결합되었습니다."
+  },
+  "gameFeatures": {
+    "title": "Sprunki 오메가 모드의 특징",
+    "features": [
+      "미래적인 캐릭터 디자인: 세련된 미학을 갖춘 우주 영감을 받은 향상된 캐릭터들.",
+      "고급 사운드 효과: 다양한 미래적인 비트와 환경 멜로디를 담은 풍부한 라이브러리.",
+      "몰입감 넘치는 비주얼: 모드의 광범위한 테마를 보완하는 생동감 있는 인터페이스.",
+      "도전적인 게임 플레이: 새로운 기능과 조합으로 도전하세요.",
+      "우주적 창의성: 음악 창작의 깊이를 새로운 수준으로 탐험하세요."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki 오메가 모드 플레이 방법",
+    "instructions": [
+      "오메가 캐릭터 선택: 오메가 테마의 Sprunki 캐릭터를 드래그 앤 드롭하세요.",
+      "고급 트랙 믹스: 복잡한 비트를 조합하여 역동적인 트랙을 만드세요.",
+      "서사적 보너스 잠금 해제: 캐릭터 조합을 통해 보너스를 발견하세요.",
+      "나의 걸작 공유하기: 음악 트랙을 저장하고 커뮤니티와 공유하세요.",
+      "리믹스 도전: 다른 이들에게 여러분의 창작물을 리믹스하도록 초대하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki 오메가 모드 스크린샷"
+  },
+  "playerReviews": {
+    "title": "플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "캐릭터 디자인이 뛰어나고 게임 플레이가 매력적입니다!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Sprunki를 새로운 차원으로 끌어올린 믿을 수 없는 모드입니다!",
+        "author": "Sam T."
+      },
+      {
+        "content": "우주적인 분위기와 도전적인 게임 플레이를 좋아합니다.",
+        "author": "Mia L."
+      },
+      {
+        "content": "미래적인 사운드 효과가 정말 놀랍습니다.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki 오메가는 놓치고 싶지 않은 모드입니다.",
+        "author": "Noah P."
+      },
+      {
+        "content": "도전을 찾는 리믹스 애호가들에게 최적인 게임입니다.",
+        "author": "Liam K."
+      },
+      {
+        "content": "비주얼이 멋지고 정말 몰입감을 줍니다.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "모든 팬에게 추천하는 환상적인 음악 모험입니다!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "questions": [
+      {
+        "question": "Sprunki 오메가 모드란 무엇인가요?",
+        "answer": "Sprunki 오메가 모드는 미래적인 사운드와 비주얼을 갖춘 Sprunki Incredibox의 고급 모드입니다."
+      },
+      {
+        "question": "게임에서 보너스를 잠금 해제하는 방법은?",
+        "answer": "독특한 캐릭터 조합으로 숨겨진 보너스를 발견해 보세요."
+      },
+      {
+        "question": "내 음악 트랙을 공유할 수 있나요?",
+        "answer": "네, 여러분의 음악 트랙을 저장하고 Sprunki 커뮤니티와 공유할 수 있습니다."
+      },
+      {
+        "question": "모드에 새로운 캐릭터가 있나요?",
+        "answer": "네, 모드는 미래적인 오메가 테마의 Sprunki 캐릭터를 포함하고 있습니다."
+      },
+      {
+        "question": "Sprunki 오메가 모드는 초보자에게 적합한가요?",
+        "answer": "이 모드에는 도전적인 요소가 있지만, 신규 사용자에게도 접근 가능합니다."
+      },
+      {
+        "question": "Sprunki 오메가 모드를 어디에서 다운로드할 수 있나요?",
+        "answer": "공식 Sprunki Incredibox 웹사이트나 인증된 모드 플랫폼에서 다운로드할 수 있습니다."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "추천 게임",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki 갤럭시 어드벤처",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox 태양 리믹스",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "우주 비트박스 여행",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

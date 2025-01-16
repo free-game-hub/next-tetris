@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Parasprunki men Bedre Mod - Forbedret Musikskabelsesoplevelse",
+    "description": "Udforsk Parasprunki men Bedre Mod, en raffineret version af Parasprunki 12.0, der tilbyder forbedret lydkvalitet, finere visuelle elementer og bedre brugervenlighed for en overlegen musikskabelsesoplevelse.",
+    "keywords": "Parasprunki men Bedre, musik mod, lydkvalitet, finere visuelle elementer, musikskabelses spil"
+  },
+  "hero": {
+    "h1": "Parasprunki men Bedre",
+    "p": "Parasprunki men Bedre Mod bygger videre på fundamentet af Parasprunki 12.0 mod og rafinerer det for en mere poleret, sammenhængende og fornøjelig musikskabelsesoplevelse."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Parasprunki men Bedre Mod",
+    "features": [
+      "Forbedret Lydkvalitet: Skarpe, levende toner sikrer, at hvert element skinner.",
+      "Finere Visuelle Elementer: Renere designs og glattere animationer.",
+      "Forbedret Brugervenlighed: Intuitiv grænseflade, der fokuserer på kreativitet.",
+      "Strømlinet Grænseflade: Mindsker gætterier for nem navigation.",
+      "Sammenhængende Musikoplevelse: Poleret og fornøjelig gameplay."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spiller Du Parasprunki men Bedre Mod",
+    "instructions": [
+      "Vælg Karakterer: Vælg fra en liste, der er finjusteret for klarhed og balance.",
+      "Træk og Slip: Arranger karakterer for at lagdele forbedrede loops.",
+      "Eksperimenter og Juster: Forfin volumener og tilføj effekter.",
+      "Gem og Del: Gem din komposition og del med fællesskabet.",
+      "Lås Potentielle Muligheder Op: Prøv forskellige kombinationer for en unik oplevelse."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Parasprunki men Bedre Mod Skærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Jeg elsker virkelig den nye lydkvalitet i denne mod. Tonerne er så levende!",
+        "author": "Gamer123"
+      },
+      {
+        "content": "Grænsefladeændringerne gør virkelig en forskel. Det er så meget lettere at bruge nu.",
+        "author": "Musikelsker"
+      },
+      {
+        "content": "De finere visuelle elementer hjælper med at skelne karakterroller under kompositionen. Fantastisk forbedring!",
+        "author": "VisuelKunstner"
+      },
+      {
+        "content": "Muligheden for at gemme og dele kompositioner er en game-changer. Elsker det!",
+        "author": "KomponistPro"
+      },
+      {
+        "content": "Loops og melodier er perfekt afbalanceret, hvilket skaber en dejlig oplevelse.",
+        "author": "LydIngeniør"
+      },
+      {
+        "content": "At eksperimentere med volumener og effekter er meget lettere nu. Ros til udviklerne!",
+        "author": "MixerMester"
+      },
+      {
+        "content": "Jeg har anbefalet denne mod til alle mine venner. Det er bare fantastisk!",
+        "author": "GamerPige"
+      },
+      {
+        "content": "Den forbedrede brugervenlighed har gjort, at jeg kan fokusere helt på kreativitet. Fantastisk!",
+        "author": "KreativSind"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+        "question":"Hvad er Parasprunki men Bedre Mod?",
+        "answer":"Det er en raffineret version af Parasprunki 12.0 mod, der tilbyder forbedret lydkvalitet, visuelle elementer og brugervenlighed."
+      },
+      {
+        "question":"Hvordan vælger jeg karakterer?",
+        "answer":"Vælg fra en liste, der er finjusteret for klarhed og balance."
+      },
+      {
+        "question":"Kan jeg gemme og dele mine kompositioner?",
+        "answer":"Ja, du kan gemme dine kreationer og dele dem med fællesskabet."
+      },
+      {
+        "question":"Hvilke nye funktioner tilbyder denne mod?",
+        "answer":"Mod'en tilbyder finere visuelle elementer, forbedret lydkvalitet og en forbedret brugergrænseflade."
+      },
+      {
+        "question":"Er denne mod egnet for begyndere?",
+        "answer":"Ja, den intuitive grænseflade gør den tilgængelig for både begyndere og erfarne spillere."
+      },
+      {
+        "question":"Hvordan kan jeg forbedre mine kompositioner?",
+        "answer":"Eksperimenter med volumener, effekter og forskellige kombinationer af de nye lydkvaliteter."
+      }
+    ]
+  }
+}

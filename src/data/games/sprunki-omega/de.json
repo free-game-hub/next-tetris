@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Omega Mod - Kreiere kosmische Musik in Sprunki Incredibox",
+    "description": "Entdecke den Sprunki Omega Mod, eine bahnbrechende Erweiterung des Sprunki Incredibox-Universums. Tauche ein in verbesserte Grafiken, futuristische Klänge und faszinierende Charakterdesigns.",
+    "keywords": "Sprunki Omega Mod, Sprunki Incredibox, Musik erstellen, futuristische Klänge, Spielmod"
+  },
+  "hero": {
+    "h1": "Sprunki Omega Mod",
+    "p": "Erlebe eine epische Reise in der Musikproduktion mit dem Sprunki Omega Mod, der futuristische Ästhetik mit innovativem Gameplay verbindet."
+  },
+  "gameFeatures": {
+    "title": "Features des Sprunki Omega Mod",
+    "features": [
+      "Futuristische Charakterdesigns: Verbesserte, kosmisch inspirierte Charaktere mit eleganter Ästhetik.",
+      "Erweiterte Soundeffekte: Eine reichhaltige Bibliothek futuristischer Beats und ambienter Melodien.",
+      "Immersive Grafiken: Lebendige Benutzeroberfläche, die das umfassende Thema des Mods ergänzt.",
+      "Herausforderndes Gameplay: Interagiere mit neuen Features und Kombinationen.",
+      "Kosmische Kreativität: Entdecke eine neue Dimension in der Musikproduktion."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du den Sprunki Omega Mod",
+    "instructions": [
+      "Wähle Omega-Charaktere: Ziehe Omega-Themen-Sprunki-Charaktere per Drag & Drop.",
+      "Mixe fortgeschrittene Tracks: Kombiniere komplexe Beats, um dynamische Tracks zu erstellen.",
+      "Freischalten epischer Boni: Entdecke Boni durch Kombinationen von Charakteren.",
+      "Teile dein Meisterwerk: Speichere und teile Musikstücke mit der Community.",
+      "Fordere Remix-Künstler heraus: Lade andere ein, deine Kreationen zu remixen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots des Sprunki Omega Mod"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Bewertung abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Absenden",
+    "reviews": [
+      {
+        "content": "Die Charakterdesigns sind herausragend, und das Gameplay fesselt!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Ein unglaublicher Mod, der Sprunki zu neuen Höhen führt!",
+        "author": "Sam T."
+      },
+      {
+        "content": "Ich liebe die kosmische Stimmung und das herausfordernde Gameplay.",
+        "author": "Mia L."
+      },
+      {
+        "content": "Die futuristischen Soundeffekte sind einfach erstaunlich.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega ist ein Mod, den du nicht verpassen solltest.",
+        "author": "Noah P."
+      },
+      {
+        "content": "Großartig für Remix-Enthusiasten, die eine Herausforderung suchen.",
+        "author": "Liam K."
+      },
+      {
+        "content": "Die Grafiken sind atemberaubend und wirklich immersiv.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "Es ist ein fantastisches musikalisches Abenteuer, das ich jedem Fan empfehlen kann!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Was ist der Sprunki Omega Mod?",
+        "answer": "Der Sprunki Omega Mod ist ein fortgeschrittener Mod für Sprunki Incredibox, der futuristische Klänge und Grafiken bietet."
+      },
+      {
+        "question": "Wie schalte ich Boni im Spiel frei?",
+        "answer": "Experimentiere mit einzigartigen Charakterkombinationen, um versteckte Boni zu entdecken."
+      },
+      {
+        "question": "Kann ich meine Musikstücke teilen?",
+        "answer": "Ja, du kannst deine Musikstücke speichern und mit der Sprunki-Community teilen."
+      },
+      {
+        "question": "Gibt es neue Charaktere im Mod?",
+        "answer": "Ja, der Mod enthält futuristische Omega-Themen-Sprunki-Charaktere."
+      },
+      {
+        "question": "Ist der Sprunki Omega Mod für Anfänger geeignet?",
+        "answer": "Obwohl der Mod herausfordernde Elemente hat, ist er für Neulinge zugänglich."
+      },
+      {
+        "question": "Wo kann ich den Sprunki Omega Mod herunterladen?",
+        "answer": "Du kannst ihn von der offiziellen Sprunki Incredibox-Website oder autorisierten Mod-Plattformen herunterladen."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Empfohlene Spiele",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki Galaxy Abenteuer",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox Solar Remix",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "Kosmische Beatbox-Reise",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

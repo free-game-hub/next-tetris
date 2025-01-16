@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "六只猫咪的冒险 - 引人入胜的解谜冒险",
+    "description": "探索《六只猫咪的冒险》，一款迷人的点击解谜游戏，利用灵异的力量拯救你的猫咪们。玩家评分4.8/5。",
+    "keywords": "六只猫咪的冒险, 解谜游戏, 点击游戏, 猫咪救援游戏, 游戏大赛, 鬼魂力量, 六只猫咪的冒险评分"
+  },
+  "hero": {
+    "h1": "六只猫咪的冒险",
+    "p": "沉浸在《六只猫咪的冒险》中，体验这款令人愉悦的点击解谜游戏，你的灵异力量将帮助引导心爱的猫咪们安全归家。"
+  },
+  "gameFeatures": {
+    "title": "游戏特色",
+    "features": [
+      "独特的点击解谜游戏玩法",
+      "迷人的像素艺术和动画",
+      "引人入胜的叙事和鬼魂元素",
+      "非常适合猫咪爱好者和解谜爱好者",
+      "短小精悍的游戏体验，适合快速游玩"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩《六只猫咪的冒险》",
+    "instructions": [
+      "使用鼠标与物体互动并引导猫咪。",
+      "利用灵异能力移动物品和开启通道。",
+      "解开谜题以推进关卡并拯救所有猫咪。",
+      "注意游戏中的视觉线索和提示。",
+      "享受与猫咪朋友们的叙事和迷人互动。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "六只猫咪的冒险 - 游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评论",
+    "submitReviewLabel": "提交你的评论",
+    "nameLabel": "姓名",
+    "reviewLabel": "评论",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "一款可爱的游戏！极好的动画和超级迷人的猫咪。",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "作为一名猫主人，这款游戏让我深有感触。绝对的瑰宝！",
+        "author": "gecko"
+      },
+      {
+        "content": "一款可爱又甜蜜的游戏……可怜的小金子！温馨而又情感丰富。",
+        "author": "magerites"
+      },
+      {
+        "content": "独特的谜题和很多迷人的瞬间。喜欢！",
+        "author": "DLGames"
+      },
+      {
+        "content": "可爱与一丝伤感的结合使这款游戏脱颖而出。",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "绝妙的游戏！15分钟内完成，乐在其中的每一瞬间。",
+        "author": "MCG"
+      },
+      {
+        "content": "既可爱又伤感，但真的很有趣！整体体验很棒。",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "猫咪们太可爱了，灵异助手的元素也很独特。强烈推荐！",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"常见问题",
+    "questions": [
+      {
+        "question":"《六只猫咪的冒险》可在哪些平台游玩？",
+        "answer":"《六只猫咪的冒险》支持HTML5、Windows、macOS和Linux平台。"
+      },
+      {
+        "question":"完成游戏需要多长时间？",
+        "answer":"平均游戏时长约半小时，提供快速但愉快的体验。"
+      },
+      {
+        "question":"《六只猫咪的冒险》适合所有年龄段吗？",
+        "answer":"是的，这款游戏设计适合各个年龄段的玩家，尤其是猫咪爱好者。"
+      },
+      {
+        "question":"运行游戏的最低要求是什么？",
+        "answer":"这款游戏体积小，可以在大多数支持HTML5或相应操作系统版本的系统上运行。"
+      },
+      {
+        "question":"游戏可以离线玩吗？",
+        "answer":"Windows、macOS和Linux的可下载版本在安装后可以离线游玩。"
+      },
+      {
+        "question":"《六只猫咪的冒险》是由谁开发的？",
+        "answer":"这款游戏由Team Bean Loop和Mosu开发，Miles Äijälä、Robin Swift、Tomas Beržinskas和Alex Martin也贡献了力量。"
+      }
+    ]
+  }
+}

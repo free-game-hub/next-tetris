@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - Fridfull Musikalisk Utforskning",
+    "description": "Upptäck Sprunki Blue, den immersiva spelmod som förvandlar din spelupplevelse med en lugnande blå palett och harmoniska ljudlandskap.",
+    "keywords": "Sprunki Blue, Sprunki Blue Mod, spelmod, monokromatisk estetik, lugnande ljudlandskap, avkopplande musikspel"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "Fördjupa dig i en lugn spelmiljö där fridfulla blå nyanser och harmoniska ljudlandskap förändrar din musikaliska utforskning."
+  },
+  "gameFeatures": {
+    "title": "Nyckelfunktioner i Sprunki Blue",
+    "features": [
+      "Monokromatisk Estetik: Njut av en lugnande blå palett som förenar alla spels element.",
+      "Lugnande Ljudlandskap: Upptäck olika melodier och harmonier kompletterade av avkopplande visuella effekter.",
+      "Meditativ Stämning: Fokusera på musikskapande utan distraktion från olika färger.",
+      "Anpassningsbara Karaktärer: Välj karaktärer klädda i lugnande blå toner, var och en med unika effekter.",
+      "Dela Ditt Skapande: Spara och dela dina själsfulla kompositioner med Sprunki-gemenskapen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man spelar Sprunki Blue",
+    "instructions": [
+      "Välj Karaktärer: Välj dina favoritkaraktärer, var och en erbjuder unika loopar och effekter.",
+      "Dra och Släpp: Placera dem på skärmen för att skapa friska ljudskikt.",
+      "Experimentera och Förfina: Justera volymer och byt karaktärer för att perfekta ditt spår.",
+      "Spara och Dela: Dela dina lugnande musikskapelser med andra spelare.",
+      "Utforska Variationer: Utveckla kontinuerligt ditt ljudlandskap för att matcha ditt humör."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar från Spelet Sprunki Blue"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg av Sprunki Blue",
+    "submitReviewLabel": "Skicka in din Recension",
+    "nameLabel": "Ditt Namn",
+    "reviewLabel": "Din Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunki Blue erbjuder en unik och lugnande upplevelse som är perfekt efter en lång dag.",
+        "author": "John Doe"
+      },
+      {
+        "content": "Den monokromatiska designen är visuellt tilltalande och bidrar till den immersiva upplevelsen.",
+        "author": "Jane Smith"
+      },
+      {
+        "content": "Älskar ljudlandskapen. De hjälplar mig att fokusera och koppla av samtidigt.",
+        "author": "Eric Wong"
+      },
+      {
+        "content": "En vacker blandning av lugnande visuella effekter och ljud. Rekommenderas varmt!",
+        "author": "Anna Lee"
+      },
+      {
+        "content": "Denna spelmod låter mig vara kompositör av min avkopplande musikresa.",
+        "author": "Mark Johnson"
+      },
+      {
+        "content": "Sprunki Blue förvandlar Sprunki-upplevelsen till en fridfull resa.",
+        "author": "Sophia Brown"
+      },
+      {
+        "content": "Enkelheten och skönheten i den blå paletten är oöverträffad.",
+        "author": "Chris Evans"
+      },
+      {
+        "content": "Det är fantastiskt hur en färgändring kan förbättra hela stämningen i spelet.",
+        "author": "Laura Green"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Vanliga Frågor om Sprunki Blue",
+    "questions": [
+      {
+        "question":"Vad är Sprunki Blue?",
+        "answer":"Sprunki Blue är en mod av det ursprungliga Sprunki-spelet som har en enhetlig blå färgpalett och lugnande ljudlandskap."
+      },
+      {
+        "question":"Hur sparar jag min musik i Sprunki Blue?",
+        "answer":"När du är nöjd med ditt spår finns det ett alternativ att spara och dela din musik inom spelet."
+      },
+      {
+        "question":"Kan jag spela Sprunki Blue på flera enheter?",
+        "answer":"Ja, Sprunki Blue finns tillgängligt på kompatibla enheter som stödjer det ursprungliga Sprunki-spelet."
+      },
+      {
+        "question":"Finns det en gemenskap för att dela skapelser?",
+        "answer":"Ja, spelare kan dela sina skapelser med Sprunki-gemenskapen och njuta av andras musikaliska kompositioner."
+      },
+      {
+        "question":"Behöver jag någon tidigare musik erfarenhet för att spela?",
+        "answer":"Nej, Sprunki Blue är utformat för spelare på alla erfarenhetsnivåer för att enkelt skapa och njuta av musik."
+      },
+      {
+        "question":"Finns det några kostnader kopplade till Sprunki Blue Mod?",
+        "answer":"Sprunki Blue finns som en gratis uppdatering för befintliga ägare av Sprunki-spelet."
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Rekommenderade Spel",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Red",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Chill Harmonics",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Melodic Ocean",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

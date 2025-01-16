@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunked Daytime Demo - Skab Din Egen Musikalske Eventyr",
+    "description": "Dyk ned i verdenen af Sprunked Daytime Demo, et unikt musikspil, der kombinerer elementer fra Sprunki og Incredibox. Skab dine egne melodier ved hjælp af en intuitiv scratch-grænseflade og del dine kreationer med verden.",
+    "keywords": "Sprunked, Sprunked Daytime Demo, Sprunki, Incredibox, musikspil, skab musik, musik eventyr"
+  },
+  "hero": {
+    "h1": "Sprunked (Dagdemo)",
+    "p": "Tag på en musikalsk rejse med Sprunked, hvor kreativitet møder sjov! Skab unikke melodier og udforsk uendelige musikalske muligheder."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunked",
+    "features": [
+      "Sømløs Scratch-grænseflade: Nem at starte med at lave musik med det samme.",
+      "Eklectic Lydbibliotek: Et mangfoldigt udvalg af sjove lyde.",
+      "Ubegribelig Musikalsk Udforskning: Ubegribelig kreativitet med dine melodier.",
+      "Forstærk Dine Kreationer: Del dine mesterværker med verden.",
+      "Lås Op for Nye Funktioner: Opdag flere karakterer og lyde, mens du spiller."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spilles Sprunked Daytime Demo",
+    "instructions": [
+      "Vælg Din Karakter: Vælg en quirky karakter med unikke lyde.",
+      "Udforsk Grænsefladen: Find og brug forskellige lyde og effekter.",
+      "Scratch for at Opdage Lyde: Find skjulte lydklip.",
+      "Komponer Dine Melodier: Lag og kombiner lyde for unikke numre.",
+      "Del Dine Kreationer: Vis din musik online eller med venner."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunked Daytime Demo Skærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Elsker virkelig grænsefladen, nem og intuitiv!",
+        "author": "Alice"
+      },
+      {
+        "content": "Lydbiblioteket er så mangfoldigt, jeg bruger timer på at skabe.",
+        "author": "Bob"
+      },
+      {
+        "content": "En fantastisk måde at blive kreativ og slappe af.",
+        "author": "Charlie"
+      },
+      {
+        "content": "At dele mine kreationer har aldrig været så sjovt.",
+        "author": "Dana"
+      },
+      {
+        "content": "At låse op for nye funktioner holder spillet friskt.",
+        "author": "Eli"
+      },
+      {
+        "content": "Fængslende og holder mine musikalske safter flydende!",
+        "author": "Frank"
+      },
+      {
+        "content": "Fællesskabet er så inspirerende, elsker at samarbejde.",
+        "author": "Grace"
+      },
+      {
+        "content": "Et must-play for alle, der elsker musik.",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte Stillede Spørgsmål om Sprunked",
+    "questions": [
+      {
+        "question": "Hvad er Incredibox Sprunked?",
+        "answer": "Det er en engagerende platform til at blande rytmer og udforske kreativitet med quirky karakterer."
+      },
+      {
+        "question": "Hvad er funktionerne i Sprunki Sprunked?",
+        "answer": "Fyldt med lyde, charmerende karakterer og effekter til at forbedre din musikoplevelse."
+      },
+      {
+        "question": "Hvad er historien bag Sprunked?",
+        "answer": "Skabt for at give en frisk oplevelse, tilføjer hver karakter personlighed til din rejse."
+      },
+      {
+        "question": "Hvad er Sprunked fællesskabets reaktion på Incredibox?",
+        "answer": "Meget elsket for sin fordybende oplevelse, der appellerer til et bredt publikum."
+      },
+      {
+        "question": "Hvorfor bør spillere elske at spille Sprunked?",
+        "answer": "For sine sjove stilarter, visuelle indtryk og uendelige kreative udtryk."
+      },
+      {
+        "question": "Hvad gør Sprunked speciel?",
+        "answer": "Nye lyde, visuelle elementer og interaktivitet løfter oplevelsen ud over forgængerne."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Anbefalet til Dig",
+    "games": [
+      {
+        "title": "Sprunki Dandys Verden",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Kataklysme",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

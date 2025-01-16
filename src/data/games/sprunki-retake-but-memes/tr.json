@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Ama Memler - Mizahın Müzikal Eğlencesi",
+    "description": "Sprunki Retake ama Memler Modunu keşfedin, burada internet mizahı müzikle bir araya geliyor. Mem temalı karakterler ve komik ses manzaralarıyla dolu bir dünyaya dalın, böylece bestelerinizi kahkaha dolu jam seanslarına dönüştürebilirsiniz.",
+    "keywords": "Sprunki Retake, Memler Modu, meme temalı karakterler, mizahi ses manzaraları, müzik yapma"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Ama Memler",
+    "p": "Sprunki Retake ama Memler Modunda kendinizi kaybedin, burada her müzik bestesi komik bir deneyim yaratabilir."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Mem Mod Özellikleri",
+    "features": [
+      "Meme Temalı Karakterler: Tanıdık memleri çağrıştıracak şekilde tarzlandırılmış, ikonik görseller ve eğlenceli sözlerle.",
+      "Mizahi Ses Manzaraları: Komik ses efektleriyle sıradışı döngüleri keşfedin.",
+      "Neşeli Kaos: Sınırsız eğlence ve tuhaf kombinasyonlarla deneme ortamı.",
+      "Oyunlu Animasyonlar: Bestelerinize komik bir dokunuş katacak dinamik animasyonlar.",
+      "İnternet Kaynaklı Mizah: Viral anlara ve ünlü memlere referanslar içeriyor."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Retake ama Memler Modunu Nasıl Oynarım",
+    "instructions": [
+      "Karakterleri Seçin: Mizahı ritimle birleştirmek için meme ilhamlı figürlerden birini seçin.",
+      "Sürükleyip Bırakın: Ekranda karakterleri düzenleyerek şaka dolu parçalar oluşturun.",
+      "Deneyin ve Eğlenin: Ses seviyelerini ayarlayın ve eğlenceli tuhaf karmaşalarla oynayın.",
+      "Kaydedin ve Paylaşın: Gülümseten melodilerinizi kaydedin ve arkadaşlarınızla paylaşın.",
+      "Gülün ve Tekrar Oynayın: Yeni komik kombinasyonlar bulmak için keşfetmeye devam edin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Müzik yapmanın bu kadar komik olabileceğini düşünmemiştim!",
+        "author": "Alex K."
+      },
+      {
+        "content": "Mizah ve yaratıcılığın mükemmel bir karışımı.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Sprunki Retake ama Memler Modu, anında kahkahalar için tercih ettiğim oyun.",
+        "author": "Sam R."
+      },
+      {
+        "content": "Her oturum yeni bir meme macerası gibi hissediliyor!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Müziklerimi arkadaşlarımla paylaştım ve bayıldılar.",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Eğer memler ve müzik seviyorsanız, bu oyunu denemelisiniz!",
+        "author": "Jordan W."
+      },
+      {
+        "content": "Sonsuz eğlence, yaratmaktan kendimi alamıyorum!",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Meme referansları tam yerinde!",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title":"SSS",
+    "questions": [
+      {
+        "question":"Karakteri nasıl seçebilirim?",
+        "answer":"Meme ilhamlı figürünüzü seçmek için karakter listesini tıklayın."
+      },
+      {
+        "question":"Müzik eserlerimi kaydedebilir miyim?",
+        "answer":"Evet, melodilerinizi kaydedip başkalarıyla paylaşabilirsiniz."
+      },
+      {
+        "question":"Herhangi bir eğitim mevcut mu?",
+        "answer":"Oyun, oynanışınıza rehberlik edecek sezgisel talimatlar sunar."
+      },
+      {
+        "question":"Oynamak için internet gerekli mi?",
+        "answer":"Hayır, ilk indirmeden sonra oyunu çevrimdışı oynayabilirsiniz."
+      },
+      {
+        "question":"Ses efektlerini özelleştirebilir miyim?",
+        "answer":"Ses seviyelerini ayarlayıp farklı ses kombinasyonlarıyla deneyler yapabilirsiniz."
+      },
+      {
+        "question":"Yeni memler ne sıklıkla ekleniyor?",
+        "answer":"Oyun, en son viral memleri içerecek şekilde düzenli olarak güncelleniyor."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Önerilen Oyunlar",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "Korku Modları",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Sprunki Modları",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki GreenCore: Tạo Nhạc Lấy Cảm Hứng Từ Thiên Nhiên | Quy Tắc & Tính Năng Của Game",
+    "description": "Khám phá thế giới ý thức về môi trường của Sprunki GreenCore, một mod do fan tạo ra của Incredibox. Tạo ra âm nhạc với hình ảnh và nhân vật lấy cảm hứng từ thiên nhiên. Tìm hiểu về quy tắc, tính năng, và nhận mẹo về cách chơi.",
+    "keywords": "Sprunki GreenCore, mod Incredibox, trò chơi lấy cảm hứng từ thiên nhiên, trò chơi tạo nhạc, tính năng trò chơi Sprunki, trò chơi ý thức về môi trường"
+  },
+  "hero": {
+    "h1": "Sprunki GreenCore",
+    "p": "Hòa mình vào nhịp điệu của thiên nhiên với Sprunki GreenCore, một mod độc đáo của Incredibox tôn vinh sự bền vững và môi trường thông qua việc tạo nhạc đầy thu hút."
+  },
+  "gameFeatures": {
+    "title": "Tính Năng Của Trò Chơi Sprunki GreenCore",
+    "features": [
+      "Hình Ảnh Lấy Cảm Hứng Từ Thiên Nhiên: Ngâm mình trong màu sắc sống động, tự nhiên với cây cối và các yếu tố tự nhiên.",
+      "Nhân Vật Theo Chủ Đề Môi Trường: Các nhân vật tượng trưng cho khái niệm bền vững như năng lượng tái tạo và bảo tồn động vật hoang dã.",
+      "Phần Thưởng Tương Tác: Mở khóa các hoạt hình thể hiện hành động thân thiện với môi trường như trồng cây.",
+      "Lối Chơi Trực Quan: Cơ chế kéo và thả đơn giản giúp việc tạo nhạc trở nên dễ dàng.",
+      "Nhạc Tùy Chỉnh: Kết hợp nhịp, hiệu ứng và giọng hát để sáng tạo ra những tác phẩm độc đáo."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sprunki GreenCore",
+    "instructions": [
+      "Bắt Đầu Trò Chơi: Khởi động Sprunki GreenCore trên nền tảng bạn chọn.",
+      "Kéo Nhân Vật: Chọn và kéo nhân vật lên sân khấu để kích hoạt âm thanh.",
+      "Kết Hợp Âm Thanh: Kết hợp nhịp, hiệu ứng và giọng hát để tạo ra âm nhạc của riêng bạn.",
+      "Mở Khóa Phần Thưởng: Thử nghiệm với các kết hợp để khám phá các hoạt hình đặc biệt.",
+      "Lưu & Chia Sẻ: Lưu trữ các tác phẩm của bạn và chia sẻ với bạn bè."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình Sprunki GreenCore"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi Về Sprunki GreenCore",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên",
+    "reviewLabel": "Đánh Giá",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Một cách làm mới quá thú vị cho các trò chơi âm nhạc! Thích chủ đề thân thiện với môi trường!",
+        "author": "Anna K."
+      },
+      {
+        "content": "Hình ảnh tuyệt đẹp và thực sự phản ánh vẻ đẹp của thiên nhiên!",
+        "author": "John M."
+      },
+      {
+        "content": "Mở khóa hoạt hình thật sự mang lại cảm giác tuyệt vời, và âm nhạc thì tuyệt vời!",
+        "author": "Sophie L."
+      },
+      {
+        "content": "Hoàn hảo cho bất kỳ ai quan tâm đến sự bền vững và sự sáng tạo.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Thật tuyệt vời khi thấy việc tạo ra một thứ đẹp đẽ và đáng nhớ lại dễ dàng đến như vậy.",
+        "author": "Rachel F."
+      },
+      {
+        "content": "Một sự kết hợp tuyệt vời giữa nghệ thuật, âm nhạc và ý thức về môi trường!",
+        "author": "Tommy H."
+      },
+      {
+        "content": "Tuyệt vời cho mọi lứa tuổi! Bọn trẻ nhà tôi rất thích, và nó cũng rất có tính giáo dục!",
+        "author": "Sandra A."
+      },
+      {
+        "content": "Tôi hoàn toàn yêu thích các nhân vật và thông điệp về môi trường của họ.",
+        "author": "Liam G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp Về Sprunki GreenCore",
+    "questions": [
+      {
+        "question": "Sprunki GreenCore có trên những nền tảng nào?",
+        "answer": "Sprunki GreenCore có sẵn trên nhiều nền tảng khác nhau bao gồm PC, Mac và thiết bị di động."
+      },
+      {
+        "question": "Sprunki GreenCore có phải là một mod miễn phí không?",
+        "answer": "Có, Sprunki GreenCore là một mod do fan tạo ra và miễn phí để tải về và chơi."
+      },
+      {
+        "question": "Làm thế nào để tôi lưu và chia sẻ các tác phẩm của mình?",
+        "answer": "Bạn có thể lưu các tác phẩm của mình bằng cách nhấp vào biểu tượng 'lưu' và chia sẻ trực tiếp từ trò chơi bằng cách chọn tùy chọn 'chia sẻ'."
+      },
+      {
+        "question": "Tôi có thể chơi Sprunki GreenCore cùng bạn bè không?",
+        "answer": "Hiện tại, Sprunki GreenCore không hỗ trợ chế độ chơi nhiều người, nhưng bạn có thể chia sẻ các tác phẩm của mình với bạn bè."
+      },
+      {
+        "question": "Có mua hàng trong ứng dụng nào không trong Sprunki GreenCore?",
+        "answer": "Không, không có mua hàng trong ứng dụng hay quảng cáo trong Sprunki GreenCore."
+      },
+      {
+        "question": "Có bao nhiêu bản cập nhật mới được phát hành?",
+        "answer": "Các bản cập nhật cho Sprunki GreenCore được phát hành định kỳ, tập trung vào các tính năng mới và tối ưu hóa lối chơi."
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Baba is You - Jeu de Puzzle Innovant",
+    "description": "Découvrez 'Baba is You', un jeu de puzzle primé où vous changez les règles pour résoudre des défis. Testez votre logique et créativité maintenant !",
+    "keywords": "Baba is You, jeu Baba is You, jeu de puzzle, jeu de puzzle créatif, jeu indépendant"
+  },
+  "hero": {
+    "h1": "Baba is You - Changez les Règles, Défiez Votre Logique !",
+    "p": "'Baba is You' est un jeu de puzzle unique où vous manipulez des blocs de règles pour créer de toutes nouvelles façons de résoudre des énigmes. Plongez dans ce jeu acclamé par la critique et libérez votre créativité !"
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques du Jeu",
+    "features": [
+      "Mécanique innovante : Changez les règles du jeu en déplaçant des blocs de règles.",
+      "Conception de niveaux variée : Plus de 200 niveaux pour défier votre logique.",
+      "Support multiplateforme : Disponible sur PC, Nintendo Switch, Google Play et App Store.",
+      "Jeu primé : Lauréat du prix du meilleur design et du prix du public du Independent Games Festival.",
+      "Créativité sans fin : Explorez d'innombrables solutions et laissez libre cours à votre imagination."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer",
+    "instructions": [
+      "Téléchargez et installez 'Baba is You' sur votre appareil.",
+      "Familiarisez-vous avec les blocs de règles de base comme 'Baba Est Vous' et 'Drapeau Est Victoire'.",
+      "Déplacez les blocs de règles pour modifier la logique du jeu et atteindre vos objectifs.",
+      "Complétez les objectifs de niveau (par exemple, toucher le drapeau) pour gagner.",
+      "Profitez du jeu tout en défiant votre logique et votre créativité !"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "'Baba is You' est un jeu éblouissant ! La liberté de manipuler les règles le rend incroyablement amusant.",
+        "author": "John Doe",
+        "rating": 5
+      },
+      {
+        "content": "La conception de ce jeu est tellement créative. Chaque niveau semble difficile mais extrêmement gratifiant !",
+        "author": "Jane Smith",
+        "rating": 5
+      },
+      {
+        "content": "Du style artistique au gameplay, 'Baba is You' est une bouffée d'air frais. Hautement recommandé pour les fans de puzzles !",
+        "author": "Alex Johnson",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Sur quelles plateformes 'Baba is You' est-il disponible ?",
+        "answer": "Le jeu est disponible sur PC, Nintendo Switch, Google Play et App Store."
+      },
+      {
+        "question": "Le jeu convient-il à tous les âges ?",
+        "answer": "Oui, 'Baba is You' est un jeu de puzzle adapté aux joueurs de tous âges."
+      },
+      {
+        "question": "Le jeu inclut-il des achats intégrés ?",
+        "answer": "Le jeu est un achat unique et comprend tous les niveaux sans achats intégrés supplémentaires."
+      },
+      {
+        "question": "Où puis-je télécharger 'Baba is You' ?",
+        "answer": "Vous pouvez télécharger le jeu sur des plateformes majeures comme Steam, Google Play et l'App Store."
+      },
+      {
+        "question": "Le jeu supporte-t-il plusieurs langues ?",
+        "answer": "Oui, 'Baba is You' supporte plusieurs langues, y compris l'anglais et le chinois."
+      },
+      {
+        "question": "Y a-t-il des ressources communautaires ou guides disponibles ?",
+        "answer": "Vous pouvez trouver des ressources communautaires et des guides sur divers réseaux sociaux et forums."
+      }
+    ]
+  }
+}

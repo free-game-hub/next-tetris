@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki SUS - Ultimate Musical Adventure on Spunky Game",
+    "description": "Udforsk den unikke musikverden i Sprunki SUS på Spunky Game. Spill med det samme i din browser, skab musikkompositioner, og del med gaming fællesskabet. Ingen downloads nødvendige!",
+    "keywords": "Sprunki SUS, Spunky Game, online rytmespil, musikalsk kreativitet, browser spil"
+  },
+  "hero": {
+    "h1": "Sprunki SUS",
+    "p": "Deltag i det ultimative musikalske eventyr med Sprunki SUS, et rytmespil der udfordrer din kreativitet. Mix, del, og nyd unikke beats direkte i din browser på Spunky Game."
+  },
+  "gameFeatures": {
+    "title": "Nøglefunktioner i Sprunki SUS på Spunky Game",
+    "features": [
+      "Intuitive Kontroller: Brugervenligt interface der passer til alle niveauer.",
+      "Øjeblikkelig Spil: Ingen download nødvendig – spil direkte i din browser.",
+      "Præstationssystem: Tjen belønninger mens du gennemfører niveauer.",
+      "Fællesskabsfunktioner: Forbind og del dine kreationer med andre spillere.",
+      "Mangfoldige Lydstile: Eksperimenter med forskellige musikgenrer og stilarter."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan spiller du Sprunki SUS på Spunky Game",
+    "instructions": [
+      "Vælg din Karakter: Vælg mellem unikke Sprunki SUS karakterer med forskellige musikalske evner.",
+      "Skab dit Mix: Kombiner forskellige karakterer for at producere fantastiske musikalske kombinationer.",
+      "Del & Nyd: Gem dine kreationer og del dem i Spunky Game fællesskabet.",
+      "Naviger Kontroller: Brug din mus til drag-and-drop handlinger og tastaturgenveje til avancerede kontroller.",
+      "Udforsk Tilstande: Oplev forskellige spiltyper som Klassisk, Udfordring, Fristil og Samarbejde."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki SUS Spilskærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser for Sprunki SUS",
+    "submitReviewLabel": "Indsend din anmeldelse",
+    "nameLabel": "Dit navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Et utrolig sjovt og kreativt spil! Fællesskabsaspektet er fantastisk.",
+        "author": "Alex G."
+      },
+      {
+        "content": "Jeg elsker hvor nemt det er at komme i gang uden download. Perfekt til hurtige sessioner!",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Variationen af musikalske stilarter får mig til at komme tilbage. Anbefales på det varmeste!",
+        "author": "Sam R."
+      },
+      {
+        "content": "Sprunki SUS er et mesterværk inden for afslappet gaming. Et must-try for musikelskere.",
+        "author": "Casey L."
+      },
+      {
+        "content": "Interfacet er intuitivt og gameplayet er så medrivende!",
+        "author": "Jamie H."
+      },
+      {
+        "content": "Perfekt blanding af kreativitet og sjov. At dele med venner er en fest!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "En fantastisk måde at udforske og udtrykke musikalsk kreativitet på. Elsker det!",
+        "author": "Riley S."
+      },
+      {
+        "content": "Jeg kan ikke tro, at jeg kan lave musik så nemt i et spil. Vanedannende!",
+        "author": "Morgan P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte stillede spørgsmål om Sprunki SUS",
+    "questions": [
+      {
+        "question":"Hvad gør Sprunki SUS unik i Spunky Game?",
+        "answer":"Sprunki SUS tilbyder et innovativt twist med unikke karakterdesign og musikalske elementer."
+      },
+      {
+        "question":"Hvordan starter jeg med at spille Sprunki SUS på Spunky Game?",
+        "answer":"Besøg Spunky Games hjemmeside, vælg Sprunki SUS, og begynd at mixe med drag-and-drop interfacet."
+      },
+      {
+        "question":"Kan jeg gemme mine Sprunki SUS kreationer?",
+        "answer":"Ja, du kan gemme og dele dine musikkompositioner med andre spillere."
+      },
+      {
+        "question":"Hvilke kontroller bruges i Sprunki SUS?",
+        "answer":"Brug din mus til at trække og slippe karakterer, og tastaturgenveje til yderligere kontroller."
+      },
+      {
+        "question":"Er Sprunki SUS egnet for begyndere?",
+        "answer":"Absolut! Det er designet til at være tilgængeligt for nybegyndere, men tilbyder også dybde for erfarne spillere."
+      },
+      {
+        "question":"Hvor mange lydlag kan jeg kombinere i Sprunki SUS?",
+        "answer":"Du kan kombinere flere lydlag for rige musikkompositioner."
+      }
+    ]
+  }
+}

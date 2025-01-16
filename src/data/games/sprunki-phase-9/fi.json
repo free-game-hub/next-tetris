@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 9 - Syöksy rytmi-pohjaiseen alustapeliin",
+    "description": "Tutustu ainulaatuiseen rytmin ja alustapelin yhdistelmään Sprunki Phase 9:ssä. Luo musiikkia, kohtaa haasteita ja sukeltaa lumoavaan, unimaaliseen maailmaan.",
+    "keywords": "Sprunki Phase 9, rytmi-pohjainen peli, alustapeli, musiikin luominen, Incredibox-tyyli"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 9",
+    "p": "Koe rytmi-pohjaisen pelin ja alustapelin ainutlaatuinen fuusio värikkäässä Sprunki Phase 9:n maailmassa. Luo musiikkia ja löydä haasteita ylimaallisessa ympäristössä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Phase 9:n keskeiset ominaisuudet",
+    "features": [
+      "Laajennettu musiikin luominen: Rakenna kokonaisia sävellyksiä useista äänikerroksista.",
+      "Parannetut hahmovoimat: Hyödynnä rytmihyppyjä ja rytmiboostia.",
+      "Rytmi-pohjaiset pulmat ja esteet: Synkronoi toiminta ääniraidan kanssa.",
+      "Interaktiiviset ympäristöt: Reagoi pelaajan musiikillisiin luomuksiin.",
+      "Pääpomo-osumat musiikillisilla strategioilla: Koordinoi toimintaasi voittaaksesi haasteet."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Näin pelaat Sprunki Phase 9",
+    "instructions": [
+      "Liiku alustahäiriöiden läpi avataksesi äänikerroksia.",
+      "Sekoita rytmejä, melodioita ja lauluja luodaksesi omia ääniraitojasi.",
+      "Hallitse rytmi-pohjaiset pulmat tarkalla ääniraidan ajoituksella.",
+      "Vaihda hahmojen välillä mukauttaaksesi musiikkia ja pelistrategioita.",
+      "Koordinoi musiikkikerroksia voittaaksesi tason pomot."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 9 Pelikuva"
+  },
+  "playerReviews": {
+    "title": "Mitä pelaajat sanovat Sprunki Phase 9:stä",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Rytmi-pohjaiset pulmat ovat sekä haastavia että hauskoja!",
+        "author": "Alex R."
+      },
+      {
+        "content": "Rakastan interaktiivisia ympäristöjä ja sitä, miten ne reagoivat musiikkiini.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Hahmojen vaihto lisää strategisen kerroksen pelimekaniikkaan.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Aikuisenani luomani ääniraita on uskomattoman mukaansatempaava.",
+        "author": "Casey D."
+      },
+      {
+        "content": "Phase 9 vie Sprunki-sarjan uudelle tasolle musiikin integroinnin ansiosta.",
+        "author": "Taylor F."
+      },
+      {
+        "content": "Unimaailman visuaalit ovat upeita ja koukuttavia.",
+        "author": "Morgan E."
+      },
+      {
+        "content": "Pääpomo-taistelut musiikillisilla strategioilla ovat ainutlaatuisia ja tyydyttäviä.",
+        "author": "Jordan K."
+      },
+      {
+        "content": "Sprunki Phase 9 on täydellinen yhdistelmä musiikkia ja pelaamista.",
+        "author": "Riley B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein kysytyt kysymykset Sprunki Phase 9:stä",
+    "questions": [
+      {
+        "question": "Millä alustoilla Sprunki Phase 9 on saatavilla?",
+        "answer": "Sprunki Phase 9 on saatavilla PC:llä, Xboxilla, PlayStationilla ja Nintendo Switchillä."
+      },
+      {
+        "question": "Voinko muokata musiikkia jokaisessa tasossa?",
+        "answer": "Kyllä, voit kokeilla rytmejä, bassolinjoja ja lauluraitoja luodaksesi ainutlaatuisia sekoituksia."
+      },
+      {
+        "question": "Onko Sprunki Phase 9:ssä moninpelimahdollisuuksia?",
+        "answer": "Tällä hetkellä Sprunki Phase 9 keskittyy yksinpelikokemukseen."
+      },
+      {
+        "question": "Miten pääpomo-ottelut toimivat?",
+        "answer": "Pelaajat käyttävät musiikkikerroksiaan strategisesti vaikuttaakseen ja heikentääkseen pomoa."
+      },
+      {
+        "question": "Onko olemassa opastusta, joka auttaa pääsemään alkuun?",
+        "answer": "Kyllä, pelissä on opastus, joka ohjaa pelaajia pelin perusasioiden läpi."
+      },
+      {
+        "question": "Voinko pelata tasoja uudelleen luodakseni erilaisia ääniraitoja?",
+        "answer": "Ehdottomasti, tasoja voidaan pelata uudelleen uusien musiikillisten yhdistelmien tutkimiseksi."
+      }
+    ]
+  }
+}

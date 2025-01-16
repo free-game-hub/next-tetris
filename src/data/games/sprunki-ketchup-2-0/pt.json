@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - Melhore Sua Experiência de Música de Horror",
+    "description": "Mergulhe no mundo assustador de Sprunki Ketchup 2.0, onde a criação musical se torna uma experiência perturbadora. Descubra as regras do jogo, características e opiniões dos jogadores.",
+    "keywords": "Sprunki Ketchup 2.0, jogo de música de horror, paisagens sonoras assustadoras, recursos do jogo, opiniões dos jogadores"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "Explore os reinos inquietantes de Sprunki Ketchup 2.0, onde o horror encontra a música em uma experiência de jogo eletrizante."
+  },
+  "gameFeatures": {
+    "title": "Principais Recursos de Sprunki Ketchup 2.0",
+    "features": [
+      "Estética de Horror Intensificada com designs de personagens ameaçadores.",
+      "Paisagens Sonoras Mais Sombras e loops sinistros.",
+      "Suspense Aumentado com camadas musicais experimentais.",
+      "Personagens complexos e cenários inquietantes.",
+      "Compartilhe suas criações com uma comunidade de entusiastas do horror."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Ketchup 2.0",
+    "instructions": [
+      "Selecione Personagens: Escolha figuras que irradiam um charme assustador.",
+      "Arraste e solte-os em sua tela para criar composições arrepiantes.",
+      "Experimente com volume e efeitos para alcançar a perfeição apavorante.",
+      "Refine suas camadas para descobrir elementos ocultos de medo.",
+      "Salve e compartilhe suas composições de música de horror com amigos."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela de Sprunki Ketchup 2.0"
+  },
+  "playerReviews": {
+    "title": "O Que os Jogadores Dizem Sobre Sprunki Ketchup 2.0",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Este jogo revolucionou o horror na música—é uma experiência imperdível para os amantes de emoções fortes.",
+        "author": "Alex"
+      },
+      {
+        "content": "Nunca me senti tão ansioso ao criar melodias, o suspense é real!",
+        "author": "Jamie"
+      },
+      {
+        "content": "A combinação perfeita de música e horror. Sprunki Ketchup 2.0 me prende!",
+        "author": "Chris"
+      },
+      {
+        "content": "As paisagens sonoras assombradas são de tirar o fôlego. Prepare-se para se assustar.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Ótimo para festas de Halloween, toque alto e assuste seus amigos!",
+        "author": "Casey"
+      },
+      {
+        "content": "Amo completamente as vibrações assustadoras e a liberdade criativa que oferece.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0 é uma experiência como nenhuma outra. Altamente recomendado.",
+        "author": "Morgan"
+      },
+      {
+        "content": "A atmosfera do jogo é intensamente arrepiante e perfeita para fãs de horror.",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes sobre Sprunki Ketchup 2.0",
+    "questions": [
+      {
+        "question": "O que é Sprunki Ketchup 2.0?",
+        "answer": "Sprunki Ketchup 2.0 é um jogo de música temático de horror que apresenta paisagens sonoras e visuais perturbadores."
+      },
+      {
+        "question": "Como eu crio música neste jogo?",
+        "answer": "Escolha e organize loops de personagens assustadores na tela para compor suas próprias faixas assombrosas."
+      },
+      {
+        "question": "Posso compartilhar minhas criações musicais?",
+        "answer": "Sim, você pode salvar e compartilhar suas composições com outros jogadores."
+      },
+      {
+        "question": "Sprunki Ketchup 2.0 é adequado para crianças?",
+        "answer": "É recomendado para audiência madura devido aos seus elementos de horror."
+      },
+      {
+        "question": "Existem compras dentro do jogo?",
+        "answer": "Sprunki Ketchup 2.0 oferece várias características disponíveis para expansão por meio de compras dentro do jogo."
+      },
+      {
+        "question": "Quais plataformas suportam Sprunki Ketchup 2.0?",
+        "answer": "O jogo está disponível nas principais plataformas de jogos, incluindo PC e consoles."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Jogos Recomendados",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "Ecos Emocionantes",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "Harmônicas Assombradas",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "Sinfonia das Sombras",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

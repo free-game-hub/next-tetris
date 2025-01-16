@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Purrgatory - 風変わりな死後の世界のビジュアルノベル",
+    "description": "時間が止まった死後の世界、Purrgatoryの魅力的な世界を探索しましょう。個性的なキャラクターに出会い、謎を解き、手描きの体験を楽しんでください。",
+    "keywords": "Purrgatory, ビジュアルノベル, 死後の世界のゲーム, ポイントアンドクリック, 風変わりなキャラクター, ゲーム機能"
+  },
+  "hero": {
+    "h1": "Purrgatory - 風変わりな死後の冒険",
+    "p": "Purrgatoryへ飛び込み、風変わりなビジュアルノベルの世界を楽しみましょう。魅力的なキャラクターと友達になり、「永遠」がそんなに悪くないことを発見してください！"
+  },
+  "gameFeatures": {
+    "title": "Purrgatory ゲームの特徴",
+    "features": [
+      "魅力的なポイントアンドクリック操作",
+      "可愛らしいキャラクターの手描きビジュアル",
+      "複数のエンディングとストーリー重視の体験",
+      "英語、スペイン語、簡体中国語で利用可能",
+      "'I Can't Draw' Game Jamの受賞作"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Purrgatoryの遊び方",
+    "instructions": [
+      "マウスを使って世界と対話。",
+      "素早く移動するためにキーボードを使用。",
+      "秘密を明らかにするためにさまざまな場所を探索。",
+      "物語を進めるためにパズルを解決。",
+      "キャラクターとの対話で彼らの物語を学ぶ。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Purrgatory ゲームのスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "Purrgatory についてのプレイヤーの声",
+    "submitReviewLabel": "レビューを投稿",
+    "nameLabel": "名前",
+    "reviewLabel": "レビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "停電の部分で詰まったが、コミュニティから助けを得た！みんなの協力精神が大好き！",
+        "author": "Blormp"
+      },
+      {
+        "content": "雰囲気とキャラクターの友情が素晴らしい。頭から離れない！",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "1年後に戻ってクリアしました。この美しい物語を体験できたことに感謝。",
+        "author": "kayak"
+      },
+      {
+        "content": "キャラクターが非常によく考えられている。ゲームの良いエンディングに感動した。",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatoryは、各キャラクターに動物の姿に合ったユニークな個性を提供します。",
+        "author": "dizie"
+      },
+      {
+        "content": "絶対に心温まる旅で、面白い駄洒落がいっぱいです！",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "美しい物語と魅力的なキャラクターがすぐに私を引き込んだ。",
+        "author": "Maple"
+      },
+      {
+        "content": "このゲームのシンプルさが人生のシンプルさと喜びを捉えています。",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "よくある質問",
+    "questions": [
+      {
+        "question": "Purrgatoryはどのプラットフォームで利用可能ですか？",
+        "answer": "PurrgatoryはHTML5とWindowsプラットフォームでプレイできます。"
+      },
+      {
+        "question": "停電時のパズルをどうやって解決するの？",
+        "answer": "光源としてろうそくを得るためにナタリーの場所を訪れてみてください。"
+      },
+      {
+        "question": "ゲームには複数のエンディングがありますか？",
+        "answer": "はい、Purrgatoryにはあなたの選択に基づく複数のエンディングがあります。"
+      },
+      {
+        "question": "Purrgatoryは何語で利用可能ですか？",
+        "answer": "英語、スペイン語、簡体中国語で利用可能です。"
+      },
+      {
+        "question": "Purrgatoryのサウンドトラックはありますか？",
+        "answer": "はい、オリジナルサウンドトラックはさまざまなプラットフォームで配信されています。"
+      },
+      {
+        "question": "ゲームが起動しない場合はどうすればいいですか？",
+        "answer": "ページを更新するか、別のブラウザを使用してみてください。より良いパフォーマンスのために、Windowsバージョンをダウンロードしてください。"
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "風変わりな旅",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "夢のような死後の世界",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "神秘的な冒険",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Incredibox Majonez - Najsłodszy Mod Muzyczny Sprunki! | Kremowe Wibracje",
+    "description": "Gotowy na najbardziej relaksujące doznania z Incredibox? Zanurz się w wersji Majonez Sprunki - gdzie kremowe kolory spotykają się z muzyczną kreatywnością! Ten mod stworzony przez fanów skradnie Twoje serce dzięki kojącym wizualizacjom i zabawnym projektom postaci.",
+    "keywords": "incredibox majonez, mod sprunki, gra tworzenia muzyki, relaksująca rozgrywka, muzyka incredibox, wersja majonez sprunki, twórca muzyki"
+  },
+  "hero": {
+    "h1": "Sprunki: Wersja Majonez - Gdzie Muzyka Staje Się Kremowa!",
+    "p": "Cześć, twórco muzyki! Gotowy na najgładszą, najkremowszą wersję Sprunki? Przygotuj się na muzyczną podróż, która jest tak gładka jak majonez! 🎵"
+  },
+  "gameFeatures": {
+    "title": "Dlaczego Pokochasz Ten Mod",
+    "features": [
+      "Super kojąca paleta kolorów inspirowana majonezem - to jak wizualne ASMR! 🎨",
+      "Uroczo zaprojektowane postaci, które sprawią, że powiesz 'aww'",
+      "Najbardziej relaksująca atmosfera rozgrywki, jaką kiedykolwiek doświadczyłeś w Incredibox",
+      "Wszystkie Twoje ulubione dźwięki Sprunki, teraz z dodatkową gładkością",
+      "Idealne, gdy potrzebujesz przerwy od ostrzejszego Modu Musztardowego",
+      "Całkowicie nowe podejście do tworzenia muzyki, które sprawi, że wrócisz po więcej!"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Stworzyć Swoją Majonezową Muzykę",
+    "instructions": [
+      "Krok 1: Wybierz swoje ulubione kremowe postaci (wszystkie są super urocze!)",
+      "Krok 2: Przeciągnij tych gładkich operatorów na swoją scenę",
+      "Krok 3: Mieszaj i dopasowuj, aby stworzyć swoją doskonałą majonezową arcydzieło",
+      "Krok 4: Odkryj niesamowite dźwiękowe połączenia z naszym kapryśnym zespołem",
+      "Pro wskazówka: Po prostu zrelaksuj się i pozwól, by kreatywność płynęła - to tak gładkie jak majonez! 🎶"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zajawka: Kremowy Świat Wersji Majonez"
+  },
+  "playerReviews": {
+    "title": "Co Mówi Nasza Społeczność Miłośników Majonezu",
+    "submitReviewLabel": "Podziel się Swoimi Doświadczeniami",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Opowiedz Nam Swoją Historię",
+    "submitButtonLabel": "Podziel się Miłością",
+    "reviews": [
+      {
+        "content": "Ten mod to dosłownie moja codzienna dawka relaksu! Tak terapeutyczne! ✨",
+        "author": "MuzycznyMiłośnik123"
+      },
+      {
+        "content": "Miłe kolory sprawiają, że moje sesje tworzenia muzyki są dużo przyjemniejsze!",
+        "author": "TwórcaRytmów"
+      },
+      {
+        "content": "Znacznie bardziej relaksujące niż oryginał - idealne na nocne sesje muzyczne",
+        "author": "TylkoRelaksoweWibracje"
+      },
+      {
+        "content": "Nie mogę przestać grać! Tematyka majonezowa jest zaskakująco uzależniająca",
+        "author": "KreatywneRytmy"
+      },
+      {
+        "content": "Najlepszy mod ever! Gładkie wizualizacje naprawdę pomagają mojej kreatywności płynąć",
+        "author": "MistrzMajonezu"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Twoje Pytania o Majonezy Muzykę Odpowiedziane!",
+    "questions": [
+      {
+        "question": "Co sprawia, że Wersja Majonez jest tak wyjątkowa?",
+        "answer": "To jak dać swojej ulubionej Incredibox ciepły, kremowy uścisk! Wzięliśmy wszystko, co kochasz w Sprunki i uczyniliśmy to super relaksującym z wizualizacjami inspirowanymi majonezem i najbardziej odprężającą atmosferą, jaką kiedykolwiek doświadczyłeś!"
+      },
+      {
+        "question": "Jak bardzo różni się od innych modów Sprunki?",
+        "answer": "Myśl o tym jak o ostatecznej wersji relaksacyjnej! Podczas gdy inne mody mogą być pełne energii, my stawiamy na gładkie, relaksujące wrażenie. Idealne, gdy potrzebujesz odprężenia!"
+      },
+      {
+        "question": "Czy jest podobna do Modu Musztardowego?",
+        "answer": "Są jak kuzyni! Podczas gdy Musztarda dodaje pikantności, Majonez wprowadza gładkie wibracje. Jeśli kochałeś Musztardę, z pewnością pokochasz ten kremowy twist!"
+      },
+      {
+        "question": "Czy moje stare umiejętności Incredibox zadziałają tutaj?",
+        "answer": "Absolutnie! Te same świetne mechaniki, które kochasz, tylko z dodatkową porcją gładkości. To super łatwe, aby od razu wskoczyć!"
+      },
+      {
+        "question": "Gdzie mogę zdobyć ten mod?",
+        "answer": "Możesz go pobrać bezpośrednio ze strony oficjalnych Modów Sprunki - jest całkowicie darmowy i gotowy, by uczynić Twój dzień gładszym!"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Więcej Muzycznych Przygód Czeka!",
+    "games": [
+      {
+        "title": "Sprunki: Nudna Edycja",
+        "description": "Kiedy potrzebujesz minimalistycznych wibracji w swoim życiu"
+      },
+      {
+        "title": "Sprunki GreenCore",
+        "description": "Dla tych, którzy lubią swoje bity z odrobiną natury"
+      },
+      {
+        "title": "Underprunki 2.0",
+        "description": "Zabierz swoją muzykę do podziemnej sceny"
+      }
+    ]
+  }
+}

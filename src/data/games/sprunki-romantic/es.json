@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Romantic | Juega el Juego de Música Romántica en Línea Definitivo",
+    "description": "Embárcate en una aventura musical con Sprunki Romantic, un emocionante juego de creación musical en línea. Crea melodías románticas y comparte tus composiciones únicas.",
+    "keywords": "Sprunki Romantic, juego de música, crea música en línea, juega Sprunki Romantic, características de Sprunki Romantic"
+  },
+  "hero": {
+    "h1": "Sprunki Romantic",
+    "p": "Sumérgete en el encantador mundo de Sprunki Romantic, donde la música y el amor se entrelazan. Crea y comparte tus propias composiciones románticas directamente en tu navegador."
+  },
+  "gameFeatures": {
+    "title": "Características Clave de Sprunki Romantic",
+    "features": [
+      "Interfaz Intuitiva: Controles fáciles para crear música accesibles para todos.",
+      "Amplia Biblioteca de Sonidos: Explora sonidos y bucles románticos diversos.",
+      "Mezcla en Tiempo Real: Ajusta tus composiciones al instante.",
+      "Comparte Creaciones: Exporta y comparte tus obras maestras musicales.",
+      "Efectos Visuales Románticos: Mejora tu música con animaciones temáticas."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki Romantic",
+    "instructions": [
+      "Elige Tus Sonidos: Selecciona entre una variedad de elementos musicales.",
+      "Crea Tu Mezcla: Combina diferentes sonidos para una composición única.",
+      "Comparte y Disfruta: Guarda y comparte tus creaciones con otros.",
+      "Modo Armonía: Mezcla melodías para expresar emociones.",
+      "Modo Dúo: Colabora y combina composiciones con otros."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla de Sprunki Romantic"
+  },
+  "playerReviews": {
+    "title": "Reseñas de Jugadores de Sprunki Romantic",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki Romantic es una hermosa combinación de música y creatividad. ¡Me encanta!",
+        "author": "Alice W."
+      },
+      {
+        "content": "La interfaz intuitiva hace que sea fácil crear composiciones impresionantes.",
+        "author": "John D."
+      },
+      {
+        "content": "Una maravillosa manera de explorar temas de música romántica. ¡Altamente recomendado!",
+        "author": "Sarah T."
+      },
+      {
+        "content": "La función de mezcla en tiempo real es fantástica para la creatividad en vivo.",
+        "author": "Ryan L."
+      },
+      {
+        "content": "Sprunki Romantic ofrece posibilidades infinitas para crear música única.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Una plataforma increíble tanto para principiantes como para músicos experimentados.",
+        "author": "Clara M."
+      },
+      {
+        "content": "Me encanta la función de compartir que me permite mostrar mis creaciones fácilmente.",
+        "author": "Sophia K."
+      },
+      {
+        "content": "Una mezcla perfecta de juego y creatividad musical. ¡Muy envolvente!",
+        "author": "Michael B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre Sprunki Romantic",
+    "questions": [
+      {
+        "question": "¿Qué hace a Sprunki Romantic único en comparación con otros juegos de música?",
+        "answer": "Sprunki Romantic ofrece melodías románticas y beatboxing interactivo, distinto con sus paisajes sonoros temáticos de amor."
+      },
+      {
+        "question": "¿Cómo puedo crear música en Sprunki Romantic?",
+        "answer": "Arrastra y suelta personajes en el escenario para mezclar ritmos y melodías románticas. Cada personaje aporta sonidos únicos."
+      },
+      {
+        "question": "¿Puedo guardar mis composiciones de Sprunki Romantic?",
+        "answer": "Sí, tus creaciones pueden ser guardadas y compartidas con otros en la comunidad de Sprunki."
+      },
+      {
+        "question": "¿Es Sprunki Romantic adecuado para principiantes?",
+        "answer": "¡Absolutamente! Diseñado tanto para nuevos jugadores como para experimentados, con controles intuitivos."
+      },
+      {
+        "question": "¿Hay diferentes modos en Sprunki Romantic?",
+        "answer": "Sí, incluyendo el Modo Armonía para mezclar melodías y el Modo Dúo para colaboración."
+      },
+      {
+        "question": "¿Puedo colaborar con otros en Sprunki Romantic?",
+        "answer": "Sí, comparte tus creaciones e inspírate en las mezclas de otros jugadores."
+      }
+    ]
+  }
+}

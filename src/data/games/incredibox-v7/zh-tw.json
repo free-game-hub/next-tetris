@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: 創造屬於你的音樂節拍",
+    "description": "來玩 Incredibox V7，這是一款創意音樂遊戲，你可以操控 Incredicrew 創造獨特的節拍。探索遊戲特色、規則及玩家評價。",
+    "keywords": "Incredibox V7, 音樂遊戲, Incredicrew, 創造節拍, Incredibox 特色"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "走進 Incredibox V7 的世界，釋放你的音樂創意。操控 Incredicrew 創造獨一無二的旋律和節拍。"
+  },
+  "gameFeatures": {
+    "title": "Incredibox V7 遊戲特色",
+    "features": [
+      "操控 Incredicrew - 每個角色都有獨特的音效能力。",
+      "多樣的音樂風格和主題等你探索。",
+      "無限創意，沒有對錯的玩法。",
+      "與社群分享你的音樂創作。",
+      "對於滑鼠和鍵盤控制的友好介面。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Incredibox V7",
+    "instructions": [
+      "選擇角色：從各種角色中選擇，每個角色都有特殊能力和動畫。",
+      "選擇歌曲：挑選你喜愛的音樂風格或主題開始創作。",
+      "遊戲玩法：結合聲音和節奏，打造獨特的節拍。",
+      "使用滑鼠：點擊角色來添加或移除聲音。",
+      "使用鍵盤：利用快捷鍵快速操作聲音。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 的截圖"
+  },
+  "playerReviews": {
+    "title": "玩家對 Incredibox V7 的評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Incredibox V7 是探索音樂創作的有趣方式！",
+        "author": "艾莉斯"
+      },
+      {
+        "content": "我喜歡可以創造不同聲音組合的樂趣。真的是無窮無盡的樂趣！",
+        "author": "約翰"
+      },
+      {
+        "content": "角色們都非常獨特，創作節拍令人上癮。",
+        "author": "瑪雅"
+      },
+      {
+        "content": "你可以發揮的創意真的很驚人，沒有兩個節拍是相同的！",
+        "author": "利亞姆"
+      },
+      {
+        "content": "與朋友分享我的創作是最棒的部分！",
+        "author": "索非亞"
+      },
+      {
+        "content": "快速切換聲音的鍵盤快捷鍵讓操作變得輕鬆多了。",
+        "author": "亨利"
+      },
+      {
+        "content": "對於熱愛音樂的兒童和成人來說，這是一款很棒的遊戲。",
+        "author": "克洛伊"
+      },
+      {
+        "content": "Incredibox V7 是我創意放鬆的首選。",
+        "author": "伊桑"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 常見問題",
+    "questions": [
+      {
+        "question": "什麼是 Incredibox V7？",
+        "answer": "Incredibox V7 是一款音樂遊戲，你可以透過控制一組稱為 Incredicrew 的角色來創造獨特的節拍。"
+      },
+      {
+        "question": "我該如何開始玩 Incredibox V7？",
+        "answer": "要開始遊玩，選擇一個角色和一個歌曲風格。然後混合不同的聲音來創造你的節拍。"
+      },
+      {
+        "question": "我可以用鍵盤玩 Incredibox V7 嗎？",
+        "answer": "是的，你可以使用鍵盤快捷鍵來快速添加或移除聲音。"
+      },
+      {
+        "question": "Incredibox V7 有不同的音樂風格嗎？",
+        "answer": "有，遊戲提供多種風格和主題讓你選擇。"
+      },
+      {
+        "question": "有沒有辦法分享我的創作？",
+        "answer": "當然可以，你可以將你的音樂創作與社群中的其他玩家分享。"
+      },
+      {
+        "question": "Incredibox V7 適合所有年齡層嗎？",
+        "answer": "是的，Incredibox V7 是一款適合兒童和成人的有趣和創意遊戲。"
+      }
+    ]
+  }
+}

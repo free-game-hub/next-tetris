@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Aşama 10 Bebekler - Harika Bir Bebek Temalı Müzik Deneyimi",
+    "description": "Sprunki Aşama 10 Bebekler'i keşfedin, bebek temalı karakterler ve sakin ses manzaralarıyla benzersiz bir mod. Rahatlatıcı besteleri kolayca oluşturun.",
+    "keywords": "Sprunki Aşama 10 Bebekler, bebek temalı müzik, müzik modu, ninniler, Sprunki oyunu"
+  },
+  "hero": {
+    "h1": "Sprunki Aşama 10 Bebekler",
+    "p": "Sprunki Aşama 10 Bebekler Modu ile masumiyet ve nazın ön planda olduğu huzurlu bir müzik deneyimine dalın."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Aşama 10 Bebekler'in Başlıca Özellikleri",
+    "features": [
+      "Bebek Temalı Karakterler: Bebekliğin özünü yakalayan sevimli tasarımlar ve yumuşak animasyonlar.",
+      "Yumuşak Ses Manzaraları: Ninnileri çağrıştıran hafif perküsyonlar ve sakin melodileri keşfedin.",
+      "Moral Verici Atmosfer: Sessiz anları andıran sıcak ve rahatlatıcı besteler oluşturun.",
+      "Kolay Özelleştirme: Mükemmel bir huzur karışımı için ses ve efektleri ince ayar yapın.",
+      "Topluluk Paylaşımı: Nazik melodilerinizi Sprunki topluluğuyla paylaşın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Aşama 10 Bebekler Nasıl Oynanır",
+    "instructions": [
+      "Karakterleri Seçin: Eşsiz sesleri temsil eden bebek temalı figürlerden birini seçin.",
+      "Sürükleyin ve Bırakın: Ekranda figürleri düzenleyerek nazik döngüler katmanlayın.",
+      "Karışımınızı İnce Ayar Yapın: Rahat bir kompozisyon için ses ve efektleri ayarlayın.",
+      "Kaydedin ve Paylaşın: Parçalarınızı kaydedin ve toplulukta yayımlayın.",
+      "Kombinasyonları Keşfedin: En sevdiğiniz sakin düzenlemeleri keşfetmek için denemeler yapın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Aşama 10 Bebekler Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki Aşama 10 Bebekler için Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Bu modun sevimli karakterlerini çok seviyorum ve müzik çok rahatlatıcı!",
+        "author": "Alice"
+      },
+      {
+        "content": "Sprunki Aşama 10 Bebekler stres atmak için mükemmel. Ninniler büyüleyici.",
+        "author": "John"
+      },
+      {
+        "content": "Bebek temalı unsurları ile Sprunki deneyimine benzersiz bir dokunuş. Sadece büyüleyici!",
+        "author": "Maria"
+      },
+      {
+        "content": "Bir ebeveyn olarak, bu mod benimle çok rezonansa giriyor. Çocuklarım da neşeli sesleri çok seviyor!",
+        "author": "Tom"
+      },
+      {
+        "content": "Yumuşak ses manzaraları rahat bir sarılma gibi hissediliyor. Rahatlama için mükemmel.",
+        "author": "Sophie"
+      },
+      {
+        "content": "Güzel besteler oluşturmak çok kolay. Şiddetle tavsiye ederim!",
+        "author": "Daniel"
+      },
+      {
+        "content": "Yeni bir bakış açısı getiren yenilikçi ve keyifli bir mod. Harika!",
+        "author": "Ella"
+      },
+      {
+        "content": "Nazik atmosferle etkilendim. Gerçekten bir ninni yolculuğu gibi hissettiriyor.",
+        "author": "James"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Aşama 10 Bebekler Hakkında Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Aşama 10 Bebekler nedir?",
+        "answer": "Bebek temalı karakterler ve sakin ses manzaraları içeren Sprunki oyununun bir modudur."
+      },
+      {
+        "question": "Sprunki Aşama 10 Bebekler oynamaya nasıl başlayabilirim?",
+        "answer": "Bebek temalı karakterinizi seçin ve müzik kompozisyonları oluşturmak için ekran üzerinde düzenlemeye başlayın."
+      },
+      {
+        "question": "Bestelerimi kaydedip paylaşabilir miyim?",
+        "answer": "Evet, yarattığınız parçaları kaydedebilir ve Sprunki topluluğuyla paylaşabilirsiniz."
+      },
+      {
+        "question": "Sprunki Aşama 10 Bebekler her yaş için uygun mu?",
+        "answer": "Kesinlikle; oyunun nazik ve rahatlatıcı doğası hem gençlere hem de yetişkin oyunculara hitap ediyor."
+      },
+      {
+        "question": "Bu mod, orijinal Sprunki'den neyle ayrılıyor?",
+        "answer": "Bu mod, bebek temalı estetiğe ve sakin ses manzaralarına odaklanarak daha yumuşak bir oyun deneyimi sunuyor."
+      },
+      {
+        "question": "Ses kombinasyonlarını özelleştirebilir miyim?",
+        "answer": "Evet, ideal huzur karışımınızı oluşturmak için ses ve efektleri ince ayar yapabilirsiniz."
+      }
+    ]
+  }
+}

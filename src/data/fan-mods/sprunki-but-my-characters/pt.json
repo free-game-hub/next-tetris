@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - Um Jogo de Aventura Empolgante | Jogue Agora",
+    "description": "Entre no mundo emocionante de Sprunki! Descubra as regras, recursos e avaliações deste cativante jogo de aventura. Jogue Sprunki agora e embarque em uma jornada épica.",
+    "keywords": "Sprunki, jogo Sprunki, jogo de aventura, jogar Sprunki, recursos do Sprunki, regras do jogo"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Mergulhe na empolgante aventura de Sprunki, onde cada personagem embarca em uma jornada épica. Junte-se a milhares de jogadores e experimente o cativante mundo de Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo Sprunki",
+    "features": [
+      "Histórias imersivas com personagens cativantes.",
+      "Gráficos impressionantes que dão vida ao mundo de Sprunki.",
+      "Jogabilidade interativa que desafia suas habilidades.",
+      "Modos multijogador que permitem formar equipes com amigos.",
+      "Atualizações regulares e novos conteúdos para diversão sem fim."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki",
+    "instructions": [
+      "Baixe o aplicativo Sprunki no site oficial ou na loja de aplicativos.",
+      "Crie seu personagem e personalize sua aparência.",
+      "Navegue pelos níveis usando as teclas de seta ou a tela sensível ao toque.",
+      "Complete missões para ganhar recompensas e avançar no jogo.",
+      "Junte-se a outros jogadores para enfrentar missões desafiadoras."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Explore o Mundo de Sprunki"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki é a maior diversão que tive em muito tempo! Os personagens e histórias são tão envolventes.",
+        "author": "JaneD"
+      },
+      {
+        "content": "Um jogo fantástico com gráficos deslumbrantes e jogabilidade viciante!",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "Adoro o modo multijogador, jogar com amigos é uma diversão!",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki fica melhor a cada atualização. Recomendo muito!",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "Os desafios são perfeitos para uma sessão de jogo solo ou para diversão com amigos.",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "Ótimo jogo para crianças e adultos. Todos na minha família adoram!",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "Personagens únicos e missões criativas fazem Sprunki se destacar.",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "Estou jogando Sprunki há meses. É envolvente e nunca fica chato!",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"Onde posso baixar Sprunki?",
+        "answer":"Sprunki pode ser baixado no site oficial ou nas principais lojas de aplicativos."
+      },
+      {
+        "question":"Sprunki está disponível para todos os dispositivos?",
+        "answer":"Sim, Sprunki está disponível em dispositivos PC, iOS e Android."
+      },
+      {
+        "question":"Preciso de uma conexão com a internet para jogar Sprunki?",
+        "answer":"Uma conexão com a internet é necessária para recursos multijogador, mas você pode jogar missões solo offline."
+      },
+      {
+        "question":"Existem compras dentro do jogo?",
+        "answer":"Sim, Sprunki oferece compras opcionais dentro do jogo para personalização de personagens e novos conteúdos."
+      },
+      {
+        "question":"Com que frequência novos conteúdos são lançados?",
+        "answer":"Novos conteúdos e atualizações são lançados regularmente para manter o jogo fresco e emocionante."
+      },
+      {
+        "question":"Posso jogar Sprunki com amigos?",
+        "answer":"Com certeza! Sprunki oferece modos multijogador para jogar com amigos ou outros jogadores online."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Brud Virus Mod - Yenilikçi Müzik Deneyimi",
+    "description": "Eşsiz Sprunki Retake Brud Virus Mod'u keşfedin, virüs temalı karakterler ve yaratıcılığınızı zorlayan istikrarsız ses manzaraları ile dolu. Oynamayı öğrenin ve derinlemesine oyun talimatlarını keşfedin.",
+    "keywords": "Sprunki Retake Brud Virus, müzik mod, virüs temalı mod, Sprunki, yaratıcı oyun"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Brud Virus",
+    "p": "Sprunki Retake Brud Virus Mod'un etkileyici dünyasına dalış yapın, burada müzik yapma becerileriniz virüs kaynaklı ses anormallikleri ile yüzleşiyor."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Retake Brud Virus Mod'un Özellikleri",
+    "features": [
+      "Virüs Temalı Karakterler",
+      "İstikrarsız Ses Manzaraları",
+      "Yaratıcı Deneyimler",
+      "Kaydetme ve Paylaşma Fonksiyonu",
+      "Görsel Olarak Çarpıcı Etkileşimler"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Retake Brud Virus Mod'u Nasıl Oynarım",
+    "instructions": [
+      "Kendi favori virüs temalı karakterlerinizi seçin.",
+      "Müzik yaratmaya başlamak için ekranınıza öğeleri sürükleyip bırakın.",
+      "Şarkınızı ses seviyelerini ayarlayarak ve efektler ekleyerek geliştirin.",
+      "Sonsal virüsün etkilediği beklenmedik ses değişikliklerine uyum sağlayın.",
+      "Eşsiz yaratımınızı kaydedin ve müzik topluluğu ile paylaşın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Retake Brud Virus Mod Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Brud Virus Mod, oyuna yenilikçi bir dokunuş ekledi. Yaratıcılığımı yeni zirvelere taşıdı!",
+        "author": "Ashley"
+      },
+      {
+        "content": "Ses manzaralarının öngörülemezliğini seviyorum. Bu mod, müzik tutkunları için mutlaka denemelidir.",
+        "author": "Liam"
+      },
+      {
+        "content": "Sprunki Retake Brud Virus, eğlenceli bir meydan okuma sunuyor. Görsel tasarım, müzik kadar etkileyici.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Her oturum benzersiz bir deneyim. Virüs teması oyuna harika bir şekilde entegre edilmiş.",
+        "author": "Ethan"
+      },
+      {
+        "content": "Yaratıcı potansiyele sahip mükemmel bir mod! Her müzik sever için heyecan verici bir yolculuk.",
+        "author": "Mia"
+      },
+      {
+        "content": "Kaos ve ritim arasındaki denge bu modu ilginç kılıyor. Kesinlikle tavsiye ederim!",
+        "author": "Oliver"
+      },
+      {
+        "content": "Hataları ritimlere dönüştürmeyi sevdim. Harika bir deneyimdi.",
+        "author": "Amelia"
+      },
+      {
+        "content": "Brud Virus Mod, müzik yaratımını heyecan verici bir bulmacaya dönüştürüyor. Harika bir iş!",
+        "author": "Noah"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Sprunki Retake Brud Virus Mod'un ana hedefi nedir?",
+        "answer":"Ana hedef, ses manzaralarındaki virüs kaynaklı anormallikleri kucaklayarak benzersiz parçalar yaratmaktır."
+      },
+      {
+        "question":"Bestelerimi başkaları ile paylaşabilir miyim?",
+        "answer":"Evet, parçalarınızı kaydedebilir ve yaratıcılığınızı sergilemek için başkalarıyla paylaşabilirsiniz."
+      },
+      {
+        "question":"Yeni oyuncular için herhangi bir eğitim var mı?",
+        "answer":"Evet, oyun, yeni oyuncuların temel mekanikleri ve yenilikçi özellikleri anlamalarına yardımcı olacak bir eğitim sunuyor."
+      },
+      {
+        "question":"Bu mod her yaş grubu için uygun mu?",
+        "answer":"Evet, Sprunki Retake Brud Virus Mod, müzik ve yaratıcılıkla ilgilenen tüm yaş gruplarındaki oyuncular için tasarlanmıştır."
+      },
+      {
+        "question":"Karakterlerin özel yetenekleri var mı?",
+        "answer":"Evet, her karakterin viral temadan etkilenen özgün görsel ve işitsel özellikleri vardır; bu özellikler bestelerinizde kullanılabilir."
+      },
+      {
+        "question":"Bu modda çevrimdışı oynayabilir miyim?",
+        "answer":"Evet, Sprunki Retake Brud Virus Mod'un tüm işlevlerini çevrimdışı olarak kullanabilirsiniz."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Tavsiye Edilen Modlar",
+    "recommendations": [
+      {
+        "image": "link-to-image-1.jpg",
+        "title": "Sprunki Korku Modu",
+        "link": "https://example.com/sprunki-korku-mod"
+      },
+      {
+        "image": "link-to-image-2.jpg",
+        "title": "Sprunki Macera Modu",
+        "link": "https://example.com/sprunki-macera-mod"
+      }
+    ]
+  }
+}

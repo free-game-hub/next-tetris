@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 15 - 精通Incredibox模组，释放你的音乐创意",
+    "description": "探索Sprunki Phase 15，一个粉丝制作的Incredibox模组。通过独特的角色、声音组合和富有挑战的谜题，释放你的音乐创意。",
+    "keywords": "Sprunki Phase 15, Incredibox模组, 音乐创作游戏, Sprunki系列, 音乐谜题"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 15",
+    "p": "欢迎来到Sprunki Phase 15的迷人世界，创造性的音乐混合和引人入胜的谜题在这款粉丝制作的Incredibox游戏中静待你的发现。"
+  },
+  "gameFeatures": {
+    "title": "游戏特色 - Sprunki Phase 15",
+    "features": [
+      "创新的角色动态，打造独特的声音组合。",
+      "富有挑战的谜题，增强创意游戏体验。",
+      "互动元素对特定节拍的反馈。",
+      "视觉提示帮助指导音乐创作与进程。",
+      "某些阶段可进行协作游戏的机会。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何掌握Sprunki Phase 15",
+    "instructions": [
+      "通过检查所需旋律或节奏来了解目标。",
+      "组合合适的角色，创造你的音乐混合。",
+      "尝试不同的声音组合以解决谜题。",
+      "利用时机与排序来完善你的音乐创作。",
+      "关注视觉提示或环境变化中的隐藏线索。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 15 游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价 - Sprunki Phase 15",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 15 是 Incredibox 系列的绝妙发展。新的声音组合令人难以抗拒！",
+        "author": "玩家1"
+      },
+      {
+        "content": "Phase 15 的谜题既具挑战性又富有回报。我花了几个小时来完善我的音乐混合。",
+        "author": "玩家2"
+      },
+      {
+        "content": "我喜欢合作游戏的元素。与朋友一起玩，探索新的声音安排特别有趣。",
+        "author": "玩家3"
+      },
+      {
+        "content": "Phase 15 引入了一些引人注目的机制。新鲜的视角让游戏充满活力。",
+        "author": "玩家4"
+      },
+      {
+        "content": "隐藏的线索为游戏增添了惊喜元素！",
+        "author": "玩家5"
+      },
+      {
+        "content": "Sprunki Phase 15 具有挑战性，但非常值得。音乐创作的可能性是无穷无尽的！",
+        "author": "玩家6"
+      },
+      {
+        "content": "Phase 15 的图形和音效质量一流。玩起来非常愉快。",
+        "author": "玩家7"
+      },
+      {
+        "content": "我在某些部分遇到了困难，但重玩这些部分反而增添了乐趣。对音乐爱好者来说是一款很棒的游戏！",
+        "author": "玩家8"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题 - Sprunki Phase 15",
+    "questions": [
+      {
+        "question": "什么是Sprunki Phase 15？",
+        "answer": "Sprunki Phase 15是一个粉丝制作的Incredibox音乐创作游戏模组，具有新的声音组合和角色动态。"
+      },
+      {
+        "question": "我该如何解决Sprunki Phase 15中的谜题？",
+        "answer": "通过尝试声音组合、时机和排序来解决谜题并解锁新路径。"
+      },
+      {
+        "question": "我可以和朋友一起玩Sprunki Phase 15吗？",
+        "answer": "可以，游戏的某些阶段允许协作玩法。"
+      },
+      {
+        "question": "Phase 15有哪些独特的特点？",
+        "answer": "Phase 15包含新的机制、声音配置和隐藏线索，增强游戏体验。"
+      },
+      {
+        "question": "对初学者有什么建议吗？",
+        "answer": "密切关注视觉和声音线索，不要害怕尝试不同角色组合。"
+      },
+      {
+        "question": "我在哪里可以找到Sprunki Phase 15 的攻略或指南？",
+        "answer": "在线游戏论坛和官方游戏社区是获取技巧和攻略的绝佳资源。"
+      }
+    ]
+  }
+}

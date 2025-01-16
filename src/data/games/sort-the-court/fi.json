@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Lajittele tuomioistuinta - Hauska ja koukuttava simulaatiopeli",
+    "description": "Tutustu Lajittele tuomioistuinta -pelin kekseliäiseen maailmaan, jossa päätöksenteko muokkaa valtakuntasi kohtaloa. Opi pelin säännöt, ominaisuudet ja pelaaja-arvostelut.",
+    "keywords": "Lajittele tuomioistuinta, simulaatiopeli, päätöksenteko, Unity-peli, Ludum Dare 34"
+  },
+  "hero": {
+    "h1": "Lajittele tuomioistuinta",
+    "p": "Astut kuninkaan rooliin ja teet viisaita päätöksiä hallitaksesi valtakuntasi kohtaloa Lajittele tuomioistuinta -pelissä. Nauti tästä jännittävästä simulaatiopelistä, jonka on kehittänyt Graeme Borland, ja sukella sen viehättävään maailmaan."
+  },
+  "gameFeatures": {
+    "title": "Pelin ominaisuudet",
+    "features": [
+      "Viekkaat päätöksentekoa vaativat pelimekaniikat",
+      "Viehätysvoimaiset ja söpöt grafiikat",
+      "Kehitetty Unityllä, mikä varmistaa sulavan suorituskyvyn",
+      "Tukee useita kieliä, mukaan lukien englanti",
+      "Saatavilla HTML5-, Windows- ja Linux-alustoilla"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Lajittele tuomioistuinta",
+    "instructions": [
+      "Käytä näppäimistöä, hiirtä tai peliohjainta ohjaamiseen.",
+      "Tee päätöksiä vastaamalla kyllä tai ei erilaisiin pyyntöihin.",
+      "Tasapainota kansasi tarpeet, varallisuus ja armeija.",
+      "Kohdista satunnaisten tapahtumien läpi kasvaaksesi valtakunnassasi.",
+      "Pelit sesh lasting vain muutaman minuutin, täydellinen nopeaan taukoon."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelikuva"
+  },
+  "playerReviews": {
+    "title": "Mitä pelaajat sanovat",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Lajittele tuomioistuinta on ihastuttava pieni peli, joka takaa tuntikausien hauskuuden!",
+        "author": "Emily Thompson"
+      },
+      {
+        "content": "Päätökset, joita teet, vaikuttavat todella valtakuntasi lopputulokseen, ja rakastan tuota puolta.",
+        "author": "Brian Cooper"
+      },
+      {
+        "content": "Grafiikat ovat suloisia ja musiikki on mukava lisä. Täydellinen rentoon pelaamiseen.",
+        "author": "Sophia Li"
+      },
+      {
+        "content": "En voi uskoa, että sain sen päätökseen 53 päivässä! Pakollinen kokeiltava strategiarakkaudelle.",
+        "author": "Alex Russo"
+      },
+      {
+        "content": "Toivon, että peli olisi vielä kehityksessä. Se on hauska ja koukuttava!",
+        "author": "Michael Lee"
+      },
+      {
+        "content": "Upea simulaatiopeli, joka on yksinkertainen mutta mukaansatempaava.",
+        "author": "Lydia Green"
+      },
+      {
+        "content": "En saanut sitä auki Macilläni, mutta se toimi täydellisesti Windowsilla.",
+        "author": "Jordan Hart"
+      },
+      {
+        "content": "Peliä ei ehkä enää päivitetä, mutta se on silti pelaamisen arvoinen!",
+        "author": "Chris Vance"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein kysytyt kysymykset",
+    "questions": [
+      {
+        "question":"Onko Lajittele tuomioistuinta edelleen aktiivisessa kehityksessä?",
+        "answer":"Ei, Lajittele tuomioistuinta ei ole tällä hetkellä aktiivisessa kehityksessä."
+      },
+      {
+        "question":"Millä alustoilla voin pelata Lajittele tuomioistuinta?",
+        "answer":"Voit pelata Lajittele tuomioistuinta HTML5-, Windows- ja Linux-alustoilla."
+      },
+      {
+        "question":"Onko olemassa järjestelmän yhteensopivuusongelmia?",
+        "answer":"Peliä ei ole päivitetty useaan vuoteen, joten se ei välttämättä toimi uudemmilla järjestelmillä."
+      },
+      {
+        "question":"Kuinka tallennan edistymiseni?",
+        "answer":"Pelissä on automaattinen tallennusominaisuus, joten edistymisesi tallentuu automaattisesti."
+      },
+      {
+        "question":"Voinko pelata Lajittele tuomioistuinta Macilla?",
+        "answer":"Ladattava versio ei välttämättä toimi Macilla, mutta voit kokeilla ajamista selaimessa."
+      },
+      {
+        "question":"Kuinka voin ilmoittaa vikailmoituksen?",
+        "answer":"Voit lähettää vikailmoituksia yhteisöfoorumeiden kautta."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Suositellut pelit",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Reigns",
+        "link": "https://linktogame.com/reigns"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Kuninkaat ja linnat",
+        "link": "https://linktogame.com/kingdomsandcastles"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Hylätty",
+        "link": "https://linktogame.com/banished"
+      }
+    ]
+  }
+}

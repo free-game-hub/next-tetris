@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki OWAKCX Mod - Futuristinen Musiikkikokemus",
+    "description": "Tutustu Sprunki OWAKCX Modiin, jossa innovatiiviset äänivalikoimat ja vaikuttavat visuaalit määrittelevät uudelleen musiikin tekemisen. Löydä pelin ominaisuudet, säännöt ja pelaaja-arviot.",
+    "keywords": "Sprunki OWAKCX, musiikkimodi, kokeellinen ääni, innovatiivinen pelattavuus, Sprunki ominaisuudet"
+  },
+  "hero": {
+    "h1": "Sprunki OWAKCX",
+    "p": "Vapauta musiikillinen luovuutesi Sprunki OWAKCX Modin ainutlaatuisella futuristisella äänien ja avant-garden visuaalien yhdistelmällä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki OWAKCX Modin ominaisuudet",
+    "features": [
+      "Innovatiivinen Äänivalikoima: Koe perinteisten rytmien ja futurististen sävyjen sekoitus.",
+      "Vaikuttavat Visuaalit: Hahmot ja taustat esittävät rohkeita värejä ja animaatioita.",
+      "Rajaton Kokeilu: Rohkaise epätavanomaisia ääniyhdistelmiä.",
+      "Dynaamiset Hahmot: Jokainen hahmo tarjoaa ainutlaatuisia, tutkivia silmukoita.",
+      "Huipputeknologinen Estetiikka: Modernit suunnittelut, jotka vievät luovuuden rajoja."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Sprunki OWAKCX Modia",
+    "instructions": [
+      "Valitse Hahmot: Valitse hahmoja, joilla on ainutlaatuisia silmukoita.",
+      "Vedä ja Pudota: Kerää ääniä rikkouttaaksesi tutut genret.",
+      "Tee Sekoituksestasi Parempi: Säädä äänitasoja ja lisää efektejä.",
+      "Tallenna ja Jaa: Jaa ainutlaatuisia sävellyksiäsi.",
+      "Tutki Jatkuvasti: Jatka kokeilemista uusilla äänimaailmoilla."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelikuvaot"
+  },
+  "playerReviews": {
+    "title": "Pelaaja-arviot",
+    "submitReviewLabel": "Lähetä Arviosi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvio",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki OWAKCX on avannut uuden musiikinteon maailman minulle. Se on lumoavaa!",
+        "author": "Alice B."
+      },
+      {
+        "content": "Visuaalit ovat upeita ja musiikin mahdollisuudet ovat rajattomat. Rakastan kokeilla uusia rytmejä!",
+        "author": "John S."
+      },
+      {
+        "content": "En ole koskaan pelannut mitään tällaista aiemmin. Se on haastavaa ja palkitsevaa samaan aikaan.",
+        "author": "Eli T."
+      },
+      {
+        "content": "Ainutlaatuinen kierre musiikkipeleissä. Äänien ja visuaalien yhdistelmä on koukuttava.",
+        "author": "Natalie R."
+      },
+      {
+        "content": "Musiikin luominen tämän modin kanssa on addiktoivaa. Palaan jatkuvasti kokeilemaan uusia yhdistelmiä.",
+        "author": "Ryan P."
+      },
+      {
+        "content": "Fantastinen modi! Se vie luovan musiikin tekemisen rajoja.",
+        "author": "Megan L."
+      },
+      {
+        "content": "Sprunki OWAKCX:n joustavuus ja luovuus tekevät siitä suosikkini musiikkikokeiluille.",
+        "author": "Walter H."
+      },
+      {
+        "content": "Suosittelen tätä modia lämpimästi kaikille, jotka rakastavat musiikkia ja haluavat tutkia uusia horisontteja.",
+        "author": "Sophie G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Mikä on Sprunki OWAKCX?",
+        "answer": "Sprunki OWAKCX on modi, joka tuo kokeellisen ja avant-garden käännöksen musiikin luomiseen."
+      },
+      {
+        "question": "Kuinka voin jakaa sävellykseni?",
+        "answer": "Kun olet hionut kappaleesi, käytä tallenna ja jaa -toimintoa näyttääksesi luomuksesi muille."
+      },
+      {
+        "question": "Onko saatavilla mitään opetusohjelmia?",
+        "answer": "Kyllä, peli sisältää opetusohjelmia ja vinkkejä, jotka auttavat sinua pääsemään alkuun kokeilussa."
+      },
+      {
+        "question": "Voinko tehdä yhteistyötä muiden pelaajien kanssa?",
+        "answer": "Vaikka se on pääasiassa sooloelämyksiä varten, voit jakaa työsi ja tehdä yhteistyötä palauteprosessin kautta."
+      },
+      {
+        "question": "Onko Sprunki OWAKCX ilmainen pelata?",
+        "answer": "Kyllä, modi on ilmainen, vaikkakin jotkut lisäominaisuudet saattavat olla maksullisia."
+      },
+      {
+        "question": "Mitkä järjestelmät tukevat Sprunki OWAKCX:ta?",
+        "answer": "Modi on saatavilla useimmille suurille käyttöjärjestelmille, mukaan lukien Windows ja MacOS."
+      }
+    ]
+  }
+}

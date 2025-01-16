@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox v1 - Orijinal Sprunki Mod Deneyimi",
+    "description": "Corruptbox v1'i keşfedin, Sprunki'nin orijinal modu. Bu çığır açan ritim oyunu modunda karanlık estetikler, deneysel müzik ve zorlu oynanışa dalın.",
+    "keywords": "corruptbox v1, corruptbox mod, Sprunki mod, ritim oyunu, müzik oyunu, deneysel müzik, karanlık estetikler"
+  },
+  "hero": {
+    "h1": "Corruptbox v1: Ritmik Bir Devrimin Başlangıcı",
+    "p": "Her şeyin başladığı modu, Corruptbox v1'in kökenine adım atın. Tüyler ürpertici melodileri keşfedin, bozulmuş zorluklarla yüzleşin ve bu ikonik Sprunki modunun temelini deneyimleyin."
+  },
+  "gameFeatures": {
+    "title": "Neden Corruptbox v1 Oynamalısınız?",
+    "features": [
+      "Corruptbox deneyimini tanımlayan orijinal karanlık ve sürükleyici estetik.",
+      "Gelecek sürümlerin temelini oluşturan çığır açan deneysel müzik yaratımı.",
+      "Ritim ve yaratıcılığınızı test etmek için tasarlanmış zorlu oyun mekanikleri.",
+      "Kişiselleştirilmiş bir oyun deneyimi için özelleştirilebilir melodiler ve karakterler.",
+      "Corruptbox v1'in mirasını kutlamaya devam eden adanmış bir topluluk."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Corruptbox v1 Nasıl Oynanır",
+    "instructions": [
+      "Sprunki temel oyununu indirip yükleyin.",
+      "Güvenilir bir kaynaktan Corruptbox v1 modunu edinin.",
+      "Oyunu başlatın ve menüden Corruptbox v1 modunu seçin.",
+      "Tüyler ürpertici melodiler yaratmak ve zorlukları aşmak için ritim komutlarını takip edin.",
+      "Oyun deneyiminizi geliştirmek için farklı karakterler ve ayarlarla deney yapın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Aksiyon Halinde Corruptbox v1"
+  },
+  "playerReviews": {
+    "title": "Oyuncular Corruptbox v1 Hakkında Ne Diyor",
+    "submitReviewLabel": "İncelemenizi Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "İncelemeniz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Corruptbox v1 her şeyin başladığı yerdir. Karanlık estetik ve deneysel müzik unutulmaz!",
+        "author": "Alex R.",
+        "rating": 5
+      },
+      {
+        "content": "Corruptbox v1 oynamak, ikonik bir modun köklerine adım atmak gibidir. Ritim oyunu hayranları için mutlaka denenmeli.",
+        "author": "Jamie L.",
+        "rating": 4
+      },
+      {
+        "content": "Orijinal Corruptbox deneyimi hala en iyilerden biri. Oyun ve müzik üst düzeyde.",
+        "author": "Taylor K.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Corruptbox v1 Hakkında Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Corruptbox v1 nedir?",
+        "answer": "Corruptbox v1, karanlık estetik ve deneysel müzik içeren Sprunki ritim oyununun orijinal modudur."
+      },
+      {
+        "question": "Corruptbox v1 nasıl kurulur?",
+        "answer": "Öncelikle Sprunki temel oyununu kurmanız gerekiyor. Sonra, Corruptbox v1 modunu indirip oyunun mod klasörüne ekleyin."
+      },
+      {
+        "question": "Corruptbox v1 oynamak ücretsiz mi?",
+        "answer": "Evet, Corruptbox v1 ücretsiz bir moddur, ancak oynayabilmek için Sprunki temel oyununa sahip olmanız gerekir."
+      },
+      {
+        "question": "Corruptbox v1'i benzersiz kılan nedir?",
+        "answer": "Corruptbox v1, Corruptbox serisinin simgesi haline gelen karanlık estetik ve deneysel müzik tarzını tanıttı."
+      },
+      {
+        "question": "Daha yeni sürümler mevcutsa bile Corruptbox v1 oynayabilir miyim?",
+        "answer": "Evet, birçok oyuncu nostaljik değeri ve benzersiz oyun deneyimi nedeniyle Corruptbox v1'i yeniden ziyaret etmekten hoşlanıyor."
+      },
+      {
+        "question": "Corruptbox v1 gibi daha fazla modu nereden bulabilirim?",
+        "answer": "Daha fazla mod ve uzantı için Sprunki topluluk forumlarını veya güvenilir mod sitesiilerini keşfedebilirsiniz."
+      }
+    ]
+  }
+}

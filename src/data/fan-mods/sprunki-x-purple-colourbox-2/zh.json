@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki紫色模式 - 充满活力的游戏体验",
+    "description": "探索Sprunki紫色模式的单色世界，在这里创造力与独特性相遇。发现游戏特色、玩法说明、用户评价和常见问题。",
+    "keywords": "Sprunki紫色模式, 单色紫色游戏, 独特游戏体验, 音乐创作游戏"
+  },
+  "hero": {
+    "h1": "Sprunki紫色模式",
+    "p": "沉浸在Sprunki紫色模式独特的单色紫色世界中，创造力无限。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki紫色模式的游戏特色",
+    "features": [
+      "单色紫色调：置身于一个被紫色笼罩的宇宙。",
+      "创新画廊：探索独特的画廊，即使只是为了视觉享受。",
+      "单色角色设计：每个角色都有独特的单色设计。",
+      "特别电子音轨：享受一系列电子音效，增添游戏乐趣。",
+      "无限音乐创作：每个角色的独特音效带来无限旋律可能。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何游玩Sprunki紫色模式",
+    "instructions": [
+      "选择角色：从原版Incredibox中选择6首音乐曲目。",
+      "拖放操作：将二十个图标中的一个放到七个杆子之一上以创建声音。",
+      "创作独特混音：每个角色的声音各不相同，带来无尽的音乐创意。",
+      "第一个bug：放置第十二个角色Simon时，可能会留下一根多余的杆子。",
+      "第二个bug：由于缺少退出按钮，退出画廊较为困难。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Sprunki紫色模式的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "名字",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "紫色主题让这款游戏与众不同，真让人着迷！",
+        "author": "Alice"
+      },
+      {
+        "content": "用独特的角色声音创作旋律太棒了。",
+        "author": "Ben"
+      },
+      {
+        "content": "我喜欢这条电子音轨，它为游戏增添了许多色彩。",
+        "author": "Chloe"
+      },
+      {
+        "content": "画廊功能需要改进，但依然有趣。",
+        "author": "David"
+      },
+      {
+        "content": "有点bug，但仍然是一款超级有趣的游戏。",
+        "author": "Eve"
+      },
+      {
+        "content": "紫色的设计在视觉上很吸引人且富有创新性。",
+        "author": "Frank"
+      },
+      {
+        "content": "这是一款对经典音乐游戏类型的创意改良。",
+        "author": "Grace"
+      },
+      {
+        "content": "希望看到更多更新，但总体上真的很有趣！",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "什么是Sprunki紫色模式？",
+        "answer": "一款所有视觉元素均以紫色为主的游戏，提供独特的艺术风格。"
+      },
+      {
+        "question": "为什么画廊没有退出按钮？",
+        "answer": "这是一个已知的bug。我们正在努力在未来的更新中添加退出按钮。"
+      },
+      {
+        "question": "每个角色的声音独特吗？",
+        "answer": "是的，每个角色的声音都是独特的，提供无限的音乐可能性。"
+      },
+      {
+        "question": "我能在手机上玩这个游戏吗？",
+        "answer": "目前，该游戏已针对桌面游戏进行了优化。"
+      },
+      {
+        "question": "谁创造了原版模组？",
+        "answer": "原版模组属于Freepies，称为紫色盒子v6。"
+      },
+      {
+        "question": "我如何报告bug？",
+        "answer": "请通过我们网站的帮助部分联系支持团队。"
+      }
+    ]
+  }
+}

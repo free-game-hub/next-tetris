@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Utforsk Dypene av Eventyret",
+    "description": "Dykk inn i verdenen av Sperunky Free, et spennende eventyrspill som utfordrer dine ferdigheter innen utforskning og overlevelse. Oppdag unike funksjoner, spillinstruksjoner, og les spilleranmeldelser.",
+    "keywords": "Sperunky Free, eventyrspill, utforskning, overlevelse, spilleranmeldelser"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Legg ut på en episk reise med Sperunky Free, hvor du navigerer gjennom farlige huler, overkommer hindringer, og oppdager skjulte skatter!"
+  },
+  "gameFeatures": {
+    "title": "Funksjoner i Sperunky Free",
+    "features": [
+      "Uendelige hulesystemer å utforske",
+      "Dynamisk gameplay med tilfeldige nivåer",
+      "Ulike feller og fiender",
+      "Flerspiller-modus for samarbeidsspill",
+      "Rike grafikker og immersive lydeffekter"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik Spiller Du Sperunky Free",
+    "instructions": [
+      "Bruk piltastene for å bevege karakteren din gjennom hulene.",
+      "Trykk på mellomromstasten for å hoppe og unngå hindringer.",
+      "Samle skatter for å øke poengsummen din.",
+      "Bruk verktøy som rebusser og bomber for å navigere vanskelige områder.",
+      "Samarbeid med venner i flerspiller-modus for å løse komplekse utfordringer."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skjermbilder fra Sperunky Free"
+  },
+  "playerReviews": {
+    "title": "Spillernes Anmeldelser av Sperunky Free",
+    "submitReviewLabel": "Send Inn Din Anmeldelse",
+    "nameLabel": "Ditt Navn",
+    "reviewLabel": "Din Anmeldelse",
+    "submitButtonLabel": "Send Inn",
+    "reviews": [
+      {
+        "content": "Sperunky Free gir en spennende opplevelse med hvert nivå som genererer nye overraskelser.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Grafikken er vakker og tilfører mye til det immersive gameplayet.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Jeg elsker å spille med vennene mine i flerspiller-modus, det er en flott måte å strategisere sammen.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Utfordrende, men belønnende, Sperunky Free får deg til å komme tilbake for mer.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "Variasjonen av feller holder meg på tærne, det er aldri kjedelig!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Flott balanse mellom eventyr og strategi, kan anbefales på det sterkeste til fans av begge sjangere.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Et av de mest spennende spillene jeg har spilt i år!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Et must for alle som elsker eventyr- og utforskningsspill.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte Stilte Spørsmål: Sperunky Free",
+    "questions": [
+      {
+        "question": "Hvilke plattformer er Sperunky Free tilgjengelig på?",
+        "answer": "Sperunky Free er tilgjengelig på PC, Mac, og ulike spillkonsoller."
+      },
+      {
+        "question": "Kan jeg spille Sperunky Free med vennene mine?",
+        "answer": "Ja, Sperunky Free har en flerspiller-modus for samarbeidsspill med venner."
+      },
+      {
+        "question": "Er det ulike vanskelighetsgrader i spillet?",
+        "answer": "Ja, du kan velge mellom flere vanskelighetsgrader som passer ditt ferdighetsnivå."
+      },
+      {
+        "question": "Trenger jeg internettforbindelse for å spille?",
+        "answer": "En internettforbindelse er nødvendig for flerspiller-modus, men ikke for enspiller."
+      },
+      {
+        "question": "Er det en måte å lagre fremdriften min?",
+        "answer": "Ja, Sperunky Free lar deg lagre fremdriften din og fortsette senere."
+      },
+      {
+        "question": "Er det mikrotransaksjoner i spillet?",
+        "answer": "Nei, Sperunky Free inkluderer ikke noen mikrotransaksjoner."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki But Everyone is Alive Mod - Kolorowy Zwrot w Sprunki Incredibox",
+    "description": "Odkryj Sprunki But Everyone is Alive Mod, w którym muzykalne postacie ożywają dzięki animacjom, dodając energii i osobowości do Twojego tworzenia muzyki. Poznaj cechy gry, opinie graczy, pytania i odpowiedzi, i więcej.",
+    "keywords": "Sprunki But Everyone is Alive, Sprunki Incredibox Mod, animowane postacie Sprunki, mod muzycznej gry, rozgrywka Sprunki"
+  },
+  "hero": {
+    "h1": "Sprunki But Everyone is Alive",
+    "p": "Wejdź w muzyczną przygodę, gdzie każda postać ożywa dzięki kolorowym animacjom w modzie Sprunki But Everyone is Alive. To nie tylko tworzenie dźwięków; to wprowadzenie energii i osobowości do Twojego doświadczenia tworzenia muzyki."
+  },
+  "gameFeatures": {
+    "title": "Cechy Sprunki But Everyone is Alive",
+    "features": [
+      "W pełni animowane postacie zwiększają kreatywność muzyczną.",
+      "Nowe połączenia dźwięków dla nieskończonych muzycznych możliwości.",
+      "Żywe osobowości dla bardziej angażującego doświadczenia.",
+      "Idealne zarówno dla casualowych, jak i oddanych fanów Sprunki.",
+      "Jasne, kolorowe i niezapomniane sesje muzyczne."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki But Everyone is Alive",
+    "instructions": [
+      "Wybierz swoją ulubioną postać, aby rozpocząć tworzenie muzyki.",
+      "Eksperymentuj z różnymi kombinacjami dźwięków i animacji.",
+      "Interakcja z postaciami aktywuje ich żywe animacje.",
+      "Zapisz i podziel się swoimi unikalnymi kompozycjami.",
+      "Odkryj nowe biblioteki dźwięków wprowadzone w tym modzie."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu moda Sprunki But Everyone is Alive"
+  },
+  "playerReviews": {
+    "title": "Co mówią gracze",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Twoje imię",
+    "reviewLabel": "Twoja opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Animacje sprawiają, że gra jest znacznie przyjemniejsza. Każda postać wydaje się żywa!",
+        "author": "Lily G."
+      },
+      {
+        "content": "Uwielbiam eksperymentować z nowymi połączeniami dźwięków. Ten mod jest fantastyczny!",
+        "author": "Jackson T."
+      },
+      {
+        "content": "Dodanie animacji wprowadza nowy zwrot w grze. Gorąco polecam!",
+        "author": "Sophia M."
+      },
+      {
+        "content": "To wprowadza nowy wymiar do tworzenia muzyki w Sprunki. Naprawdę angażujące!",
+        "author": "Corp."
+      },
+      {
+        "content": "Te żywe postacie uczyniły moje sesje muzyczne bardziej zabawnymi.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Idealna aktualizacja do oryginalnej gry Sprunki. Uwielbiam to!",
+        "author": "Evan H."
+      },
+      {
+        "content": "Jestem zdumiony, jak animacje mogą wprowadzać tak dużą różnicę.",
+        "author": "Nathan Y."
+      },
+      {
+        "content": "Ten mod tchnie życie w grę i pogłębia moje połączenie z postaciami.",
+        "author": "Isabella W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question":"Czym jest mod Sprunki But Everyone is Alive?",
+        "answer":"To ulepszona wersja Sprunki Incredibox, w której każda postać jest w pełni animowana, dodając więcej osobowości i interakcji do procesu tworzenia muzyki."
+      },
+      {
+        "question":"Jak ten mod różni się od oryginalnej gry Sprunki?",
+        "answer":"W przeciwieństwie do oryginału, ten mod zawiera animacje dla każdej postaci, oferując bardziej dynamiczne doświadczenie tworzenia muzyki."
+      },
+      {
+        "question":"Czy mogę grać w ten mod, jeśli jestem nowy w grach Sprunki?",
+        "answer":"Oczywiście! Jest zaprojektowany zarówno dla nowych graczy, jak i wieloletnich fanów, oferując angażującą i intuicyjną rozgrywkę."
+      },
+      {
+        "question":"Czy potrzebuję dodatkowego oprogramowania, żeby korzystać z tego moda?",
+        "answer":"Nie jest wymagane dodatkowe oprogramowanie. Wystarczy pobrać moda i od razu cieszyć się ulepszonymi funkcjami."
+      },
+      {
+        "question":"Czy istnieje społeczność, w której mogę dzielić się swoimi muzycznymi dziełami?",
+        "answer":"Tak, istnieje wiele internetowych społeczności, gdzie możesz dzielić się swoimi kompozycjami i otrzymywać opinie."
+      },
+      {
+        "question":"Czy mogę wrócić do oryginalnej gry Sprunki, jeśli wolałbym ją?",
+        "answer":"Tak, możesz w dowolnym momencie przełączać się pomiędzy oryginalną grą a tym modem."
+      }
+    ]
+  }
+}

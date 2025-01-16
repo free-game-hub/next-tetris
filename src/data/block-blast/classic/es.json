@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "Block Blast - Juego de Rompecabezas en Línea Gratis | Sprunki Infected",
+    "description": "Juega a Block Blast, el adictivo juego de rompecabezas en línea donde la estrategia se encuentra con la diversión. Elimina bloques, suma puntos y desafía tu mente con este juego gratuito basado en navegador. ¡No se requiere descarga!",
+    "keywords": "block blast, juego de rompecabezas, juego en línea, juego gratis, desafío mental, juego de eliminación de bloques, rompecabezas estratégico"
+  },
+  "hero": {
+    "h1": "Block Blast - Donde la Estrategia se Encuentra con la Diversión",
+    "p": "Sumérgete en una aventura de rompecabezas adictiva que desafía tu mente y pone a prueba tu pensamiento estratégico. Sin descargas, solo entretenimiento puro al alcance de tu mano."
+  },
+  "gameFeatures": {
+    "title": "Por Qué los Jugadores Aman Block Blast",
+    "features": [
+      "100% Gratis para Jugar - Sin costos ocultos ni compras en la aplicación",
+      "Juega en Cualquier Lugar - Funciona perfectamente en dispositivos de escritorio y móviles",
+      "Sin Descargas Requeridas - Ingresa directamente a la acción a través de tu navegador",
+      "Actualizaciones Regulares - Nuevos desafíos y características añadidas con frecuencia",
+      "Entrenamiento Mental - Mejora tu pensamiento estratégico mientras te diviertes",
+      "Apto para la Familia - Adecuado para jugadores de todas las edades"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar a Block Blast",
+    "instructions": [
+      "Arrastra y suelta bloques en la cuadrícula del juego",
+      "Crea filas o columnas completas para eliminar bloques",
+      "Planifica tus movimientos cuidadosamente para maximizar puntos",
+      "Mantén la cuadrícula despejada para seguir en el juego",
+      "Desafíate a ti mismo para superar tu puntuación más alta"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ve Block Blast en Acción"
+  },
+  "playerReviews": {
+    "title": "Lo Que Dicen Nuestros Jugadores",
+    "submitReviewLabel": "Comparte Tu Experiencia",
+    "nameLabel": "Tu Nombre",
+    "reviewLabel": "Tu Reseña",
+    "submitButtonLabel": "Enviar Reseña",
+    "reviews": [
+      {
+         "author": "Mike S.",
+        "content": "¡Perfecto para mi trayecto diario! Simple pero lo suficientemente desafiante como para mantenerme enganchado.",
+        "rating": 5
+      },
+      {
+         "author": "Emily W.",
+        "content": "Como estudiante, me encanta cómo puedo jugar rápidamente entre sesiones de estudio. ¡No se necesita instalación!",
+        "rating": 5
+      },
+      {
+         "author": "Jennifer X.",
+        "content": "Toda mi familia disfruta de este juego. ¡Es educativo y divertido al mismo tiempo!",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Block Blast es realmente gratis para jugar?",
+        "answer": "¡Sí! Block Blast es completamente gratis para jugar. No hay costos ocultos ni compras en la aplicación requeridas para disfrutar de la experiencia completa del juego."
+      },
+      {
+        "question": "¿Necesito descargar algo para jugar a Block Blast?",
+        "answer": "¡No se necesitan descargas! Block Blast se ejecuta directamente en tu navegador web en cualquier dispositivo con conexión a Internet."
+      },
+      {
+        "question": "¿Puedo jugar a Block Blast en mi teléfono móvil?",
+        "answer": "¡Por supuesto! Block Blast está completamente optimizado para dispositivos de escritorio y móviles, proporcionando una experiencia de juego fluida en todas las plataformas."
+      },
+      {
+        "question": "¿Cómo guardo mi progreso en Block Blast?",
+        "answer": "Tus puntuaciones altas se guardan automáticamente en tu navegador. Para la mejor experiencia, recomendamos crear una cuenta gratuita para rastrear tu progreso en varios dispositivos."
+      },
+      {
+        "question": "¿Block Blast es adecuado para niños?",
+        "answer": "¡Sí! Block Blast es apto para la familia y adecuado para todas las edades. Ayuda a desarrollar el pensamiento estratégico y las habilidades para resolver problemas mientras es divertido y atractivo."
+      },
+      {
+        "question": "¿Con qué frecuencia se actualiza Block Blast?",
+        "answer": "Actualizamos regularmente Block Blast con nuevas características, desafíos y mejoras basadas en los comentarios de los jugadores para mantener el juego fresco y emocionante."
+      }
+    ]
+  }
+}

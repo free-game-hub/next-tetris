@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Skab Dine Egne Musik Beats",
+    "description": "Spil Incredibox V7, et kreativt musikspil, hvor du styrer Incredicrew for at skabe unikke beats. Opdag spilfunktioner, regler og spilleranmeldelser.",
+    "keywords": "Incredibox V7, musikspil, Incredicrew, skabe beats, Incredibox funktioner"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Dyk ned i Incredibox V7’s verden og frigør din musikalske kreativitet. Kontroller Incredicrew for at skabe dine egne unikke melodier og beats."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V7 Spilfunktioner",
+    "features": [
+      "Kontroller Incredicrew - hver med unikke lydmuligheder.",
+      "Forskellige musikstile og temaer at udforske.",
+      "Uendelig kreativitet uden nogen rigtig eller forkert måde at spille på.",
+      "Del dine musikskabelser med fællesskabet.",
+      "Brugervenlig grænseflade til både mus og tastaturkontroller."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spiller Du Incredibox V7",
+    "instructions": [
+      "Vælg Din Karakter: Vælg blandt en række karakterer, hver med særlige evner og animationer.",
+      "Vælg En Sang: Vælg din foretrukne musikstil eller tema for at komme i gang med at skabe.",
+      "Gameplay: Kombiner lyde og rytmer for at skabe et unikt beat.",
+      "Brug Musen: Klik på karakterer for at tilføje eller fjerne lyde.",
+      "Brug Tastaturet: Udnyt genveje til hurtig lydmanipulation."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 Skærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser af Incredibox V7",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Dit Navn",
+    "reviewLabel": "Din Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Incredibox V7 er en sjov måde at udforske musikproduktion på!",
+        "author": "Alice"
+      },
+      {
+        "content": "Jeg elsker de forskellige lydkombinationer, man kan lave. Det er uendelig sjovt!",
+        "author": "John"
+      },
+      {
+        "content": "Karaktererne er så unikke, og det er vanedannende at skabe beats.",
+        "author": "Maya"
+      },
+      {
+        "content": "Det er fantastisk, hvor kreativ man kan blive. Ingen beats er ens!",
+        "author": "Liam"
+      },
+      {
+        "content": "At dele mine kreationer med venner er den bedste del!",
+        "author": "Sophia"
+      },
+      {
+        "content": "Tastaturgenvejene gør det så nemt at skifte lyde hurtigt.",
+        "author": "Henry"
+      },
+      {
+        "content": "Fantastisk spil for børn og voksne, der elsker musik.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 har været mit foretrukne valg til kreativ afslapning.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+        "question": "Hvad er Incredibox V7?",
+        "answer": "Incredibox V7 er et musikspil, hvor du kan skabe unikke beats ved at kontrollere en gruppe karakterer kendt som Incredicrew."
+      },
+      {
+        "question": "Hvordan starter jeg med at spille Incredibox V7?",
+        "answer": "For at komme i gang, vælg en karakter og en sangstil. Derefter blander du forskellige lyde for at skabe dit beat."
+      },
+      {
+        "question": "Kan jeg spille Incredibox V7 med et tastatur?",
+        "answer": "Ja, du kan bruge tastaturgenveje til hurtigt at tilføje eller fjerne lyde."
+      },
+      {
+        "question": "Er der forskellige musikstile i Incredibox V7?",
+        "answer": "Ja, spillet tilbyder en række stilarter og temaer at vælge imellem."
+      },
+      {
+        "question": "Er der en måde at dele mine kreationer på?",
+        "answer": "Absolut, du kan dele dine musikskabelser med andre spillere i fællesskabet."
+      },
+      {
+        "question": "Er Incredibox V7 egnet for alle aldre?",
+        "answer": "Ja, Incredibox V7 er et sjovt og kreativt spil, der er velegnet for både børn og voksne."
+      }
+    ]
+  }
+}

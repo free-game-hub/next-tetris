@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Gece Zamanı 2.0 - Gece Büyüsünü Deneyimleyin",
+    "description": "Sprunki Gece Zamanı 2.0'ın büyüleyici dünyasına dalın; zenginleştirilmiş ses ortamları ve görseller huzurlu bir oyun deneyimi sunuyor. Oynamayı öğrenin, özellikleri keşfedin ve incelemeleri okuyun.",
+    "keywords": "Sprunki Gece Zamanı 2.0, Sprunki Gece Zamanı oyunu, gece oyunları, ses ortamı oyunu, Sprunki modları"
+  },
+  "hero": {
+    "h1": "Sprunki Gece Zamanı 2.0",
+    "p": "Sprunki Gece Zamanı 2.0'ın huzurlu güzelliğine dalın, zengin ses ortamları ve canlı görseller geceyi büyülü bir deneyime dönüştürüyor."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Gece Zamanı Oyun Özellikleri",
+    "features": [
+      "Zenginleştirilmiş Gece Estetiği: Geliştirilmiş aydınlatma, ince animasyonlar ve daha belirgin silüetler.",
+      "Geliştirilmiş Ses Kütüphanesi: Yumuşak melodiler, sıcak vızıltılar ve nazik telli müziklerin harmanlandığı detaylı döngüler.",
+      "Sakin Atmosfer: Rahatlama ve dikkatli deneyimleme teşvik edilir.",
+      "Etkileşimli Karakter Seçimi: Gece huzurunu yansıtan karakterler tasarlandı.",
+      "Keşifsel Ses Macerası: Müzik içinde yeni huzur katmanlarını keşfedin."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Gece Zamanı 2 Modunu Nasıl Oynarsınız",
+    "instructions": [
+      "Karakter Seçin: Gece sakinliğini yansıtan figürleri seçin.",
+      "Sürükleyip Bırakın: Karakterleri düzenleyerek nazik ses ortamları oluşturun.",
+      "Karışımınızı İnce Ayar Yapın: Ses seviyelerini ayarlayın ve gece sıcaklığı için efektler uygulayın.",
+      "Kaydedin ve Paylaşın: Gece büyüsünü yansıtan bestelerinizi paylaşın.",
+      "Daha Fazla Keşfedin: Deneyiminizi kişiselleştirmek için çeşitli ses kombinasyonlarıyla denemeler yapın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Gece Zamanı 2.0'ı Ekran Görüntüleriyle Keşfedin"
+  },
+  "playerReviews": {
+    "title": "Oyuncular Ne Diyor",
+    "submitReviewLabel": "Değerlendirmenizi Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Değerlendirme",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Kesinlikle ilham verici! Grafikler ve müzik harika.",
+        "author": "Emma"
+      },
+      {
+        "content": "Uzun bir günün ardından dinlenmeme yardımcı olan mükemmel bir sakinleştirici oyun.",
+        "author": "Liam"
+      },
+      {
+        "content": "Ses ortamları o kadar karmaşık ve huzur verici ki. Ambient müziği seven herkes için mutlaka denemeli.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Karakter tasarımlarını ve çevre ile olan etkileşimlerini çok seviyorum.",
+        "author": "Noah"
+      },
+      {
+        "content": "Bu ortamda müzik oluşturmak gerçekten eşsiz bir deneyim.",
+        "author": "Isabella"
+      },
+      {
+        "content": "Her oturum yeni bir ses ve ruh hali keşfi gibi hissediliyor.",
+        "author": "Olivia"
+      },
+      {
+        "content": "Geliştirilmiş görseller ve sesler ikinci versiyonu daha da iyi hale getiriyor.",
+        "author": "Jackson"
+      },
+      {
+        "content": "Gece hiç bu kadar canlı ve sarıcı hissettirmemişti. Şiddetle tavsiye ederim!",
+        "author": "Aiden"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Sprunki Gece Zamanı 2.0 hangi platformlarda mevcut?",
+        "answer":"Sprunki Gece Zamanı 2.0, PC ve büyük oyun konsollarında mevcuttur."
+      },
+      {
+        "question":"Bestelerimi arkadaşlarımla paylaşabilir miyim?",
+        "answer":"Evet, bestelerinizi kolayca kaydedip arkadaşlarınızla paylaşabilirsiniz."
+      },
+      {
+        "question":"Uygulama içi satın alımlar var mı?",
+        "answer":"Temel oyun ücretsizdir, ek özellikler için isteğe bağlı uygulama içi satın alımlar mevcuttur."
+      },
+      {
+        "question":"Sprunki Gece Zamanı 2.0 çocuklar için uygun mu?",
+        "answer":"Evet, oyun sakin temalarıyla her yaş grubu için tasarlanmıştır."
+      },
+      {
+        "question":"Geri bildirim nasıl verilir veya sorun nasıl bildirilir?",
+        "answer":"Geri bildirim ve sorunlar oyunun resmi destek sayfası aracılığıyla bildirilebilir."
+      },
+      {
+        "question":"Oyun internet bağlantısı gerektiriyor mu?",
+        "answer":"Paylaşım ve güncellemeler için internet bağlantısına ihtiyacınız olacak, ancak çevrimdışı oyun destekleniyor."
+      }
+    ]
+  }
+}

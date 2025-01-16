@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle Oyunu: Oyna ve Keşfet | Resmi Web Sitesi",
+    "description": "Sprunkle'ın heyecan verici dünyasını keşfedin, kendine özgü özellikler ve zorluklarla dolu etkileyici bir çevrimiçi oyun. Oyun kurallarını, kontrol yöntemlerini öğrenin ve oyun deneyiminizi geliştirmek için oyuncu incelemelerini okuyun.",
+    "keywords": "Sprunkle oyunu, Sprunkle çevrimiçi, Sprunkle oyna, Sprunkle oyun kuralları, Sprunkle incelemeleri"
+  },
+  "hero": {
+    "h1": "Sprunkle Oyunu",
+    "p": "Sprunkle'a dalın, sizi koltuğunuzun ucunda tutan büyüleyici çevrimiçi oyunun heyecan dolu macerasına atılın!"
+  },
+  "gameFeatures": {
+    "title": "Sprunkle'ın Özellikleri",
+    "features": [
+      "Dinamik animasyonlarla sürükleyici bir oynanış",
+      "Farklı yetenek seviyeleri için eşsiz zorluklar",
+      "Oyuncu seçimlerine göre gelişen ilgi çekici bir hikaye",
+      "Arkadaşlarınızla oynamak için çok oyunculu seçenekler",
+      "Yeni seviyeler ve karakterlerle düzenli güncellemeler"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunkle Nasıl Oynanır",
+    "instructions": [
+      "Karakterinizi klavyenin ok tuşlarıyla yönlendirin.",
+      "Oyun sırasında yeteneklerinizi artırmak için güçlendiricileri toplayın.",
+      "Her seviyenin sonunda patronları yenerek ilerleyin.",
+      "Açıkça görünebilen tuzaklar ve engellerden kaçının.",
+      "Ekip olarak arkadaşlarınızla çok oyunculu modda birlikte oynayın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkle Oyunu Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu İncelemeleri",
+    "submitReviewLabel": "Değerlendirmenizi Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Değerlendirme",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunkle kesinlikle bağımlılık yapıcı! Seviyeler gayet iyi tasarlanmış ve zorlu.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Sprunkle'daki grafikleri seviyorum. Renkli ve davetkar!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Arkadaşlarımla Sprunkle oynamak harika. Çok oyunculu mod en iyisi!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Güncellemeler sık sık geliyor ve her zaman oyuna yeni bir şeyler ekliyor.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Sprunkle'daki kontrolleri öğrenmek kolay ama ustalaşmak yetenek gerektiriyor.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Sprunkle'ın hikayesini ve seçim odaklı oynanışını beğeniyorum.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "Müzik çok akılda kalıcı ve içe geçirme etkisini artırıyor.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "Zorlu bir oyunu seven herkese tavsiye ederim.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunkle'daki ilerlememi nasıl kaydedebilirim?",
+        "answer": "Sprunkle'daki ilerlemeniz, kontrol noktalarında otomatik olarak kaydedilir."
+      },
+      {
+        "question": "Sprunkle'ı mobil cihazımda oynayabilir miyim?",
+        "answer": "Şu anda, Sprunkle yalnızca masaüstü tarayıcıları için mevcuttur. Mobil versiyonu geliştiriliyor."
+      },
+      {
+        "question": "Oyun ilerlemesini sıfırlamanın bir yolu var mı?",
+        "answer": "Evet, oyun ilerlemenizi ayarlar menüsünden sıfırlayabilirsiniz."
+      },
+      {
+        "question": "Sprunkle'da herhangi bir oyuna içi satın alma var mı?",
+        "answer": "Sprunkle, isteğe bağlı içi satın alımlar sunuyor ancak game'yi tam olarak keyifle oynamak için gerekli değil."
+      },
+      {
+        "question": "Oyundaki bir hata veya sorunu nasıl rapor edebilirim?",
+        "answer": "Lütfen web sitemizdeki iletişim formunu kullanarak herhangi bir hata veya sorunu bildirin."
+      },
+      {
+        "question": "Çok oyunculu mod ücretsiz mi?",
+        "answer": "Evet, Sprunkle'daki çok oyunculu mod ücretsizdir ve arkadaşlarınızı davet edebilirsiniz."
+      }
+    ]
+  }
+}

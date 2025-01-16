@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkliyゲーム - シンプルでエキサイティングなゲームプレイ",
+    "description": "Sprunkliyを探検しよう。これは人気ゲームsprunkiのシンプルなリミックスです。ゲームの特徴、指示、レビュー、FAQを見つけてください。",
+    "keywords": "Sprunkliy, Sprunkiリミックス, シンプルなゲームプレイ, ゲームレビュー, ゲームFAQ"
+  },
+  "hero": {
+    "h1": "Sprunkliy",
+    "p": "Sprunkliyへようこそ！これは人気ゲームsprunkiのシンプルなリミックスです。スムーズなゲームプレイでエキサイティングな冒険に飛び込みましょう。"
+  },
+  "gameFeatures": {
+    "title": "Sprunkliyの特徴",
+    "features": [
+      "年齢を問わず楽しめるシンプルなゲームプレイ",
+      "魅力的でカラフルなビジュアル",
+      "簡単に学べる操作方法",
+      "報酬が得られる挑戦的なレベル",
+      "ScratchでAmsosprunkiによるリメイク"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunkliyの遊び方",
+    "instructions": [
+      "ゲームを開始し、キャラクターを選択します。",
+      "障害物を避けながらレベルを進んでください。",
+      "スコアを向上させるために報酬を集めます。",
+      "簡単な操作でキャラクターをジャンプまたは走らせます。",
+      "レベルをクリアして新しい挑戦をアンロックします。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkliyゲームのスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "プレイヤーレビュー",
+    "submitReviewLabel": "レビューを投稿する",
+    "nameLabel": "あなたの名前",
+    "reviewLabel": "あなたのレビュー",
+    "submitButtonLabel": "投稿",
+    "reviews": [
+      {
+        "content": "Sprunkliyは私が必要としていたシンプルな楽しさそのものです！",
+        "author": "アレックス"
+      },
+      {
+        "content": "休憩中にストレスを軽減するための完璧なゲームです。",
+        "author": "ジョーダン"
+      },
+      {
+        "content": "シンプルなデザインと簡単な操作が大好きです。",
+        "author": "テイラー"
+      },
+      {
+        "content": "レベルは挑戦的ですが、イライラさせることはありません。大好きです！",
+        "author": "ケイシー"
+      },
+      {
+        "content": "シンプルなリミックスが素晴らしいゲームになるなんて驚きです。",
+        "author": "モーガン"
+      },
+      {
+        "content": "子供たちがSprunkliyをやめられません。とても魅力的です！",
+        "author": "ジェイミー"
+      },
+      {
+        "content": "すべての年齢層におすすめの素晴らしいゲーム - 楽しく中毒性があります！",
+        "author": "チャーリー"
+      },
+      {
+        "content": "複雑でないゲームプレイを評価します。いいね！",
+        "author": "パット"
+      }
+    ]
+  },
+  "faq": {
+    "title": "よくある質問",
+    "questions": [
+      {
+        "question":"Sprunkliyとは何ですか？",
+        "answer":"Sprunkliyは元のゲームsprunkiのシンプルなリミックスで、明確で魅力的なゲームプレイを提供するように設計されています。"
+      },
+      {
+        "question":"Sprunkliyを開発したのは誰ですか？",
+        "answer":"リミックスはScratchのAmsosprunkiによって作成され、depicproによって共有されています。"
+      },
+      {
+        "question":"Sprunkliyの遊び方は？",
+        "answer":"簡単な操作を使ってキャラクターをさまざまなレベルに導き、障害物を避けて報酬を集めます。"
+      },
+      {
+        "question":"Sprunkliyは子供に適していますか？",
+        "answer":"はい、シンプルなゲームプレイのおかげで、すべての年齢層のプレイヤーに適しています。"
+      },
+      {
+        "question":"自分のレビューを投稿できますか？",
+        "answer":"もちろんです！私たちはあなたのフィードバックやSprunkliyに関する体験を歓迎します。"
+      },
+      {
+        "question":"Sprunkliyのようなゲームはどこで探せますか？",
+        "answer":"似たような魅力的なゲームのためにゲーム推薦モジュールをチェックしてください。"
+      }
+    ]
+  }
+}

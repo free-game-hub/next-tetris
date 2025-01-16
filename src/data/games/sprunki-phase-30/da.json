@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 30 - Udforsk det Nye Musikalske Eventyr",
+    "description": "Bliv en del af Sprunki universet med Phase 30 Mod. Oplev nye karakterer, dynamiske lydlandskaber og innovativ gameplay. Perfekt for både nye og erfarne spillere.",
+    "keywords": "Sprunki Phase 30, Sprunki Mod, musikalsk eventyr, dynamiske lydlandskaber, kreativ gameplay"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 30",
+    "p": "Tag på en ny musikalsk rejse med Sprunki Phase 30 Mod. Dyk ned i en medrivende verden fyldt med mystik, eventyr og uendelige kreative muligheder."
+  },
+  "gameFeatures": {
+    "title": "Nøglefunktioner i Sprunki Phase 30",
+    "features": [
+      "Nye Karakterer: Friskt designede karakterer bringer unikke loops og effekter, der udvider dine musikalske muligheder.",
+      "Dynamiske Lydlandskaber: Nyd en blanding af rytmiske beats, atmosfæriske melodier og lagdelte effekter til kreativ eksperimentering.",
+      "Visuelt Fantastiske Temaer: Oplev en kunstnerisk æstetik, der fordyber dig i en levende og engagerende verden.",
+      "Forbedret Gameplay: Glidende mekanikker og kuraterede lydkombinationer sikrer en intuitiv oplevelse.",
+      "Fællesskabsdeling: Vis dine musikalske kompositioner ved at gemme og dele dem med fællesskabet."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spiller Du Sprunki Phase 30 Mod",
+    "instructions": [
+      "Vælg Karakterer: Vælg mellem en række nye og tilbagevendende karakterer, hver med unikke loops.",
+      "Træk og Slip: Arranger karaktererne på skærmen, og læg beats og effekter ovenpå hinanden.",
+      "Eksperimentér og Forfin: Juster volumener og kombinationer for at forbedre dit nummer.",
+      "Gem og Del: Gem din komposition og del den med fællesskabet.",
+      "Udforsk Miljøer: Opdag livlige og dynamiske miljøer, mens du progresserer."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skærmbilleder fra Sprunki Phase 30"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 30 er et mesterværk. Det kombinerer kreativitet og gameplay på en sømløs måde.",
+        "author": "Alice J."
+      },
+      {
+        "content": "De nye karakterer og loops har gjort mine kompositioner meget mere dynamiske.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Absolut elsker det visuelle design af Phase 30. Det er en fornøjelse at udforske.",
+        "author": "Mike L."
+      },
+      {
+        "content": "De forbedrede gameplay-kontroller er meget intuitive og gør det nemt at skabe musik.",
+        "author": "Jane D."
+      },
+      {
+        "content": "Det er fantastisk, hvordan spillet lader dig gemme og dele musik. Mine venner er imponerede!",
+        "author": "John T."
+      },
+      {
+        "content": "Phase 30 har løftet min Sprunki oplevelse til et andet niveau. Brilliant!",
+        "author": "Anna P."
+      },
+      {
+        "content": "Som en langvarig fan er dette den bedste fase til dato. Anbefales varmt til alle spillere.",
+        "author": "Robert K."
+      },
+      {
+        "content": "Jeg nyder at eksperimentere med de nye lydlandskaber. Det føles utroligt friskt og engagerende.",
+        "author": "Lisa R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål",
+    "questions": [
+      {
+        "question": "Hvad er Sprunki Phase 30?",
+        "answer": "Sprunki Phase 30 er den nyeste mod i Sprunki serien, der tilbyder nye karakterer, lydlandskaber og gameplay funktioner."
+      },
+      {
+        "question": "Hvordan gemmer jeg mine kompositioner i Sprunki Phase 30?",
+        "answer": "Du kan gemme dine kompositioner ved at klikke på 'Gem' knappen i spillegrænsefladen efter at have afsluttet et nummer."
+      },
+      {
+        "question": "Kan jeg dele mine kreationer med andre?",
+        "answer": "Ja, du kan dele dine gemte kompositioner med fællesskabet gennem delingsfunktionen i spillet."
+      },
+      {
+        "question": "Er de nye karakterer i Sprunki Phase 30 gratis at bruge?",
+        "answer": "Ja, alle nye karakterer er tilgængelige i mod'et, hvilket giver ekstra loops og effekter gratis."
+      },
+      {
+        "question": "Hvad gør Phase 30 forskellig fra tidligere versioner?",
+        "answer": "Phase 30 tilbyder forbedret gameplay, nye karakterer, unikke lydlandskaber og et visuelt fantastisk tema."
+      },
+      {
+        "question": "Er Sprunki Phase 30 egnet for nye spillere?",
+        "answer": "Absolut! Det er designet til at være intuitivt for nybegyndere, samtidig med at det tilbyder dybde for erfarne spillere."
+      }
+    ]
+  }
+}

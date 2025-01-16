@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time Redrawn - Muzyczna Twórczość przy Świetle Księżyca",
+    "description": "Odkryj spokojny świat moda Sprunki Night Time Redrawn. Angażuj się w tworzenie tranquilnej muzyki z księżycową estetyką, kojącymi dźwiękami i relaksującym nastrojem. Odkryj instrukcje dotyczące gry, funkcje, recenzje i FAQ.",
+    "keywords": "Sprunki Night Time Redrawn, muzyka przy świetle księżyca, spokojna gra, kojące dźwięki, spokojna atmosfera"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time Redrawn",
+    "p": "Przekształcamy Sprunki w spokojne, gwieździste środowisko sprzyjające przemyślanej i łagodnej twórczości muzycznej."
+  },
+  "gameFeatures": {
+    "title": "Kluczowe Funkcje Sprunki Night Time Redrawn",
+    "features": [
+      "Księżycowa Estetyka: Postacie w stonowanych paletach kolorystycznych dla spokojnej atmosfery zmierzchu.",
+      "Kojące Dźwięki: Delikatna perkusja i miękkie dzwonki inspirują marzycielskie melodie.",
+      "Relaksujący Nastrój: Animacje i dźwięki stworzone dla cierpliwej i spokojnej kreatywności.",
+      "Delikatne Animacje: Łagodne ruchy, które naśladują spokój księżycowych nocy.",
+      "Intuicyjny Interfejs: Łatwe mechanizmy przeciągania i upuszczania dla płynnego tworzenia muzyki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Sprunki Night Time Redrawn",
+    "instructions": [
+      "Wybierz Postacie: Wybierz postacie, których pętle przywołują nocny spokój.",
+      "Przeciągnij i Upuść: Ułóż elementy, aby stworzyć spokojne kompozycje.",
+      "Dostosuj i Udoskonal: Dopracuj głośność i dodaj subtelne efekty.",
+      "Eksperymentuj z Kombinacjami: Wypróbuj różne elementy dla unikalnych dźwięków.",
+      "Zapisz i Udostępnij: Podziel się swoimi spokojnymi utworami z inną społecznością miłośników."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu Sprunki Night Time Redrawn"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy na Temat Sprunki Night Time Redrawn",
+    "submitReviewLabel": "Prześlij swoją recenzję",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Recenzja",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Księżycowa estetyka tego moda oferuje tak relaksujące doświadczenie. Gorąco polecam na wieczorne granie!",
+        "author": "Alice W."
+      },
+      {
+        "content": "Tworzenie spokojnej muzyki jest czymś zupełnie nowym dla mnie. Spokojne wibracje są doskonałe.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Uwielbiam, jak dźwięki i grafika współgrają ze sobą. Idealne na nocne granie.",
+        "author": "Liam S."
+      },
+      {
+        "content": "Kojące i kreatywne – fantastyczny mod dla każdego, kto kocha muzykę i sztukę.",
+        "author": "Sophia T."
+      },
+      {
+        "content": "Szczegółowość dźwięków jest niesamowita. Naprawdę odzwierciedla nocny spokój.",
+        "author": "Noah G."
+      },
+      {
+        "content": "Nigdy wcześniej nie grałem w grę, która w tak piękny sposób spowolniłaby mnie.",
+        "author": "Emma L."
+      },
+      {
+        "content": "Ten mod sprawił, że zacząłem doceniać muzykę w zupełnie nowym świetle. Pięknie wykonane!",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Idealne oderwanie od zwykłych szybkich gier. Jest relaksujące i artystycznie satysfakcjonujące.",
+        "author": "Ava M."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Czym jest Sprunki Night Time Redrawn?",
+        "answer": "To mod, który przekształca Sprunki w spokojne, księżycowe tło do tworzenia łagodnej muzyki."
+      },
+      {
+        "question": "Jak mogę dzielić się moimi muzycznymi kreacjami?",
+        "answer": "Możesz zapisać swoje utwory i dzielić się nimi z innymi, którzy lubią refleksyjną muzykę."
+      },
+      {
+        "question": "Jakie dźwięki są dostępne?",
+        "answer": "Spodziewaj się delikatnej perkusji, miękkich dzwonków i szeptanych melodii idealnych do spokojnej kreatywności."
+      },
+      {
+        "question": "Czy ta gra jest odpowiednia dla wszystkich grup wiekowych?",
+        "answer": "Tak, gra została zaprojektowana tak, aby była przyjazna dla rodzin i odpowiednia dla graczy w każdym wieku."
+      },
+      {
+        "question": "Czy mogę grać w ten mod na urządzeniach mobilnych?",
+        "answer": "Proszę sprawdzić kompatybilność gry w sklepie z aplikacjami swojego urządzenia lub na stronie internetowej."
+      },
+      {
+        "question": "Jak ten mod różni się od innych modów Sprunki?",
+        "answer": "Ten mod koncentruje się na spokojnym i gwieździstym środowisku, przekształcając zwykłe doświadczenie Sprunki w relaksujące."
+      }
+    ]
+  }
+}

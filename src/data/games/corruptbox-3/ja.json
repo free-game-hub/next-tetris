@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox 3 - シリーズの壮大なフィナーレ",
+    "description": "Corruptbox 3は、Corruptboxシリーズの壮大な結論です。忘れられない旅に飛び込み、心を揺さぶる音、グリッチなビジュアル、リズムの混沌を体験してください。究極のSprunkiモッドを今日体験しよう。",
+    "keywords": "corruptbox 3, corruptbox シリーズ, Sprunki モッド, リズムゲーム, グリッチアート, 実験音楽, ダークな美学, デジタルホラー"
+  },
+  "hero": {
+    "h1": "Corruptbox 3: 最終章",
+    "p": "旅はここで終わります。Corruptbox 3は、心を揺さぶる音楽、グリッチなビジュアル、挑戦的なゲームプレイを融合させた究極の混沌体験を提供します。フィナーレの準備はできましたか？"
+  },
+  "gameFeatures": {
+    "title": "Corruptbox 3を好きになる理由",
+    "features": [
+      "精錬されたゲームプレイとビジュアルを特徴とするCorruptboxシリーズの壮大な結論。",
+      "古くからの名曲と新しい実験的なトラックをミックスした心を揺さぶるサウンドスケープ。",
+      "デジタルホラーの限界を押し広げるグリッチで超現実的な美学。",
+      "リズムと創造性の両方を試すように設計された挑戦的なレベル。",
+      "Corruptboxの旅を支えたファンへの心のこもった献辞。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Corruptbox 3の遊び方",
+    "instructions": [
+      "Sprunkiベースゲームがデバイスにインストールされていることを確認してください。",
+      "信頼できるソースからCorruptbox 3モッドをダウンロードしてください。",
+      "Sprunkiモッドメニューを通じてモッドをロードして体験を始めてください。",
+      "最終章の混沌としたリズムと心を揺さぶるビジュアルに没頭してください。",
+      "シリーズで最も複雑なゲームプレイをマスターすることに挑戦してください。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "プレイ中のCorruptbox 3"
+  },
+  "playerReviews": {
+    "title": "Corruptbox 3についてのプレイヤーの声",
+    "submitReviewLabel": "レビューを送信",
+    "nameLabel": "あなたの名前",
+    "reviewLabel": "あなたのレビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "Corruptbox 3は完璧なフィナーレです。ビジュアル、サウンド、すべてがファンへのラブレターのように感じられます！",
+        "author": "Sam D.",
+        "rating": 5
+      },
+      {
+        "content": "これが待っていたものです。Corruptbox 3はすべてを次のレベルに引き上げます。必ずプレイすべきです！",
+        "author": "Morgan F.",
+        "rating": 5
+      },
+      {
+        "content": "Corruptboxの最終章は挑戦的であり、なおかつ報われるものでした。素晴らしいシリーズへのふさわしい終わりです。",
+        "author": "Jesse K.",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Corruptbox 3についてのよくある質問",
+    "questions": [
+      {
+        "question": "Corruptbox 3とは？",
+        "answer": "Corruptbox 3はCorruptboxシリーズの最終章であり、洗練されたゲームプレイ、心を揺さぶるビジュアル、新旧のサウンドをミックスした作品です。"
+      },
+      {
+        "question": "Corruptbox 3をインストールする方法は？",
+        "answer": "まず、Sprunkiベースゲームをインストールします。次に、信頼できるソースからCorruptbox 3をダウンロードし、ゲームのモッドメニューを通じてロードします。"
+      },
+      {
+        "question": "Corruptbox 3は無料でプレイできますか？",
+        "answer": "はい、Corruptbox 3は無料のモッドですが、プレイするにはSprunkiベースゲームが必要です。"
+      },
+      {
+        "question": "以前のバージョンをプレイせずにCorruptbox 3をプレイできますか？",
+        "answer": "はい、Corruptbox 3はスタンドアロンの体験として楽しむことができますが、以前のバージョンをプレイすることでシリーズの文脈が追加されます。"
+      },
+      {
+        "question": "Corruptbox 3はCorruptbox 2と何が違うのですか？",
+        "answer": "Corruptbox 3は、Corruptbox 2の混沌としたゲームプレイとビジュアルを洗練し、新たなサウンドとレベルを導入してシリーズを締めくくっています。"
+      },
+      {
+        "question": "Corruptbox 3の詳細情報はどこで見つけられますか？",
+        "answer": "公式のSprunkiモディングコミュニティや信頼できるフォーラムで、Corruptbox 3のアップデートやヒントを見つけることができます。"
+      }
+    ]
+  }
+}

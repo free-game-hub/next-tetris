@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time 2.0 - Koe yön taikaa",
+    "description": "Sukella lumoavaan maailmaan, jossa Sprunki Night Time 2.0:n parannetut äänimaailmat ja visuaalit luovat rauhallisen pelikokemuksen. Opettele pelaamaan, tutustu ominaisuuksiin ja lue arvosteluja.",
+    "keywords": "Sprunki Night Time 2.0, Sprunki Night Time peli, yöpelit, äänimaailmapeli, Sprunki modit"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time 2.0",
+    "p": "Sukella Sprunki Night Time 2.0:n rauhoittavaan kauneuteen, jossa rikastetut äänimaailmat ja elävät visuaalit muuntavat yön maagiseksi kokemukseksi."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Night Time Pelin Ominaisuudet",
+    "features": [
+      "Rikkaat Yön Esteettiset: Paranneltu valaistus, hienovaraiset animaatiot ja selkeämmät siluetit.",
+      "Hienostunut Äänikirjasto: Monimuotoisia silmukoita, joissa sekoittuvat pehmeät soittoäänet, lämpimät huminat ja herkät jouset.",
+      "Rauhoittava Ilmapiiri: Edistää rentoutumista ja tietoista kokeilua.",
+      "Vuorovaikutteinen Hahmovalinta: Hahmot on suunniteltu ilmentämään yön rauhoittavaa hiljaisuutta.",
+      "Tutkiva Ääniseikkailu: Löydä uusia rauhoittavia kerroksia musiikistasi."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Night Time 2 Modia",
+    "instructions": [
+      "Valitse Hahmot: Valitse hahmot, jotka ilmentävät yön rauhallisuutta.",
+      "Vedä ja Pudota: Järjestä hahmot luodaksesi lempeitä äänimaailmoja.",
+      "Säädä Mixiäsi: Säädä äänenvoimakkuuksia ja käytä efektejä yömaisuuden luomiseksi.",
+      "Tallenna ja Jaa: Jaa sävellyksesi, jotka heijastavat yön taikaa.",
+      "Tutki Lisää: Kokeile erilaisia ääniyhdistelmiä, jotta voit personoida kokemuksesi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tutustu Sprunki Night Time 2.0:aan Kuvakaappausten kautta"
+  },
+  "playerReviews": {
+    "title": "Mitä Pelaajat Sanovat",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Aivan hengästyttävää! Grafiikka ja musiikki ovat upeita.",
+        "author": "Emma"
+      },
+      {
+        "content": "Ihanan rauhoittava peli, joka auttaa minua rentoutumaan pitkän päivän jälkeen.",
+        "author": "Liam"
+      },
+      {
+        "content": "Äänimaailmat ovat niin monimutkaisia ja rauhoittavia. Vetoa kaikille, jotka rakastavat ambient-musiikkia.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Rakastan hahmosuunnittelua ja sitä, miten ne vuorovaikuttavat ympäristön kanssa.",
+        "author": "Noah"
+      },
+      {
+        "content": "Musiikin luominen tässä ympäristössä on niin ainutlaatuinen kokemus.",
+        "author": "Isabella"
+      },
+      {
+        "content": "Jokainen sessio tuntuu uudelta äänellisen ja tunnelman tutkimiselta.",
+        "author": "Olivia"
+      },
+      {
+        "content": "Parannetut visuaalit ja äänet tekevät toisesta versiosta vielä paremman.",
+        "author": "Jackson"
+      },
+      {
+        "content": "Yö ei ole koskaan tuntunut näin elävältä ja mukaansatempaavalta. Suosittelen lämpimästi!",
+        "author": "Aiden"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Millä alustoilla Sprunki Night Time 2.0 on saatavilla?",
+        "answer": "Sprunki Night Time 2.0 on saatavilla PC:llä ja suurilla pelikonsoleilla."
+      },
+      {
+        "question": "Voinko jakaa sävellykseni ystävilleni?",
+        "answer": "Kyllä, voit tallentaa ja jakaa sävellyksesi ystävillesi helposti."
+      },
+      {
+        "question": "Onko sovelluksen sisäisiä ostoja?",
+        "answer": "Peruspeli on ilmainen, ja lisäominaisuuksia voi hankkia sovelluksen sisäisin oin."
+      },
+      {
+        "question": "Onko Sprunki Night Time 2.0 sopiva lapsille?",
+        "answer": "Kyllä, peli on suunniteltu kaikenikäisille pelaajille rauhoittavien teemojen ansiosta."
+      },
+      {
+        "question": "Kuinka voin antaa palautetta tai raportoida ongelmista?",
+        "answer": "Palautetta ja ongelmia voi raportoida pelin virallisen tukisivun kautta."
+      },
+      {
+        "question": "Vaaditaanko peliin internetyhteys?",
+        "answer": "Tarvitset internetyhteyden jakamiseen ja päivityksiin, mutta offline-peli on tuettu."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle Spill: Spill & Utforsk | Offisiell Nettsted",
+    "description": "Oppdag den spennende verdenen av Sprunkle, et engasjerende nettspill med unike funksjoner og utfordringer. Lær om spillets regler, kontrollmetoder, og les spilleranmeldelser for å forbedre din spillopplevelse.",
+    "keywords": "Sprunkle spill, Sprunkle online, spill Sprunkle, Sprunkle spilleregler, Sprunkle anmeldelser"
+  },
+  "hero": {
+    "h1": "Sprunkle Spill",
+    "p": "Dykk inn i det spennende eventyret til Sprunkle, det gripende nettspillet som holder spillerne på kanten av setet!"
+  },
+  "gameFeatures": {
+    "title": "Funksjoner av Sprunkle",
+    "features": [
+      "Fengende spillopplevelse med dynamisk animasjon",
+      "Unike utfordringer for ulike ferdighetsnivåer",
+      "Engasjerende historie som utvikler seg med spillerens valg",
+      "Flerspilleralternativer for å spille med venner",
+      "Regelmessige oppdateringer med nye nivåer og karakterer"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Sprunkle",
+    "instructions": [
+      "Naviger karakteren din ved hjelp av pilene på tastaturet.",
+      "Samle power-ups for å styrke evnene dine under spillet.",
+      "Beseire bossene på slutten av hvert nivå for å komme deg videre.",
+      "Se opp for feller og hindringer som dukker opp uventet.",
+      "Samarbeid med venner i flerspillermodus for en kooperativ opplevelse."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkle Spill Skjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send inn",
+    "reviews": [
+      {
+        "content": "Sprunkle er rett og slett vanedannende! Nivåene er godt designet og utfordrende.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Jeg elsker grafikken i Sprunkle. Den er fargerik og innbydende!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Å spille Sprunkle med venner er moro. Flerspillermodus er den beste!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Oppdateringene kommer raskt og tilfører alltid noe nytt til spillet.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Kontrollene i Sprunkle er enkle å lære, men å mestre dem krever ferdigheter.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Jeg liker historien og valg-drevet spillopplevelse i Sprunkle.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "Soundtracket er fengende og bidrar til innlevelsen.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "Det er et spill jeg vil anbefale til alle som liker en god utfordring.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte Stillte Spørsmål",
+    "questions": [
+      {
+        "question": "Hvordan lagrer jeg fremgangen min i Sprunkle?",
+        "answer": "Fremgangen din i Sprunkle lagres automatisk ved sjekkpunkter."
+      },
+      {
+        "question": "Kan jeg spille Sprunkle på mobilen min?",
+        "answer": "Foreløpig er Sprunkle tilgjengelig for desktop-nettlesere. En mobilversjon er under utvikling."
+      },
+      {
+        "question": "Er det en måte å tilbakestille spillets fremgang?",
+        "answer": "Ja, du kan tilbakestille fremgangen din fra innstillingsmenyen."
+      },
+      {
+        "question": "Er det noen in-game kjøp i Sprunkle?",
+        "answer": "Sprunkle tilbyr valgfrie in-game kjøp, men de er ikke nødvendige for å nyte spillet fullt ut."
+      },
+      {
+        "question": "Hvordan kan jeg rapportere en feil eller et problem i spillet?",
+        "answer": "Vennligst bruk kontaktskjemaet på nettstedet vårt for å rapportere eventuelle feil eller problemer."
+      },
+      {
+        "question": "Er flerspillermodus gratis å spille?",
+        "answer": "Ja, flerspillermodusen i Sprunkle er gratis å spille, og du kan invitere venner til å bli med."
+      }
+    ]
+  }
+}

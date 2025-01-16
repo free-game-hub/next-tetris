@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 11 - Tạo Nhạc Với Nhịp Điệu Và Âm Thanh Đổi Mới",
+    "description": "Khám phá Sprunki Phase 11, một trò chơi nhạc được lấy cảm hứng từ Incredibox. Trộn các vòng lặp giọng hát, sắp xếp âm thanh, và đổi mới những sáng tạo âm nhạc của bạn.",
+    "keywords": "Sprunki Phase 11, trò chơi nhạc, beatboxing, tạo âm thanh, vòng lặp giọng hát, thiết kế trò chơi"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 11",
+    "p": "Khám phá thế giới âm thanh phong phú của Sprunki Phase 11 nơi sáng tạo gặp gỡ sự đổi mới âm nhạc."
+  },
+  "gameFeatures": {
+    "title": "Tính Năng Trò Chơi",
+    "features": [
+      "Lớp âm thanh đổi mới với các vòng lặp giọng hát và nhạc cụ",
+      "Giao diện kéo và thả thân thiện với người dùng",
+      "Cung cấp những thử thách để nâng cao sự sáng tạo",
+      "Tăng cường thiết kế hình ảnh",
+      "Cơ chế trò chơi tương tác và hấp dẫn"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sprunki Phase 11",
+    "instructions": [
+      "Chọn Nhân Vật: Lựa chọn từ bộ nhân vật độc đáo, mỗi nhân vật có âm thanh riêng biệt.",
+      "Kéo và Thả: Xếp lớp nhân vật vào giao diện trò chơi để tạo ra những bản nhạc.",
+      "Thí Nghiệm: Chơi với thứ tự và thời gian để tạo ra âm thanh đổi mới.",
+      "Hoàn Thành Thử Thách: Tham gia vào các mục tiêu để tăng thêm niềm vui.",
+      "Tận Hưởng Âm Nhạc: Nghe và chia sẻ những sáng tác độc đáo của bạn."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Trò Chơi"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên",
+    "reviewLabel": "Đánh Giá",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 11 là giai đoạn tốt nhất từ trước đến nay! Sự kết hợp âm nhạc là vô tận.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Tôi rất thích hình ảnh và nhân vật mới. Tạo nhạc thật sự rất thú vị!",
+        "author": "Samantha R."
+      },
+      {
+        "content": "Những thử thách trong Phase 11 giữ tôi gắn bó hàng giờ.",
+        "author": "Jordan P."
+      },
+      {
+        "content": "Trò chơi tuyệt vời cho bất kỳ ai yêu thích âm nhạc và sự sáng tạo.",
+        "author": "Chris M."
+      },
+      {
+        "content": "Tính năng kéo và thả thật sự rất trực quan. Tôi không thể ngừng chơi!",
+        "author": "Jess F."
+      },
+      {
+        "content": "Mỗi bản cập nhật của Sprunki đều tốt hơn. Phase 11 là một cuộc cách mạng!",
+        "author": "Pat L."
+      },
+      {
+        "content": "Một trò chơi không thể bỏ qua cho tất cả người hâm mộ Incredibox!",
+        "author": "Jamie W."
+      },
+      {
+        "content": "Sprunki Phase 11 đã biến việc sáng tác âm nhạc thành một hoạt động vui vẻ cho tất cả mọi người.",
+        "author": "Taylor G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+      "question": "Sprunki Phase 11 có sẵn trên những nền tảng nào?",
+      "answer": "Sprunki Phase 11 có sẵn trên nhiều nền tảng bao gồm PC, iOS và Android."
+      },
+      {
+      "question": "Tôi có thể chia sẻ âm nhạc tôi tạo ra trong Sprunki Phase 11 như thế nào?",
+      "answer": "Khi tác phẩm của bạn hoàn thành, bạn có thể chia sẻ những bản nhạc qua các nền tảng mạng xã hội trực tiếp từ trò chơi."
+      },
+      {
+      "question": "Có mua hàng trong trò chơi nào trong Sprunki Phase 11 không?",
+      "answer": "Có, Sprunki Phase 11 cung cấp mua hàng trong trò chơi cho các âm thanh và nhân vật bổ sung."
+      },
+      {
+      "question": "Tôi có thể chơi Sprunki Phase 11 ngoại tuyến không?",
+      "answer": "Có, bạn có thể thưởng thức Sprunki Phase 11 ở chế độ ngoại tuyến với các tính năng hạn chế."
+      },
+      {
+      "question": "Có hướng dẫn nào giúp tôi làm quen với trò chơi không?",
+      "answer": "Có, có một hướng dẫn toàn diện giúp người chơi mới nắm bắt những điều cơ bản về sáng tạo âm thanh."
+      },
+      {
+      "question": "Độ tuổi nào phù hợp với Sprunki Phase 11?",
+      "answer": "Sprunki Phase 11 phù hợp với người chơi từ 8 tuổi trở lên."
+      }
+    ]
+  }
+}

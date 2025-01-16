@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "title": "Friday Night Funkin (FNF) - Trận Chiến Nhịp Điệu Tối Thượng | Chơi Ngay",
+        "description": "Tham gia vào Friday Night Funkin' (FNF), hiện tượng trò chơi nhịp điệu lan truyền! Chiến đấu qua các cuộc đối đầu âm nhạc, khám phá các mod của cộng đồng và trải nghiệm trò chơi đã làm náo động internet. Chơi miễn phí, dễ học, khó thành thạo!",
+        "keywords": "Friday Night Funkin, FNF, trò chơi nhịp điệu, trận rap, trò chơi Newgrounds, mod FNF, trò chơi âm nhạc, trò chơi indie"
+    },
+    "hero": {
+        "h1": "Friday Night Funkin' - Nơi Âm Nhạc Gặp Gỡ Thử Thách",
+        "p": "Tham gia hàng triệu người chơi trong trò chơi trận chiến nhịp điệu phổ biến nhất trên internet. Đối đầu với một loạt các nhân vật đầy màu sắc trong các cuộc đối đầu âm nhạc, chứng minh kỹ năng nhịp điệu của bạn và trở thành một phần của cộng đồng phát triển mạnh mẽ của chúng tôi!"
+    },
+    "gameFeatures": {
+        "title": "Điều Gì Làm Nên Đặc Biệt Của FNF",
+        "features": [
+            "Nhạc Nền Lan Truyền Gốc: Nhịp theo những bài hát được tạo chuyên nghiệp đã cuốn hút hàng triệu người",
+            "Cộng Đồng Modding Hoạt Động: Truy cập hàng ngàn nhân vật, bài hát và cấp độ do cộng đồng tạo ra",
+            "Phong Cách Nghệ Thuật Cổ Điển: Thưởng thức các hoạt ảnh và thiết kế nhân vật lấy cảm hứng từ thời đại Flash đặc trưng",
+            "Cập Nhật Thường Xuyên: Trải nghiệm nội dung và tính năng mới khi trò chơi liên tục phát triển",
+            "Phát Triển Mã Mở: Trở thành một phần của trò chơi phát triển cùng cộng đồng của nó"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Cách Chơi",
+        "instructions": [
+            "Sử dụng các phím mũi tên (⬆️⬇️⬅️➡️) để khớp với nhịp điệu của các nốt nhạc đến",
+            "Nhấn chính xác các nốt nhạc để duy trì sức khỏe và ghi điểm combo",
+            "Tiến bộ qua Chế Độ Câu Chuyện để mở khóa các nhân vật và bài hát mới",
+            "Thử Chế Độ Chơi Tự Do để luyện tập các bài hát yêu thích của bạn",
+            "Khám phá phần mod để khám phá nội dung do cộng đồng tạo ra"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "FNF Trong Hành Động"
+    },
+    "playerReviews": {
+        "title": "Phản Hồi Cộng Đồng",
+        "submitReviewLabel": "Chia Sẻ Trải Nghiệm FNF Của Bạn",
+        "nameLabel": "Tên Người Dùng",
+        "reviewLabel": "Đánh Giá Của Bạn",
+        "submitButtonLabel": "Đăng Đánh Giá",
+        "reviews": [
+            {
+                "content": "Cộng đồng mod luôn khiến trò chơi này mới mẻ! Luôn có điều gì đó mới để thử, và trò chơi gốc đã rất tuyệt vời.",
+                "author": "RhythmMaster2023",
+                "rating": 5
+            },
+            {
+                "content": "Bắt đầu chơi khi nó lan truyền, vẫn không thể dừng lại. Tính chất mã mở còn làm cho trò chơi thậm chí tốt hơn!",
+                "author": "FunkinPlayer",
+                "rating": 5
+            },
+            {
+                "content": "Trò chơi nhịp điệu xuất sắc nhất mà tôi đã chơi trong nhiều năm. Cộng đồng ngày càng lớn và tốt hơn!",
+                "author": "BeatDropper",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "questions": [
+            {
+                "question": "Friday Night Funkin' có miễn phí để chơi không?",
+                "answer": "Có! Trò chơi gốc hoàn toàn miễn phí để chơi trên Newgrounds và các nền tảng chính thức khác."
+            },
+            {
+                "question": "Làm thế nào để cài đặt mod cho FNF?",
+                "answer": "Hầu hết các mod có thể được tải xuống từ các nền tảng mod đáng tin cậy. Mỗi mod thường đi kèm với hướng dẫn cài đặt, nhưng thường bao gồm việc đưa các tệp vào thư mục trò chơi của bạn."
+            },
+            {
+                "question": "Yêu cầu hệ thống tối thiểu là gì?",
+                "answer": "FNF dựa trên trình duyệt và chạy trên hầu hết các máy tính hiện đại. Bạn chỉ cần một bàn phím và một trình duyệt web cập nhật để chơi!"
+            },
+            {
+                "question": "Tôi có thể tạo mod của riêng mình không?",
+                "answer": "Chắc chắn! FNF là mã mở, và cộng đồng luôn chào đón những người sáng tạo mới. Bạn có thể tìm thấy các tài liệu và tài nguyên hướng dẫn modding trong các diễn đàn cộng đồng chính thức."
+            },
+            {
+                "question": "Trò chơi được cập nhật bao lâu một lần?",
+                "answer": "Trò chơi gốc nhận được các cập nhật thường xuyên từ nhóm phát triển, trong khi các mod cộng đồng mới được phát hành gần như hàng ngày."
+            },
+            {
+                "question": "Có phiên bản di động của FNF không?",
+                "answer": "Mặc dù có một số bản di động không chính thức, phiên bản chính thức được thiết kế để chơi trên máy tính với bàn phím."
+            }
+        ]
+    }
+}

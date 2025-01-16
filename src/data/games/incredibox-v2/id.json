@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Permainan Incredibox V2 - Pengalaman Musik Interaktif",
+    "description": "Temukan Incredibox V2, sebuah permainan musik interaktif yang memungkinkan Anda membuat trek musik sendiri dengan mencampurkan suara dan irama yang unik.",
+    "keywords": "Incredibox V2, permainan musik, interaktif, buat musik, pencampuran suara, Incredibox V1, Incredibox Mustard"
+  },
+  "hero": {
+    "h1": "Incredibox V2",
+    "p": "Masuki dunia Incredibox V2, sebuah permainan musik interaktif di mana kreativitas bertemu dengan hiburan. Campurkan irama dan harmoni untuk menyusun trek unik Anda sendiri."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Penciptaan Musik Interaktif: Seret dan jatuhkan ikon untuk membuat trek unik dengan karakter animasi.",
+      "Gaya Musik Beragam: Jelajahi berbagai gaya, masing-masing menawarkan pengalaman auditori yang berbeda.",
+      "Kebebasan Kreatif: Eksperimen dengan suara untuk menemukan campuran sempurna Anda.",
+      "Visual yang Menarik: Nikmati animasi berwarna-warni dan karakter yang unik.",
+      "Berbagi Sosial: Bagikan karya musik Anda dengan orang lain dan bergabunglah dengan komunitas pembuat."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Incredibox V2",
+    "instructions": [
+      "Luncurkan Permainan: Buka Incredibox V2 Mod di perangkat Anda.",
+      "Pilih Gaya: Mulailah dengan memilih dari beberapa gaya musik.",
+      "Tambahkan Suara: Seret ikon untuk irama, melodi, atau efek ke karakter.",
+      "Buat Campuran Anda: Gabungkan suara untuk menciptakan trek unik Anda, modifikasi sesuai keinginan.",
+      "Rekam & Bagikan: Simpan kreasi Anda dan bagikan dengan dunia."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Incredibox V2 adalah perpaduan yang mulus antara kreativitas dan kesenangan! Saya suka membuat campuran baru.",
+        "author": "Alex"
+      },
+      {
+        "content": "Gaya yang tersedia sangat beragam, membuat permainan ini tetap segar dan menarik.",
+        "author": "Samira"
+      },
+      {
+        "content": "Saya bisa menghabiskan berjam-jam hanya untuk menjelajahi kombinasi suara yang berbeda!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Visualnya sangat menarik, dan sangat mudah untuk masuk ke irama.",
+        "author": "Zane"
+      },
+      {
+        "content": "Membagikan kreasi saya dengan teman-teman adalah bagian terbaik! Kami sudah bersenang-senang.",
+        "author": "Luka"
+      },
+      {
+        "content": "Umpan balik instan dengan irama yang catchy membuat permainan ini adiktif!",
+        "author": "Maya"
+      },
+      {
+        "content": "Antarmuka yang ramah pengguna, bahkan anak-anak saya bisa memainkannya dengan mudah.",
+        "author": "Chris"
+      },
+      {
+        "content": "Wajib dimainkan bagi penggemar musik yang menyukai sedikit kreativitas.",
+        "author": "Nina"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apa itu Incredibox V2?",
+        "answer": "Incredibox V2 adalah permainan musik interaktif yang memungkinkan pemain membuat trek musik mereka sendiri dengan mencampurkan suara dan irama."
+      },
+      {
+        "question": "Bagaimana cara saya mulai membuat musik di Incredibox V2?",
+        "answer": "Luncurkan permainan, pilih gaya musik, dan seret ikon suara untuk membuat campuran Anda."
+      },
+      {
+        "question": "Bisakah saya membagikan kreasi musik saya?",
+        "answer": "Ya, Anda dapat merekam dan membagikan campuran Anda dengan orang lain dengan mudah."
+      },
+      {
+        "question": "Apakah saya perlu pengalaman musik sebelumnya untuk bermain?",
+        "answer": "Tidak, Incredibox V2 dirancang agar dapat diakses oleh semua orang, tanpa memandang latar belakang musik."
+      },
+      {
+        "question": "Apakah ada gaya musik yang berbeda dalam permainan?",
+        "answer": "Ya, Incredibox V2 menawarkan berbagai gaya musik, masing-masing dengan suara dan karakter yang unik."
+      },
+      {
+        "question": "Apakah Incredibox V2 cocok untuk semua usia?",
+        "answer": "Ya, kontrol sederhana membuatnya menyenangkan dan dapat diakses untuk pemain dari segala usia."
+      }
+    ]
+  }
+}

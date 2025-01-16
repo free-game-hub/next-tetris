@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki GreenCore: 자연에서 영감을 받은 음악 만들기 | 게임 규칙 및 특징",
+    "description": "Sprunki GreenCore의 환경 친화적인 세계를 탐험하세요. 자연에서 영감을 받은 비주얼과 캐릭터로 음악을 만들어보세요. 규칙과 특징을 배우고 게임 플레이에 대한 팁을 받아보세요.",
+    "keywords": "Sprunki GreenCore, Incredibox 모드, 환경 친화적인 게임, 음악 만들기 게임, Sprunki 게임 특징, 환경 의식이 있는 게임"
+  },
+  "hero": {
+    "h1": "Sprunki GreenCore",
+    "p": "Sprunki GreenCore와 함께 자연의 리듬에 빠져보세요. 지속 가능성과 환경을 기념하는 독특한 Incredibox 모드입니다. 흥미로운 음악 창작을 경험하세요."
+  },
+  "gameFeatures": {
+    "title": "Sprunki GreenCore 게임 특징",
+    "features": [
+      "자연에서 영감을 받은 비주얼: 생생하고 자연스러운 색상 조합으로 녹지와 자연 요소에 몰입하세요.",
+      "환경 테마 캐릭터: 캐릭터는 재활용 에너지 및 생태계 보전과 같은 지속 가능성 개념을 상징합니다.",
+      "인터랙티브 보너스: 재조림과 같은 친환경 행동을 보여주는 애니메이션을 잠금 해제하세요.",
+      "직관적인 게임 플레이: 쉽게 음악을 만들 수 있는 간단한 드래그 앤 드롭 메커니즘.",
+      "커스터마이즈 가능한 음악: 비트, 효과 및 보컬을 혼합하여 독창적인 구성품을 만드세요."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki GreenCore 플레이 방법",
+    "instructions": [
+      "게임 시작하기: 원하는 플랫폼에서 Sprunki GreenCore를 실행하세요.",
+      "캐릭터 드래그하기: 캐릭터를 선택하고 드래그하여 무대에 설치해 소리를 활성화하세요.",
+      "사운드 레이어링하기: 비트, 효과 및 보컬을 결합하여 나만의 음악을 만드세요.",
+      "보너스 잠금 해제하기: 조합을 시도하여 특별 애니메이션을 표시하세요.",
+      "저장 및 공유하기: 구성품을 저장하고 친구들과 공유하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki GreenCore 스크린샷"
+  },
+  "playerReviews": {
+    "title": "Sprunki GreenCore에 대한 플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "음악 게임에 대한 신선한 접근입니다! 환경 친화적인 테마가 마음에 들어요!",
+        "author": "안나 K."
+      },
+      {
+        "content": "비주얼이 놀랍고 자연의 아름다움을 잘 반영하고 있어요!",
+        "author": "존 M."
+      },
+      {
+        "content": "애니메이션 잠금 해제가 정말 보람차고 음악도 환상적이에요!",
+        "author": "소피 L."
+      },
+      {
+        "content": "지속 가능성과 창의성에 관심 있는 모든 사람에게 완벽해요.",
+        "author": "마이크 T."
+      },
+      {
+        "content": "아름답고 기억에 남는 것을 만드는 것이 얼마나 쉬운지 놀라워요.",
+        "author": "레이첼 F."
+      },
+      {
+        "content": "예술, 음악, 환경 의식이 훌륭하게 어우러진 게임이에요!",
+        "author": "타미 H."
+      },
+      {
+        "content": "모든 연령대에 좋습니다! 제 아이들이 즐기고 교육적이기도 해요!",
+        "author": "산드라 A."
+      },
+      {
+        "content": "캐릭터와 그들의 환경 메시지가 정말 마음에 들어요.",
+        "author": "리암 G."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sprunki GreenCore에 대한 자주 묻는 질문",
+    "questions": [
+      {
+        "question":"Sprunki GreenCore는 어떤 플랫폼에서 이용할 수 있나요?",
+        "answer":"Sprunki GreenCore는 PC, Mac 및 모바일 장치를 포함한 여러 플랫폼에서 이용할 수 있습니다."
+      },
+      {
+        "question":"Sprunki GreenCore는 무료 모드인가요?",
+        "answer":"네, Sprunki GreenCore는 팬이 만든 모드이며 무료로 다운로드하고 플레이할 수 있습니다."
+      },
+      {
+        "question":"내 구성을 어떻게 저장하고 공유하나요?",
+        "answer":"'저장' 아이콘을 클릭하여 구성을 저장할 수 있으며, '공유' 옵션을 선택하여 게임 내에서 직접 공유할 수 있습니다."
+      },
+      {
+        "question":"친구와 함께 Sprunki GreenCore를 플레이할 수 있나요?",
+        "answer":"현재 Sprunki GreenCore는 멀티플레이어를 지원하지 않지만, 친구들과 당신의 창작물을 공유할 수 있습니다."
+      },
+      {
+        "question":"Sprunki GreenCore에 인앱 구매가 있나요?",
+        "answer":"아니요, Sprunki GreenCore에는 인앱 구매나 광고가 없습니다."
+      },
+      {
+        "question":"새로운 업데이트는 얼마나 자주 제공되나요?",
+        "answer":"Sprunki GreenCore의 업데이트는 주기적으로 제공되며, 새로운 기능 및 게임 플레이 최적화에 중점을 두고 있습니다."
+      }
+    ]
+  }
+}

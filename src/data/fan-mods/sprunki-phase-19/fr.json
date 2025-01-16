@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 19 - Créez des Beats et Entrez dans une Nouvelle Phase",
+    "description": "Découvrez Sprunki Phase 19, une expérience de jeu unique qui allie création de beats et gameplay palpitant. Convient aux joueurs de 13 ans et plus.",
+    "keywords": "Sprunki Phase 19, jeu de création de beats, gameplay palpitant, jeu de musique, Sprunki Phase, jeu pour adolescents"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 19",
+    "p": "Sprunki Phase 19 est le jeu de création de beats ultime, combinant rythme, créativité et action palpitante. Entrez dans un nouveau monde de son et tracez votre propre chemin !"
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du Jeu",
+    "features": [
+      "Mécaniques de création de beats innovantes conçues pour la créativité.",
+      "Graphismes immersifs qui améliorent l'expérience de jeu.",
+      "Défis dynamiques avec une complexité croissante.",
+      "Mode multijoueur pour créer des beats en collaboration.",
+      "Une riche histoire avec une progression captivante."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer à Sprunki Phase 19",
+    "instructions": [
+      "Commencez par choisir votre modèle de beat préféré.",
+      "Utilisez les outils à l'écran pour modifier et perfectionner vos beats.",
+      "Naviguez à travers les niveaux en complétant des défis de beats.",
+      "Collaborez avec des amis en mode multijoueur pour des paysages sonores enrichis.",
+      "Évitez les obstacles et progressez en maintenant un rythme constant."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 19 est incroyablement accrocheur et créatif.",
+        "author": "GamerGuru21"
+      },
+      {
+        "content": "L'aspect création de beats est révolutionnaire ! J'adore !",
+        "author": "MusicMartian90"
+      },
+      {
+        "content": "Un mélange parfait de musique et d'action. Fortement recommandé !",
+        "author": "RhythmRider23"
+      },
+      {
+        "content": "Me fait revenir encore et encore ! Les défis sont fantastiques.",
+        "author": "BeatMaster07"
+      },
+      {
+        "content": "Le mode multijoueur change vraiment la donne.",
+        "author": "PartyPlayer88"
+      },
+      {
+        "content": "Les graphismes et la qualité de la musique ont dépassé mes attentes.",
+        "author": "VisualVibe58"
+      },
+      {
+        "content": "L'histoire est immersive et vous pousse à jouer davantage.",
+        "author": "StorySeeker11"
+      },
+      {
+        "content": "C'est un jeu qu'il est difficile de lâcher une fois que vous avez commencé.",
+        "author": "GameAddict24"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question":"Quelle est l'âge minimum requis pour Sprunki Phase 19 ?",
+        "answer":"Le jeu est recommandé pour les joueurs de 13 ans et plus."
+      },
+      {
+        "question":"Puis-je jouer à Sprunki Phase 19 sur des appareils mobiles ?",
+        "answer":"Oui, le jeu est compatible avec les appareils iOS et Android."
+      },
+      {
+        "question":"Y a-t-il un tutoriel pour aider les nouveaux joueurs à commencer ?",
+        "answer":"Oui, le jeu comprend un tutoriel complet pour guider les nouveaux joueurs."
+      },
+      {
+        "question":"Y a-t-il des achats in-game dans Sprunki Phase 19 ?",
+        "answer":"Oui, il y a des achats in-game disponibles pour des fonctionnalités supplémentaires."
+      },
+      {
+        "question":"Peut-on collaborer avec des amis dans Sprunki Phase 19 ?",
+        "answer":"Oui, le jeu propose un mode multijoueur pour des jeux en collaboration."
+      },
+      {
+        "question":"Sprunki Phase 19 nécessite-t-il une connexion Internet ?",
+        "answer":"Une connexion Internet est nécessaire pour le multijoueur et les mises à jour."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 9 - 沉浸于节奏平台游戏",
+    "description": "在Sprunki Phase 9中探索独特的节奏与平台结合。创作音乐，挑战自我，深入迷人的梦幻世界。",
+    "keywords": "Sprunki Phase 9, 节奏游戏, 平台游戏, 音乐创作, Incredibox风格"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 9",
+    "p": "在充满活力的Sprunki Phase 9世界中体验节奏游戏与平台玩法的独特融合。创作音乐，发掘超现实的挑战。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Phase 9的主要特点",
+    "features": [
+      "增强音乐创作：构建多层音效的完整乐曲。",
+      "提升角色能力：运用节奏跳跃和节奏提升。",
+      "基于节奏的谜题与障碍：与原声带同步动作。",
+      "互动环境：对玩家的音乐创作作出反应。",
+      "使用音乐策略进行Boss对战：协调行动以克服挑战。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何游玩Sprunki Phase 9",
+    "instructions": [
+      "通过平台挑战来解锁音效层。",
+      "混合节奏、旋律和人声，创作自定义原声带。",
+      "凭借精准的原声带时机掌握基于节奏的谜题。",
+      "在角色之间切换，以调整音乐和游戏策略。",
+      "协调音乐层次以击败关卡Boss。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 9游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Sprunki Phase 9的评价",
+    "submitReviewLabel": "提交您的评价",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "基于节奏的谜题既具挑战性又有趣！",
+        "author": "Alex R."
+      },
+      {
+        "content": "我喜欢互动环境及其如何对我的音乐作出反应。",
+        "author": "Jamie L."
+      },
+      {
+        "content": "在角色之间切换为游戏增添了战略层面。",
+        "author": "Sam T."
+      },
+      {
+        "content": "我在游玩时创作的原声带让人非常沉浸。",
+        "author": "Casey D."
+      },
+      {
+        "content": "Phase 9通过音乐整合将Sprunki系列提升到了另一个层次。",
+        "author": "Taylor F."
+      },
+      {
+        "content": "梦幻视觉效果令人惊叹且引人入胜。",
+        "author": "Morgan E."
+      },
+      {
+        "content": "使用音乐策略进行的Boss战斗独特且令人满意。",
+        "author": "Jordan K."
+      },
+      {
+        "content": "Sprunki Phase 9是音乐与游戏的完美结合。",
+        "author": "Riley B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "关于Sprunki Phase 9的常见问题",
+    "questions": [
+      {
+        "question": "Sprunki Phase 9支持哪些平台？",
+        "answer": "Sprunki Phase 9支持PC、Xbox、PlayStation和Nintendo Switch。"
+      },
+      {
+        "question": "我可以定制每个关卡的音乐吗？",
+        "answer": "是的，您可以尝试节奏、低音线和人声轨道，创作独特的混音。"
+      },
+      {
+        "question": "Sprunki Phase 9有多人模式吗？",
+        "answer": "目前，Sprunki Phase 9专注于单人体验。"
+      },
+      {
+        "question": "Boss战斗如何进行？",
+        "answer": "玩家需战略性地运用音乐层次来影响和削弱Boss。"
+      },
+      {
+        "question": "有教程帮助新手入门吗？",
+        "answer": "有的，游戏包含一个教程，引导玩家掌握游戏基本操作。"
+      },
+      {
+        "question": "我可以重玩关卡以创作不同的原声带吗？",
+        "answer": "当然，关卡可以重玩，以探索新的音乐组合。"
+      }
+    ]
+  }
+}

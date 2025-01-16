@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V2 游戏 - 互动音乐体验",
+    "description": "探索 Incredibox V2，这是一款富有趣味的互动音乐游戏，让您通过混合独特的声音和节拍来创作自己的音乐轨迹。",
+    "keywords": "Incredibox V2, 音乐游戏, 互动, 创作音乐, 声音混合, Incredibox V1, Incredibox Mustard"
+  },
+  "hero": {
+    "h1": "Incredibox V2",
+    "p": "进入 Incredibox V2 的世界，这是一款创意与娱乐完美结合的互动音乐游戏。混合节拍与和声，创作您的独特音乐轨迹。"
+  },
+  "gameFeatures": {
+    "title": "游戏特点",
+    "features": [
+      "互动音乐创作：拖放图标来创建独特的轨迹，搭配动感角色。",
+      "多样音乐风格：探索不同风格，每一种都带来独特的听觉体验。",
+      "创作自由：尝试不同的声音，找到您理想中的混合。",
+      "引人入胜的视觉效果：享受色彩斑斓的动画和个性十足的角色。",
+      "社交分享：与他人分享您的音乐杰作，加入创作者社区。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Incredibox V2",
+    "instructions": [
+      "启动游戏：在您的设备上打开 Incredibox V2 Mod。",
+      "选择风格：从多种音乐风格中进行选择，开始创作。",
+      "添加声音：将节拍、旋律或特效的图标拖放到角色上。",
+      "打造您的混合：组合声音，创建您独特的轨迹，随心修改。",
+      "录制并分享：保存您的作品并与全世界分享。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交您的评价",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Incredibox V2 是创意与乐趣的完美结合！我喜欢制作新的混音。",
+        "author": "Alex"
+      },
+      {
+        "content": "提供的风格种类繁多，让游戏保持新鲜和刺激。",
+        "author": "Samira"
+      },
+      {
+        "content": "我能花上数小时去探索不同的声音组合！",
+        "author": "Jordan"
+      },
+      {
+        "content": "视觉效果引人入胜，而且很容易进入节奏。",
+        "author": "Zane"
+      },
+      {
+        "content": "与朋友分享我的创作是最棒的部分！我们玩得非常开心。",
+        "author": "Luka"
+      },
+      {
+        "content": "快速反馈与动感节拍让这款游戏充满吸引力！",
+        "author": "Maya"
+      },
+      {
+        "content": "界面友好，我的孩子们也能轻松上手。",
+        "author": "Chris"
+      },
+      {
+        "content": "这是音乐爱好者必玩的游戏，适合喜欢创意的人。",
+        "author": "Nina"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "什么是 Incredibox V2？",
+        "answer": "Incredibox V2 是一款互动音乐游戏，让玩家通过混合声音和节拍来创作自己的音乐轨迹。"
+      },
+      {
+        "question": "如何开始在 Incredibox V2 中创作音乐？",
+        "answer": "启动游戏，选择一种音乐风格，然后拖动声音图标来创建您的混合。"
+      },
+      {
+        "question": "我可以分享我的音乐作品吗？",
+        "answer": "可以，您可以轻松录制并与他人分享您的混音。"
+      },
+      {
+        "question": "我需要有音乐经验才能玩么？",
+        "answer": "不需要，Incredibox V2 的设计是为了让所有人都能轻松上手，无论您有什么样的音乐背景。"
+      },
+      {
+        "question": "游戏中有不同的音乐风格吗？",
+        "answer": "有的，Incredibox V2 提供多种音乐风格，每种风格都有独特的声音和角色。"
+      },
+      {
+        "question": "Incredibox V2 适合所有年龄段吗？",
+        "answer": "是的，简单的控制方式让所有年龄段的玩家都能享受游戏乐趣。"
+      }
+    ]
+  }
+}

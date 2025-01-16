@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 8: En rytmisk opplevelse i spillverdenen",
+    "description": "Dykk inn i Sprunki Phase 8, en fengslende kombinasjon av plattformspill og musikkopprettelse inspirert av Incredibox. Oppdag unike karakterer, livlige grafikk og utfordrende nivåer.",
+    "keywords": "Sprunki Phase 8, Incredibox, plattformspill, musikkspill, karaktertilpasning, rytmisk gameplay"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 8",
+    "p": "Frigjør kreativiteten og musikalske talentene dine i Sprunki Phase 8, hvor hver nivå utfordrer rytmen og plattformferdighetene dine."
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner",
+    "features": [
+      "Musikalsk integrasjon med elementer fra Incredibox",
+      "Omfattende tilpasningsmuligheter for karakterer",
+      "Livlige grafikker og engasjerende animasjoner",
+      "Variert nivådesign med strategiske utfordringer",
+      "Samleobjekter og makter for å forbedre spillopplevelsen"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spillinstruksjoner",
+    "instructions": [
+      "Naviger gjennom nivåer ved å unngå hindringer og skape musikk.",
+      "Bruk enkle kontroller for bevegelse og hopping for å navigere i miljøet.",
+      "Bytt mellom karakterer for å bruke deres unike evner.",
+      "Aktiver musikalske segmenter for å tilpasse deg spillets rytme.",
+      "Få balanse mellom å navigere utfordringer og skape musikk for suksess."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spillskjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Ditt navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Send inn",
+    "reviews": [
+      {
+        "content": "Musikalsk integrasjon er rett og slett fantastisk! Å spille mens man lager melodier er en unik opplevelse.",
+        "author": "Alex M."
+      },
+      {
+        "content": "Karaktertilpasning gir en personlig touch til spillet, og gjør hver spillopplevelse unik.",
+        "author": "Jamie T."
+      },
+      {
+        "content": "De livlige grafikkene er betagende og gjør spillet så mye morsommere å spille.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Jeg elsker å oppdage nye ruter og hemmeligheter i hvert nivå. Det er alltid noe nytt!",
+        "author": "Sam K."
+      },
+      {
+        "content": "Det rytmiske gameplayet er en frisk tilnærming til plattformspill, og det er utført på strålende vis.",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Phase 8 er en absolut glede for musikkelskere og spillere!",
+        "author": "Jordan L."
+      },
+      {
+        "content": "Hvert nivå er en utfordring, men musikken holder meg motivert!",
+        "author": "Taylor R."
+      },
+      {
+        "content": "Å kombinere musikk med gaming var en genial idé, og spillet utfører det perfekt.",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "questions": [
+      {
+        "question": "Hva er målet med Sprunki Phase 8?",
+        "answer": "Det primære målet er å navigere gjennom ulike nivåer, unngå hindringer og fiender mens du lager musikk."
+      },
+      {
+        "question": "Hvordan kontrollerer jeg karakterene?",
+        "answer": "Bruk enkle kontroller for bevegelse og hopping, og bytt mellom karakterer strategisk for å bruke deres unike evner."
+      },
+      {
+        "question": "Kan jeg tilpasse karakteren min?",
+        "answer": "Ja, spillere kan velge mellom en rekke karakterer med distinkte visuelle stiler og lyder for en personlig opplevelse."
+      },
+      {
+        "question": "Hva gjør gameplayet unikt?",
+        "answer": "Integrasjonen av musikkopprettelse med plattform-elementer gir en unik og engasjerende spillopplevelse."
+      },
+      {
+        "question": "Er det flere ruter gjennom nivåene?",
+        "answer": "Ja, Sprunki Phase 8 oppfordrer til gjenspillbarhet med flere ruter og hemmelige områder å oppdage."
+      },
+      {
+        "question": "Har spillet samleobjekter og makter?",
+        "answer": "Spillere kan samle gjenstander som låser opp nye evner og forbedrer musikalske kreasjoner etter hvert som de går fremover."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Anbefalte spill",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Phase 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Phase 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

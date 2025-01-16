@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time Redrawn - Månbelyst Musikskapande",
+    "description": "Utforska den fridfulla världen av Sprunki Night Time Redrawn-modden. Engagera dig i lugnt musikskapande med månbelysta estetiska inslag, lugnande ljudlandskap och en avslappnad stämning. Upptäck spelinstruktioner, funktioner, recensioner och vanliga frågor.",
+    "keywords": "Sprunki Night Time Redrawn, månbelyst musik, lugnt spel, lugnande ljudlandskap, fridfull atmosfär"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time Redrawn",
+    "p": "Förvandlar Sprunki till en fridfull, stjärnbelyst miljö för eftertänksamt och lugnt musikskapande."
+  },
+  "gameFeatures": {
+    "title": "Huvudfunktioner i Sprunki Night Time Redrawn",
+    "features": [
+      "Månbelysta Estetiska Insikter: Karaktärer i dämpade färgpaletter för en fridfull skymningsatmosfär.",
+      "Lugnande Ljudlandskap: Milda trummor och mjuka klockor inspirerar drömlika melodier.",
+      "Avslappnad Stämning: Animationer och ljud skapade för tålmodig och lugn kreativitet.",
+      "Mjuka Animationer: Lätta rörelser som efterliknar stillheten av månbelysta nätter.",
+      "Intuitivt Gränssnitt: Lättdragna och släppmekanismer för smidigt musikskapande."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man spelar Sprunki Night Time Redrawn",
+    "instructions": [
+      "Välj Karaktärer: Välj figurer vars loopar framkallar nattens tystnad.",
+      "Dra och Släpp: Arrangera element för att bygga fridfulla kompositioner.",
+      "Justera och Förfina: Finjustera volymer och lägg till subtila effekter.",
+      "Experimentera med Kombinationer: Prova olika element för unika ljud.",
+      "Spara och Dela: Dela dina fridfulla spår med en likasinnad gemenskap."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar av Sprunki Night Time Redrawn"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg för Sprunki Night Time Redrawn",
+    "submitReviewLabel": "Skicka Ditt Betyg",
+    "nameLabel": "Ditt Namn",
+    "reviewLabel": "Ditt Betyg",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "De månbelysta estetiska inslagen i denna mod ger en så avkopplande upplevelse. Rekommenderas starkt för kvällsspel!",
+        "author": "Alice W."
+      },
+      {
+        "content": "Det lugna musikskapandet är helt unikt. De avslappnade vibbarna är perfekt.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Jag älskar hur ljuden och grafiken flyter ihop. Perfekt för spelande på sena nätter.",
+        "author": "Liam S."
+      },
+      {
+        "content": "Lugnande och kreativt – en fantastisk mod för alla som älskar musik och konst.",
+        "author": "Sophia T."
+      },
+      {
+        "content": "Uppmärksamheten på detaljer i ljudlandskapen är fantastisk. Det speglar verkligen nattens stillhet.",
+        "author": "Noah G."
+      },
+      {
+        "content": "Jag har aldrig spelat ett spel som har lugnat mig på ett så vackert sätt tidigare.",
+        "author": "Emma L."
+      },
+      {
+        "content": "Denna mod fick mig att uppskatta musik på ett helt nytt sätt. Vackert utformat!",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Ett perfekt avbrott från de vanliga snabba spelen. Det är avkopplande och konstnärligt tillfredsställande.",
+        "author": "Ava M."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är Sprunki Night Time Redrawn?",
+        "answer": "Det är en mod som förvandlar Sprunki till en fridfull, månbelyst miljö för att skapa lugn musik."
+      },
+      {
+        "question": "Hur delar jag mina musikskapelser?",
+        "answer": "Du kan spara dina spår och dela dem med andra som uppskattar eftertänksam musik."
+      },
+      {
+        "question": "Vilka typer av ljud ingår?",
+        "answer": "Förvänta dig milda trummor, mjuka klockor och viskade melodier som är perfekta för avslappnad kreativitet."
+      },
+      {
+        "question": "Är detta spel lämpligt för alla åldrar?",
+        "answer": "Ja, spelet är utformat för att vara familjevänligt och passande för spelare i alla åldrar."
+      },
+      {
+        "question": "Kan jag spela denna mod på mobila enheter?",
+        "answer": "Kontrollera spelets kompatibilitet på din enhets appbutik eller webbplats för mer information."
+      },
+      {
+        "question": "Hur skiljer sig denna mod från andra Sprunki-moddar?",
+        "answer": "Denna mod fokuserar på en fridfull och stjärnbelyst miljö, vilket omvandlar det vanliga Sprunki-upplevelsen till en lugnande."
+      }
+    ]
+  }
+}

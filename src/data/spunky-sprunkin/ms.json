@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Spunky Sprunkin: Pengalaman Permainan Musik Terbaik | Spunky Game",
+    "description": "Masuki dunia Spunky Sprunkin - petualangan musik inovatif yang menggabungkan pencampuran irama dan seni visual. Mainkan langsung, tanpa perlu mengunduh. Jelajahi lanskap suara unik dan ciptakan musikmu sendiri!",
+    "keywords": "Spunky Sprunkin, Spunky Game, permainan musik, pencampuran irama, kreasi musik, permainan online"
+  },
+  "hero": {
+    "h1": "Spunky Sprunkin: Petualangan Musik Penuh Semangat",
+    "p": "Lompat ke dunia Spunky Sprunkin di mana penciptaan musik bertemu seni visual. Tidak perlu mengunduh, nikmati permainan yang mulus langsung di browser kamu!"
+  },
+  "gameFeatures": {
+    "title": "Fitur Utama Spunky Sprunkin",
+    "features": [
+      "Visual Memukau dengan Desain Karakter yang Menarik",
+      "Lanskap Suara Unik yang Menggabungkan Gaya Klasik dan Modern",
+      "Elemen Interaktif dengan Animasi Tersembunyi",
+      "Kebebasan Kreatif melalui Kombinasi Musik yang Tak Terbatas",
+      "Mainkan Langsung Tanpa Perlu Mengunduh"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Spunky Sprunkin",
+    "instructions": [
+      "🎭 Pilih Karaktermu - Pilih dari berbagai kemampuan musik yang berbeda.",
+      "🎵 Campurkan Irama - Seret dan lepaskan karakter untuk menciptakan kombinasi musik.",
+      "🎼 Ciptakan Musik - Lapisi suara dan buka efek khusus untuk menciptakan karya masterpiece-mu.",
+      "📥 Simpan Karya - Simpan dan bagikan komposisi musikmu dengan orang lain.",
+      "📜 Jelajahi Tutorial - Akses tutorial untuk meningkatkan keterampilan penciptaan irama kamu."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan Spunky Sprunkin"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain untuk Spunky Sprunkin",
+    "submitReviewLabel": "Kirim Ulasanmu",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Spunky Sprunkin benar-benar mengubah apresiasiku terhadap permainan irama!",
+        "author": "Anna M."
+      },
+      {
+        "content": "Kreativitas dan kebebasan dalam permainan ini tak tertandingi. Aku menyukainya!",
+        "author": "John D."
+      },
+      {
+        "content": "Permainan yang luar biasa untuk bermain dan menciptakan musik secara instan. Fitur mainkan langsungnya sangat mengagumkan.",
+        "author": "Liam T."
+      },
+      {
+        "content": "Ini intuitif dan menghibur. Wajib dicoba untuk penggemar musik.",
+        "author": "Sophie K."
+      },
+      {
+        "content": "Grafis dan desain suara sangat menakjubkan. Kerja hebat untuk permainan ini!",
+        "author": "Cara L."
+      },
+      {
+        "content": "Keseimbangan sempurna antara tantangan dan kreativitas. Sangat merekomendasikan!",
+        "author": "Marcus W."
+      },
+      {
+        "content": "Aku menyukai gaya suara yang unik dan kemampuan untuk mencampurnya secara kreatif.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Permainan ini semakin baik dengan setiap pembaruan. Salut untuk para pengembang!",
+        "author": "Tommy C."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan Tentang Spunky Sprunkin",
+    "questions": [
+      {
+        "question": "Apa yang membedakan Spunky Sprunkin dari permainan musik lainnya?",
+        "answer": "Spunky Sprunkin menggabungkan penciptaan musik yang intuitif dengan visual yang unik dan mekanika permainan yang tidak ditemukan di permainan irama lainnya."
+      },
+      {
+        "question": "Bagaimana cara memulai bermain Spunky Sprunkin?",
+        "answer": "Kunjungi Spunky Game, pilih karakter, dan seret mereka ke papan suara untuk mulai menciptakan komposisi musik tanpa perlu mengunduh."
+      },
+      {
+        "question": "Bisakah saya menyimpan karya Spunky Sprunkin saya?",
+        "answer": "Tentu saja! Simpan dan bagikan masterpiece musikmu dengan pemain Spunky Game lainnya di seluruh dunia."
+      },
+      {
+        "question": "Apakah Spunky Sprunkin cocok untuk pemula?",
+        "answer": "Ya, memiliki antarmuka intuitif yang ramah bagi pendatang baru sambil menawarkan kedalaman untuk pemain berpengalaman."
+      },
+      {
+        "question": "Apakah ada berbagai gaya suara di Spunky Sprunkin?",
+        "answer": "Ya! Permainan ini menghadirkan berbagai gaya suara, dari irama klasik hingga elemen elektronik modern."
+      },
+      {
+        "question": "Bisakah saya bermain Spunky Sprunkin di perangkat mobile?",
+        "answer": "Ya, Spunky Sprunkin sepenuhnya dioptimalkan untuk permainan di desktop maupun mobile."
+      }
+    ]
+  }
+}

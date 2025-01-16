@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 8 : Une aventure rythmique dans le jeu",
+    "description": "Plongez dans Sprunki Phase 8, un mélange captivant de plateformes et de création musicale inspiré par Incredibox. Découvrez des personnages uniques, des graphismes éclatants et des niveaux stimulants.",
+    "keywords": "Sprunki Phase 8, Incredibox, jeu de plateforme, jeu musical, personnalisation de personnage, gameplay rythmique"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 8",
+    "p": "Libérez votre créativité et vos talents musicaux dans Sprunki Phase 8, où chaque niveau met à l'épreuve vos compétences en rythme et en plateformes."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du jeu",
+    "features": [
+      "Intégration musicale avec des éléments d'Incredibox",
+      "Options de personnalisation de personnage étendues",
+      "Graphismes éclatants et animations engageantes",
+      "Design de niveaux varié avec des défis stratégiques",
+      "Collectibles et bonus pour améliorer le gameplay"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Instructions de jeu",
+    "instructions": [
+      "Naviguez à travers les niveaux en évitant les obstacles et en créant de la musique.",
+      "Utilisez des contrôles simples pour le mouvement et le saut afin de naviguer dans l'environnement.",
+      "Changez de personnage pour utiliser leurs capacités uniques.",
+      "Déclenchez des segments musicaux pour coller au rythme du jeu.",
+      "Équilibrez la navigation des défis et la création musicale pour réussir."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran du jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs",
+    "submitReviewLabel": "Soumettez votre avis",
+    "nameLabel": "Votre nom",
+    "reviewLabel": "Votre avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "L'intégration musicale est tout simplement incroyable ! Jouer tout en créant des mélodies est une expérience unique.",
+        "author": "Alex M."
+      },
+      {
+        "content": "La personnalisation des personnages ajoute une touche personnelle au jeu, rendant chaque partie unique.",
+        "author": "Jamie T."
+      },
+      {
+        "content": "Les graphismes éclatants sont à couper le souffle et rendent le jeu vraiment amusant.",
+        "author": "Chris P."
+      },
+      {
+        "content": "J'adore découvrir de nouveaux chemins et secrets à chaque niveau. Il y a toujours quelque chose de nouveau !",
+        "author": "Sam K."
+      },
+      {
+        "content": "Le gameplay basé sur le rythme est une approche rafraîchissante des jeux de plateforme, et c'est brillamment exécuté.",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Phase 8 est un vrai régal pour les amateurs de musique et les joueurs !",
+        "author": "Jordan L."
+      },
+      {
+        "content": "Chaque niveau est un défi, mais la musique me garde motivé !",
+        "author": "Taylor R."
+      },
+      {
+        "content": "Combiner la musique avec le jeu était une idée ingénieuse, et le jeu le réalise à la perfection.",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Quel est l'objectif de Sprunki Phase 8 ?",
+        "answer": "L'objectif principal est de naviguer à travers divers niveaux, en évitant les obstacles et les ennemis tout en créant de la musique."
+      },
+      {
+        "question": "Comment contrôler les personnages ?",
+        "answer": "Utilisez des contrôles simples pour le mouvement et le saut, et changez de personnage de manière stratégique pour utiliser leurs capacités uniques."
+      },
+      {
+        "question": "Puis-je personnaliser mon personnage ?",
+        "answer": "Oui, les joueurs peuvent choisir parmi une variété de personnages avec des styles visuels et sonores distincts pour une expérience personnalisée."
+      },
+      {
+        "question": "Qu'est-ce qui rend le gameplay unique ?",
+        "answer": "L'intégration de la création musicale avec des éléments de plateforme offre une expérience de jeu unique et captivante."
+      },
+      {
+        "question": "Y a-t-il plusieurs chemins à travers les niveaux ?",
+        "answer": "Oui, Sprunki Phase 8 encourage la rejouabilité avec plusieurs chemins et zones secrètes à découvrir."
+      },
+      {
+        "question": "Le jeu a-t-il des collectibles et des bonus ?",
+        "answer": "Les joueurs peuvent collecter des objets qui débloquent de nouvelles capacités et améliorent leurs créations musicales au fur et à mesure de leurs progrès."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Jeux Recommandés",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Phase 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Phase 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

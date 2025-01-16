@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Incredibox 蛋黃醬 - 有史以來最可愛的 Sprunki 音樂創作模組！ | 奶油氛圍",
+    "description": "準備好迎接最放鬆的 Incredibox 體驗了嗎？快來沉浸在 Sprunki 蛋黃醬版本中 - 奶油色彩與音樂創意的完美結合！這款粉絲自製的模組將用其舒緩的視覺效果和俏皮的人物設計征服你的心。",
+    "keywords": "incredibox 蛋黃醬, sprunki 模組, 音樂創作遊戲, 放鬆遊戲, incredibox 音樂, sprunki 蛋黃醬版本, 音樂製作"
+  },
+  "hero": {
+    "h1": "Sprunki: 蛋黃醬版本 - 音樂變得奶油般順滑！",
+    "p": "嘿，音樂創作者！準備好要進入史上最順滑、最奶油般的 Sprunki 版本了嗎？準備好享受一場和蛋黃醬一樣順滑的音樂之旅吧！🎵"
+  },
+  "gameFeatures": {
+    "title": "為什麼你會愛上這個模組",
+    "features": [
+      "超級舒緩的蛋黃醬色彩調色盤 - 就像視覺的 ASMR！🎨",
+      "可愛再設計的人物讓你忍不住想 '哇'",
+      "你在 Incredibox 中體驗過的最放鬆的遊戲氛圍",
+      "你最喜愛的 Sprunki 音效，現在更加順滑",
+      "當你需要從辣味芥末模組中休息時，這是最佳選擇",
+      "音樂創作全新竹色風格，讓你不會想停下來！"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何創作你的奶油音樂",
+    "instructions": [
+      "第 1 步：選擇你最喜愛的奶油角色（它們都超可愛！）",
+      "第 2 步：將這些順滑的角色拖到舞台上",
+      "第 3 步：混搭創作你的完美蛋黃醬主題傑作",
+      "第 4 步：與我們的奇幻隊伍探索驚人的音效組合",
+      "專業提示：只需放鬆心情，讓創意發揮 - 就像蛋黃醬一樣順滑！🎶"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "搶先一睹： 蛋黃醬版本的奶油世界"
+  },
+  "playerReviews": {
+    "title": "我們愛蛋黃醬的社群怎麼說",
+    "submitReviewLabel": "分享你的體驗",
+    "nameLabel": "你的名字",
+    "reviewLabel": "告訴我們你的故事",
+    "submitButtonLabel": "傳遞愛心",
+    "reviews": [
+      {
+        "content": "這個模組真是我每天放鬆的必備！超治癒！✨",
+        "author": "MusicLover123"
+      },
+      {
+        "content": "柔和的色彩讓我的音樂創作過程變得更愉快！",
+        "author": "BeatMaker"
+      },
+      {
+        "content": "比原版更放鬆 - 很適合深夜音樂創作",
+        "author": "ChillVibesOnly"
+      },
+      {
+        "content": "停不下來的遊戲！蛋黃醬主題竟然這麼上癮",
+        "author": "CreativeBeats"
+      },
+      {
+        "content": "最棒的模組！流暢的視覺效果真的幫助我的創意流暢",
+        "author": "MayoMaster"
+      }
+    ]
+  },
+  "faq": {
+    "title": "你的奶油音樂問題解答！",
+    "questions": [
+      {
+        "question": "蛋黃醬版本有什麼特別之處？",
+        "answer": "這就像給你最喜愛的 Incredibox 一個溫暖的奶油擁抱！我們將你喜愛的 Sprunki 一切融入進來，並用蛋黃醬風格的視覺效果和最放鬆的氛圍讓它變得超級悠閒！"
+      },
+      {
+        "question": "它和其他 Sprunki 模組的不同之處？",
+        "answer": "把它想成終極放鬆版本！其他模組可能會追求高能量，而我們則專注於這種平滑放鬆的體驗。適合你需要放鬆的時候！"
+      },
+      {
+        "question": "它跟芥末模組類似嗎？",
+        "answer": "它們就像是表兄弟！芥末帶來刺激，而蛋黃醬則帶來平滑的氛圍。如果你喜歡芥末，那你一定會愛上這個奶油轉折！"
+      },
+      {
+        "question": "我舊的 Incredibox 技能會在這裡用嗎？",
+        "answer": "當然可以！和你喜愛的機制一樣，只是多了一層順滑感。非常容易直接投入！"
+      },
+      {
+        "question": "我在哪裡可以獲取這個模組？",
+        "answer": "你可以直接從官方 Sprunki 模組網站獲取 - 絕對免費，隨時準備讓你的一天變得更順滑！"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "更多音樂冒險等著你！",
+    "games": [
+      {
+        "title": "Sprunki: 無聊版",
+        "description": "當你需要生活中的極簡主義氛圍時"
+      },
+      {
+        "title": "Sprunki 綠色核心",
+        "description": "適合那些喜歡一邊享受自然一邊創作節奏的人"
+      },
+      {
+        "title": "Underprunki 2.0",
+        "description": "將音樂帶入地下音樂界"
+      }
+    ]
+  }
+}

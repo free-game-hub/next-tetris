@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle Spiel: Spielen & Entdecken | Offizielle Website",
+    "description": "Entdecke die aufregende Welt von Sprunkle, einem fesselnden Online-Spiel mit einzigartigen Features und Herausforderungen. Lerne die Regeln des Spiels, die Steuerungsmethoden kennen und lies Spielerbewertungen, um dein Spielerlebnis zu verbessern.",
+    "keywords": "Sprunkle Spiel, Sprunkle online, spiele Sprunkle, Sprunkle Spielregeln, Sprunkle Bewertungen"
+  },
+  "hero": {
+    "h1": "Sprunkle Spiel",
+    "p": "Tauche ein in das aufregende Abenteuer von Sprunkle, dem fesselnden Online-Spiel, das die Spieler am Rande ihres Sitzes hält!"
+  },
+  "gameFeatures": {
+    "title": "Merkmale von Sprunkle",
+    "features": [
+      "Fesselndes Gameplay mit dynamischer Animation",
+      "Einzigartige Herausforderungen für unterschiedliche Fähigkeitsstufen",
+      "Fesselnde Handlung, die sich mit den Entscheidungen der Spieler entwickelt",
+      "Multiplayer-Optionen, um mit Freunden zu spielen",
+      "Regelmäßige Updates mit neuen Levels und Charakteren"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du Sprunkle",
+    "instructions": [
+      "Steuere deinen Charakter mit den Pfeiltasten auf deiner Tastatur.",
+      "Sammle Power-Ups, um deine Fähigkeiten während des Spiels zu stärken.",
+      "Besiege die Bossgegner am Ende jedes Levels, um weiterzukommen.",
+      "Achte auf Fallen und Hindernisse, die unerwartet erscheinen.",
+      "Schließe dich im Multiplayer-Modus mit Freunden für ein kooperatives Erlebnis zusammen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots des Sprunkle Spiels"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Bewertung Abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Absenden",
+    "reviews": [
+      {
+        "content": "Sprunkle ist einfach süchtig machend! Die Level sind gut gestaltet und herausfordernd.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Ich liebe die Grafiken in Sprunkle. Es ist farbenfroh und einladend!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Sprunkle mit Freunden zu spielen, macht riesigen Spaß. Der Multiplayer-Modus ist der beste!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Die Updates kommen häufig und fügen dem Spiel immer etwas Neues hinzu.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Die Steuerung von Sprunkle ist einfach zu lernen, aber sie zu meistern erfordert Geschick.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Ich genieße die Handlung und das wahlgetriebene Gameplay von Sprunkle.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "Der Soundtrack ist eingängig und trägt zur Immersion bei.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "Es ist ein Spiel, das ich jedem empfehlen würde, der eine gute Herausforderung mag.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wie speichere ich meinen Fortschritt in Sprunkle?",
+        "answer": "Dein Fortschritt in Sprunkle wird automatisch an Checkpoints gespeichert."
+      },
+      {
+        "question": "Kann ich Sprunkle auf meinem mobilen Gerät spielen?",
+        "answer": "Derzeit ist Sprunkle für Desktop-Browser verfügbar. Eine mobile Version ist in der Entwicklung."
+      },
+      {
+        "question": "Gibt es eine Möglichkeit, meinen Spielstand zurückzusetzen?",
+        "answer": "Ja, du kannst deinen Spielstand im Einstellungsmenü zurücksetzen."
+      },
+      {
+        "question": "Gibt es In-Game-Käufe in Sprunkle?",
+        "answer": "Sprunkle bietet optionale In-Game-Käufe an, aber sie sind nicht notwendig, um das Spiel vollständig zu genießen."
+      },
+      {
+        "question": "Wie kann ich einen Bug oder ein Problem im Spiel melden?",
+        "answer": "Bitte nutze das Kontaktformular auf unserer Website, um Bugs oder Probleme zu melden."
+      },
+      {
+        "question": "Ist der Multiplayer-Modus kostenlos spielbar?",
+        "answer": "Ja, der Multiplayer-Modus in Sprunkle ist kostenlos spielbar, und du kannst Freunde einladen, mitzumachen."
+      }
+    ]
+  }
+}

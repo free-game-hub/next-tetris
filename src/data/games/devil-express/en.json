@@ -1,0 +1,105 @@
+
+{
+  "metadata": {
+    "title": "Devil Express - A Narrative Adventure Game",
+    "description": "Explore the cursed apartment block in Devil Express, a 2D adventure game filled with monsters, magic, and mystery. Unveil secrets and make friends along the way.",
+    "keywords": "Devil Express, adventure game, 2D game, narrative game, mystery game, Devil Express download"
+  },
+  "hero": {
+    "h1": "Devil Express",
+    "p": "Step into a surreal world of monsters and magic with Devil Express, a narrative-focused 2D adventure game. Discover the secrets of a mysterious apartment block that defies reality."
+  },
+  "gameFeatures": {
+    "title": "Key Features of Devil Express",
+    "features": [
+      "Fully translated into Spanish",
+      "One hour of high-paced delivery action",
+      "Meet over 16 unique monster characters",
+      "Themes of loss, labor, and self-discovery",
+      "Playable as a downloadable executable or in-browser"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play Devil Express",
+    "instructions": [
+      "Move using W / A or Left / Right Arrow keys",
+      "Interact with Spacebar or Up Arrow key",
+      "Access Inventory with Tab or \"i\" key",
+      "Explore different floors and uncover mysteries",
+      "Engage with characters to solve puzzles"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "Player Reviews",
+    "submitReviewLabel": "Submit Your Review",
+    "nameLabel": "Name",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Submit",
+    "reviews": [
+      {
+        "content": "This is now my favorite game!",
+        "author": "Sovech"
+      },
+      {
+        "content": "It's such a fun and light game; the character moments are so delightful!",
+        "author": "Subpar_Carrion.92"
+      },
+      {
+        "content": "I loved this game! It was adorable!",
+        "author": "Starswapsans19@gmail.com"
+      },
+      {
+        "content": "I love love love this game, please make a sequel!",
+        "author": "Exabyte"
+      },
+      {
+        "content": "A peaceful game with amazing vibes and a beautiful story.",
+        "author": "Donaldsfries"
+      },
+      {
+        "content": "The story, sound design, art - it's all fantastic. Extremely underrated.",
+        "author": "Mrspudcake"
+      },
+      {
+        "content": "The music is ethereally beautiful, and the characters are so well-written.",
+        "author": "Ani-the-GREAT"
+      },
+      {
+        "content": "Such a simple and fun game! I love it!",
+        "author": "Snakeglitter"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Frequently Asked Questions",
+    "questions": [
+      {
+        "question":"What platforms is Devil Express available on?",
+        "answer":"Devil Express is available on HTML5 and Windows platforms."
+      },
+      {
+        "question":"Is Devil Express translated into other languages?",
+        "answer":"Yes, the game has a complete Spanish translation available for download."
+      },
+      {
+        "question":"What is the average gameplay time for Devil Express?",
+        "answer":"The average session lasts about an hour."
+      },
+      {
+        "question":"What inputs are supported?",
+        "answer":"The game supports keyboard inputs."
+      },
+      {
+        "question":"Can I play Devil Express on my browser?",
+        "answer":"Yes, you can play it as a downloadable executable or directly in your browser."
+      },
+      {
+        "question":"Who developed the game's art and music?",
+        "answer":"Art was done by Shuteye and the music was created by 7wave."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Diktatörlük Modu - Eşsiz Bir Müzik Mücadelesi",
+    "description": "Sprunki Diktatörlük Modu'nu keşfedin, müziğin otoriter estetiklerle buluştuğu yeri. Özelliklerini, oyun talimatlarını öğrenin ve oyuncu yorumlarını okuyun.",
+    "keywords": "Sprunki Diktatörlük, Sprunki Diktatörlük Modu, müzik mücadelesi, otoriter temalar, oyun mekaniği"
+  },
+  "hero": {
+    "h1": "Sprunki Diktatörlük Modu",
+    "p": "Müziğin ve otoriter estetiklerin çarpıştığı bir dünyaya adım atın. Sıkı kontrol altında etkileyici besteler oluşturun."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Diktatörlük Modu Özellikleri",
+    "features": [
+      "Otoriter Estetik: Nötr tonlar ve güç sembolleri atmosferi tanımlar.",
+      "Sert Ses Manzaraları: Yapılandırılmış, tekrarlayan ritimler bir rejimin emirlerini taklit eder.",
+      "Yoğun Hava: Sıkı kontrol altındaki hayatı yansıtan besteler oluşturun.",
+      "Katmanlı Karmaşıklık: Ses seviyelerini ayarlayarak sıkı çerçeve içinde derin katmanlar keşfedin.",
+      "Düşündürten Anlatım: Eşsiz bir ses yolculuğuna tanıklık edin."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Diktatörlük Modu Nasıl Oynanır",
+    "instructions": [
+      "Karakter Seçimi: Otoriteyi veya sessiz direnişi simgeleyen figürleri seçin.",
+      "Sürükleyip Bırakın: Ritimleri, komut ve sakin enerji yansıtacak şekilde düzenleyin.",
+      "Deneyin ve Ayarlayın: Yapılandırılmış döngüler içinde gizli karmaşıklığı bulun.",
+      "Kaydedin ve Paylaşın: Kontrol ve gerginliği yansıtan parçalar oluşturup paylaşın.",
+      "İfade Edici Yaratım: Kısıtlamalara rağmen, besteciliğin derinliklerini keşfedin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Diktatörlük Modu Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki Diktatörlük Modu için Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunki Diktatörlük Modu, müzik yapımında yenilikçi bir dönüş sunuyor. Biraz zorlayıcı ama oldukça tatmin edici!",
+        "author": "Alex P."
+      },
+      {
+        "content": "Eşsiz ve etkileyici bir deneyim. Otoriter tema oyuna beklenmedik bir derinlik katıyor.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Hava yoğun ve gerginlik dolu. Oyunun yaratıcılık sınırlarını zorlamasını seviyorum.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Düşündüren bir mod. Müziği tamamen yeni bir şekilde düşünmenizi sağlıyor.",
+        "author": "Casey M."
+      },
+      {
+        "content": "Sert çerçeve içinde katmanlı karmaşıklığı keşfetmek beni keyiflendirdi. Diğer modlara benzemiyor.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Ses manzaraları büyüleyici. Eşsiz bir meydan okuma arayanlar için yüksek derecede tavsiye ediyorum.",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Alışılmış Sprunki tarzına büyüleyici bir yaklaşım. Kısıtlamalar aslında yaratıcılığı artırıyor.",
+        "author": "Riley F."
+      },
+      {
+        "content": "Otoriter bir tarzda derin bir dalış. Müzik ve strateji severler için mükemmel.",
+        "author": "Peyton R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Diktatörlük Modu SSS",
+    "questions": [
+      {
+        "question": "Sprunki Diktatörlük Modu nedir?",
+        "answer": "Sprunki Diktatörlük Modu, otoriter tema altında bir müzik yapım mücadelesidir."
+      },
+      {
+        "question": "Oynamaya nasıl başlayabilirim?",
+        "answer": "Temayla uyumlu karakterleri seçin, ritimleri düzenleyin ve ses manzaralarıyla deney yapın."
+      },
+      {
+        "question": "Bestelerimi paylaşabilir miyim?",
+        "answer": "Evet, parçalarınızı arkadaşlarınızla veya toplulukla kaydedip paylaşabilirsiniz."
+      },
+      {
+        "question": "Bu modda yaratıcılık sınırlı mı?",
+        "answer": "Atmosfer kısıtlı olsa da, yaratıcılık ve ifade için hâlâ alan vardır."
+      },
+      {
+        "question": "Bu modun diğerlerinden farkı nedir?",
+        "answer": "Otoriter teması ve yapılandırılmış ses manzaraları, benzersiz ve zorlu bir müzik yapım deneyimi sunar."
+      },
+      {
+        "question": "Müzik yapma deneyimim olmalı mı?",
+        "answer": "Önceden deneyim gerekmez. Oyun, tüm oyuncular için erişilebilir olacak şekilde tasarlandı."
+      }
+    ]
+  }
+}

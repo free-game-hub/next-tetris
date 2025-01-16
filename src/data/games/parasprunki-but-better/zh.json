@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Parasprunki but Better Mod - 提升你的音乐创作体验",
+    "description": "探索Parasprunki but Better Mod，这是Parasprunki 12.0的改进版本，具有更高的音质、精致的视觉效果和更好的用户体验，为你带来卓越的音乐创作体验。",
+    "keywords": "Parasprunki but Better, 音乐模组, 音频质量, 精致视觉, 音乐创作游戏"
+  },
+  "hero": {
+    "h1": "Parasprunki but Better",
+    "p": "Parasprunki but Better Mod在Parasprunki 12.0模组的基础上进行了精致优化，提供更完善、更统一和更愉悦的音乐创作体验。"
+  },
+  "gameFeatures": {
+    "title": "Parasprunki but Better Mod的特性",
+    "features": [
+      "音频质量提升：清晰而丰富的音色让每个元素都能闪耀。",
+      "视觉效果精致：更干净的设计和更流畅的动画。",
+      "更强的可用性：直观的界面能够让你专注于创作。",
+      "简化的界面：减少猜测，轻松导航。",
+      "连贯的音乐体验：经过打磨的游戏玩法令人愉悦。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Parasprunki but Better Mod",
+    "instructions": [
+      "选择角色：从经过优化的角色名单中进行选择，保证清晰和平衡。",
+      "拖放操作：排列角色以叠加优化后的循环音轨。",
+      "试验和调整：调整音量并添加效果。",
+      "保存和分享：保存你的作品并与社区分享。",
+      "释放潜力：尝试不同的组合，感受独特体验。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Parasprunki but Better Mod的截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "我非常喜欢这个模组的新音频质量。音色多么生动！",
+        "author": "Gamer123"
+      },
+      {
+        "content": "界面的调整真的很有效。现在使用起来轻松多了。",
+        "author": "MusicLover"
+      },
+      {
+        "content": "精致的视觉效果有助于在编曲时区分角色的作用。大大改善！",
+        "author": "VisualArtist"
+      },
+      {
+        "content": "保存和分享作品的功能真是游戏的改变者。太棒了！",
+        "author": "ComposerPro"
+      },
+      {
+        "content": "循环和旋律完美平衡，创造了愉快的体验。",
+        "author": "SoundEngineer"
+      },
+      {
+        "content": "现在试验音量和效果简单多了。开发者值得赞扬！",
+        "author": "MixerMaster"
+      },
+      {
+        "content": "我已经把这个模组推荐给所有朋友。简直太惊艳了！",
+        "author": "GamerGirl"
+      },
+      {
+        "content": "增强的可用性让我完全专注于创作。太好了！",
+        "author": "CreativeMind"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question":"什么是Parasprunki but Better Mod？",
+        "answer":"这是Parasprunki 12.0模组的精致版本，提供更高的音质、视觉效果和用户体验。"
+      },
+      {
+        "question":"我怎么选择角色？",
+        "answer":"从经过优化的角色名单中选择，以确保清晰和平衡。"
+      },
+      {
+        "question":"我可以保存和分享我的作品吗？",
+        "answer":"可以，您可以保存您的创作并与社区分享。"
+      },
+      {
+        "question":"这个模组有什么新特性？",
+        "answer":"这个模组提供了精致的视觉效果、改进的音质和增强的用户界面。"
+      },
+      {
+        "question":"这个模组适合初学者吗？",
+        "answer":"适合，直观的界面让初学者和有经验的玩家都能轻松上手。"
+      },
+      {
+        "question":"我该如何提升我的作品？",
+        "answer":"试验音量、效果和不同的新音质组合。"
+      }
+    ]
+  }
+}

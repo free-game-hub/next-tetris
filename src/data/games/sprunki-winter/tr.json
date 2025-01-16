@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Winter - Müzikte Kışın Huzurlu Güzelliğini Yaşayın",
+    "description": "Sprunki Winter Mod, müzik üretiminizi kış temalı estetiği, huzur veren ses manzaraları ve özgün oyun deneyimi ile dönüştürüyor. Şimdi katılın ve karla kaplı bir cennette bestelemenin tadını çıkarın.",
+    "keywords": "Sprunki Winter, müzik mod, kış müzik oyunu, Sprunki Winter özellikleri, Sprunki Winter nasıl oynanır"
+  },
+  "hero": {
+    "h1": "Sprunki Winter",
+    "p": "Müzikal yolculuğunuzu karla kaplı bir büyü ile sarmalayan Sprunki Winter'da, kışın huzur dolu güzelliğine dalış yapın. Bu donmuş harikalar diyarında sakin besteler oluşturun."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Winter'ın Ana Özellikleri",
+    "features": [
+      "Buzlu Estetik: Buz mavileri, yumuşak beyazlar ve kar tanelerinin dokusunu keşfedin.",
+      "Nazik Ses Manzaraları: İnce perdesyon ve hafif melodilerle huzuru kucaklayın.",
+      "Sakin, Düşünceli Hava: Daha yavaş, düşünümsel müzik yaratımına katılın.",
+      "Mevsimsel Karakterler: Sıcak atkılar ve kar temalı hislerle karakterler.",
+      "Görsel-Ses Uyumu: Kış deneyimi için ideal görüntü ve ses karışımı."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Winter Modu Nasıl Oynanır",
+    "instructions": [
+      "Karakter Seçimi: Farklı kış giysili figürlerden eşsiz döngüler oluşturun.",
+      "Sürükleyip Bırak: Davulları ve melodileri katmanlayarak kışın özünü yakalayın.",
+      "Karışımınızı İnce Ayar Yapın: Ses seviyelerini ayarlayın, huzur dolu parçalar için efektler ekleyin.",
+      "Kaydet ve Paylaş: Kış bestenizi başkalarıyla paylaşın.",
+      "Varyasyonları Keşfedin: Farklı karakter kombinasyonlarıyla çeşitli ses manzaraları oluşturun."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Winter Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunki Winter, sanat ve müziğin güzel bir karışımı - sesle resim yapmak gibi.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Kış estetiği mükemmel bir şekilde yakalanmış; sanki sıcak bir günde evde gibi hissediyorum.",
+        "author": "James P."
+      },
+      {
+        "content": "Oyunun hem dinlenmeme hem de yaratıcı olmama olanak tanımasını çok seviyorum.",
+        "author": "Mira T."
+      },
+      {
+        "content": "Huzur dolu melodiler ve görseller, yoğun günümden mükemmel bir kaçış.",
+        "author": "Liam H."
+      },
+      {
+        "content": "Kışı seven biri olarak, Sprunki Winter müzik tarzıma mükemmel bir şekilde uyuyor!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "Oyunun nazik ses manzaraları, müzik bestelerim için sakinleştirici ve ilham verici.",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Yaratıcılığımı baskı olmadan geçirebileceğim harika bir yol; gerçekten güzel.",
+        "author": "Lucas M."
+      },
+      {
+        "content": "Kış temaları ve etkileyici oyun deneyimi ile tartışmasız en iyi müzik mod.",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Winter'ı diğer müzik modlarından farklı kılan nedir?",
+        "answer": "Sprunki Winter, kış temalı estetikler ve ses manzaraları sunarak, görsel ve sesin mükemmel bir şekilde birleştiği huzurlu bir oyun deneyimi sağlar."
+      },
+      {
+        "question": "Sprunki Winter'da yarattıklarımı nasıl paylaşabilirim?",
+        "answer": "Parçanızı bestelemenin ardından, müziğinizi başkalarıyla kolaylıkla paylaşmak için 'Kaydet ve Paylaş' özelliğini kullanın."
+      },
+      {
+        "question": "Oyundaki karakterleri ve döngüleri özelleştirebilir miyim?",
+        "answer": "Evet, farklı karakterleri seçip kendi müziğinizi özelleştirmek için düzenleyebilirsiniz."
+      },
+      {
+        "question": "Sprunki Winter için mobil versiyon var mı?",
+        "answer": "Şu anda, Sprunki Winter masaüstü platformlarında mevcuttur. Olası mobil sürümler için takipte kalın."
+      },
+      {
+        "question": "Yeni başlayanlar için eğitim materyali var mı?",
+        "answer": "Evet, oyun yeni oyuncuların başlamak için faydalanabileceği kapsamlı bir eğitim içeriyor."
+      },
+      {
+        "question": "Sprunki Winter birden fazla dili destekliyor mu?",
+        "answer": "Şu anda Sprunki Winter İngilizce'yi destekliyor ve gelecekte daha fazla dil seçeneği planlanıyor."
+      }
+    ]
+  }
+}

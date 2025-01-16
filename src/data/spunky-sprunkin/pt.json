@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Spunky Sprunkin: A Experiência Musical Definitiva | Spunky Game",
+    "description": "Mergulhe em Spunky Sprunkin - uma aventura musical inovadora que combina mixagem de batidas e arte visual. Jogue instantaneamente, sem downloads. Explore paisagens sonoras únicas e crie sua própria música!",
+    "keywords": "Spunky Sprunkin, Spunky Game, jogo musical, mixagem de batidas, criação musical, jogos online"
+  },
+  "hero": {
+    "h1": "Spunky Sprunkin: A Aventura Musical Definitiva",
+    "p": "Entre no mundo de Spunky Sprunkin, onde a criação musical se encontra com a arte visual. Sem downloads, vivencie uma jogabilidade fluida diretamente no seu navegador!"
+  },
+  "gameFeatures": {
+    "title": "Principais Recursos de Spunky Sprunkin",
+    "features": [
+      "Visuais Aprimorados com Designs de Personagens Impressionantes",
+      "Paisagens Sonoras Únicas Misturando Estilos Clássicos e Modernos",
+      "Elementos Interativos com Animações Ocultas",
+      "Liberdade Criativa através de Combinações Musicais Ilimitadas",
+      "Jogue Instantaneamente sem Downloads Necessários"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Spunky Sprunkin",
+    "instructions": [
+      "🎭 Escolha Seus Personagens - Selecione entre habilidades musicais distintas.",
+      "🎵 Misture Suas Batidas - Arraste e solte personagens para criar combinações musicais.",
+      "🎼 Crie Música - Sobreponha sons e desbloqueie efeitos especiais para elaborar sua obra-prima.",
+      "📥 Salve Criações - Salve e compartilhe suas composições musicais com os outros.",
+      "📜 Explore Tutoriais - Acesse tutoriais para aprimorar suas habilidades de produção musical."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo Spunky Sprunkin"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores sobre Spunky Sprunkin",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Spunky Sprunkin transformou completamente minha apreciação por jogos de ritmo!",
+        "author": "Anna M."
+      },
+      {
+        "content": "A criatividade e a liberdade neste jogo são incomparáveis. Adoro!",
+        "author": "John D."
+      },
+      {
+        "content": "Um excelente jogo para tocar e criar música em qualquer lugar. O recurso de jogo instantâneo é incrível.",
+        "author": "Liam T."
+      },
+      {
+        "content": "É intuitivo e divertido. Um imperdível para os amantes da música.",
+        "author": "Sophie K."
+      },
+      {
+        "content": "Os gráficos e o design de som são impressionantes. Ótimo trabalho nesse jogo!",
+        "author": "Cara L."
+      },
+      {
+        "content": "Um equilíbrio perfeito entre desafio e criatividade. Altamente recomendável!",
+        "author": "Marcus W."
+      },
+      {
+        "content": "Adoro os estilos sonoros únicos e a capacidade de misturá-los criativamente.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Este jogo só melhora a cada atualização. Parabéns aos desenvolvedores!",
+        "author": "Tommy C."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes sobre Spunky Sprunkin",
+    "questions": [
+      {
+        "question": "O que diferencia Spunky Sprunkin de outros jogos musicais?",
+        "answer": "Spunky Sprunkin combina criação musical intuitiva com visuais únicos e mecânicas de jogo que não são encontradas em outros jogos de ritmo."
+      },
+      {
+        "question": "Como começo a jogar Spunky Sprunkin?",
+        "answer": "Visite Spunky Game, selecione personagens e arraste-os para o painel sonoro para começar a criar composições musicais sem precisar de downloads."
+      },
+      {
+        "question": "Posso salvar minhas criações em Spunky Sprunkin?",
+        "answer": "Com certeza! Salve e compartilhe suas obras-primas musicais com outros jogadores do Spunky Game em todo o mundo."
+      },
+      {
+        "question": "Spunky Sprunkin é adequado para iniciantes?",
+        "answer": "Sim, apresenta uma interface intuitiva que é acolhedora para novatos, ao mesmo tempo que oferece profundidade para jogadores experientes."
+      },
+      {
+        "question": "Existem diferentes estilos sonoros em Spunky Sprunkin?",
+        "answer": "Sim! O jogo apresenta uma ampla gama de estilos sonoros, desde batidas clássicas até elementos eletrônicos modernos."
+      },
+      {
+        "question": "Posso jogar Spunky Sprunkin em dispositivos móveis?",
+        "answer": "Sim, Spunky Sprunkin é totalmente otimizado para jogar tanto em desktop quanto em dispositivos móveis."
+      }
+    ]
+  }
+}

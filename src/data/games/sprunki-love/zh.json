@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "Sprunki Love 游戏 - 在线体验我的歌唱小精灵，无需下载",
+    "description": "在创新的在线唱歌游戏Sprunki Love中，体验音乐创意的世界。混合独特的Sprunki角色，即刻在浏览器中创作音乐杰作。",
+    "keywords": "Sprunki Love, 我的歌唱小精灵, Sprunki Love 游戏, 在线玩Sprunki Love, Sprunki音乐游戏, 小精灵游戏"
+  },
+  "hero": {
+    "h1": "Sprunki Love: 我的歌唱小精灵的音乐体验",
+    "p": "沉浸在Sprunki Love和谐的世界中，您可以混合独特的声乐角色，创作属于自己的音乐杰作。即刻在浏览器中玩，无需下载！"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Love 的主要特点",
+    "features": [
+      "声乐和声：结合独特的Sprunki声乐角色，创作美妙的和声。",
+      "简单控制：简单的拖放界面，让每个人都能轻松创作音乐。",
+      "分享创作：保存并与Sprunki Love社区分享您的音乐杰作。",
+      "表演模式：观看您的Sprunki和谐地表演。",
+      "多层声乐：通过结合不同的声轨，创造丰富复杂的和声。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki Love：您的音乐之旅",
+    "instructions": [
+      "选择您的声乐：从独特的Sprunki角色中选择，每个角色都有自己独特的声乐风格和声音。",
+      "分层与创作：将角色拖到舞台上，构建您的歌曲并创作动态和声。",
+      "表演与分享：观看您的Sprunki表演，调整混音，保存您的创作，与朋友分享！",
+      "调整音量：微调每个角色的音量，以实现完美平衡。",
+      "移除角色：将不需要的角色拖出舞台，改变您的作品。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Love 游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Sprunki Love的评价",
+    "submitReviewLabel": "提交您的评价",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的评价",
+    "submitButtonLabel": "提交评价",
+    "reviews": [
+      {
+        "content": "Sprunki Love 是一款非常有趣且富有创意的游戏！我喜欢混合不同的声乐和声。",
+        "author": "Jessica T."
+      },
+      {
+        "content": "作为一名音乐爱好者，Sprunki Love提供了无限的创作独特作品的可能性。",
+        "author": "Mike R."
+      },
+      {
+        "content": "界面非常直观，让像我这样的初学者也能轻松享受游戏。",
+        "author": "Karen L."
+      },
+      {
+        "content": "无需下载，随时随地都可以畅玩，真是太棒了。",
+        "author": "Alex G."
+      },
+      {
+        "content": "我喜欢这种合作的感觉 - 与朋友分享我的创作是太神奇了！",
+        "author": "Sophie H."
+      },
+      {
+        "content": "这是一个富有创意的逃避，让我放松并探索音乐作品。",
+        "author": "Sam D."
+      },
+      {
+        "content": "表演模式增添了精彩的元素，看到角色演绎我的创作真是太棒了。",
+        "author": "Tom C."
+      },
+      {
+        "content": "在创建复杂和声方面令人印象深刻，同时仍保持用户友好。",
+        "author": "Linda W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"关于Sprunki Love的常见问题",
+    "questions": [
+      {
+        "question":"Sprunki Love在小精灵游戏中有什么独特之处？",
+        "answer":"Sprunki Love提供独特的音乐体验，特色在于声乐和声和互动音效混合。"
+      },
+      {
+        "question":"我如何在Sprunki Love中创作旋律？",
+        "answer":"将角色拖放到舞台上，以叠加它们独特的声乐声音，创造和谐的作品。"
+      },
+      {
+        "question":"我可以保存我的Sprunki Love创作吗？",
+        "answer":"可以！您可以保存并与社区分享您的Sprunki Love作品。"
+      },
+      {
+        "question":"Sprunki Love使用什么控制方式？",
+        "answer":"使用鼠标进行拖放操作，并使用空格键等快捷键播放/暂停。"
+      },
+      {
+        "question":"Sprunki Love适合初学者吗？",
+        "answer":"当然！Sprunki Love旨在对新手友好，同时为有经验的用户提供更深的体验。"
+      },
+      {
+        "question":"我可以在Sprunki Love中同时叠加多少声乐层？",
+        "answer":"您可以叠加多个声轨，创造出丰富复杂的和声。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推荐游戏",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Kiss 版",
+        "link": "url/to/game1"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Sprunki 浪漫",
+        "link": "url/to/game2"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Sprunki 罪人",
+        "link": "url/to/game3"
+      },
+      {
+        "image": "path/to/image4.jpg",
+        "title": "Spunky Sperunky",
+        "link": "url/to/game4"
+      },
+      {
+        "image": "path/to/image5.jpg",
+        "title": "Sprunki 重拍",
+        "link": "url/to/game5"
+      },
+      {
+        "image": "path/to/image6.jpg",
+        "title": "Sprunki 感染",
+        "link": "url/to/game6"
+      }
+    ]
+  }
+}

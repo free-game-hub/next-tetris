@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - Permainan Petualangan yang Menghibur | Mainkan Sekarang",
+    "description": "Bergabunglah dengan dunia menarik Sprunki! Temukan aturan, fitur, dan ulasan dari permainan petualangan yang memikat ini. Mainkan Sprunki sekarang dan mulailah perjalanan epik.",
+    "keywords": "Sprunki, permainan Sprunki, permainan petualangan, mainkan Sprunki, fitur Sprunki, aturan permainan"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Masuk ke dalam petualangan mendebarkan Sprunki, di mana setiap karakter memulai perjalanan epik. Bergabunglah dengan ribuan pemain lainnya untuk merasakan dunia memikat Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan Sprunki",
+    "features": [
+      "Alur cerita yang mendalam dengan karakter yang menarik.",
+      "Grafis menakjubkan yang menghidupkan dunia Sprunki.",
+      "Gameplay interaktif yang menantang keterampilan Anda.",
+      "Mode multiplayer yang memungkinkan Anda berkolaborasi dengan teman-teman.",
+      "Pembaruan reguler dan konten baru untuk kesenangan yang tiada henti."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki",
+    "instructions": [
+      "Unduh aplikasi Sprunki dari situs resmi atau toko aplikasi.",
+      "Buat karakter Anda dan sesuaikan penampilannya.",
+      "Navigasikan melalui level menggunakan tombol panah atau layar sentuh.",
+      "Selesaikan quest untuk mendapatkan hadiah dan maju dalam permainan.",
+      "Bergabunglah dengan pemain lain untuk menghadapi misi yang menantang."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Jelajahi Dunia Sprunki"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Sprunki adalah permainan paling menyenangkan yang pernah saya mainkan dalam waktu lama! Karakter dan ceritanya sangat menarik.",
+        "author": "JaneD"
+      },
+      {
+        "content": "Permainan yang fantastis dengan grafis yang menawan dan gameplay yang membuat ketagihan!",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "Saya suka mode multiplayer, bermain dengan teman benar-benar seru!",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki terus meningkat dengan setiap pembaruan. Sangat direkomendasikan!",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "Tantangan-tantangan yang ada sempurna untuk sesi bermain solo atau bersenang-senang dengan teman.",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "Permainan yang hebat untuk anak-anak dan orang dewasa. Seluruh keluarga saya menyukainya!",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "Karakter yang unik dan quest yang kreatif membuat Sprunki menjadi menonjol.",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "Saya sudah bermain Sprunki selama berbulan-bulan. Menarik dan tidak pernah membosankan!",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Di mana saya bisa mengunduh Sprunki?",
+        "answer": "Sprunki dapat diunduh dari situs resmi atau melalui toko aplikasi utama."
+      },
+      {
+        "question": "Apakah Sprunki tersedia untuk semua perangkat?",
+        "answer": "Ya, Sprunki tersedia di PC, iOS, dan perangkat Android."
+      },
+      {
+        "question": "Apakah saya memerlukan koneksi internet untuk bermain Sprunki?",
+        "answer": "Koneksi internet diperlukan untuk fitur multiplayer, tetapi Anda dapat bermain misi solo secara offline."
+      },
+      {
+        "question": "Apakah ada pembelian dalam permainan?",
+        "answer": "Ya, Sprunki menawarkan pembelian dalam permainan opsional untuk kustomisasi karakter dan konten baru."
+      },
+      {
+        "question": "Seberapa sering konten baru dirilis?",
+        "answer": "Konten dan pembaruan baru dirilis secara teratur untuk menjaga permainan tetap segar dan menarik."
+      },
+      {
+        "question": "Bisakah saya bermain Sprunki dengan teman?",
+        "answer": "Tentu saja! Sprunki menawarkan mode multiplayer untuk bermain dengan teman atau pemain online lainnya."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki x Regretevator - Kreatywna Przygodowa Platformówka",
+    "description": "Odkryj ekscytujący świat Sprunki x Regretevator, gry platformowej łączącej unikalną rozgrywkę, urokliwą grafikę i zagadki. Naucz się, jak opanować umiejętności postaci, pokonywać przeszkody i rozwiązywać łamigłówki w tej fascynującej grze.",
+    "keywords": "Sprunki x Regretevator, gra platformowa, rozwiązywanie zagadek, porady dla graczy, umiejętności postaci, tryb wieloosobowy"
+  },
+  "hero": {
+    "h1": "Sprunki x Regretevator",
+    "p": "Przemierzaj kolorowy świat pełen wyzwań i zagadek w Sprunki x Regretevator. Wykorzystaj unikalne umiejętności postaci i eksploruj, aby zdobywać poziomy, pokonywać wrogów i wzbogacać swoje doświadczenia z gry."
+  },
+  "gameFeatures": {
+    "title": "Cechy Sprunki x Regretevator",
+    "features": [
+      "Fascynująca platformówka połączona z unikalnymi elementami rozgrywki.",
+      "Urokliwa grafika, która ożywia świat gry.",
+      "Płynne ruchy postaci dla bezproblemowej zabawy.",
+      "Zachwycająca ścieżka dźwiękowa umilająca grę.",
+      "Specjalne umiejętności Sprunki i Regretevatora do strategicznej gry."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki x Regretevator",
+    "instructions": [
+      "Poznaj unikalne umiejętności Sprunki i Regretevatora, aby rozwiązywać zagadki.",
+      "Dokładnie eksploruj każdy poziom w poszukiwaniu ukrytych nagród.",
+      "Opanuj techniki takie jak skakanie, ślizganie się i bieganie po ścianach.",
+      "Wykorzystuj umiejętności postaci strategicznie, aby pokonywać zagadki.",
+      "Zbieraj przedmioty, aby odblokować potężne ulepszenia postaci."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu z Gry Sprunki x Regretevator"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy o Sprunki x Regretevator",
+    "submitReviewLabel": "Wyślij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Innowacyjna gra z urokliwą grafiką!",
+        "author": "Alex"
+      },
+      {
+        "content": "Świetne połączenie zagadek i akcji. Gorąco polecam!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Zakochałem się w umiejętnościach postaci i projektach poziomów.",
+        "author": "Casey"
+      },
+      {
+        "content": "Fantastyczna gra! Ścieżka dźwiękowa też jest świetna.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Wyzwania, ale i satysfakcjonująca rozgrywka. Musisz zagrać!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Tryb wieloosobowy to prawdziwa zabawa z przyjaciółmi!",
+        "author": "Taylor"
+      },
+      {
+        "content": "Imponująca grafika i płynne sterowanie.",
+        "author": "Riley"
+      },
+      {
+        "content": "Niesamowity poziom detali i angażująca fabuła.",
+        "author": "Kris"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania o Sprunki x Regretevator",
+    "questions": [
+      {
+        "question": "Na jakich platformach dostępna jest Sprunki x Regretevator?",
+        "answer": "Sprunki x Regretevator jest dostępna na PC, Mac i głównych konsolach do gier."
+      },
+      {
+        "question": "Czy mogę grać w Sprunki x Regretevator z przyjaciółmi?",
+        "answer": "Tak, gra zawiera tryb wieloosobowy do współpracy."
+      },
+      {
+        "question": "Jakie są wymagania systemowe dla Sprunki x Regretevator?",
+        "answer": "Aby uzyskać optymalną wydajność, upewnij się, że Twój system spełnia minimalne wymagania gry podane na oficjalnej stronie."
+      },
+      {
+        "question": "Czy w Sprunki x Regretevator są zakupy w grze?",
+        "answer": "Sprunki x Regretevator nie ma zakupów w grze; wszystkie funkcje są dostępne poprzez rozgrywkę."
+      },
+      {
+        "question": "Jak mogę odblokować nowe umiejętności dla moich postaci?",
+        "answer": "Zbieraj przedmioty w grze, aby odblokować i ulepszać umiejętności postaci."
+      },
+      {
+        "question": "Gdzie mogę znaleźć wsparcie społeczności dla Sprunki x Regretevator?",
+        "answer": "Dołącz do naszych forów społecznościowych online lub kanałów w mediach społecznościowych, aby uzyskać wsparcie i dzielić się wskazówkami z innymi graczami."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Polecane Gry",
+    "games": [
+      {
+        "image": "sprunked-daytime-demo.jpg",
+        "title": "Sprunked (Demonstracja Dzienna)",
+        "link": "/sprunked-daytime-demo"
+      },
+      {
+        "image": "incredibox-v9.jpg",
+        "title": "Incredibox V9",
+        "link": "/incredibox-v9"
+      }
+    ]
+  }
+}

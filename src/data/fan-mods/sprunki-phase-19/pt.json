@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Fase 19 - Crie Batidas e Entre em uma Nova Fase",
+    "description": "Explore Sprunki Fase 19, uma experiência de jogo única que combina criação de batidas com jogabilidade emocionante. Recomendado para maiores de 13 anos.",
+    "keywords": "Sprunki Fase 19, jogo de criação de batidas, jogabilidade emocionante, jogo musical, Sprunki Fase, jogos para adolescentes"
+  },
+  "hero": {
+    "h1": "Sprunki Fase 19",
+    "p": "Sprunki Fase 19 é o jogo definitivo de criação de batidas, que combina ritmo, criatividade e ação de tirar o fôlego. Entre em um novo mundo sonoro e trilhe seu próprio caminho!"
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo",
+    "features": [
+      "Mecânicas inovadoras de criação de batidas adaptadas para a criatividade.",
+      "Gráficos imersivos que aprimoram a experiência de jogo.",
+      "Desafios dinâmicos com complexidade crescente.",
+      "Modo multiplayer para criação de batidas colaborativas.",
+      "Rica narrativa com progresso envolvente."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Fase 19",
+    "instructions": [
+      "Comece selecionando seu modelo de batida preferido.",
+      "Use as ferramentas na tela para modificar e aperfeiçoar suas batidas.",
+      "Navegue pelos níveis completando desafios de batidas.",
+      "Colabore com amigos no modo multiplayer para paisagens sonoras mais ricas.",
+      "Evite obstáculos e avance mantendo seu ritmo consistente."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki Fase 19 é incrivelmente viciante e criativa.",
+        "author": "GamerGuru21"
+      },
+      {
+        "content": "O aspecto de criação de batidas é revolucionário! Adorei!",
+        "author": "MusicMartian90"
+      },
+      {
+        "content": "Uma combinação perfeita de música e ação. Altamente recomendado!",
+        "author": "RhythmRider23"
+      },
+      {
+        "content": "Me faz voltar sempre por mais! Os desafios são fantásticos.",
+        "author": "BeatMaster07"
+      },
+      {
+        "content": "O modo multiplayer é uma verdadeira mudança de jogo.",
+        "author": "PartyPlayer88"
+      },
+      {
+        "content": "Os gráficos e a qualidade da música superaram minhas expectativas.",
+        "author": "VisualVibe58"
+      },
+      {
+        "content": "A narrativa é imersiva e te leva a jogar mais.",
+        "author": "StorySeeker11"
+      },
+      {
+        "content": "É um jogo difícil de largar uma vez que você começa.",
+        "author": "GameAddict24"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"Qual é a idade mínima recomendada para jogar Sprunki Fase 19?",
+        "answer":"O jogo é recomendado para jogadores com 13 anos ou mais."
+      },
+      {
+        "question":"Posso jogar Sprunki Fase 19 em dispositivos móveis?",
+        "answer":"Sim, o jogo é compatível com dispositivos iOS e Android."
+      },
+      {
+        "question":"Há um tutorial para ajudar novos jogadores a começar?",
+        "answer":"Sim, o jogo inclui um tutorial abrangente para guiar novos jogadores."
+      },
+      {
+        "question":"Existem compras dentro do jogo em Sprunki Fase 19?",
+        "answer":"Sim, há compras disponíveis no jogo para recursos adicionais."
+      },
+      {
+        "question":"É possível colaborar com amigos em Sprunki Fase 19?",
+        "answer":"Sim, o jogo oferece um modo multiplayer para jogabilidade colaborativa."
+      },
+      {
+        "question":"Sprunki Fase 19 requer uma conexão com a internet?",
+        "answer":"Uma conexão à internet é necessária para multiplayer e atualizações."
+      }
+    ]
+  }
+}

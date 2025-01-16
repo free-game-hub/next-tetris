@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "title": "Friday Night Funkin (FNF) - Permainan Pertarungan Ritme Ultimatif | Mainkan Sekarang",
+        "description": "Masuki Friday Night Funkin' (FNF), sensasi permainan ritme yang viral! Bertarung melalui pertarungan musik, jelajahi mod komunitas, dan alami permainan yang menggemparkan internet. Gratis untuk dimainkan, mudah dipelajari, sulit dikuasai!",
+        "keywords": "Friday Night Funkin, FNF, permainan ritme, pertarungan rap, permainan Newgrounds, mod FNF, permainan musik, permainan indie"
+    },
+    "hero": {
+        "h1": "Friday Night Funkin' - Di Mana Musik Bertemu Tantangan",
+        "p": "Bergabunglah dengan jutaan pemain dalam permainan pertarungan ritme paling populer di internet. Hadapi berbagai karakter berwarna dalam pertarungan musik, buktikan keterampilan ritme Anda, dan menjadi bagian dari komunitas kami yang berkembang!"
+    },
+    "gameFeatures": {
+        "title": "Apa yang Membuat FNF Spesial",
+        "features": [
+            "Soundtrack Viral Asli: Ikuti irama lagu-lagu profesional yang telah memikat jutaan orang",
+            "Komunitas Modding Aktif: Akses ribuan karakter, lagu, dan level buatan komunitas",
+            "Gaya Seni Klasik: Nikmati animasi dan desain karakter khas era Flash",
+            "Pembaruan Reguler: Alami konten dan fitur baru seiring perkembangan permainan",
+            "Pengembangan Sumber Terbuka: Menjadi bagian dari permainan yang tumbuh dengan komunitasnya"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Cara Bermain",
+        "instructions": [
+            "Gunakan tombol panah (⬆️⬇️⬅️➡️) untuk menyesuaikan ritme not yang datang",
+            "Pukul not dengan tepat untuk mempertahankan kesehatan Anda dan mencetak poin kombo",
+            "Kelanjutkan melalui Mode Cerita untuk membuka karakter dan trek baru",
+            "Coba Mode Freeplay untuk melatih lagu favorit Anda",
+            "Jelajahi bagian mod untuk menemukan konten buatan komunitas"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "FNF dalam Aksi"
+    },
+    "playerReviews": {
+        "title": "Umpan Balik Komunitas",
+        "submitReviewLabel": "Bagikan Pengalaman FNF Anda",
+        "nameLabel": "Nama Pengguna",
+        "reviewLabel": "Ulasan Anda",
+        "submitButtonLabel": "Kirim Ulasan",
+        "reviews": [
+            {
+                "content": "Komunitas modding membuat permainan ini tetap segar! Selalu ada sesuatu yang baru untuk dicoba, dan permainan dasarnya sudah luar biasa.",
+                "author": "RhythmMaster2023",
+                "rating": 5
+            },
+            {
+                "content": "Mulai bermain ketika menjadi viral, masih tidak bisa berhenti. Sifat open-source membuatnya lebih baik lagi!",
+                "author": "FunkinPlayer",
+                "rating": 5
+            },
+            {
+                "content": "Permainan ritme terbaik yang pernah saya mainkan dalam beberapa tahun. Komunitasnya terus berkembang dan menjadi lebih baik!",
+                "author": "BeatDropper",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "questions": [
+            {
+                "question": "Apakah Friday Night Funkin' gratis untuk dimainkan?",
+                "answer": "Ya! Permainan dasar sepenuhnya gratis untuk dimainkan melalui Newgrounds dan platform resmi lainnya."
+            },
+            {
+                "question": "Bagaimana cara menginstal mod untuk FNF?",
+                "answer": "Sebagian besar mod dapat diunduh dari platform mod terpercaya. Setiap mod biasanya dilengkapi dengan instruksi instalasi, tetapi umumnya melibatkan penempatan file di direktori permainan Anda."
+            },
+            {
+                "question": "Apa persyaratan sistem minimum?",
+                "answer": "FNF berbasis browser dan berjalan pada sebagian besar komputer modern. Anda hanya memerlukan keyboard dan browser web yang diperbarui untuk bermain!"
+            },
+            {
+                "question": "Bisakah saya membuat mod sendiri?",
+                "answer": "Tentu saja! FNF bersifat open-source, dan komunitas menyambut pencipta baru. Anda dapat menemukan tutorial modding dan sumber daya di forum komunitas resmi."
+            },
+            {
+                "question": "Seberapa sering permainan diperbarui?",
+                "answer": "Permainan dasar menerima pembaruan reguler dari tim pengembang, sedangkan mod komunitas baru dirilis hampir setiap hari."
+            },
+            {
+                "question": "Apakah ada versi mobile dari FNF?",
+                "answer": "Meskipun ada beberapa port mobile tidak resmi, versi resmi dirancang untuk permainan di desktop dengan keyboard."
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunked Daytime Demo - Stwórz swoją własną muzyczną przygodę",
+    "description": "Zanurz się w świat Sprunked Daytime Demo, unikalnej gry muzycznej łączącej elementy Sprunki i Incredibox. Twórz własne melodie za pomocą intuicyjnego interfejsu scratch i dziel się swoimi dziełami z całym światem.",
+    "keywords": "Sprunked, Sprunked Daytime Demo, Sprunki, Incredibox, gra muzyczna, twórz muzykę, muzyczna przygoda"
+  },
+  "hero": {
+    "h1": "Sprunked (Daytime Demo)",
+    "p": "Rozpocznij muzyczną podróż z Sprunked, gdzie kreatywność spotyka się z zabawą! Twórz unikalne melodie i odkrywaj nieograniczone możliwości muzyczne."
+  },
+  "gameFeatures": {
+    "title": "Funkcje Sprunked",
+    "features": [
+      "Bezproblemowy interfejs Scratch: Łatwy sposób na natychmiastowe tworzenie muzyki.",
+      "Eklektyczna biblioteka dźwięków: Różnorodne i zabawne dźwięki.",
+      "Nieograniczone muzyczne odkrywania: Nieskończona kreatywność w twoich melodiach.",
+      "Wzmocnij swoje dzieła: Dziel się swoimi arcydziełami ze światem.",
+      "Odblokuj nowe funkcje: Odkrywaj nowych bohaterów i dźwięki podczas gry."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunked Daytime Demo",
+    "instructions": [
+      "Wybierz swojego bohatera: Wybierz ekscentrycznego bohatera z unikalnymi dźwiękami.",
+      "Odkryj interfejs: Znajdź i użyj różnych dźwięków i efektów.",
+      "Scratch, aby odkrywać dźwięki: Odkrywaj ukryte klipy audio.",
+      "Komponuj swoje melodie: Nakładaj i łącz dźwięki, aby tworzyć unikalne utwory.",
+      "Dziel się swoimi dziełami: Pokaż swoją muzykę online lub z przyjaciółmi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu Sprunked Daytime Demo"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy",
+    "submitReviewLabel": "Wyślij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Kocham ten interfejs, łatwy i intuicyjny!",
+        "author": "Alicja"
+      },
+      {
+        "content": "Biblioteka dźwięków jest tak różnorodna, spędzam godziny na tworzeniu.",
+        "author": "Bob"
+      },
+      {
+        "content": "Fantastyczny sposób na rozwijanie kreatywności i relaks.",
+        "author": "Karol"
+      },
+      {
+        "content": "Dzielić się swoimi dziełami nigdy nie było tak zabawnie.",
+        "author": "Dana"
+      },
+      {
+        "content": "Odblokowywanie nowych funkcji utrzymuje grę świeżą.",
+        "author": "Eli"
+      },
+      {
+        "content": "Fascynująca i pobudzająca moją muzykalność!",
+        "author": "Frank"
+      },
+      {
+        "content": "Społeczność jest tak inspirująca, uwielbiam współpracować.",
+        "author": "Grace"
+      },
+      {
+        "content": "Obowiązkowa gra dla każdego miłośnika muzyki.",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania o Sprunked",
+    "questions": [
+      {
+        "question": "Czym jest Incredibox Sprunked?",
+        "answer": "To angażująca platforma do mieszania rytmów i odkrywania kreatywności z ekscentrycznymi postaciami."
+      },
+      {
+        "question": "Jakie są cechy Sprunki Sprunked?",
+        "answer": "Zawiera dźwięki, urocze postacie i efekty, które wzbogacają twoje doświadczenie muzyczne."
+      },
+      {
+        "question": "Jaka jest historia Sprunked?",
+        "answer": "Stworzona, aby dostarczyć świeżych doświadczeń, każda postać dodaje osobowości twojej podróży."
+      },
+      {
+        "question": "Jak społeczność Sprunked reaguje na Incredibox?",
+        "answer": "Bardzo ceniona za immersyjne doświadczenie, przyciąga szeroką publiczność."
+      },
+      {
+        "question": "Dlaczego gracze powinni kochać grę w Sprunked?",
+        "answer": "Z powodu zabawnych stylów, wizualizacji i niekończącej się ekspresji kreatywnej."
+      },
+      {
+        "question": "Co sprawia, że Sprunked jest wyjątkowe?",
+        "answer": "Nowe dźwięki, wizualizacje i interaktywność podnoszą doświadczenie ponad poprzedników."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Zalecane dla Ciebie",
+    "games": [
+      {
+        "title": "Sprunki Dandy'ego Świat",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Kataklizm",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

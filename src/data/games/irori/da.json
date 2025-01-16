@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Irori: Den kulinariske rejse på tværs af landene",
+    "description": "Dyk ned i den hyggelige 2.5D verden af Irori, hvor du spiller som kokken på et tværgående tog. Lav lækre grillspyd med fantasifulde ingredienser og mød andre rejsende, der søger komfort.",
+    "keywords": "Irori spil, fantasikogespil, tværgående tog, 2.5D spil, hyggeligt gaming, PomePomelo"
+  },
+  "hero": {
+    "h1": "Irori: Den kulinariske rejse på tværs af landene",
+    "p": "Tag om bord på det tværgående tog og bliv kok, der laver lækre grillspyd for at varme hjerterne og maverne hos rejsende. Nyd en hyggelig, engagerende oplevelse i en blød og indbydende 2.5D verden."
+  },
+  "gameFeatures": {
+    "title": "Spilfunktioner",
+    "features": [
+      "Fascinerende 2.5D grafik med bløde karakterdesigns",
+      "Et dejligt udvalg af fantasifulde ingredienser",
+      "Interaktiv historie med en sød følgesvend",
+      "Korte, men tilfredsstillende spilsessioner (3-5 minutter)",
+      "Interager med medpassagerer gennem madlavning og historier"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spil instruktioner",
+    "instructions": [
+      "Vælg forskellige grillspyd at lave med fantasifulde ingredienser.",
+      "Justér tilberedningstiden for at sikre, at grillspydene er perfekt grillede.",
+      "Interager med passagerer for at lære deres historier og præferencer.",
+      "Lås op for nye ingredienser og opskrifter i takt med din fremgang.",
+      "Afslut hver session ved at modtage feedback fra passagererne."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spil Skærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend din anmeldelse",
+    "nameLabel": "Dit navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "JEG ELSKER DETTE SPIL SÅ MEGET ALLEREDE. Æstetikken og gameplayet er utrolig beroligende.",
+        "author": "Soulessvoidd"
+      },
+      {
+        "content": "Hvordanls bevægelige køkken møder interaktiv fiktion! Unikt og dejligt.",
+        "author": "MultiDarkZen"
+      },
+      {
+        "content": "Den fredelige stemning og lækre opskrifter i spillet gør det til en fast bestanddel i min spilsamling.",
+        "author": "Littlebuddy_2015"
+      },
+      {
+        "content": "Irori er en smuk flugt. Historierne fra medrejsende er hjertevarmende.",
+        "author": "Angie"
+      },
+      {
+        "content": "Kunststilen er bare fantastisk. Det er sødt og smukt designet.",
+        "author": "superlocolillool"
+      },
+      {
+        "content": "Kort, men sød gameplayoplevelse. Kan ikke vente på flere opdateringer!",
+        "author": "Caring_Koala_Bro"
+      },
+      {
+        "content": "Fængslende men simpelt. En hyggelig måde at slappe af på efter en lang dag.",
+        "author": "FRIDAY_NIGHT_FUNKE"
+      },
+      {
+        "content": "Jeg kan ikke spille spillet af tekniske grunde, men det ser virkelig lovende ud!",
+        "author": "catstuckinabox"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+      "question":"Hvad er 2.5D?",
+      "answer":"2.5D refererer til en visuel stil, der blander 2D og 3D elementer og tilbyder dybde og perspektiv, mens den opretholder et fladt interface design."
+      },
+      {
+      "question":"Hvor lang tid tager hver spilsession?",
+      "answer":"Hver session varer cirka 3-5 minutter, perfekt til hurtige spiloplevelser."
+      },
+      {
+      "question":"Kan jeg spille Irori på flere platforme?",
+      "answer":"Ja, Irori er tilgængelig på HTML5, Windows og macOS platforme."
+      },
+      {
+      "question":"Hvor kan jeg dele mine spilleoplevelser?",
+      "answer":"Du kan dele dine oplevelser og tanker på vores fællesskabsforum."
+      },
+      {
+      "question":"Bliver spillet stadig opdateret?",
+      "answer":"Udviklingsteamet er i øjeblikket på pause, men fremtidige opdateringer er planlagt."
+      },
+      {
+      "question":"Hvem har udviklet Irori?",
+      "answer":"Irori er udviklet af PomePomelo med bidrag fra flere talentfulde designere og programmører."
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "image": "path/to/other-game1.jpg",
+      "title": "Mystisk Madlavning: Den Fortryllede Kok",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game2.jpg",
+      "title": "Fantasifuld Mad: Kulinariske Kronikker",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game3.jpg",
+      "title": "Uhyggelig Pisk: Fortællinger om Kjøkken",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game4.jpg",
+      "title": "Spiselig Odysse: Den Gastronomiske Rejse",
+      "link": "#"
+    }
+  ]
+}

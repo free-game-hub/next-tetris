@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - Zwiększ swoje doznania muzyki horroru",
+    "description": "Zanurz się w przerażającym świecie Sprunki Ketchup 2.0, gdzie tworzenie muzyki przekształca się w nawiedzające doświadczenie. Odkryj zasady gry, funkcje i recenzje graczy.",
+    "keywords": "Sprunki Ketchup 2.0, gra muzyczna horror, przerażające dźwięki, funkcje gry, recenzje graczy"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "Odkryj niepokojące krainy Sprunki Ketchup 2.0, gdzie horror spotyka muzykę w emocjonującej grze."
+  },
+  "gameFeatures": {
+    "title": "Najważniejsze cechy Sprunki Ketchup 2.0",
+    "features": [
+      "Wzmocniona estetyka horroru z przerażającymi postaciami.",
+      "Mroczniejsze dźwięki i niepokojące pętle.",
+      "Zwiększone napięcie z eksperymentalnymi warstwami muzycznymi.",
+      "Złożone postacie i niepokojące tła.",
+      "Dziel się swoimi dziełami z społecznością entuzjastów horroru."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki Ketchup 2.0",
+    "instructions": [
+      "Wybierz postacie: Wybierz figury, które emanują niepokojącym urokiem.",
+      "Przeciągnij i upuść je na swoim płótnie, aby stworzyć przerażające kompozycje.",
+      "Eksperymentuj z głośnością i efektami, aby osiągnąć przerażającą perfekcję.",
+      "Udoskonalaj swoje warstwy, aby odkryć ukryte elementy strachu.",
+      "Zapisz i podziel się swoimi kompozycjami muzyki horroru z przyjaciółmi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu Sprunki Ketchup 2.0"
+  },
+  "playerReviews": {
+    "title": "Co gracze mówią o Sprunki Ketchup 2.0",
+    "submitReviewLabel": "Wyślij swoją recenzję",
+    "nameLabel": "Imię",
+    "reviewLabel": "Recenzja",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Ta gra zrewolucjonizowała horror w muzyce — to pozycja obowiązkowa dla poszukiwaczy wrażeń.",
+        "author": "Alex"
+      },
+      {
+        "content": "Nigdy nie czułem się tak spięty podczas tworzenia melodii, napięcie jest prawdziwe!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Idealne połączenie muzyki i horroru. Sprunki Ketchup 2.0 wciąga mnie bez reszty!",
+        "author": "Chris"
+      },
+      {
+        "content": "Nawiedzające dźwięki są niesamowite. Przygotuj się na dreszcze.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Świetnie nadaje się na imprezy Halloweenowe, graj głośno i strasz swoich przyjaciół!",
+        "author": "Casey"
+      },
+      {
+        "content": "Uwielbiam te mroczne wibracje i twórczą swobodę, którą oferuje.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0 to doświadczenie jak żadne inne. Gorąco polecam.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Atmosfera gry jest intensywnie przerażająca i doskonała dla fanów horroru.",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej zadawane pytania o Sprunki Ketchup 2.0",
+    "questions": [
+      {
+        "question":"Czym jest Sprunki Ketchup 2.0?",
+        "answer":"Sprunki Ketchup 2.0 to gra muzyczna o tematyce horroru, która wprowadza niepokojące dźwięki i wizualizacje."
+      },
+      {
+        "question":"Jak mogę tworzyć muzykę w tej grze?",
+        "answer":"Wybierz i ułóż loop'y postaci o mrocznym charakterze na ekranie, aby skomponować swoje nawiedzające utwory."
+      },
+      {
+        "question":"Czy mogę dzielić się swoimi muzycznymi dziełami?",
+        "answer":"Tak, możesz zapisać i podzielić się swoimi kompozycjami z innymi graczami."
+      },
+      {
+        "question":"Czy Sprunki Ketchup 2.0 jest odpowiednia dla dzieci?",
+        "answer":"Zaleca się, aby gra była przeznaczona dla dorosłych ze względu na elementy horroru."
+      },
+      {
+        "question":"Czy są zakupy w grze?",
+        "answer":"Sprunki Ketchup 2.0 oferuje kilka funkcji dostępnych do rozbudowy poprzez zakupy w grze."
+      },
+      {
+        "question":"Na jakich platformach jest dostępna Sprunki Ketchup 2.0?",
+        "answer":"Gra jest dostępna na głównych platformach gamingowych, w tym PC i konsolach."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Polecane gry",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "Ekscytujące Echo",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "Nawiedzone Harmonie",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "Cień Symfonii",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

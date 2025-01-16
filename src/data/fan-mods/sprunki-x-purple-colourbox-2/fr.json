@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Purple Mode - Une expérience de jeu vibrante",
+    "description": "Découvrez le monde monochromatique de Sprunki Purple Mode, où créativité et singularité se rencontrent. Explorez les fonctionnalités du jeu, les instructions de jeu, les avis des utilisateurs et les questions fréquentes.",
+    "keywords": "Sprunki Purple Mode, jeu monochromatique violet, expérience de jeu unique, jeu de création musicale"
+  },
+  "hero": {
+    "h1": "Sprunki Purple Mode",
+    "p": "Plongez dans le monde violet monochromatique unique de Sprunki Purple Mode, où la créativité n'a pas de limites."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du jeu Sprunki Purple Mode",
+    "features": [
+      "Palette Violette Monochromatique : Plongez dans un univers où tout est teinté de violet.",
+      "Galerie Innovante : Explorez la galerie avec une touche originale, même si ce n'est que pour le plaisir visuel.",
+      "Schéma de Personnages Monocouleurs : Des personnages uniques accentués par leur design monochrome.",
+      "Bande Son Électronique Spéciale : Savourez une collection de sons électroniques qui dynamisent le jeu.",
+      "Création Musicale Infinie : Des sons uniques pour chaque personnage offrant des possibilités mélodiques infinies."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment jouer à Sprunki Purple Mode",
+    "instructions": [
+      "Sélectionnez des Personnages : Choisissez 6 pistes musicales de l'Incredibox original.",
+      "Glisser-Déposer : Placez l'une des vingt icônes sur l'un des sept pôles pour créer des sons.",
+      "Créez des Mixes Uniques : Chaque son de personnage est distinct, permettant une créativité musicale sans fin.",
+      "Premier Bug : Lors de la mise en place de Simon, le douzième personnage, un pôle supplémentaire pourrait rester.",
+      "Deuxième Bug : Sortir de la galerie est difficile en raison d'un bouton de sortie manquant."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran du jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs sur Sprunki Purple Mode",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Le thème de couleur violette rend ce jeu vraiment unique. C'est captivant !",
+        "author": "Alice"
+      },
+      {
+        "content": "Créer des mélodies avec des sons de personnages uniques est incroyable.",
+        "author": "Ben"
+      },
+      {
+        "content": "J'adore la bande sonore électronique, elle apporte énormément au jeu.",
+        "author": "Chloe"
+      },
+      {
+        "content": "La fonctionnalité galerie a besoin d'améliorations mais elle reste intéressante.",
+        "author": "David"
+      },
+      {
+        "content": "Un peu de bugs, mais c'est un jeu super amusant à jouer.",
+        "author": "Eve"
+      },
+      {
+        "content": "Le schéma violet est visuellement attrayant et innovant.",
+        "author": "Frank"
+      },
+      {
+        "content": "C'est une twist créatif sur le genre traditionnel des jeux de musique.",
+        "author": "Grace"
+      },
+      {
+        "content": "J'aimerais voir plus de mises à jour, mais dans l'ensemble, c'est vraiment amusant !",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Sprunki Purple Mode ?",
+        "answer": "Un jeu où tous les éléments visuels sont dominés par un schéma de couleur violet, offrant un style artistique unique."
+      },
+      {
+        "question": "Pourquoi la galerie n'a-t-elle pas de bouton de sortie ?",
+        "answer": "C'est un bug connu. Nous travaillons à ajouter un bouton de sortie dans les futures mises à jour."
+      },
+      {
+        "question": "Chaque son de personnage est-il unique ?",
+        "answer": "Oui, chaque personnage a un son distinct, offrant des possibilités musicales infinies."
+      },
+      {
+        "question": "Puis-je jouer à ce jeu sur mobile ?",
+        "answer": "Actuellement, le jeu est optimisé pour un fonctionnement sur ordinateur."
+      },
+      {
+        "question": "Qui a créé le mod original ?",
+        "answer": "Le mod original appartient à Freepies, connu sous le nom de purple colorbox v6."
+      },
+      {
+        "question": "Comment puis-je signaler un bug ?",
+        "answer": "Veuillez contacter notre équipe de support via la section d'aide sur notre site web."
+      }
+    ]
+  }
+}

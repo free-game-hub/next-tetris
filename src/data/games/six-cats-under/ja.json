@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Six Cats Under - 魅力的なパズルアドベンチャー",
+    "description": "'Six Cats Under'を発見しよう。心温まるポイント＆クリックのパズルゲームで、ポルターガイストの力を使ってあなたの猫たちを救い出す冒険。プレイヤーから4.8/5の評価を受けています。",
+    "keywords": "Six Cats Under, パズルゲーム, ポイント＆クリック, 猫救出ゲーム, ゲームジャム, 幽霊の力, Six Cats Under 評価"
+  },
+  "hero": {
+    "h1": "Six Cats Under",
+    "p": "'Six Cats Under'の世界に浸りましょう。あなたのポルターガイストの力で愛猫たちを安全に導く、楽しいポイント＆クリックのパズルゲームです。"
+  },
+  "gameFeatures": {
+    "title": "ゲームの特徴",
+    "features": [
+      "ユニークなポイント＆クリックパズルゲームプレイ",
+      "魅力的なピクセルアートとアニメーション",
+      "幽霊の要素を含む引き込まれるストーリー",
+      "猫好きやパズル愛好者に最適",
+      "短時間で楽しめるゲーム体験、素早いセッションにぴったり"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Six Cats Underの遊び方",
+    "instructions": [
+      "マウスを使ってオブジェクトと対話し、猫たちを導きます。",
+      "ポルターガイストの能力を活用してアイテムを移動させたり道を開きます。",
+      "パズルを解いてレベルを進み、すべての猫を救出します。",
+      "ゲーム全体にちらばる視覚の手がかりやヒントに注意してください。",
+      "ストーリーを楽しみ、猫との魅力的なインタラクションを堪能しましょう。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Six Cats Under - ゲームのスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "プレイヤーレビュー",
+    "submitReviewLabel": "レビューを投稿",
+    "nameLabel": "名前",
+    "reviewLabel": "レビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "素敵なゲーム！素晴らしいアニメーションと本当に可愛い猫たち。",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "猫を飼っている私としては、このゲームに深く共感します。本当に素晴らしい作品です！",
+        "author": "gecko"
+      },
+      {
+        "content": "可愛らしい甘さのあるゲーム...かわいそうなゴルディ！心温まるけれども感情的。",
+        "author": "magerites"
+      },
+      {
+        "content": "ユニークなパズルがたくさんあり、可愛い瞬間が盛りだくさん。大好きでした！",
+        "author": "DLGames"
+      },
+      {
+        "content": "可愛さと少しの悲しさのバランスが、このゲームを際立たせています。",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "素晴らしいゲーム！15分でクリアし、どの瞬間も楽しかったです。",
+        "author": "MCG"
+      },
+      {
+        "content": "可愛くて悲しいが、本当に楽しい！全体的に素晴らしい体験。",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "猫たちは可愛く、幽霊の助けの要素はユニークです。非常におすすめです！",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"よくある質問",
+    "questions": [
+      {
+        "question":"Six Cats Underはどのプラットフォームで利用できますか？",
+        "answer":"Six Cats UnderはHTML5、Windows、macOS、Linuxで利用可能です。"
+      },
+      {
+        "question":"ゲームを完了するのにどれくらいの時間がかかりますか？",
+        "answer":"平均的なセッションは約30分、短時間ながらも楽しめる体験を提供します。"
+      },
+      {
+        "question":"'Six Cats Under'は全ての年齢に適していますか？",
+        "answer":"はい、このゲームはすべての年齢層のプレイヤーが楽しめるように設計されており、特に猫好きの方々におすすめです。"
+      },
+      {
+        "question":"ゲームを動かすための最小限の要件は何ですか？",
+        "answer":"ゲームは軽量で、HTML5や該当するOSバージョンをサポートしているほとんどのシステムで動作します。"
+      },
+      {
+        "question":"ゲームはオフラインでプレイできますか？",
+        "answer":"Windows、macOS、Linux用のダウンロード版は、インストール後オフラインでプレイ可能です。"
+      },
+      {
+        "question":"'Six Cats Under'は誰が開発しましたか？",
+        "answer":"このゲームはTeam Bean LoopとMosuによって開発され、Miles Äijälä、Robin Swift、Tomas Beržinskas、Alex Martinが貢献しました。"
+      }
+    ]
+  }
+}

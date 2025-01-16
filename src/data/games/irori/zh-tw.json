@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Irori: 跨域美食之旅",
+    "description": "沉浸在舒適的2.5D世界中，成為跨域列車上的廚師。使用幻想食材烹飪美味的串燒，並結識尋求安慰的旅行者。",
+    "keywords": "Irori 遊戲, 幻想烹飪遊戲, 跨域列車, 2.5D 遊戲, 舒適遊戲, PomePomelo"
+  },
+  "hero": {
+    "h1": "Irori: 跨域美食之旅",
+    "p": "登上跨域列車，成為廚師，為旅行者製作美味的串燒，溫暖他們的心靈和胃口。在這個柔和而誘人的2.5D世界中享受舒適而引人入勝的體驗。"
+  },
+  "gameFeatures": {
+    "title": "遊戲特色",
+    "features": [
+      "迷人的2.5D圖形，配合柔和的角色設計",
+      "各式各樣的幻想食材任你挑選",
+      "互動式故事情節和可愛的夥伴",
+      "短暫卻充實的遊玩時光（3-5分鐘）",
+      "透過烹飪和故事與其他乘客互動"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "遊玩指引",
+    "instructions": [
+      "選擇各種串燒，使用幻想食材進行烹飪。",
+      "調整烹飪時間，以確保串燒烤得恰到好處。",
+      "與乘客互動，了解他們的故事和偏好。",
+      "隨著進展解鎖新食材和食譜。",
+      "每次遊玩結束時，收集乘客的反饋。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交您的評價",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "我已經非常喜歡這款遊戲。視覺效果和遊玩過程讓人感到無比平靜。",
+        "author": "Soulessvoidd"
+      },
+      {
+        "content": "《霍爾的移動廚房》遇上互動小說！獨特又迷人。",
+        "author": "MultiDarkZen"
+      },
+      {
+        "content": "寧靜的氛圍和美味的遊戲食譜讓它成為我遊戲收藏中的必備之作。",
+        "author": "Littlebuddy_2015"
+      },
+      {
+        "content": "Irori 是一次美妙的逃避之旅。來自其他旅行者的故事讓人心暖。",
+        "author": "Angie"
+      },
+      {
+        "content": "這種藝術風格真是太驚人了。既可愛又設計得非常美妙。",
+        "author": "superlocolillool"
+      },
+      {
+        "content": "簡短卻甜美的遊玩體驗。期待更多更新！",
+        "author": "Caring_Koala_Bro"
+      },
+      {
+        "content": "引人入勝卻又簡單。是一天結束後放鬆的舒適方式。",
+        "author": "FRIDAY_NIGHT_FUNKE"
+      },
+      {
+        "content": "因技術原因我不能玩這款遊戲，但它看起來非常有潛力！",
+        "author": "catstuckinabox"
+      }
+    ]
+  },
+  "faq": {
+    "title":"常見問題",
+    "questions": [
+      {
+      "question":"什麼是2.5D？",
+      "answer":"2.5D是一種視覺風格，融合了2D和3D元素，提供深度和透視感，同時保留平面界面設計。"
+      },
+      {
+      "question":"每次遊玩時長為多久？",
+      "answer":"每次約需3-5分鐘，適合短暫的遊玩體驗。"
+      },
+      {
+      "question":"我可以在多個平台上遊玩Irori嗎？",
+      "answer":"可以，Irori目前在HTML5、Windows和macOS平台上均可用。"
+      },
+      {
+      "question":"我可以在哪裡分享我的遊玩體驗？",
+      "answer":"你可以在我們的社區論壇分享你的體驗和想法。"
+      },
+      {
+      "question":"遊戲還會持續更新嗎？",
+      "answer":"開發團隊目前在休息，但未來將計劃進行更新。"
+      },
+      {
+      "question":"誰開發了Irori？",
+      "answer":"Irori由PomePomelo開發，並有多位才華橫溢的設計師和程序員參與。"
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "image": "path/to/other-game1.jpg",
+      "title": "神秘廚房：魔法主廚",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game2.jpg",
+      "title": "幻想美饌：烹飪編年史",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game3.jpg",
+      "title": "奇幻打蛋器：美食傳說",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game4.jpg",
+      "title": "可食之旅：美食之旅",
+      "link": "#"
+    }
+  ]
+}

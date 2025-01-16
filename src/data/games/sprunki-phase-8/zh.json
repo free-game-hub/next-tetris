@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 8：游戏中的节奏冒险",
+    "description": "畅玩Sprunki Phase 8，这款融合了平台跳跃与音乐创作的迷人游戏，灵感来自Incredibox。探索独特角色、绚丽画面和富有挑战性的关卡。",
+    "keywords": "Sprunki Phase 8, Incredibox, 平台游戏, 音乐游戏, 角色自定义, 节奏游戏"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 8",
+    "p": "在Sprunki Phase 8中释放你的创意和音乐才能，每个关卡都挑战你的节奏和平台跳跃技巧。"
+  },
+  "gameFeatures": {
+    "title": "游戏特点",
+    "features": [
+      "融入Incredibox的音乐元素",
+      "丰富的角色自定义选项",
+      "绚丽的视觉效果和生动的动画",
+      "多样的关卡设计与策略挑战",
+      "收集物品和升级道具，提升游戏体验"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "玩法说明",
+    "instructions": [
+      "通过躲避障碍物和创造音乐来探索各个关卡。",
+      "使用简单的控制键进行移动和跳跃，灵活应对环境。",
+      "切换角色，发挥他们的独特能力。",
+      "触发音乐片段，使之与游戏的节奏相契合。",
+      "在克服挑战与创作音乐之间找到平衡，取得成功。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交您的评价",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "音乐与游戏的结合真是太棒了！在创造旋律时玩游戏的体验独一无二。",
+        "author": "Alex M."
+      },
+      {
+        "content": "角色自定义为游戏增添了个性，使每次游玩都不尽相同。",
+        "author": "Jamie T."
+      },
+      {
+        "content": "绚丽的画面令人惊叹，游戏的乐趣倍增。",
+        "author": "Chris P."
+      },
+      {
+        "content": "我喜欢在每个关卡中发现新路线和秘密，总是有新惊喜！",
+        "author": "Sam K."
+      },
+      {
+        "content": "基于节奏的玩法为平台游戏带来了新鲜的视角，执行得非常出色。",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Phase 8是音乐爱好者和游戏玩家的绝佳享受！",
+        "author": "Jordan L."
+      },
+      {
+        "content": "每个关卡都是一个挑战，但音乐使我始终保持动力！",
+        "author": "Taylor R."
+      },
+      {
+        "content": "将音乐与游戏结合的创意非常巧妙，而游戏的实现也非常完美。",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "Sprunki Phase 8的目标是什么？",
+        "answer": "主要目标是通过不同的关卡，避免障碍物和敌人，同时制作音乐。"
+      },
+      {
+        "question": "我该如何控制角色？",
+        "answer": "使用简单的控制键进行移动和跳跃，并战略性地切换角色，发挥他们的独特能力。"
+      },
+      {
+        "question": "我可以自定义我的角色吗？",
+        "answer": "可以，玩家可以从多种视觉风格和音效各异的角色中选择，获取个性化体验。"
+      },
+      {
+        "question": "游戏的玩法有什么独特之处？",
+        "answer": "将音乐创作与平台跳跃元素结合，提供独特而吸引人的游戏体验。"
+      },
+      {
+        "question": "关卡中是否有多条路线？",
+        "answer": "是的，Sprunki Phase 8鼓励重玩，设有多条路线和秘密区域供玩家探索。"
+      },
+      {
+        "question": "游戏中是否有收集物品和升级道具？",
+        "answer": "玩家可以收集物品来解锁新能力，并在游戏进程中提升他们的音乐创作。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推荐游戏",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Phase 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Phase 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

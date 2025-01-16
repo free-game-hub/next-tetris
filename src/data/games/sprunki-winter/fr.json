@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Hiver - Vivez la Beauté Tranquille de l'Hiver dans Votre Musique",
+    "description": "Le Mod Sprunki Hiver transforme votre création musicale avec une esthétique hivernale, des paysages sonores sereins et un gameplay unique. Rejoignez-nous maintenant et profitez de composer dans un paradis enneigé.",
+    "keywords": "Sprunki Hiver, mod musique, jeu de musique d’hiver, caractéristiques de Sprunki Hiver, comment jouer à Sprunki Hiver"
+  },
+  "hero": {
+    "h1": "Sprunki Hiver",
+    "p": "Plongez dans la beauté sereine de l'hiver alors que Sprunki Hiver enveloppe votre parcours musical dans un enchantement enneigé. Créez des compositions tranquilles dans ce pays des merveilles glacé."
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques Clés de Sprunki Hiver",
+    "features": [
+      "Esthétique Gelée : Profitez de bleus glacés, blancs doux et textures de flocons de neige.",
+      "Paysages Sonores Doux : Adoptez des percussions délicates et des mélodies aériennes.",
+      "Ambiance Calme et Réfléchie : Engagez-vous dans une création musicale plus lente et contemplative.",
+      "Personnages Saisonniers : Icônes avec écharpes chaudes et ambiance hivernale.",
+      "Harmonie Visuelle-Sonore : Fusion parfaite d'imagery et d'audio pour une expérience hivernale."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer au Mod Sprunki Hiver",
+    "instructions": [
+      "Sélectionnez des Personnages : Choisissez parmi des figures vêtues d'habits d'hiver pour des boucles uniques.",
+      "Glissez et Déposez : Superposez des rythmes et des mélodies pour capturer l'essence de l'hiver.",
+      "Affinez Votre Mix : Ajustez les volumes, ajoutez des effets pour des morceaux sereins.",
+      "Enregistrez et Partagez : Partagez la magie de votre composition hivernale avec les autres.",
+      "Explorez les Variations : Expérimentez avec différentes combinaisons de personnages pour des paysages sonores diversifiés."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Jeu Sprunki Hiver"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Sprunki Hiver est un magnifique mélange d'art et de musique—c'est comme peindre avec le son.",
+        "author": "Emily R."
+      },
+      {
+        "content": "L'esthétique hivernale est parfaitement capturée ; c'est comme une journée confortable à l'intérieur.",
+        "author": "James P."
+      },
+      {
+        "content": "J'adore comment le jeu me permet de me détendre tout en étant créatif en même temps.",
+        "author": "Mira T."
+      },
+      {
+        "content": "Les mélodies sereines et les visuels sont une parfaite échappatoire de ma journée bien chargée.",
+        "author": "Liam H."
+      },
+      {
+        "content": "En tant que personne qui adore l'hiver, Sprunki Hiver correspond parfaitement à mon style musical !",
+        "author": "Sophia L."
+      },
+      {
+        "content": "Les paysages sonores doux du jeu sont apaisants et inspirants pour mes compositions musicales.",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Un moyen fantastique de passer du temps à créer sans pression ; tout simplement beau.",
+        "author": "Lucas M."
+      },
+      {
+        "content": "L'un des meilleurs mods musicaux avec ses thèmes hivernaux et son gameplay captivant.",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Qu'est-ce qui rend Sprunki Hiver différent des autres mods de musique ?",
+        "answer": "Sprunki Hiver offre une esthétique et des paysages sonores uniques sur le thème de l'hiver, fusionnant parfaitement visuels et audio pour une expérience de jeu sereine."
+      },
+      {
+        "question": "Comment puis-je partager mes créations dans Sprunki Hiver ?",
+        "answer": "Après avoir composé votre morceau, utilisez la fonction 'Enregistrer et Partager' pour partager facilement votre musique avec les autres."
+      },
+      {
+        "question": "Puis-je personnaliser les personnages et les boucles dans le jeu ?",
+        "answer": "Oui, vous pouvez sélectionner et arranger différents personnages avec des boucles uniques pour personnaliser votre musique."
+      },
+      {
+        "question": "Y a-t-il une version mobile disponible pour Sprunki Hiver ?",
+        "answer": "Actuellement, Sprunki Hiver est disponible sur les plateformes de bureau. Restez à l'écoute pour de possibles versions mobiles."
+      },
+      {
+        "question": "Y a-t-il des tutoriels disponibles pour les débutants ?",
+        "answer": "Oui, le jeu comprend un tutoriel complet pour aider les nouveaux joueurs à commencer."
+      },
+      {
+        "question": "Sprunki Hiver prend-il en charge plusieurs langues ?",
+        "answer": "Sprunki Hiver prend actuellement en charge l'anglais, avec d'autres options linguistiques prévues dans les futures mises à jour."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkliy游戏 - 简单而刺激的玩法",
+    "description": "探索Sprunkliy，这是一款简化版的sprunki。发现游戏特点、说明、评价和常见问题解答。",
+    "keywords": "Sprunkliy, Sprunki remix, 简单玩法, 游戏评价, 游戏常见问题"
+  },
+  "hero": {
+    "h1": "Sprunkliy",
+    "p": "欢迎来到Sprunkliy，这是一款流行游戏sprunki的简化版。在简化的游戏玩法中，享受刺激的冒险。"
+  },
+  "gameFeatures": {
+    "title": "Sprunkliy的特点",
+    "features": [
+      "适合所有年龄段的简化玩法",
+      "引人入胜且色彩丰富的视觉效果",
+      "易于上手的操作控制",
+      "具有挑战性的关卡和丰厚的成就奖励",
+      "由Amsosprunki在Scratch上重制"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunkliy",
+    "instructions": [
+      "开始游戏并选择你的角色。",
+      "通过避开障碍物在关卡中前进。",
+      "收集奖励以提升你的得分。",
+      "使用简化的控制让你的角色跳跃或奔跑。",
+      "完成关卡以解锁新的挑战。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkliy游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunkliy正是我所需要的简单乐趣！",
+        "author": "Alex"
+      },
+      {
+        "content": "这是一个适合在休息时快速减压的完美游戏。",
+        "author": "Jordan"
+      },
+      {
+        "content": "我喜欢简单明了的设计和易用的控制。",
+        "author": "Taylor"
+      },
+      {
+        "content": "关卡有挑战性但不会让人沮丧。太爱了！",
+        "author": "Casey"
+      },
+      {
+        "content": "简单的重制版竟然能变成如此出色的游戏，真是太神奇了。",
+        "author": "Morgan"
+      },
+      {
+        "content": "我的孩子们停不下来了，Sprunkliy实在太吸引人了！",
+        "author": "Jamie"
+      },
+      {
+        "content": "适合所有年龄段的游戏，既有趣又让人上瘾！",
+        "author": "Charlie"
+      },
+      {
+        "content": "我很喜欢这种不复杂的游戏玩法。赞一个！",
+        "author": "Pat"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "questions": [
+      {
+        "question":"什么是Sprunkliy？",
+        "answer":"Sprunkliy是原版游戏sprunki的简化重制，旨在提供简单而引人入胜的游戏体验。"
+      },
+      {
+        "question":"谁开发了Sprunkliy？",
+        "answer":"这款重制版是由Amsosprunki在Scratch上创建，由depicro共享。"
+      },
+      {
+        "question":"我该如何玩Sprunkliy？",
+        "answer":"使用简单的控制来引导你的角色穿越不同的关卡，避开障碍物并收集奖励。"
+      },
+      {
+        "question":"Sprunkliy适合儿童吗？",
+        "answer":"是的，它简化的游戏玩法适合所有年龄段的玩家。"
+      },
+      {
+        "question":"我可以提交自己的评价吗？",
+        "answer":"当然可以！我们欢迎你对Sprunkliy的反馈和体验。"
+      },
+      {
+        "question":"我在哪里可以找到类似Sprunkliy的更多游戏？",
+        "answer":"请查看我们的游戏推荐模块，寻找其他有趣的游戏。"
+      }
+    ]
+  }
+}

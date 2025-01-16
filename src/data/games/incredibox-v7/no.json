@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Lag Dine Egne Musikkbeats",
+    "description": "Spill Incredibox V7, et kreativt musikkspill der du kontrollerer Incredicrew for å lage unike beats. Utforsk spillfunksjoner, regler og spilleranmeldelser.",
+    "keywords": "Incredibox V7, musikkspill, Incredicrew, lage beats, Incredibox funksjoner"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Dykk inn i Incredibox V7s verden og frisett din musikalske kreativitet. Kontroller Incredicrew for å lage dine egne unike melodier og beats."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V7 Spillfunksjoner",
+    "features": [
+      "Kontroller Incredicrew - hver med unike lydferdigheter.",
+      "Mangfoldige musikalske stiler og temaer å utforske.",
+      "Endeløs kreativitet uten riktig eller galt spill.",
+      "Del musikkopprettingene dine med fellesskapet.",
+      "Brukervennlig grensesnitt for både mus og tastaturkontroller."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Incredibox V7",
+    "instructions": [
+      "Velg Karakter: Velg fra et utvalg av karakterer, hver med spesielle evner og animasjoner.",
+      "Velg en Sang: Velg din foretrukne musikalske stil eller tema for å starte opprettelsen.",
+      "Spill: Kombiner lyder og rytmer for å lage en unik beat.",
+      "Bruk Musen: Klikk på karakterer for å legge til eller fjerne lyder.",
+      "Bruk Tastaturet: Bruk snarveier for rask lydmanipulering."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 Skjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser av Incredibox V7",
+    "submitReviewLabel": "Send Inn Din Anmeldelse",
+    "nameLabel": "Ditt Navn",
+    "reviewLabel": "Din Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Incredibox V7 er en så morsom måte å utforske musikkoppretting på!",
+        "author": "Alice"
+      },
+      {
+        "content": "Jeg elsker de forskjellige lydkombinasjonene du kan lage. Det er endeløs moro!",
+        "author": "John"
+      },
+      {
+        "content": "Karakterene er så unike, og å lage beats er vanedannende.",
+        "author": "Maya"
+      },
+      {
+        "content": "Det er fantastisk hvor kreativ du kan bli. Ingen to beats er like!",
+        "author": "Liam"
+      },
+      {
+        "content": "Å dele mine kreasjoner med venner er den beste delen!",
+        "author": "Sophia"
+      },
+      {
+        "content": "Snarveiene på tastaturet gjør det så lett å bytte lyder raskt.",
+        "author": "Henry"
+      },
+      {
+        "content": "Flott spill for barn og voksne som elsker musikk.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 har vært mitt valg for kreativ avslapning.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 Vanlige Spørsmål",
+    "questions": [
+      {
+        "question": "Hva er Incredibox V7?",
+        "answer": "Incredibox V7 er et musikkspill der du kan lage unike beats ved å kontrollere en gruppe karakterer kjent som Incredicrew."
+      },
+      {
+        "question": "Hvordan begynner jeg å spille Incredibox V7?",
+        "answer": "For å begynne å spille, velg en karakter og en sangstil. Deretter kan du blande forskjellige lyder for å lage din beat."
+      },
+      {
+        "question": "Kan jeg spille Incredibox V7 med et tastatur?",
+        "answer": "Ja, du kan bruke tastatursnarveier for å legge til eller fjerne lyder raskt."
+      },
+      {
+        "question": "Finnes det forskjellige musikalske stiler i Incredibox V7?",
+        "answer": "Ja, spillet tilbyr et utvalg av stiler og temaer å velge mellom."
+      },
+      {
+        "question": "Er det en måte å dele kreasjonene mine på?",
+        "answer": "Absolutt, du kan dele musikkopprettingene dine med andre spillere i fellesskapet."
+      },
+      {
+        "question": "Er Incredibox V7 egnet for alle aldre?",
+        "answer": "Ja, Incredibox V7 er et morsomt og kreativt spill som passer for både barn og voksne."
+      }
+    ]
+  }
+}

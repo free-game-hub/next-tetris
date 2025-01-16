@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Kendi Müzik Ritimlerinizi Yaratın",
+    "description": "Incredibox V7'yi oynayın, Incredicrew'u kontrol ederek eşsiz ritimler oluşturduğunuz yaratıcı bir müzik oyunu. Oyun özelliklerini, kurallarını ve oyuncu yorumlarını keşfedin.",
+    "keywords": "Incredibox V7, müzik oyunu, Incredicrew, ritim oluştur, Incredibox özellikleri"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Incredibox V7 dünyasına dalın ve müzikal yaratıcılığınızı serbest bırakın. Eşsiz melodiler ve ritimler yaratmak için Incredicrew'u kontrol edin."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V7 Oyun Özellikleri",
+    "features": [
+      "Incredicrew'u kontrol edin - her biri eşsiz ses yeteneklerine sahip.",
+      "Keşfedilecek çeşitli müzik stilleri ve temalar.",
+      "Doğru veya yanlış bir yol olmadan sonsuz yaratıcılık.",
+      "Müzik eserlerinizi toplulukla paylaşın.",
+      "Hem fare hem de klavye kontrolleri için kullanıcı dostu arayüz."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox V7'yi Nasıl Oynarsınız",
+    "instructions": [
+      "Karakterinizi Seçin: Özel yetenekler ve animasyonlara sahip çeşitli karakterler arasından seçim yapın.",
+      "Bir Şarkı Seçin: Yaratmaya başlamak için tercih ettiğiniz müzik stilini veya temasını seçin.",
+      "Oynanış: Eşsiz bir ritim oluşturmak için sesleri ve ritimleri birleştirin.",
+      "Fareyi Kullanın: Ses eklemek veya çıkarmak için karakterlere tıklayın.",
+      "Klavye Kullanın: Hızlı ses manipülasyonu için kısayolları kullanın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V7 Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Incredibox V7 Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Incredibox V7, müzik yaratma keşfi için çok eğlenceli bir yol!",
+        "author": "Alice"
+      },
+      {
+        "content": "Yapabileceğiniz farklı ses kombinasyonlarını seviyorum. Sonsuz eğlence!",
+        "author": "John"
+      },
+      {
+        "content": "Karakterler çok benzersiz ve ritim oluşturmak bağımlılık yapıyor.",
+        "author": "Maya"
+      },
+      {
+        "content": "Ne kadar yaratıcı olabileceğinizi görmek harika. İki ritim asla aynı değil!",
+        "author": "Liam"
+      },
+      {
+        "content": "Yaratımlarımı arkadaşlarımla paylaşmak en güzel kısım!",
+        "author": "Sophia"
+      },
+      {
+        "content": "Klavye kısayolları, sesleri hızlıca değiştirmeyi çok kolaylaştırıyor.",
+        "author": "Henry"
+      },
+      {
+        "content": "Müziği seven çocuklar ve yetişkinler için harika bir oyun.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7, yaratıcı rahatlama için vazgeçilmezim oldu.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V7 Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Incredibox V7 nedir?",
+        "answer": "Incredibox V7, Incredicrew olarak bilinen bir grup karakteri kontrol ederek eşsiz ritimler yaratabileceğiniz bir müzik oyunudur."
+      },
+      {
+        "question": "Incredibox V7 oynamaya nasıl başlayabilirim?",
+        "answer": "Oynamaya başlamak için bir karakter ve bir şarkı tarzı seçin. Ardından farklı sesleri karıştırarak kendi ritminizi oluşturun."
+      },
+      {
+        "question": "Incredibox V7'yi klavye ile oynayabilir miyim?",
+        "answer": "Evet, sesleri hızlı bir şekilde eklemek veya çıkarmak için klavye kısayollarını kullanabilirsiniz."
+      },
+      {
+        "question": "Incredibox V7'de farklı müzik stilleri var mı?",
+        "answer": "Evet, oyun farklı stiller ve temalar sunmaktadır."
+      },
+      {
+        "question": "Yaratımlarımı paylaşmanın bir yolu var mı?",
+        "answer": "Kesinlikle, müzik eserlerinizi topluktaki diğer oyuncularla paylaşabilirsiniz."
+      },
+      {
+        "question": "Incredibox V7 her yaş için uygun mu?",
+        "answer": "Evet, Incredibox V7, hem çocuklar hem de yetişkinler için eğlenceli ve yaratıcı bir oyun."
+      }
+    ]
+  }
+}

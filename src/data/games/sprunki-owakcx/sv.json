@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki OWAKCX Mod - En Framtida Musikupplevelse",
+    "description": "Upptäck Sprunki OWAKCX Mod, där innovativa ljudpaletter och slående visuella effekter omdefinierar musikskapande. Utforska spelets funktioner, regler och spelarbetyg.",
+    "keywords": "Sprunki OWAKCX, musikmod, experimentellt ljud, innovativ spelmekanik, Sprunki-funktioner"
+  },
+  "hero": {
+    "h1": "Sprunki OWAKCX",
+    "p": "Släpp lös din musikaliska kreativitet med Sprunki OWAKCX Mods unika kombination av futuristiska ljud och avantgardefilmer."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunki OWAKCX Mod",
+    "features": [
+      "Innovativ Ljudpalett: Upplev en blandning av traditionella takter med futuristiska toner.",
+      "Slående Visuella Effekter: Karaktärer och bakgrunder visar djärva färger och animationer.",
+      "Gränslös Experimentering: Uppmuntra ovanliga ljudkombinationer.",
+      "Dynamiska Karaktärer: Varje karaktär erbjuder unika, utforskande slingor.",
+      "Banbrytande Estetik: Moderna designer som tänjer på kreativitetsgränserna."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så här spelar du Sprunki OWAKCX Mod",
+    "instructions": [
+      "Välj Karaktärer: Välj figurer med unika slingor.",
+      "Dra och Släpp: Skapa lager av ljud för att bryta mot bekanta genrer.",
+      "Förfina Din Mix: Justera volymer och lägg till effekter.",
+      "Spara och Dela: Dela dina unika kompositioner.",
+      "Utforska Kontinuerligt: Fortsätt experimentera med nya ljudlandskap."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelets Skärmdumpar"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg",
+    "submitReviewLabel": "Skicka Din Bedömning",
+    "nameLabel": "Namn",
+    "reviewLabel": "Betyg",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunki OWAKCX har öppnat en ny värld av musikskapande för mig. Det är fascinerande!",
+        "author": "Alice B."
+      },
+      {
+        "content": "De visuella effekterna är fantastiska och musikmöjligheterna är oändliga. Jag älskar att experimentera med nya takter!",
+        "author": "John S."
+      },
+      {
+        "content": "Jag har aldrig spelat något liknande förut. Det är utmanande och belönande på samma gång.",
+        "author": "Eli T."
+      },
+      {
+        "content": "En unik twist på musikspel. Kombinationen av ljud och visuella effekter är fängslande.",
+        "author": "Natalie R."
+      },
+      {
+        "content": "Att skapa musik med denna mod är beroendeframkallande. Jag kommer hela tiden tillbaka för att prova nya kombinationer.",
+        "author": "Ryan P."
+      },
+      {
+        "content": "Fantastisk mod! Den tänjer på gränserna för kreativ musikskapande.",
+        "author": "Megan L."
+      },
+      {
+        "content": "Flexibiliteten och kreativiteten i Sprunki OWAKCX gör att det är mitt förstahandsval för musikexperimentering.",
+        "author": "Walter H."
+      },
+      {
+        "content": "Jag rekommenderar starkt denna mod till alla som älskar musik och vill utforska nya horisonter.",
+        "author": "Sophie G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är Sprunki OWAKCX?",
+        "answer": "Sprunki OWAKCX är en mod som ger en experimentell och avantgardistisk twist till musikskapande."
+      },
+      {
+        "question": "Hur kan jag dela mina kompositioner?",
+        "answer": "Efter att du har förfina din låt, använd spara och dela-funktionen för att visa dina skapelser för andra."
+      },
+      {
+        "question": "Finns det några handledningar tillgängliga?",
+        "answer": "Ja, spelet inkluderar handledningar och tips för att hjälpa dig komma igång med experimenteringen."
+      },
+      {
+        "question": "Kan jag samarbeta med andra spelare?",
+        "answer": "Även om det främst är en ensamupplevelse, kan du dela ditt arbete och samarbeta genom feedback."
+      },
+      {
+        "question": "Är Sprunki OWAKCX gratis att spela?",
+        "answer": "Ja, modet är gratis, även om vissa ytterligare funktioner kan ha kostnader kopplade."
+      },
+      {
+        "question": "Vilka system stödjer Sprunki OWAKCX?",
+        "answer": "Modet är tillgängligt för de flesta stora operativsystem, inklusive Windows och MacOS."
+      }
+    ]
+  }
+}

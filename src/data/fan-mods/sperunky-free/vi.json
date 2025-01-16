@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Khám Phá Độ Sâu Của Cuộc Phiêu Lưu",
+    "description": "Hãy khám phá thế giới của Sperunky Free, một trò chơi phiêu lưu đầy hấp dẫn thử thách kỹ năng khám phá và sinh tồn của bạn. Khám phá những tính năng độc đáo, hướng dẫn gameplay và đọc đánh giá của người chơi.",
+    "keywords": "Sperunky Free, trò chơi phiêu lưu, khám phá, sinh tồn, đánh giá trò chơi"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Bắt đầu hành trình huyền thoại với Sperunky Free, nơi bạn sẽ điều hướng qua những hang động hiểm trở, vượt qua chướng ngại vật và khám phá kho báu ẩn giấu!"
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng Của Sperunky Free",
+    "features": [
+      "Hệ thống hang động rộng lớn để khám phá",
+      "Gameplay năng động với các cấp độ ngẫu nhiên",
+      "Nhiều bẫy và kẻ thù đa dạng",
+      "Chế độ nhiều người chơi cho trải nghiệm hợp tác",
+      "Đồ họa phong phú và hiệu ứng âm thanh sống động"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sperunky Free",
+    "instructions": [
+      "Sử dụng phím mũi tên để di chuyển nhân vật của bạn trong các hang động.",
+      "Nhấn phím cách để nhảy và tránh chướng ngại vật.",
+      "Thu thập kho báu để tăng điểm số của bạn.",
+      "Sử dụng công cụ như dây thừng và bom để điều hướng qua những khu vực khó khăn.",
+      "Hợp tác với bạn bè trong chế độ nhiều người chơi để giải quyết những thử thách phức tạp."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Hình Ảnh Trò Chơi Sperunky Free"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi Về Sperunky Free",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên Của Bạn",
+    "reviewLabel": "Đánh Giá Của Bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Sperunky Free mang đến trải nghiệm đầy hồi hộp với mỗi cấp độ tạo ra những bất ngờ mới.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Đồ họa rất đẹp và làm tăng sự thú vị cho gameplay.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Tôi thích chơi với bạn bè trong chế độ nhiều người chơi, thật là một cách tuyệt vời để cùng nhau chiến lược.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Khó khăn nhưng xứng đáng, Sperunky Free khiến bạn luôn muốn quay lại.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "Sự đa dạng của các bẫy khiến tôi luôn phải cảnh giác, không bao giờ nhàm chán!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Cân bằng tuyệt vời giữa phiêu lưu và chiến lược, rất đáng khuyên cho những ai yêu thích cả hai thể loại.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Một trong những trò chơi thú vị nhất mà tôi đã chơi trong năm nay!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Là trò chơi không thể bỏ qua cho bất kỳ ai yêu thích các trò chơi phiêu lưu và khám phá.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp: Sperunky Free",
+    "questions": [
+      {
+        "question": "Sperunky Free có sẵn trên những nền tảng nào?",
+        "answer": "Sperunky Free có sẵn trên PC, Mac, và nhiều máy chơi game khác."
+      },
+      {
+        "question": "Tôi có thể chơi Sperunky Free với bạn bè không?",
+        "answer": "Có, Sperunky Free có chế độ nhiều người chơi cho trải nghiệm hợp tác với bạn bè."
+      },
+      {
+        "question": "Có nhiều cấp độ khó trong trò chơi không?",
+        "answer": "Có, bạn có thể chọn từ nhiều cấp độ khó khác nhau để phù hợp với kỹ năng của mình."
+      },
+      {
+        "question": "Tôi có cần kết nối Internet để chơi không?",
+        "answer": "Cần có kết nối Internet cho chế độ nhiều người chơi, nhưng không cần cho chế độ đơn."
+      },
+      {
+        "question": "Có cách nào để lưu tiến trình của tôi không?",
+        "answer": "Có, Sperunky Free cho phép bạn lưu tiến trình và tiếp tục sau đó."
+      },
+      {
+        "question": "Có vi phạm vi mô trong trò chơi không?",
+        "answer": "Không, Sperunky Free không bao gồm bất kỳ vi phạm vi mô nào."
+      }
+    ]
+  }
+}

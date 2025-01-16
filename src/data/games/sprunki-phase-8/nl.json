@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Fase 8: Een Rhythmisch Avontuur in Gaming",
+    "description": "Duik in Sprunki Fase 8, een boeiende mix van platformen en muziekcreatie geïnspireerd door Incredibox. Ontdek unieke personages, levendige graphics en uitdagende niveaus.",
+    "keywords": "Sprunki Fase 8, Incredibox, platformspel, muziekspel, personages aanpassen, rhythm game"
+  },
+  "hero": {
+    "h1": "Sprunki Fase 8",
+    "p": "Ontketen je creativiteit en muzikale talenten in Sprunki Fase 8, waar elk niveau je ritme- en platformvaardigheden op de proef stelt."
+  },
+  "gameFeatures": {
+    "title": "Spel Kenmerken",
+    "features": [
+      "Muzikale integratie met elementen van Incredibox",
+      "Uitgebreide opties voor het aanpassen van personages",
+      "Levige graphics en meeslepende animaties",
+      "Diverse niveau-ontwerpen met strategische uitdagingen",
+      "Verzamelobjecten en power-ups om de gameplay te verbeteren"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Gameplay Instructies",
+    "instructions": [
+      "Navigeer door niveaus door obstakels te vermijden en muziek te creëren.",
+      "Gebruik eenvoudige bedieningselementen voor beweging en springen om de omgeving te verkennen.",
+      "Schakel tussen personages om hun unieke vaardigheden te benutten.",
+      "Activeer muzikale segmenten die synchroon lopen met de ritmes van het spel.",
+      "Balans tussen het navigeren door uitdagingen en het creëren van muziek voor succes."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spel Screenshots"
+  },
+  "playerReviews": {
+    "title": "Speler Beoordelingen",
+    "submitReviewLabel": "Dien je Beoordeling in",
+    "nameLabel": "Je Naam",
+    "reviewLabel": "Je Beoordeling",
+    "submitButtonLabel": "Indienen",
+    "reviews": [
+      {
+        "content": "De muzikale integratie is simpelweg geweldig! Spelen terwijl ik deuntjes creëer is zo'n unieke ervaring.",
+        "author": "Alex M."
+      },
+      {
+        "content": "Personage-aanpassing voegt een persoonlijk tintje toe aan het spel, waardoor elke playthrough uniek is.",
+        "author": "Jamie T."
+      },
+      {
+        "content": "De levendige graphics zijn adembenemend en maken het spel zo leuk om te spelen.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Ik hou ervan nieuwe routes en geheimen in elk niveau te ontdekken. Er is altijd iets nieuws!",
+        "author": "Sam K."
+      },
+      {
+        "content": "De op ritme gebaseerde gameplay is een frisse kijk op platformspellen, en het is briljant uitgevoerd.",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Fase 8 is een absolute vreugde voor muziekliefhebbers en gamers!",
+        "author": "Jordan L."
+      },
+      {
+        "content": "Elk niveau is een uitdaging, maar de muziek houdt me gemotiveerd!",
+        "author": "Taylor R."
+      },
+      {
+        "content": "Het combineren van muziek met gaming was een geniale zet, en het spel voert het perfect uit.",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "questions": [
+      {
+        "question": "Wat is het doel van Sprunki Fase 8?",
+        "answer": "Het primaire doel is om door verschillende niveaus te navigeren, obstakels en vijanden te vermijden terwijl je muziek creëert."
+      },
+      {
+        "question": "Hoe bestuur ik de personages?",
+        "answer": "Gebruik eenvoudige bedieningselementen voor beweging en springen, en schakel strategisch tussen personages om hun unieke vaardigheden te benutten."
+      },
+      {
+        "question": "Kan ik mijn personage aanpassen?",
+        "answer": "Ja, spelers kunnen kiezen uit een verscheidenheid aan personages met verschillende visuele stijlen en geluiden voor een gepersonaliseerde ervaring."
+      },
+      {
+        "question": "Wat maakt de gameplay uniek?",
+        "answer": "De integratie van muziekcreatie met platformelementen biedt een unieke en meeslepende speelervaring."
+      },
+      {
+        "question": "Zijn er meerdere routes door de niveaus?",
+        "answer": "Ja, Sprunki Fase 8 moedigt her speelbaarheid aan met meerdere routes en geheime gebieden om te ontdekken."
+      },
+      {
+        "question": "Heeft het spel verzamelobjecten en power-ups?",
+        "answer": "Spelers kunnen items verzamelen die nieuwe vaardigheden ontgrendelen en hun muzikale creaties verbeteren terwijl ze vorderen."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Aanbevolen Spellen",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Fase 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Fase 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

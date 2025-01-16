@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Diktaattorimoodi - Ainutlaatuinen Musiikkivoitto",
+    "description": "Tutustu Sprunki Diktaattorimoodiin, jossa musiikki kohtaa autoritaariset esteettiset piirteet. Opi sen ominaisuuksista, peliohjeista ja lue pelaajien arvosteluja.",
+    "keywords": "Sprunki Diktaattori, Sprunki Diktaattorimoodi, musiikkivoitto, autoritaariset teemat, pelimekaniikka"
+  },
+  "hero": {
+    "h1": "Sprunki Diktaattorimoodi",
+    "p": "Astu maailmaan, jossa musiikki ja autoritaarinen estetiikka törmäävät. Luo vangitsevia sävellyksiä tiukasti hallitussa ympäristössä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Diktaattorimoodin Ominaisuudet",
+    "features": [
+      "Autoritaariset Esteettiset Piirteet: Neutraalit sävyt ja vallan symbolit määrittelevät tunnelman.",
+      "Jäykät Äänimaastot: Rakenteelliset, toistavat rytmit jäljittelevät hallinnon määräyksiä.",
+      "Intensiivinen Tunnelma: Luo sävellyksiä, jotka vangitsevat elämän tiukan kontrollin alla.",
+      "Kerrostettu Kompleksisuus: Säädä äänenvoimakkuuksia paljastaaksesi syvempiä kerroksia jäykän rakenteen sisällä.",
+      "Ajatuksia Herättävä Narratiivi: Kokea karu äänimatka, joka on ainutlaatuinen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Diktaattorimoodia",
+    "instructions": [
+      "Valitse Hahmot: Valitse hahmoja, jotka symboloivat valtaa tai hiljaista vastarintaa.",
+      "Vedä ja Pudota: Järjestä rytmit heijastamaan komentoja ja vaimeaa energiaa.",
+      "Kokeile ja Säädä: Löydä piilotettu monimutkaisuus rakenteellisten silmukoiden joukosta.",
+      "Tallenna ja Jaa: Luo ja jaa kappaleita, jotka viestivät kontrollista ja jännityksestä.",
+      "Ilmaise Luovuutesi: Huolimatta rajoituksista, tutki sävellyksen syvyyksiä."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Diktaattorimoodin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvosteluja Sprunki Diktaattorimoodista",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki Diktaattorimoodi tarjoaa raikasta käänteitä musiikin tekemisessä. Se on hieman haastavaa mutta erittäin palkitsevaa!",
+        "author": "Alex P."
+      },
+      {
+        "content": "Ainutlaatuinen ja koukuttava kokemus. Autoritaarinen teema tuo peliin odottamatonta syvyyttä.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Tunnelma on intensiivinen ja täynnä jännitystä. Rakastan, miten peli työntää luovuutta rajoja.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Ajatuksia herättävä moduuli. Se saa sinut ajattelemaan musiikkia täysin uudella tavalla.",
+        "author": "Casey M."
+      },
+      {
+        "content": "Nautin kerrostetun kompleksisuuden tutkimisesta jäykässä kehyksessä. Se on erilainen kuin muut modit.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Äänimaastot ovat hypnotisoivia. Ehdottomasti suositeltava niille, jotka etsivät ainutlaatuista haastetta.",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Mielenkiintoinen tulkinta tutusta Sprunki-tyylistä. Rajoitukset itse asiassa lisäävät luovuutta.",
+        "author": "Riley F."
+      },
+      {
+        "content": "Syvä sukellus autoritaariseen maailmaan. Täydellinen musiikin ja strategian ystäville.",
+        "author": "Peyton R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Diktaattorimoodin KYSYMYKSET JA VASTAUKSET",
+    "questions": [
+      {
+        "question": "Mikä on Sprunki Diktaattorimoodi?",
+        "answer": "Sprunki Diktaattorimoodi on musiikkitekemishaaste, joka sijoittuu autoritaaristen teemojen ympäristöön."
+      },
+      {
+        "question": "Kuinka pääsen alkuun?",
+        "answer": "Valitse teeman mukaisia hahmoja, järjestä rytmejä ja kokeile äänimaastoja."
+      },
+      {
+        "question": "Voinko jakaa sävellykseni?",
+        "answer": "Kyllä, voit tallentaa ja jakaa kappaleesi ystävien tai yhteisön kanssa."
+      },
+      {
+        "question": "Onko luovuus rajoitettua tässä modissa?",
+        "answer": "Vaikka tunnelma on rajoitettu, luovuudelle ja ilmaisulle on silti tilaa."
+      },
+      {
+        "question": "Mikä tekee tästä modulista erilaisen kuin muut?",
+        "answer": "Sen autoritaarinen teema ja rakenteelliset äänimaastot tarjoavat ainutlaatuisen ja haastavan musiikin tekemiskokemuksen."
+      },
+      {
+        "question": "Tarvitsenko aiempaa kokemusta musiikin tekemisestä?",
+        "answer": "Aikaisempaa kokemusta ei tarvita. Peli on suunniteltu olevan saavutettavissa kaikille pelaajille."
+      }
+    ]
+  }
+}

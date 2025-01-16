@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - Un Desafiante Mod de Incredibox",
+    "description": "Explora Sprunki x Sprunked, un mod creado por fanáticos para Incredibox que combina Sprunked y Sprunki, ofreciendo nuevos personajes, mayor dificultad y una banda sonora original.",
+    "keywords": "Sprunki x Sprunked, mod de Incredibox, Sprunked, Sprunki, juego de ritmo, nuevos personajes, banda sonora original"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "Sumérgete en la experiencia rítmica única de Sprunki x Sprunked, un mod de Incredibox hecho por fans que combina elementos de Sprunked y Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Características Clave de Sprunki x Sprunked",
+    "features": [
+      "Variedad de nuevos personajes con estilos y habilidades musicales distintas",
+      "Mayor dificultad para dominar patrones rítmicos complejos",
+      "Una atmósfera de juego más oscura e intensa con un enfoque de horror",
+      "Banda sonora original que mezcla elementos de Sprunked y Sprunki",
+      "Todos los personajes, incluidos los adicionales de ambos mods",
+      "Elementos de crossover atractivos que mejoran la experiencia de juego"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki x Sprunked",
+    "instructions": [
+      "Elige tus personajes sabiamente para crear secuencias musicales únicas.",
+      "Domina el timing para lograr puntajes más altos en niveles desafiantes.",
+      "Explora todos los estilos de personajes y sus habilidades musicales para expandir tu creatividad.",
+      "Interactúa con los intensos y oscuros temas mientras mantienes la precisión rítmica.",
+      "Disfruta de la banda sonora original mientras navegas por escenarios llenos de suspenso."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Opiniones de los Jugadores",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "El mod es increíblemente desafiante, y la atmósfera oscura me mantiene al borde.",
+        "author": "Alex K."
+      },
+      {
+        "content": "Me encantan los elementos de crossover; ¡se siente como un juego completamente nuevo!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "La banda sonora original es fantástica y se combina bien con la jugabilidad.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Es un poco difícil al principio, pero una vez que le agarras el ritmo, es realmente gratificante.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Los nuevos personajes añaden mucha profundidad; cada uno tiene su propia vibra única.",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Los elementos de horror son un giro genial en el género de los juegos de ritmo.",
+        "author": "Robin J."
+      },
+      {
+        "content": "Se siente como una actualización genuina de los mods originales, ¡muy adictivo!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Un poco lleno de errores a veces, pero en general es un mod fantástico con gran potencial.",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Qué es Sprunki x Sprunked?",
+        "answer": "Sprunki x Sprunked es un mod creado por fans para el juego Incredibox, que combina elementos de los mods Sprunked y Sprunki."
+      },
+      {
+        "question": "¿Puedo jugar Sprunki x Sprunked sin haber jugado los mods originales?",
+        "answer": "Sí, aunque tener experiencia con los mods originales puede mejorar tu comprensión, no es necesario para disfrutar de Sprunki x Sprunked."
+      },
+      {
+        "question": "¿Hay errores en el juego?",
+        "answer": "Algunos sprites pueden no estar terminados, pero se esperan actualizaciones para resolver estos problemas."
+      },
+      {
+        "question": "¿Qué tan difícil es Sprunki x Sprunked?",
+        "answer": "El mod está diseñado para ser más desafiante, requiriendo que los jugadores dominen patrones rítmicos complejos."
+      },
+      {
+        "question": "¿Hay una banda sonora original en Sprunki x Sprunked?",
+        "answer": "Sí, el mod presenta una banda sonora original que mezcla de manera única elementos de ambos mods."
+      },
+      {
+        "question": "¿Dónde puedo descargar Sprunki x Sprunked?",
+        "answer": "El mod se puede descargar de comunidades y foros de modding de Incredibox."
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - Sakin Müzikal Keşif",
+    "description": "Sprunki Blue'u keşfedin, oyun deneyiminizi huzur verici mavi palet ve uyumlu ses manzaralarıyla dönüştüren etkileyici bir mod.",
+    "keywords": "Sprunki Blue, Sprunki Blue Mod, oyun mod, tek renkli estetik, huzur verici ses manzaraları, rahatlatıcı müzik oyunu"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "Sakin mavi tonlar ve uyumlu ses manzaralarıyla müzikal keşfinizi yeniden tanımlayan huzurlu bir oyun ortamına dalın."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Blue'un Temel Özellikleri",
+    "features": [
+      "Tek Renkli Estetik: Oyunun her unsurunu birleştiren huzur verici bir mavi palet deneyimi.",
+      "Huzur Verici Ses Manzaraları: Rahatlatıcı görsellerle tamamlanan çeşitli melodileri ve armonileri keşfedin.",
+      "Meditatif Atmosfer: Birden fazla rengin dikkat dağıtıcılığı olmaksızın müzik yaratımına odaklanın.",
+      "Özelleştirilebilir Karakterler: Her biri benzersiz efektlere sahip, huzur verici mavi tonlarda giyinmiş karakterleri seçin.",
+      "Yaratımlarınızı Paylaşın: Ruhsal bestelerinizi Sprunki topluluğuyla kaydedip paylaşın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Blue Nasıl Oynanır",
+    "instructions": [
+      "Karakterleri Seçin: Her biri benzersiz döngü ve efektler sunan favori karakterlerinizi seçin.",
+      "Sürükleyip Bırakın: Ekranda konumlandırarak taze ses katmanları oluşturun.",
+      "Deneyin ve Geliştirin: Seslerin ses seviyelerini ayarlayın ve karakterleri değiştirerek parçanızı mükemmelleştirin.",
+      "Kaydedin ve Paylaşın: Rahatlatıcı müzik yaratıcılığınızı diğer oyuncularla paylaşın.",
+      "Varyasyonları Keşfedin: Ses manzanızı ruh halinize uyacak şekilde sürekli geliştirin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Blue Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki Blue Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunki Blue, uzun bir günden sonra mükemmel bir huzurlu deneyim sunuyor.",
+        "author": "John Doe"
+      },
+      {
+        "content": "Tek renkli tasarım görsel olarak çekici ve etkileyici deneyimi artırıyor.",
+        "author": "Jane Smith"
+      },
+      {
+        "content": "Ses manzaralarını seviyorum. Aynı anda hem odaklanmama hem de rahatlamama yardımcı oluyor.",
+        "author": "Eric Wong"
+      },
+      {
+        "content": "Huzur verici görseller ve seslerin güzel bir birleşimi. Kesinlikle tavsiye ediyorum!",
+        "author": "Anna Lee"
+      },
+      {
+        "content": "Bu oyun modu, beni rahatlatıcı müziklerimin bestecisi yapıyor.",
+        "author": "Mark Johnson"
+      },
+      {
+        "content": "Sprunki Blue, Sprunki deneyimini huzurlu bir yolculuğa dönüştürüyor.",
+        "author": "Sophia Brown"
+      },
+      {
+        "content": "Mavi paletin sadeliği ve güzelliği eşsiz.",
+        "author": "Chris Evans"
+      },
+      {
+        "content": "Bir renk değişikliğinin oyunun tüm atmosferini nasıl artırabileceği harika.",
+        "author": "Laura Green"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Blue Hakkında Sık Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Blue nedir?",
+        "answer": "Sprunki Blue, birleştirilmiş mavi renk paleti ve huzur verici ses manzaralarıyla orijinal Sprunki oyununun bir modudur."
+      },
+      {
+        "question": "Sprunki Blue'da müziğimi nasıl kaydedebilirim?",
+        "answer": "Parçanızdan memnun kaldığınızda, oyunda müziğinizi kaydetme ve paylaşma seçeneği bulunur."
+      },
+      {
+        "question": "Sprunki Blue'yu birden fazla cihazda oynayabilir miyim?",
+        "answer": "Evet, Sprunki Blue, orijinal Sprunki oyununu destekleyen uyumlu cihazlarda mevcuttur."
+      },
+      {
+        "question": "Yaratımları paylaşmak için bir topluluk var mı?",
+        "answer": "Evet, oyuncular yaratımlarını Sprunki topluluğuyla paylaşabilir ve diğerlerinin müzik bestelerini keyifle dinleyebilir."
+      },
+      {
+        "question": "Oynamak için önceden müzik deneyimim olması gerekiyor mu?",
+        "answer": "Hayır, Sprunki Blue, her seviyeden oyuncunun müzik oluşturup keyfini çıkarabilmesi için tasarlanmıştır."
+      },
+      {
+        "question": "Sprunki Blue Modu ile ilgili herhangi bir maliyet var mı?",
+        "answer": "Sprunki Blue, mevcut Sprunki oyun sahipleri için ücretsiz bir güncelleme olarak mevcuttur."
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Önerilen Oyunlar",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Red",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Chill Harmonics",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Melodic Ocean",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

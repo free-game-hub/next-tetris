@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "Sprunted - 一个拥有新角色设计的创意MOD",
+    "description": "Sprunted是一个由粉丝制作的Sprunk MOD，引入了新的角色外观、服装、发型、配饰和表情。探索这个由社区支持的独特创意游戏体验！",
+    "keywords": "sprunted, sprunted mod, sprunk mod, 游戏mod, sprunted角色设计, sprunted游戏玩法"
+  },
+  "hero": {
+    "h1": "Sprunted - 充满创意的MOD",
+    "p": "Sprunted是一个由粉丝制作的Sprunk MOD，通过新元素和独特风格重新定义角色设计。加入冒险，探索这一社区驱动的创作，体验令人兴奋的功能和游戏玩法！"
+  },
+  "gameFeatures": {
+    "title": "Sprunted的特色",
+    "features": [
+      "全新的角色设计，包括服装、发型、配饰和表情",
+      "一个由粉丝创建的MOD，为原版游戏增加创意和创新",
+      "保留Sprunk核心玩法的同时引入新元素",
+      "广泛的角色自定义选项，适合每位玩家的风格",
+      "适合热爱创意和个性化游戏体验的玩家"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunted怎么玩",
+    "instructions": [
+      "下载并将Sprunted MOD安装到你的Sprunk游戏中。",
+      "选择新角色并自定义他们的外观和配饰。",
+      "使用新角色探索独特的关卡和挑战。",
+      "与朋友分享你的游戏体验，并加入社区讨论。",
+      "保持你的MOD更新，以享受最新的内容和改进。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunted游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Sprunted的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunted的角色设计很棒，为游戏带来了耳目一新的感觉！",
+        "author": "Alex"
+      },
+      {
+        "content": "作为一个粉丝制作的MOD，这款游戏真正体现了创作者的激情和创意。",
+        "author": "Jamie"
+      },
+      {
+        "content": "Sprunted带来了值得一试的新游戏玩法和角色设计！",
+        "author": "Taylor"
+      },
+      {
+        "content": "感谢创作者制作了如此出色的MOD！它非常有趣！",
+        "author": "Chris"
+      },
+      {
+        "content": "服装和表情设计得非常精美，使游戏更具乐趣！",
+        "author": "Jordan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "关于Sprunted的常见问题",
+    "questions": [
+      {
+        "question": "什么是Sprunted？",
+        "answer": "Sprunted是一个由粉丝制作的Sprunk MOD，介绍了新的角色外观，包括服装、发型、配饰和表情。"
+      },
+      {
+        "question": "我如何安装Sprunted？",
+        "answer": "你可以从其官方网站或相关平台下载Sprunted，并按照说明进行安装到你的Sprunk游戏中。"
+      },
+      {
+        "question": "Sprunted适合谁？",
+        "answer": "Sprunted非常适合喜欢个性化角色设计、创意游戏玩法和探索新内容的玩家。"
+      },
+      {
+        "question": "Sprunted是免费的吗？",
+        "answer": "是的，Sprunted是一个由粉丝制作的MOD，所有玩家都可以免费使用。"
+      },
+      {
+        "question": "Sprunted会定期更新吗？",
+        "answer": "是的，创作者会根据玩家反馈频繁更新Sprunted，以带来新内容和改进。"
+      },
+      {
+        "question": "我可以为Sprunted提供建议或反馈吗？",
+        "answer": "当然可以！你可以在Sprunted的社区平台上分享你的建议，以帮助改进游戏。"
+      }
+    ]
+  }
+}

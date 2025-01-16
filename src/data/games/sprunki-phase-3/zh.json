@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Incredibox Sprunki 第三阶段 - 创造独特的音乐",
+    "description": "探索 Incredibox Sprunki 第三阶段，这是一款将创意与节奏结合的音乐制作游戏。融合声音，创建自己独特的曲目，伴随着五彩缤纷的动画。",
+    "keywords": "Incredibox, Sprunki 第三阶段, 音乐游戏, 音乐制作, 混合声音, 创意游戏, 动画角色, 音乐创作"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki 第三阶段",
+    "p": "深入 Incredibox Sprunki 第三阶段的多彩宇宙，释放你的音乐创意，通过混合各种声音、节拍和旋律来创造属于你的音乐作品。"
+  },
+  "gameFeatures": {
+    "title": "游戏特色",
+    "features": [
+      "直观的音乐创作，支持拖放操作。",
+      "独特的角色，各自代表不同的音乐元素。",
+      "和谐的声音层次，打造个性化的曲目。",
+      "通过色彩丰富的动画和效果提供视觉反馈。",
+      "录音和分享选项，让你展示自己的音乐作品。",
+      "无限的可重玩性，多种角色组合可供选择。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "游戏玩法说明",
+    "instructions": [
+      "选择你喜欢的动画角色，代表不同的声音元素。",
+      "将角色从侧边面板拖放到音轨上，开始创作音乐。",
+      "通过叠加不同的角色，尝试创造独特的旋律。",
+      "享受与音乐创作相呼应的视觉效果。",
+      "录制你的作品，并与朋友或 Incredibox 社区分享。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox Sprunki 第三阶段截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki 第三阶段是创意与乐趣的完美结合！",
+        "author": "Emily R."
+      },
+      {
+        "content": "动画和音乐元素让这款游戏令人上瘾，乐趣无穷。",
+        "author": "John D."
+      },
+      {
+        "content": "这是探索音乐创作的绝佳方式，即使没有经验也能轻松上手。",
+        "author": "Sarah L."
+      },
+      {
+        "content": "我喜欢每一个游戏环节都提供新鲜而独特的体验。",
+        "author": "Mike T."
+      },
+      {
+        "content": "无论是认真创作的音乐人还是休闲玩家，这款游戏都非常适合！",
+        "author": "Chris K."
+      },
+      {
+        "content": "Sprunki 第三阶段轻松捕捉到了创作音乐的乐趣。",
+        "author": "Anna G."
+      },
+      {
+        "content": "分享功能让我可以轻松向朋友展示我的作品。",
+        "author": "David P."
+      },
+      {
+        "content": "无限的可能性和组合！永远不会过时。",
+        "author": "Laura H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"常见问题",
+    "questions": [
+      {
+        "question":"什么是 Incredibox Sprunki 第三阶段？",
+        "answer":"Incredibox Sprunki 第三阶段是一款音乐创作游戏，玩家可以通过混合不同的声音和节拍，使用动画角色来创造独特的曲目。"
+      },
+      {
+        "question":"我该如何玩 Incredibox Sprunki 第三阶段？",
+        "answer":"选择代表各种音乐元素的动画角色，将其拖放到音轨上，进行混合创作你的音乐作品。"
+      },
+      {
+        "question":"我可以分享我的音乐创作吗？",
+        "answer":"可以，你可以录制并与朋友或 Incredibox 社区分享你的音乐。"
+      },
+      {
+        "question":"游戏的目标是什么？",
+        "answer":"目标是通过策略性地叠加角色及其声音，创造和谐的音乐。"
+      },
+      {
+        "question":"Incredibox Sprunki 第三阶段适合所有年龄段吗？",
+        "answer":"是的，这款游戏设计得让所有年龄段的玩家都能享受。"
+      },
+      {
+        "question":"我可以多次玩 Incredibox Sprunki 第三阶段吗？",
+        "answer":"当然可以！由于无限的组合方式，每次游戏体验都不同，充满可重玩性。"
+      }
+    ]
+  }
+}

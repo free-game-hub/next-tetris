@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Abgerny Goblos - Zanuż się w przygodzie z goblińską muzyką",
+    "description": "Doświadcz ekscytującej muzycznej podróży z Abgerny Goblos. Odkryj postacie związane z goblinami, pierwotne pejzaże dźwiękowe i rustykalne estetyki. Idealne dla miłośników muzyki i fantastyk.",
+    "keywords": "Abgerny Goblos, mod muzyczny, motyw goblinów, mod Sprunki, muzyczna przygoda, gra fantasy, kompozycja muzyczna"
+  },
+  "hero": {
+    "h1": "Abgerny Goblos",
+    "p": "Zanurz się w dziwacznym świecie Abgerny Goblos, łączącym unikalne estetyki inspirowane goblinami z kultowym frameworkiem muzycznym Sprunki. Twórz pierwotne kompozycje, które echem odbijają się w ukrytych wioskach goblinów."
+  },
+  "gameFeatures": {
+    "title": "Cechy Abgerny Goblos",
+    "features": [
+      "Postacie związane z goblinami z unikalnymi sylwetkami.",
+      "Pierwotne pejzaże dźwiękowe z podstawowymi i zabawnymi melodiami.",
+      "Rustykalna estetyka z łagodnymi paletami kolorów i subtelnymi animacjami.",
+      "Unikalne narzędzia do kompozycji muzycznej do tworzenia warstwowych utworów.",
+      "Zapisuj i dziel się swoimi kompozycjami z społecznością."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Abgerny Goblos",
+    "instructions": [
+      "Wybierz postacie: Wybierz spośród goblino-podobnych postaci z unikalnymi elementami dźwiękowymi.",
+      "Przeciągnij i upuść: Ułóż postacie, aby stworzyć melodie przypominające starożytne lasy.",
+      "Eksperymentuj i dostosuj: Przesuwaj, zmieniaj i dodawaj efekty, aby stworzyć hymn goblinów.",
+      "Zapisz: Zachowaj swoją kompozycję na przyszłość.",
+      "Podziel się: Zaprezentuj swoją muzykę przyjaciołom lub społeczności online."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z Abgerny Goblos"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Twoje imię",
+    "reviewLabel": "Twoja opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Abgerny Goblos otworzyło moją wyobraźnię na świat unikalnych dźwięków!",
+        "author": "Gracz123"
+      },
+      {
+        "content": "Motyw goblinów dodaje ziemistego uroku mojemu tworzeniu muzyki.",
+        "author": "MiłośnikMuzyki"
+      },
+      {
+        "content": "To pozycja obowiązkowa dla tych, którzy kochają dziwaczne mody muzyczne!",
+        "author": "FanFantastyki"
+      },
+      {
+        "content": "Postacie i dźwięki doskonale się łączą, tworząc czarującą muzykę.",
+        "author": "TwórcaDźwięku"
+      },
+      {
+        "content": "Cieszyłem się eksperymentowaniem z różnymi postaciami, aby stworzyć nowe melodie.",
+        "author": "KreatywnaDusza"
+      },
+      {
+        "content": "Fantastyczny sposób na odkrywanie muzycznej kreatywności poprzez zabawną tematykę.",
+        "author": "ArtystycznaDusza"
+      },
+      {
+        "content": "Uwielbiam rustykalne estetyki i zabawne pejzaże dźwiękowe!",
+        "author": "ArtystaWizualny"
+      },
+      {
+        "content": "Zdecydowanie polecam dla każdego, kto interesuje się kompozycją muzyczną!",
+        "author": "MyśliwyHarmonii"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Co to jest Abgerny Goblos?",
+        "answer": "Abgerny Goblos to mod muzyczny łączący estetykę goblinów z frameworkiem tworzenia muzyki Sprunki."
+      },
+      {
+        "question": "Jak zacząć tworzyć muzykę?",
+        "answer": "Wybierz swoje postacie i zacznij je układać, aby stworzyć tematyczne melodie."
+      },
+      {
+        "question": "Czy mogę zapisać swoje kompozycje?",
+        "answer": "Tak, gdy jesteś zadowolony z tworzenia, możesz zapisać swoją pracę na przyszłość."
+      },
+      {
+        "question": "Czy są funkcje społecznościowe?",
+        "answer": "Tak, możesz dzielić się swoimi kompozycjami z przyjaciółmi i społecznościami online."
+      },
+      {
+        "question": "Czy jest wymagana określona wiek?",
+        "answer": "Abgerny Goblos jest odpowiedni dla wszystkich w wieku, którzy pasjonują się muzyką i kreatywnością."
+      },
+      {
+        "question": "Czy mogę dostosować elementy dźwiękowe?",
+        "answer": "Tak, możesz eksperymentować z głośnością i efektami, aby dostosować swoją muzykę."
+      }
+    ]
+  },
+  "recommendedGames": {
+    "title": "Zalecane Gry",
+    "games": [
+      {
+        "image": "image_url_1",
+        "title": "Mod Sprunki Classic",
+        "link": "#"
+      }, 
+      {
+        "image": "image_url_2",
+        "title": "Twórca Pejzaży Dźwiękowych Fantastyki",
+        "link": "#"
+      },
+      {
+        "image": "image_url_3",
+        "title": "Harmonia Leśna",
+        "link": "#"
+      }
+    ]
+  }
+}

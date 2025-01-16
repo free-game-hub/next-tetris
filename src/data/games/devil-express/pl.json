@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Devil Express - Narracyjna Gra Przygoda",
+    "description": "Zwiedzaj przeklęty blok mieszkalny w Devil Express, 2D grze przygodowej pełnej potworów, magii i tajemnic. Odkrywaj sekrety i nawiązuj przyjaźnie po drodze.",
+    "keywords": "Devil Express, gra przygodowa, gra 2D, gra narracyjna, gra tajemnicza, Devil Express pobierz"
+  },
+  "hero": {
+    "h1": "Devil Express",
+    "p": "Wejdź do surrealistycznego świata potworów i magii w Devil Express, narracyjnej grze przygodowej 2D. Odkryj sekrety tajemniczego bloku mieszkalnego, który łamie zasady rzeczywistości."
+  },
+  "gameFeatures": {
+    "title": "Kluczowe funkcje Devil Express",
+    "features": [
+      "W pełni przetłumaczone na hiszpański",
+      "Godzina szybkiej akcji dostawczej",
+      "Spotkaj ponad 16 unikalnych bohaterów potworów",
+      "Motywy straty, pracy i odkrywania siebie",
+      "Możliwość gry jako plik do pobrania lub w przeglądarce"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Devil Express",
+    "instructions": [
+      "Poruszaj się za pomocą klawiszy W / A lub strzałek w lewo / w prawo",
+      "Interakcja za pomocą spacji lub klawisza strzałki w górę",
+      "Dostęp do ekwipunku za pomocą klawisza Tab lub \"i\"",
+      "Eksploruj różne piętra i odkrywaj tajemnice",
+      "Nawiązuj interakcje z postaciami, aby rozwiązywać zagadki"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z gry"
+  },
+  "playerReviews": {
+    "title": "Opinie graczy",
+    "submitReviewLabel": "Wyślij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "To teraz moja ulubiona gra!",
+        "author": "Sovech"
+      },
+      {
+        "content": "To taka zabawna i lekka gra; momenty z postaciami są urocze!",
+        "author": "Subpar_Carrion.92"
+      },
+      {
+        "content": "Uwielbiałem tę grę! Była urocza!",
+        "author": "Starswapsans19@gmail.com"
+      },
+      {
+        "content": "Kocham tę grę, proszę zróbcie sequel!",
+        "author": "Exabyte"
+      },
+      {
+        "content": "Spokojna gra z niesamowitą atmosferą i piękną historią.",
+        "author": "Donaldsfries"
+      },
+      {
+        "content": "Historia, dźwięk, sztuka - wszystko jest fantastyczne. Ekstremalnie niedoceniane.",
+        "author": "Mrspudcake"
+      },
+      {
+        "content": "Muzyka jest eterycznie piękna, a postacie są świetnie napisane.",
+        "author": "Ani-the-GREAT"
+      },
+      {
+        "content": "Taka prosta i zabawna gra! Uwielbiam to!",
+        "author": "Snakeglitter"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej zadawane pytania",
+    "questions": [
+      {
+        "question":"Na jakich platformach dostępny jest Devil Express?",
+        "answer":"Devil Express jest dostępny na platformach HTML5 i Windows."
+      },
+      {
+        "question":"Czy Devil Express jest przetłumaczone na inne języki?",
+        "answer":"Tak, gra posiada pełne tłumaczenie na hiszpański dostępne do pobrania."
+      },
+      {
+        "question":"Jaki jest średni czas rozgrywki w Devil Express?",
+        "answer":"Średnia sesja trwa około godziny."
+      },
+      {
+        "question":"Jakie wejścia są obsługiwane?",
+        "answer":"Gra obsługuje wejścia z klawiatury."
+      },
+      {
+        "question":"Czy mogę zagrać w Devil Express w mojej przeglądarce?",
+        "answer":"Tak, możesz grać jako plik do pobrania lub bezpośrednio w przeglądarce."
+      },
+      {
+        "question":"Kto stworzył grafikę i muzykę do gry?",
+        "answer":"Grafikę wykonał Shuteye, a muzykę stworzył 7wave."
+      }
+    ]
+  }
+}

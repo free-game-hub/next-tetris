@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 11 - Crie Música com Batidas e Sons Inovadores",
+    "description": "Explore Sprunki Phase 11, um jogo musical inspirado no Incredibox. Misture loops vocais, arranje sons e inove suas criações musicais.",
+    "keywords": "Sprunki Phase 11, jogo musical, beatboxing, criação de sons, loops vocais, design de jogo"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 11",
+    "p": "Mergulhe no mundo rico em sons de Sprunki Phase 11, onde a criatividade encontra a inovação musical."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo",
+    "features": [
+      "Camadas de som inovadoras com loops vocais e instrumentais",
+      "Interface intuitiva de arrastar e soltar",
+      "Desafios que estimulam a criatividade",
+      "Melhorias no design visual",
+      "Mecânicas de jogo interativas e envolventes"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Phase 11",
+    "instructions": [
+      "Selecione Personagens: Escolha entre um conjunto único de personagens, cada um com sons distintos.",
+      "Arraste e Solte: Adicione camadas de personagens na interface do jogo para criar faixas.",
+      "Experimente: Brinque com a ordem e o tempo para criar sons inovadores.",
+      "Complete Desafios: Envolva-se com objetivos para mais diversão.",
+      "Aproveite a Música: Ouça e compartilhe suas composições únicas."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 11 é a melhor fase até agora! As combinações musicais são infinitas.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Eu adoro os novos visuais e personagens. Faz criar música tão divertido!",
+        "author": "Samantha R."
+      },
+      {
+        "content": "Os desafios na Fase 11 me mantêm engajado por horas.",
+        "author": "Jordan P."
+      },
+      {
+        "content": "Ótimo jogo para quem ama música e criatividade.",
+        "author": "Chris M."
+      },
+      {
+        "content": "O recurso de arrastar e soltar é super intuitivo. Não consigo parar de jogar!",
+        "author": "Jess F."
+      },
+      {
+        "content": "Cada atualização de Sprunki fica melhor. A Fase 11 é revolucionária!",
+        "author": "Pat L."
+      },
+      {
+        "content": "Um jogo imperdível para todos os fãs de Incredibox!",
+        "author": "Jamie W."
+      },
+      {
+        "content": "Sprunki Phase 11 transformou a composição musical em uma atividade divertida para todos.",
+        "author": "Taylor G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+      "question": "Em quais plataformas Sprunki Phase 11 está disponível?",
+      "answer": "Sprunki Phase 11 está disponível em várias plataformas, incluindo PC, iOS e Android."
+      },
+      {
+      "question": "Como posso compartilhar minha música criada em Sprunki Phase 11?",
+      "answer": "Uma vez que sua composição estiver completa, você pode compartilhar suas faixas diretamente das redes sociais no jogo."
+      },
+      {
+      "question": "Existem compras no jogo em Sprunki Phase 11?",
+      "answer": "Sim, Sprunki Phase 11 oferece compras in-game para sons e personagens adicionais."
+      },
+      {
+      "question": "Posso jogar Sprunki Phase 11 offline?",
+      "answer": "Sim, você pode aproveitar Sprunki Phase 11 no modo offline com recursos limitados."
+      },
+      {
+      "question": "Há um tutorial para me ajudar a aprender o jogo?",
+      "answer": "Sim, há um tutorial abrangente que guia novos jogadores pelos conceitos básicos da criação de sons."
+      },
+      {
+      "question": "Para qual faixa etária Sprunki Phase 11 é adequado?",
+      "answer": "Sprunki Phase 11 é adequado para jogadores a partir de 8 anos."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Macera Derinliklerini Keşfedin",
+    "description": "Sperunky Free dünyasına dalın, keşif ve hayatta kalma becerilerinizi zorlayan heyecan verici bir macera oyunu. Eşsiz özellikleri keşfedin, oyun talimatlarını okuyun ve oyuncu yorumlarına göz atın.",
+    "keywords": "Sperunky Free, macera oyunu, keşif, hayatta kalma, oyun yorumları"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Sperunky Free ile destansı bir yolculuğa çıkın, burada tehlikeli mağaralarda yol alacak, engelleri aşacak ve gizli hazineler keşfedeceksiniz!"
+  },
+  "gameFeatures": {
+    "title": "Sperunky Free Özellikleri",
+    "features": [
+      "Keşfedilecek geniş mağara sistemleri",
+      "Rastgele seviyelerle dinamik oyun",
+      "Çeşitli tuzaklar ve düşmanlar",
+      "Kooperatif oyun için çok oyunculu mod",
+      "Zengin grafikler ve etkileyici ses efektleri"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sperunky Free Nasıl Oynanır",
+    "instructions": [
+      "Karakterinizi mağaralarda hareket ettirmek için ok tuşlarını kullanın.",
+      "Engellerden kaçmak için boşluk tuşuna basın.",
+      "Puanınızı artırmak için hazineleri toplayın.",
+      "Zor alanlarda geçmek için ip ve bomba gibi araçları kullanın.",
+      "Çok oyunculu modda arkadaşlarınızla işbirliği yaparak karmaşık zorlukları çözün."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sperunky Free Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sperunky Free Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sperunky Free, her seviyede yeni sürprizler sunarak heyecan verici bir deneyim sunuyor.",
+        "author": "OyunTutkunu123"
+      },
+      {
+        "content": "Grafikler harika ve etkileyici oyun deneyimine büyük katkı sağlıyor.",
+        "author": "PikselleriKeşfeden"
+      },
+      {
+        "content": "Arkadaşlarımla çok oyunculu modda oynamayı seviyorum, birlikte strateji oluşturmak harika!",
+        "author": "TakımOyuncusu"
+      },
+      {
+        "content": "Zorlu ama ödüllendirici, Sperunky Free sizi geri getirecek.",
+        "author": "MaceraArayıcısı"
+      },
+      {
+        "content": "Tuzak çeşitliliği beni sürekli tetikte tutuyor, asla sıkıcı değil!",
+        "author": "TuzakUstası"
+      },
+      {
+        "content": "Macera ve strateji arasında harika bir denge, her iki türün de hayranları için kesinlikle tavsiye ediyorum.",
+        "author": "DengelemeSanatı"
+      },
+      {
+        "content": "Yıl boyunca oynadığım en heyecan verici oyunlardan biri!",
+        "author": "HeyecanTutkunu"
+      },
+      {
+        "content": "Macera ve keşif oyunlarını seven herkes için mutlaka oynanması gereken bir oyun.",
+        "author": "KalpteKeşifci"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular: Sperunky Free",
+    "questions": [
+      {
+        "question": "Sperunky Free hangi platformlarda mevcut?",
+        "answer": "Sperunky Free, PC, Mac ve çeşitli oyun konsollarında mevcut."
+      },
+      {
+        "question": "Sperunky Free'yi arkadaşlarımla oynayabilir miyim?",
+        "answer": "Evet, Sperunky Free, arkadaşlarınızla kooperatif oyun için çok oyunculu mod içeriyor."
+      },
+      {
+        "question": "Oyunda farklı zorluk seviyeleri var mı?",
+        "answer": "Evet, beceri seviyenize uygun birden fazla zorluk seviyesi seçebilirsiniz."
+      },
+      {
+        "question": "Oynamak için internet bağlantısı gerekli mi?",
+        "answer": "Çok oyunculu mod için internet bağlantısı gereklidir, ancak tek oyunculu oyun için gerekmez."
+      },
+      {
+        "question": "İlerlememi kaydetmenin bir yolu var mı?",
+        "answer": "Evet, Sperunky Free, ilerlemenizi kaydetmenize ve daha sonra devam etmenize olanak tanır."
+      },
+      {
+        "question": "Oyunda mikro ödemeler var mı?",
+        "answer": "Hayır, Sperunky Free herhangi bir mikro ödeme içermez."
+      }
+    ]
+  }
+}

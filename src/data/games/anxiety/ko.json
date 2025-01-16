@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "MENTAL HEALTH RESOURCES - 니키 케이스의 비주얼 노벨 게임",
+    "description": "정신 건강, 코미디, 및 내러티브에 초점을 맞춘 비주얼 노벨 게임 MENTAL HEALTH RESOURCES를 탐험하세요. 이 HTML5 게임을 즐기며 힘을 내세요. 평가 점수 4.9.",
+    "keywords": "MENTAL HEALTH RESOURCES, 비주얼 노벨, 니키 케이스, HTML5 게임, 코미디, 정신 건강, 내러티브"
+  },
+  "hero": {
+    "h1": "MENTAL HEALTH RESOURCES",
+    "p": "니키 케이스가 만든 고품질 비주얼 노벨 게임 MENTAL HEALTH RESOURCES와 함께 정신 건강 인식의 감동적인 여정에 나서세요."
+  },
+  "gameFeatures": {
+    "title": "MENTAL HEALTH RESOURCES의 주요 특징",
+    "features": [
+      "흥미로운 내러티브: 유머와 정신 건강 테마가 혼합된 이야기에 몰입하세요.",
+      "인터랙티브 게임플레이: 이야기와 결과에 영향을 주는 선택을 하세요.",
+      "공감되는 캐릭터: 실제 정신 건강 문제를 겪고 있는 캐릭터와 연결하세요.",
+      "매혹적인 비주얼: 내러티브를 강화하는 매력적인 예술 및 디자인을 경험하세요.",
+      "무료 및 오픈 소스: 다양한 플랫폼에서 자유롭게 게임에 접속하세요."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "MENTAL HEALTH RESOURCES 플레이 방법",
+    "instructions": [
+      "내러티브를 형성하는 선택을 선택하여 여정을 시작하세요.",
+      "마우스를 사용하여 캐릭터와 객체와 상호작용하세요.",
+      "정보에 기반한 결정을 내리기 위해 대화에 주의하세요.",
+      "당신의 선택에 따라 다른 이야기 경로를 탐험하세요.",
+      "게임을 다시 플레이하여 대체 엔딩과 내러티브를 발견하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "MENTAL HEALTH RESOURCES 게임 스크린샷"
+  },
+  "playerReviews": {
+    "title": "MENTAL HEALTH RESOURCES 플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "교육적이고 재미있는 감동적인 내러티브.",
+        "author": "알렉스 T."
+      },
+      {
+        "content": "아름다운 비주얼과 매력적인 이야기.",
+        "author": "조던 R."
+      },
+      {
+        "content": "정신 건강에 대한 인식을 높이는 중요한 게임.",
+        "author": "테일러 S."
+      },
+      {
+        "content": "캐릭터의 유머와 깊이를 좋아했습니다.",
+        "author": "모건 L."
+      },
+      {
+        "content": "정신적 웰빙에 대해 깊이 생각하게 만들었습니다.",
+        "author": "제이미 K."
+      },
+      {
+        "content": "의미 있는 선택이 있는 매력적인 게임플레이.",
+        "author": "리 P."
+      },
+      {
+        "content": "모두가 경험해야 할 정말 좋은 게임.",
+        "author": "케이시 W."
+      },
+      {
+        "content": "정말 잘 만들어지고 배려가 가득합니다.",
+        "author": "샘 B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "MENTAL HEALTH RESOURCES FAQ",
+    "questions": [
+      {
+        "question": "어떤 플랫폼에서 MENTAL HEALTH RESOURCES를 플레이할 수 있습니까?",
+        "answer": "게임은 HTML5 지원 플랫폼에서 이용 가능합니다."
+      },
+      {
+        "question": "MENTAL HEALTH RESOURCES는 무료인가요?",
+        "answer": "네, 게임은 무료이며 오픈 소스입니다."
+      },
+      {
+        "question": "게임 제작자를 지원할 수 있나요?",
+        "answer": "네, 니키 케이스를 Patreon, PayPal 또는 Ko-Fi를 통해 지원할 수 있습니다."
+      },
+      {
+        "question": "이 게임은 모든 연령대에 적합한가요?",
+        "answer": "게임의 내용은 민감한 주제로 인해 성인 관객에게 적합합니다."
+      },
+      {
+        "question": "MENTAL HEALTH RESOURCES에 여러 엔딩이 있나요?",
+        "answer": "네, 당신의 선택은 이야기에 영향을 미치며 서로 다른 엔딩으로 이어질 수 있습니다."
+      },
+      {
+        "question": "정신 건강 자원을 더 어디서 찾을 수 있나요?",
+        "answer": "더 많은 정보는 https://ncase.me/mental-health/를 방문하세요."
+      }
+    ]
+  }
+}

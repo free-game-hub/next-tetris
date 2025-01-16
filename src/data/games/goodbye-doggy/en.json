@@ -1,0 +1,105 @@
+
+{
+  "metadata": {
+    "title": "Drift Through Memory: A Touching Adventure with Ghosts and Dogs",
+    "description": "Explore the heartwarming story of 'Drift Through Memory', a moving puzzle game featuring a ghost dog helping his family cope with grief. Discover the game's features, controls, and read player reviews.",
+    "keywords": "Drift Through Memory, ghost dog game, puzzle game, family pet game, game reviews, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Drift Through Memory",
+    "p": "Embark on a poignant journey with a ghostly companion as they explore their home, helping their family heal from loss. A beautiful puzzle game crafted with care by Picogram for Global Game Jam 2019."
+  },
+  "gameFeatures": {
+    "title": "Game Features",
+    "features": [
+      "Heartwarming narrative exploring themes of loss and healing.",
+      "Charming graphics and atmospheric music by Grahm Nesbitt.",
+      "Simple controls suitable for all ages.",
+      "Playable on HTML5 platforms, accessible on various devices.",
+      "Rated 4.8 out of 5 stars by over 3,850 players."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Gameplay Instructions",
+    "instructions": [
+      "Use the Arrow Keys on your keyboard to move the ghost dog.",
+      "Press 'Z' to interact with objects and progress through the story.",
+      "Explore each room to discover memories and assist the family in coping.",
+      "Pay attention to subtle hints in the environment for clues.",
+      "Enjoy the experience as an introspective journey, not just a game."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "Player Reviews",
+    "submitReviewLabel": "Submit Your Review",
+    "nameLabel": "Name",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Submit",
+    "reviews": [
+      {
+        "content": "SO CUTE :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Loved this! It was so cute and left me with a warm feeling.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "This was so sweet. This was very well-made for such a short game.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Not my first time playing this, I lost my dog recently. It warms my heart.",
+        "author": "This is dope"
+      },
+      {
+        "content": "Bravo, Happy, sad, and cute, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "The dog is so cute when carrying a piece of bread.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Literally adorable <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "I think listening to my Eminem playlist while playing might have ruined the mood but still one of the best games I've played in a while.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Frequently Asked Questions",
+    "questions": [
+      {
+        "question":"What platforms is 'Drift Through Memory' available on?",
+        "answer":"The game is available on HTML5 platforms, making it accessible on most devices with a modern web browser."
+      },
+      {
+        "question":"How do I interact with objects in the game?",
+        "answer":"Use the 'Z' key on your keyboard to interact with objects and progress through the story."
+      },
+      {
+        "question":"Who created the music for the game?",
+        "answer":"The atmospheric music in 'Drift Through Memory' was composed by Grahm Nesbitt."
+      },
+      {
+        "question":"Is the game suitable for all ages?",
+        "answer":"Yes, the game features simple controls and a heartwarming narrative suitable for players of all ages."
+      },
+      {
+        "question":"How long does it take to complete the game?",
+        "answer":"The game is relatively short, offering a compact yet emotional experience that can be completed in one sitting."
+      },
+      {
+        "question":"Can I play 'Drift Through Memory' on my mobile device?",
+        "answer":"If your mobile device supports HTML5 games through a web browser, you should be able to play the game."
+      }
+    ]
+  }
+}

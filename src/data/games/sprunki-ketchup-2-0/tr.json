@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - Korkunç Müzik Deneyiminizi Geliştirin",
+    "description": "Sprunki Ketchup 2.0'ın ürkütücü dünyasına dalın, müzik yapmanın korkutucu bir deneyime dönüştüğü yeri keşfedin. Oyun kuralları, özellikler ve oyuncu yorumlarını öğrenin.",
+    "keywords": "Sprunki Ketchup 2.0, korku müziği oyunu, ürkütücü ses manzaraları, oyun özellikleri, oyuncu yorumları"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "Müziğin korku ile buluştuğu heyecan verici bir oyun deneyiminde, Sprunki Ketchup 2.0’ın rahatsız edici diyarlarını keşfedin."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Ketchup 2.0'ın Temel Özellikleri",
+    "features": [
+      "Korkutucu karakter tasarımlarıyla yoğunlaştırılmış korku estetiği.",
+      "Daha karanlık ses manzaraları ve ürkütücü döngüler.",
+      "Deneysel müzik katmanları ile artırılmış gerilim.",
+      "Karmaşık karakterler ve rahatsız edici arka planlar.",
+      "Korku meraklılarıyla yaratıcılığınızı paylaşın."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Ketchup 2.0 Nasıl Oynanır",
+    "instructions": [
+      "Karakterleri Seçin: Korkutucu bir çekicilik yayan figürleri seçin.",
+      "Onları tuvalinize sürükleyip bırakın, ürkütücü kompozisyonlar yaratın.",
+      "Korkutucu mükemmellik için ses ve efektlerle denemeler yapın.",
+      "Katmanlarınızı inceleyin ve korku öğelerini keşfedin.",
+      "Korku müziği kompozisyonlarınızı kaydedin ve arkadaşlarınızla paylaşın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Ketchup 2.0 Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncular Sprunki Ketchup 2.0 Hakkında Ne Diyor",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Bu oyun müzikte korkuyu devrim niteliğinde değiştirdi—heyecan arayanlar için mutlaka oynanmalı.",
+        "author": "Alex"
+      },
+      {
+        "content": "Melodiler yaratırken bu kadar tedirgin hissetmemiştim, gerilim gerçek!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Müzik ve korkunun mükemmel birleşimi. Sprunki Ketchup 2.0 beni bağlıyor!",
+        "author": "Chris"
+      },
+      {
+        "content": "Ürkütücü ses manzaraları akıl almaz. Korkmaya hazır olun.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Cadılar Bayramı partileri için harika, sesi açın ve arkadaşlarınızı korkutun!",
+        "author": "Casey"
+      },
+      {
+        "content": "Korkutucu atmosferini ve sunduğu yaratıcılığı gerçekten seviyorum.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0 başka hiçbir şeye benzemeyen bir deneyim. Şiddetle tavsiye edilir.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Oyunun atmosferi yoğun bir şekilde ürkütücü ve korku hayranları için mükemmel.",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Ketchup 2.0 Hakkında Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Ketchup 2.0 Nedir?",
+        "answer": "Sprunki Ketchup 2.0, rahatsız edici ses manzaraları ve görseller sunan korku temalı bir müzik oyunudur."
+      },
+      {
+        "question": "Bu oyunda müzik nasıl yaratırım?",
+        "answer": "Ekranda ürkütücü karakter döngülerini seçip düzenleyerek kendi korkutucu parçaınızı oluşturun."
+      },
+      {
+        "question": "Müzik yaratımlarımı paylaşabilir miyim?",
+        "answer": "Evet, kompozisyonlarınızı diğer oyuncularla kaydedip paylaşabilirsiniz."
+      },
+      {
+        "question": "Sprunki Ketchup 2.0 çocuklar için uygun mu?",
+        "answer": "Korku unsurları nedeniyle olgun izleyiciler için önerilir."
+      },
+      {
+        "question": "Oyunda satın alımları var mı?",
+        "answer": "Sprunki Ketchup 2.0, iç oyun satın alımları yoluyla genişletilebilecek çeşitli özellikler sunar."
+      },
+      {
+        "question": "Hangi platformlar Sprunki Ketchup 2.0'ı destekliyor?",
+        "answer": "Oyun, PC ve konsollar dahil olmak üzere ana oyun platformlarında mevcuttur."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Tavsiye Edilen Oyunlar",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "Heyecan Verici Yankılar",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "Perili Harmoni",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "Gölge Senfonisi",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

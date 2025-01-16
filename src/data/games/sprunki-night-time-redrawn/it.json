@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time Redrawn - Creazione musicale al chiaro di luna",
+    "description": "Esplora il mondo sereno della mod Sprunki Night Time Redrawn. Immergiti nella creazione musicale tranquilla con un'estetica al chiaro di luna, paesaggi sonori rilassanti e un'atmosfera pacifica. Scopri le istruzioni di gioco, le funzionalità, le recensioni e le FAQ.",
+    "keywords": "Sprunki Night Time Redrawn, musica al chiaro di luna, gioco tranquillo, paesaggi sonori rilassanti, atmosfera serena"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time Redrawn",
+    "p": "Trasforma Sprunki in un ambiente tranquillo e stellato per creare musica contemplativa e malinconica."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche principali di Sprunki Night Time Redrawn",
+    "features": [
+      "Estetica al chiaro di luna: Personaggi con palette delicate per un'atmosfera serena al crepuscolo.",
+      "Paesaggi sonori rilassanti: Percussioni dolci e campanelli soft ispirano melodie oniriche.",
+      "Umorismo rilassato: Animazioni e audio creati per stimolare una creatività calma e paziente.",
+      "Animazioni tenui: Movimenti delicati che imitano la tranquillità delle notti illuminate dalla luna.",
+      "Interfaccia intuitiva: Meccaniche di trascinamento e rilascio facili per una creazione musicale fluida."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come giocare a Sprunki Night Time Redrawn",
+    "instructions": [
+      "Seleziona i personaggi: Scegli figure le cui melodie evocano il silenzio notturno.",
+      "Trascina e rilascia: Organizza gli elementi per costruire composizioni pacifiche.",
+      "Regola e affina: Rifinisci i volumi e aggiungi effetti sottili.",
+      "Sperimenta combinazioni: Prova elementi diversi per suoni unici.",
+      "Salva e condividi: Condividi le tue tracce serene con una comunità affiatata."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot di Sprunki Night Time Redrawn"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei giocatori per Sprunki Night Time Redrawn",
+    "submitReviewLabel": "Invia la tua recensione",
+    "nameLabel": "Il tuo nome",
+    "reviewLabel": "La tua recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "L'estetica al chiaro di luna di questa mod offre un'esperienza così rilassante. Consiglio vivamente per il gioco serale!",
+        "author": "Alice W."
+      },
+      {
+        "content": "La creazione musicale tranquilla è unica nel suo genere. Le vibrazioni sono perfette.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Amo come i suoni e i grafica si fondano. Perfetto per le sessioni di gioco notturne.",
+        "author": "Liam S."
+      },
+      {
+        "content": "Rilassante e creativo – una mod fantastica per chi ama musica e arte.",
+        "author": "Sophia T."
+      },
+      {
+        "content": "L'attenzione ai dettagli nei paesaggi sonori è incredibile. Riflette davvero la serenità notturna.",
+        "author": "Noah G."
+      },
+      {
+        "content": "Non ho mai giocato a un gioco che mi ha rallentato in modo così bello prima d'ora.",
+        "author": "Emma L."
+      },
+      {
+        "content": "Questa mod mi ha fatto apprezzare la musica in una nuova luce. Ottimamente realizzata!",
+        "author": "Oliver B."
+      },
+      {
+        "content": "Un perfetto rifugio dai soliti giochi frenetici. È rilassante e artisticamente soddisfacente.",
+        "author": "Ava M."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "questions": [
+      {
+        "question": "Cos'è Sprunki Night Time Redrawn?",
+        "answer": "È una mod che trasforma Sprunki in un ambiente tranquillo e al chiaro di luna per creare musica malinconica."
+      },
+      {
+        "question": "Come posso condividere le mie creazioni musicali?",
+        "answer": "Puoi salvare le tue tracce e condividerle con altri che amano la musica contemplativa."
+      },
+      {
+        "question": "Che tipo di suoni sono presenti?",
+        "answer": "Aspettati percussioni dolci, campanelli soft e melodie sussurrate perfette per una creatività rilassata."
+      },
+      {
+        "question": "È questo gioco adatto a tutte le età?",
+        "answer": "Sì, il gioco è progettato per essere adatto alle famiglie e accessibile a giocatori di tutte le età."
+      },
+      {
+        "question": "Posso giocare a questa mod su dispositivi mobili?",
+        "answer": "Controlla la compatibilità del gioco nell'app store o nel sito web del tuo dispositivo per ulteriori dettagli."
+      },
+      {
+        "question": "In cosa questa mod differisce da altre mod di Sprunki?",
+        "answer": "Questa mod si concentra su un ambiente sereno e stellato, trasformando l'esperienza abituale di Sprunki in una più calmante."
+      }
+    ]
+  }
+}

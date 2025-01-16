@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Double Taken - Den Ultimata Spelupplevelsen",
+    "description": "Upptäck Sprunki Retake: Double Taken – den senaste spel känslan med helt nya designer och spännande gameplay. Gå med i spelgemenskapen och upplev äventyret!",
+    "keywords": "Sprunki Retake, Double Taken, spel, videospel, nya spel, spelfunktioner, spelinstruktioner, spelarecensioner"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Double Taken",
+    "p": "Välkommen till Sprunki Retake: Double Taken – ett spännande äventyr där innovation möter nostalgi. Dyk ner i nya designer och spännande gameplay."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunki Retake: Double Taken",
+    "features": [
+      "Helt nya designer med visuellt imponerande grafik.",
+      "Fängslande berättelse som fångar essensen av old school gaming.",
+      "Smidiga spelmekaniker för en uppslukande upplevelse.",
+      "Flerspelarstöd för social spelglädje.",
+      "Regelbundna uppdateringar för att förbättra spelinnehållet och användarupplevelsen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man spelar Sprunki Retake: Double Taken",
+    "instructions": [
+      "Börja med att ladda ner Sprunki Retake: Double Taken från vår officiella webbplats.",
+      "Följ handledningen för att bli bekant med spelkontroller och mål.",
+      "Använd piltangenterna och mellanslagstangenten för navigation och handlingar.",
+      "Strategisera dina drag för att ta dig an komplexa utmaningar och bossar.",
+      "Samarbeta med andra spelare för att förbättra din spelupplevelse."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelskärmdumpar"
+  },
+  "playerReviews": {
+    "title": "Spelrecensioner av Sprunki Retake: Double Taken",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Ditt namn",
+    "reviewLabel": "Din recension",
+    "submitButtonLabel": "Skicka in",
+    "reviews": [
+      {
+        "content": "Spännande och djupt engagerande. Ett fantastiskt tillskott till min spelsamling!",
+        "author": "GamerJoe42"
+      },
+      {
+        "content": "Jag älskar de nya designerna. Det känns som att återvända till min barndom med extra roligt!",
+        "author": "RetroLover88"
+      },
+      {
+        "content": "Helt briljant! Flerspelarfunktionen håller mig kopplad till vänner.",
+        "author": "SocialGamer5"
+      },
+      {
+        "content": "Innovativt gameplay med en hint av nostalgi. Perfekt för alla typer av spelare.",
+        "author": "AdventureSeeker23"
+      },
+      {
+        "content": "En vacker blandning av det förflutna och nuvarande spelstilar. Tummen upp!",
+        "author": "ClassicCraze49"
+      },
+      {
+        "content": "Detta spel blir aldrig tråkigt med sina regelbundna uppdateringar!",
+        "author": "TechieGeek101"
+      },
+      {
+        "content": "Jag uppskattar den insats som lagts på grafiken. En visuell fest!",
+        "author": "ArtisticMind77"
+      },
+      {
+        "content": "En sömlös blandning av utmaning och nöje. Stark rekommendation!",
+        "author": "ChallengeAccepted17"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Vanliga frågor",
+    "questions": [
+      {
+        "question":"Vad är Sprunki Retake: Double Taken?",
+        "answer":"Sprunki Retake: Double Taken är den senaste versionen av det populära Sprunki Retake spelet, med nya designer och förbättrad spelupplevelse."
+      },
+      {
+        "question":"Hur kan jag ladda ner spelet?",
+        "answer":"Spelet kan laddas ner direkt från vår officiella webbplats eller genom auktoriserade appbutiker."
+      },
+      {
+        "question":"Finns det en flerspelarfunktion?",
+        "answer":"Ja, Sprunki Retake: Double Taken inkluderar en flerspelarfunktion för att förbättra anslutningen och de sociala aspekterna av spelande."
+      },
+      {
+        "question":"Kommer spelet att uppdateras regelbundet?",
+        "answer":"Vi uppdaterar spelet regelbundet för att introducera nya funktioner, fixa buggar och förbättra användarupplevelsen."
+      },
+      {
+        "question":"Vilka är systemkraven?",
+        "answer":"Spelet kräver minst 4GB RAM, ett modernt grafikkort och ett uppdaterat operativsystem för att säkerställa bästa prestanda."
+      },
+      {
+        "question":"Vem kan jag kontakta för support?",
+        "answer":"Du kan nå vårt supportteam via kontaktformuläret på vår webbplats för all hjälp."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Rekommenderade Spel",
+    "games": [
+      {
+        "img": "path/to/image1.jpg",
+        "title": "Äventyr Quest",
+        "link": "link_to_game1"
+      },
+      {
+        "img": "path/to/image2.jpg",
+        "title": "Mysterielösare",
+        "link": "link_to_game2"
+      },
+      {
+        "img": "path/to/image3.jpg",
+        "title": "Pusselmästare",
+        "link": "link_to_game3"
+      }
+    ]
+  }
+}

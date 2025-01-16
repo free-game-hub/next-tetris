@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Brud Virus Mod - 一個創新的音樂體驗",
+    "description": "探索獨特的Sprunki Retake Brud Virus Mod，具有以病毒為主題的角色和不穩定的聲音景觀，挑戰你的創造力。了解如何遊玩並揭開深入的遊戲指導。 ",
+    "keywords": "Sprunki Retake Brud Virus, 音樂模組, 病毒主題模組, Sprunki, 創意遊戲"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Brud Virus",
+    "p": "深入Sprunki Retake Brud Virus Mod的迷人世界，在這裡你的音樂創作技巧將面臨病毒引發的聲音異常挑戰。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Retake Brud Virus Mod 的特點",
+    "features": [
+      "病毒主題角色",
+      "不穩定的聲音景觀",
+      "創意試驗",
+      "保存和分享功能",
+      "視覺上引人注目的互動"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki Retake Brud Virus Mod",
+    "instructions": [
+      "從角色陣容中選擇你最喜愛的病毒主題角色。",
+      "將元素拖放到畫面上開始創作音樂。",
+      "透過調整音量和添加效果來優化你的曲目。",
+      "適應由聲音病毒影響的意外聲音變化。",
+      "保存你的獨特創作並與音樂社群分享。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Retake Brud Virus Mod 的截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Brud Virus Mod為遊戲增添了新鮮感，讓我的創造力達到新高峰！",
+        "author": "Ashley"
+      },
+      {
+        "content": "我喜歡聲音景觀的不可預測性，這個模組是音樂愛好者必試的。",
+        "author": "Liam"
+      },
+      {
+        "content": "Sprunki Retake Brud Virus提供了一個有趣的挑戰，視覺設計和音樂一樣吸引人。",
+        "author": "Sophia"
+      },
+      {
+        "content": "每次遊玩都是獨特的體驗，病毒主題巧妙融入遊戲中。",
+        "author": "Ethan"
+      },
+      {
+        "content": "一個出色的模組，擁有豐富的創意潛力！對於任何音樂愛好者來說，這是一場驚險的旅程。",
+        "author": "Mia"
+      },
+      {
+        "content": "在混亂與節奏之間的平衡讓這個模組變得迷人，強烈推薦！",
+        "author": "Oliver"
+      },
+      {
+        "content": "我喜歡將故障音轉化為節奏，這是一個有趣且讓人滿足的體驗。",
+        "author": "Amelia"
+      },
+      {
+        "content": "Brud Virus Mod將音樂創作變成了一個激動人心的謎題。太驚人了！",
+        "author": "Noah"
+      }
+    ]
+  },
+  "faq": {
+    "title":"常見問題解答",
+    "questions": [
+      {
+        "question":"Sprunki Retake Brud Virus Mod的主要目標是什麼？",
+        "answer":"主要目標是透過擁抱聲音景觀中的病毒引發的異常來創造獨特的曲目。"
+      },
+      {
+        "question":"我可以與他人分享我的作品嗎？",
+        "answer":"是的，你可以保存你的曲目並與他人分享，展示你的創意技能。"
+      },
+      {
+        "question":"對於新手玩家有教程嗎？",
+        "answer":"是的，遊戲包含教程以幫助新玩家了解基本機制和創新功能。"
+      },
+      {
+        "question":"這個模組適合所有年齡層的玩家嗎？",
+        "answer":"是的，Sprunki Retake Brud Virus Mod是為所有對音樂和創造力感興趣的玩家設計的。"
+      },
+      {
+        "question":"角色是否擁有獨特的能力？",
+        "answer":"是的，每個角色都有獨特的視覺和音頻特徵，受到病毒主題的影響，能在創作中發揮作用。"
+      },
+      {
+        "question":"我可以離線玩這個模組嗎？",
+        "answer":"是的，你可以離線享受Sprunki Retake Brud Virus Mod的所有功能。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推薦的模組",
+    "recommendations": [
+      {
+        "image": "link-to-image-1.jpg",
+        "title": "Sprunki Horror Mod",
+        "link": "https://example.com/sprunki-horror-mod"
+      },
+      {
+        "image": "link-to-image-2.jpg",
+        "title": "Sprunki Adventure Mod",
+        "link": "https://example.com/sprunki-adventure-mod"
+      }
+    ]
+  }
+}

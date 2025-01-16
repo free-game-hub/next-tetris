@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V3: 創造您自己的音樂",
+    "description": "探索 Incredibox V3，這是一款音樂遊戲，您可以在其中混合節奏並創建獨特的曲目。發掘新功能、原聲帶及充滿活力的視覺效果。",
+    "keywords": "Incredibox V3, 音樂遊戲, 創造節奏, 互動遊戲, 聲音混合"
+  },
+  "hero": {
+    "h1": "Incredibox V3",
+    "p": "釋放您的創造力，與 Incredibox V3 一同體驗這款互動音樂遊戲，使用各種聲音和角色創造您自己的節奏。"
+  },
+  "gameFeatures": {
+    "title": "Incredibox V3 的特色",
+    "features": [
+      "與動畫角色進行互動的音樂創作",
+      "拖放音效混合系統",
+      "亮麗吸引人的視覺效果",
+      "多樣聲音包括旋律、效果和人聲",
+      "錄製並分享您的音樂曲目"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩 Incredibox V3",
+    "instructions": [
+      "選擇不同的聲音、節拍和效果並分配給動畫角色。",
+      "將聲音圖標拖放至角色上，以實時創作音樂。",
+      "嘗試聲音組合以製作獨特的曲目。",
+      "使用您的滑鼠或鍵盤與遊戲互動。",
+      "錄製並分享您的音樂，或參加社區比賽。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V3 螢幕截圖"
+  },
+  "playerReviews": {
+    "title": "Incredibox V3 玩家評價",
+    "submitReviewLabel": "提交您的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Incredibox V3 非常有趣，是創造力和娛樂的完美結合。",
+        "author": "Alex J."
+      },
+      {
+        "content": "新的原聲帶和視覺效果讓我一次又一次回來！",
+        "author": "Sophia L."
+      },
+      {
+        "content": "這是一款簡單但引人入勝的遊戲，讓我能夠探索我的音樂創意。",
+        "author": "David R."
+      },
+      {
+        "content": "我喜歡 Incredibox V3 中的鮮豔色彩和朗朗上口的節奏！",
+        "author": "Ella M."
+      },
+      {
+        "content": "適合所有年齡，容易上手而且極具上癮性。",
+        "author": "Liam T."
+      },
+      {
+        "content": "拖放功能非常直觀，讓音樂創作變得超有趣。",
+        "author": "Olivia K."
+      },
+      {
+        "content": "非常適合喜歡不同聲音實驗的音樂愛好者。",
+        "author": "Mason B."
+      },
+      {
+        "content": "Incredibox V3 提供了視覺和音效的驚人融合。強烈推薦！",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "關於 Incredibox V3 的常見問題",
+    "questions": [
+      {
+        "question": "什麼是 Incredibox V3？",
+        "answer": "Incredibox V3 是一款音樂創作遊戲，您可以混合不同的聲音來使用動畫角色創建自己的音樂曲目。"
+      },
+      {
+        "question": "我如何玩 Incredibox V3？",
+        "answer": "使用滑鼠或鍵盤拖放聲音圖標到動畫角色上，即可實時創作音樂。"
+      },
+      {
+        "question": "我可以錄製並分享我的音樂嗎？",
+        "answer": "是的，您可以錄製您的音樂曲目並分享它們，或者參加遊戲社區內的比賽。"
+      },
+      {
+        "question": "Incredibox V3 有哪些可用的平台？",
+        "answer": "Incredibox V3 可在線上和各種應用平台上遊玩。"
+      },
+      {
+        "question": "有不同的聲音類別可供選擇嗎？",
+        "answer": "是的，有幾個聲音類別，包括旋律、效果、打擊樂和人聲。"
+      },
+      {
+        "question": "Incredibox V3 適合所有年齡嗎？",
+        "answer": "是的，Incredibox V3 是為所有年齡的玩家設計，提供有趣且引人入勝的體驗。"
+      }
+    ]
+  }
+}

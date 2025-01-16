@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Honey Dress Up: Loputtoman Söpö Pukeutumispele",
+    "description": "Löydä hauskuus ja luovuus 'Honey Dress Up' -pelissä, viehättävässä pukeutumispelissä, joka esittelee suloisen pojan! Pelaa suoraan tietokoneeltasi parhaan kokemuksen saamiseksi.",
+    "keywords": "Honey Dress Up, pukeutumisleikki, söpö peli, verkossa pukeutuminen, mobiilipukeutuminen, käsin piirretyt grafiikat"
+  },
+  "hero": {
+    "h1": "Honey Dress Up",
+    "p": "Ilmaise luovuuttasi ja tyyliäsi 'Honey Dress Up' -pelissä, loputtomassa pukeutumisleikissä, jossa söpöys kohtaa hauskuuden!"
+  },
+  "gameFeatures": {
+    "title": "Honey Dress Up -pelin ominaisuudet",
+    "features": [
+      "Ihana ja ainutlaatuinen femininen poihahmo",
+      "Viehättävät käsin piirrettyt grafiikat MC Paint -tyylillä",
+      "Laaja vaatekaappi, jossa on yli 100 tyylikästä vaatekappaletta",
+      "Sisältää monenlaisia uimapukuja monipuolista tyyliä varten",
+      "Säännölliset päivitykset varmistavat uusien sisältöjen ja parannusten saannin"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Honey Dress Upia",
+    "instructions": [
+      "Valitse suosikkivaatteesi laajasta vaatekaapista.",
+      "Vedä ja pudota vaatteet pukeaksesi söpön poihahmon.",
+      "Käytä hiirtä tarkkaan hallintaan PC:llä parhaan kokemuksen vuoksi.",
+      "Jaa ainutlaatuiset outfit-luomuksesi kommenttiosiossa.",
+      "Nauti käsin piirretystä, tekstittömästä käyttöliittymästä saumattoman pelin kokemuksen vuoksi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Niin hauskaa tehdä asuja! (anteeksi välilehdistäni, en voi rajata syystä)",
+        "author": "Nova (Hän/He)"
+      },
+      {
+        "content": "Todella söpö!",
+        "author": "HARUHI.JIROU"
+      },
+      {
+        "content": "Mahtava peli",
+        "author": "RenKun"
+      },
+      {
+        "content": "Hän on niin ihana",
+        "author": "T0XI :3"
+      },
+      {
+        "content": "Olihan se onnistunut B)",
+        "author": "barfbar"
+      },
+      {
+        "content": "Tämä peli on niin typerä, rakastan sitä!!! :3",
+        "author": "MuinBrownie!!!"
+      },
+      {
+        "content": "Täydellinen",
+        "author": "yapunglin"
+      },
+      {
+        "content": "Rakastan tätä täysin normaalia pientä tyyppiä!",
+        "author": "5ummerr"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Millä alustoilla voin pelata 'Honey Dress Upia'?",
+        "answer": "Voit pelata 'Honey Dress Upia' verkkoselaimilla HTML5:n kautta ja Windowsilla."
+      },
+      {
+        "question": "Mikä on uusin saatavilla oleva versio?",
+        "answer": "Uusin versio 'Honey Dress Upista' päivitettiin helmikuussa 2024 ja se on saatavilla verkossa."
+      },
+      {
+        "question": "Onko pelistä ladattavaa versiota?",
+        "answer": "Kyllä, ladattava versio on olemassa, mutta se on vanhempi versio, jota säilytetään arkistointitarkoituksiin."
+      },
+      {
+        "question": "Voinko pelata tätä peliä mobiilissa?",
+        "answer": "'Honey Dress Up' tukee mobiilia, mutta pelikokemus on paras tietokoneella."
+      },
+      {
+        "question": "Milleräisiä grafiikoita peli sisältää?",
+        "answer": "'Honey Dress Up' sisältää käsin piirrettyjä grafiikoita MC Paint -tyylillä."
+      },
+      {
+        "question": "Kuinka voin jakaa asuluomukseni?",
+        "answer": "Voit jakaa asusi kommentoimalla pelisivun kommenttiosiossa."
+      }
+    ]
+  }
+}

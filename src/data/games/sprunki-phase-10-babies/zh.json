@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 宝宝 - 令人愉悦的婴儿主题音乐体验",
+    "description": "探索 Sprunki Phase 10 宝宝，这是一款独特的模组，包含婴儿主题角色和宁静的音景。轻松创作宁静的音乐作品。",
+    "keywords": "Sprunki Phase 10 宝宝, 婴儿主题音乐, 音乐模组, 摇篮曲, Sprunki 游戏"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10 宝宝",
+    "p": "沉浸在 Sprunki Phase 10 宝宝模组带来的宁静音乐体验中，纯真与温柔在这里尽情展现。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Phase 10 宝宝的主要特点",
+    "features": [
+      "婴儿主题角色：可爱的设计和温柔的动画，捕捉婴儿时期的精髓。",
+      "柔和的音景：探索温和的打击乐器和舒缓的旋律，唤起摇篮曲的感觉。",
+      "愉悦的氛围：创造温暖舒适的作品，让人想起宁静的时刻。",
+      "简单定制：微调音量和效果，打造完美的宁静体验。",
+      "社区分享：与 Sprunki 社区分享你的优美旋律。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki Phase 10 宝宝",
+    "instructions": [
+      "选择角色：选择那些代表独特声音的婴儿灵感角色。",
+      "拖放操作：在屏幕上排列角色，叠加温柔的循环旋律。",
+      "微调混音：调整音量和效果，完成您的宁静作品。",
+      "保存并分享：保存你的曲目，并在社区中传播魅力。",
+      "探索组合：尝试不同组合，发现你最喜欢的舒缓旋律。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 10 宝宝截屏"
+  },
+  "playerReviews": {
+    "title": "玩家对 Sprunki Phase 10 宝宝的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "我喜欢这个模组中的可爱角色，音乐非常舒缓！",
+        "author": "Alice"
+      },
+      {
+        "content": "Sprunki Phase 10 宝宝非常适合减压，摇篮曲让人陶醉。",
+        "author": "John"
+      },
+      {
+        "content": "这个模组为 Sprunki 体验增添了独特的婴儿主题元素，简直太迷人了！",
+        "author": "Maria"
+      },
+      {
+        "content": "作为家长，这个模组与我产生了共鸣。我的孩子们也很喜欢这些可爱的声音！",
+        "author": "Tom"
+      },
+      {
+        "content": "柔和的音景令人感到像是温暖的拥抱，完美放松。",
+        "author": "Sophie"
+      },
+      {
+        "content": "轻松创作出美丽的作品，非常推荐！",
+        "author": "Daniel"
+      },
+      {
+        "content": "一个创新而令人愉悦的模组，为 Sprunki 带来了全新的视角。",
+        "author": "Ella"
+      },
+      {
+        "content": "对这温柔的氛围印象深刻，真如同一场摇篮曲的旅程。",
+        "author": "James"
+      }
+    ]
+  },
+  "faq": {
+    "title":"关于 Sprunki Phase 10 宝宝的常见问题",
+    "questions": [
+      {
+        "question":"什么是 Sprunki Phase 10 宝宝？",
+        "answer":"这是 Sprunki 游戏的一个模组，包含婴儿主题角色和舒缓的音景。"
+      },
+      {
+        "question":"我如何开始玩 Sprunki Phase 10 宝宝？",
+        "answer":"选择你的婴儿主题角色，然后开始在屏幕上排列它们以创建音乐作品。"
+      },
+      {
+        "question":"我可以保存并分享我的作品吗？",
+        "answer":"是的，你可以保存你的创作，并在 Sprunki 社区内分享。"
+      },
+      {
+        "question":"Sprunki Phase 10 宝宝适合所有年龄段吗？",
+        "answer":"当然可以，这款游戏的温柔与舒适特质吸引了年轻和年长的玩家。"
+      },
+      {
+        "question":"这个模组与原版 Sprunki 有什么不同？",
+        "answer":"这个模组专注于婴儿主题美学和宁静音景，提供更柔和的游戏体验。"
+      },
+      {
+        "question":"我可以定制音效组合吗？",
+        "answer":"可以，你可以微调音量和效果，创造理想的宁静混音。"
+      }
+    ]
+  }
+}

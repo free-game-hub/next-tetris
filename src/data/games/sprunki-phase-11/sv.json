@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 11 - Skapa Musik med Innovativa Beats och Ljud",
+    "description": "Utforska Sprunki Phase 11, ett musikdrivet spel inspirerat av Incredibox. Blanda vokallooops, arrangera ljud och innovativa musikskapelser.",
+    "keywords": "Sprunki Phase 11, musikspel, beatboxing, ljudskapande, vokallooops, speldesign"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 11",
+    "p": "Dyk ner i den ljudrika världen av Sprunki Phase 11 där kreativitet möter musikinnovation."
+  },
+  "gameFeatures": {
+    "title": "Spelfunktioner",
+    "features": [
+      "Innovativ ljudlager med vokala och instrumentala loops",
+      "Användarvänligt dra och släpp-gränssnitt",
+      "Erbjuder utmaningar för att öka kreativiteten",
+      "Visuella designförbättringar",
+      "Interaktiva och engagerande spelmekaniker"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så här spelar du Sprunki Phase 11",
+    "instructions": [
+      "Välj Karaktärer: Välj bland en unik uppsättning karaktärer, var och en med distinkta ljud.",
+      "Dra och Släpp: Lägg lager av karaktärer i spelgränssnittet för att skapa låtar.",
+      "Experimentera: Lek med ordning och timing för att skapa innovativa ljud.",
+      "Fullfölj Utmaningar: Engagera dig i mål för mer nöje.",
+      "Njut av Musiken: Lyssna och dela dina unika kompositioner."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelskärmbilder"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 11 är den bästa fasen hittills! Musik kombinationerna är oändliga.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Jag älskar de nya visuella elementen och karaktärerna. Det gör skapandet av musik så mycket roligare!",
+        "author": "Samantha R."
+      },
+      {
+        "content": "Utmaningarna i Phase 11 håller mig engagerad i timmar.",
+        "author": "Jordan P."
+      },
+      {
+        "content": "Ett fantastiskt spel för alla som älskar musik och kreativitet.",
+        "author": "Chris M."
+      },
+      {
+        "content": "Dra och släpp-funktionen är superintuitiv. Jag kan inte sluta spela!",
+        "author": "Jess F."
+      },
+      {
+        "content": "Varje uppdatering av Sprunki blir bara bättre. Phase 11 är revolutionerande!",
+        "author": "Pat L."
+      },
+      {
+        "content": "Ett måste för alla Incredibox-fans!",
+        "author": "Jamie W."
+      },
+      {
+        "content": "Sprunki Phase 11 har förvandlat musikkomposition till en rolig aktivitet för alla.",
+        "author": "Taylor G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+      "question": "Vilka plattformar finns Sprunki Phase 11 tillgängligt på?",
+      "answer": "Sprunki Phase 11 finns på olika plattformar inklusive PC, iOS och Android."
+      },
+      {
+      "question": "Hur delar jag min musik som skapats i Sprunki Phase 11?",
+      "answer": "När din komposition är färdig kan du dela dina låtar via sociala medier direkt från spelet."
+      },
+      {
+      "question": "Finns det några köp i spelet i Sprunki Phase 11?",
+      "answer": "Ja, Sprunki Phase 11 erbjuder köp i spelet för ytterligare ljud och karaktärer."
+      },
+      {
+      "question": "Kan jag spela Sprunki Phase 11 offline?",
+      "answer": "Ja, du kan njuta av Sprunki Phase 11 i offline-läge med begränsade funktioner."
+      },
+      {
+      "question": "Finns det en tutorial för att hjälpa mig lära spelet?",
+      "answer": "Ja, det finns en omfattande tutorial som vägleder nya spelare genom grunderna i ljudskapande."
+      },
+      {
+      "question": "Vilken åldersgrupp är Sprunki Phase 11 lämplig för?",
+      "answer": "Sprunki Phase 11 är lämplig för spelare från 8 år och uppåt."
+      }
+    ]
+  }
+}

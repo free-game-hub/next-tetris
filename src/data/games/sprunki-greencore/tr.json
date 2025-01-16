@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki GreenCore: Ekolojik İlhamlı Müzik Yarat | Oyun Kuralları & Özellikler",
+    "description": "Sprunki GreenCore'un ekolojik bilince sahip dünyasını keşfedin, Incredibox'un hayran yapımı modunu deneyimleyin. Doğa ilhamlı görseller ve karakterlerle müzik oluşturun. Kuralları öğrenin, özellikleri keşfedin ve oyun ipuçları alın.",
+    "keywords": "Sprunki GreenCore, Incredibox modu, ekolojik ilhamlı oyun, müzik yaratma oyunu, Sprunki oyun özellikleri, ekolojik bilinçli oyun"
+  },
+  "hero": {
+    "h1": "Sprunki GreenCore",
+    "p": "Sprunki GreenCore ile doğanın ritmine dalın, sürdürülebilirliği ve çevreyi kutlayan, Incredibox’un eşsiz modunda eğlenceli müzikler yaratın."
+  },
+  "gameFeatures": {
+    "title": "Sprunki GreenCore Oyun Özellikleri",
+    "features": [
+      "Doğa İlhammı Görseller: Yeşil ve doğal unsurlar içeren canlı, toprak tonlarıyla kendinizi sarmalayın.",
+      "Ekolojik Temalı Karakterler: Karakterler, yenilenebilir enerji ve yabani yaşam koruma gibi sürdürülebilirlik kavramlarını simgeler.",
+      "Etkileşimli Boniolar: Yeniden ağaçlandırma gibi ekolojik dostu eylemleri sergileyen animasyonları açığa çıkarın.",
+      "Sezgisel Oynanış: Kolay müzik yaratımı için basit sürükle-bırak mekaniği.",
+      "Kişiselleştirilebilir Müzik: Vuruşları, efektleri ve vokalleri birleştirerek eşsiz besteler oluşturun."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki GreenCore Nasıl Oynanır",
+    "instructions": [
+      "Oyunu Başlat: Tercih ettiğiniz platformda Sprunki GreenCore'u başlatın.",
+      "Karakterleri Sürükleyin: Sesleri etkinleştirmek için karakterleri seçip sahneye sürükleyin.",
+      "Sesleri Katmanlayın: Müzik oluşturmak için vuruşları, efektleri ve vokalleri birleştirin.",
+      "Bonioları Açın: Kombinasyonlarla deneme yaparak özel animasyonları açığa çıkarın.",
+      "Kaydedin ve Paylaşın: Bestelerinizi kaydedin ve arkadaşlarınızla paylaşın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki GreenCore Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki GreenCore Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Müzik oyunlarına taze bir bakış! Ekolojik temayı çok sevdim!",
+        "author": "Anna K."
+      },
+      {
+        "content": "Görseller muhteşem ve doğanın güzelliğini gerçekten yansıtıyor!",
+        "author": "John M."
+      },
+      {
+        "content": "Animasyonları açmak çok tatmin edici, müzik harika!",
+        "author": "Sophie L."
+      },
+      {
+        "content": "Sürdürülebilirlik ve yaratıcılıkla ilgilenen herkes için mükemmel.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Güzel ve akılda kalıcı bir şey yaratmak ne kadar kolay, inanılmaz.",
+        "author": "Rachel F."
+      },
+      {
+        "content": "Sanat, müzik ve çevre bilincinin harika bir karışımı!",
+        "author": "Tommy H."
+      },
+      {
+        "content": "Her yaştan insanlar için harika! Çocuklarım çok keyif alıyor, eğitimsel de!",
+        "author": "Sandra A."
+      },
+      {
+        "content": "Karakterleri ve ekolojik mesajlarını çok seviyorum.",
+        "author": "Liam G."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sprunki GreenCore Hakkında Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Sprunki GreenCore hangi platformlarda mevcut?",
+        "answer":"Sprunki GreenCore, PC, Mac ve mobil cihazlar da dahil olmak üzere birden fazla platformda mevcuttur."
+      },
+      {
+        "question":"Sprunki GreenCore ücretsiz bir mod mu?",
+        "answer":"Evet, Sprunki GreenCore bir hayran yapımı moddur ve indirmek ile oynamak ücretsizdir."
+      },
+      {
+        "question":"Bestelerimi nasıl kaydedip paylaşabilirim?",
+        "answer":"Bestelerinizi 'kaydet' simgesine tıklayarak kaydedebilir ve oyundan direkt olarak 'paylaş' seçeneğini seçerek paylaşabilirsiniz."
+      },
+      {
+        "question":"Sprunki GreenCore'u arkadaşlarımla oynayabilir miyim?",
+        "answer":"Şu anda Sprunki GreenCore çok oyunculu desteği sunmuyor, ancak yaratımlarınızı arkadaşlarınızla paylaşabilirsiniz."
+      },
+      {
+        "question":"Sprunki GreenCore'da uygulama içi satın alımlar var mı?",
+        "answer":"Hayır, Sprunki GreenCore'da uygulama içi satın alımlar veya reklamlar yoktur."
+      },
+      {
+        "question":"Yeni güncellemeler ne sıklıkla çıkıyor?",
+        "answer":"Sprunki GreenCore için güncellemeler periyodik olarak yayınlanmakta, yeni özelliklere ve oynanışı optimize etmeye odaklanmaktadır."
+      }
+    ]
+  }
+}

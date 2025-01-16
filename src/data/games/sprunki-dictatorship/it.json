@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Dictatorship Mod - Una Sfida Unica di Musica",
+    "description": "Esplora il Mod della Dictatorship Sprunki, dove la musica incontra l'estetica autoritaria. Scopri le sue caratteristiche, le istruzioni di gioco e leggi le recensioni dei giocatori.",
+    "keywords": "Sprunki Dictatorship, Mod della Dictatorship Sprunki, sfida musicale, temi autoritari, gameplay"
+  },
+  "hero": {
+    "h1": "Mod della Dictatorship Sprunki",
+    "p": "Entra in un mondo in cui la musica e l'estetica autoritaria si scontrano. Crea composizioni coinvolgenti all'interno di un ambiente rigidamente controllato."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche del Mod della Dictatorship Sprunki",
+    "features": [
+      "Estetica Autoritaria: Toni neutri e simboli di potere definiscono l'atmosfera.",
+      "Soundscape Rigorosi: Beat strutturati e ripetitivi mimano gli ordini di un regime.",
+      "Atmosfera Intensa: Crea composizioni che catturano la vita sotto un rigoroso controllo.",
+      "Complessità Stratificata: Regola i volumi per svelare strati più profondi all'interno della struttura rigida.",
+      "Narrazione Provocatoria: Vivi un viaggio sonoro incisivo e unico."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare al Mod della Dictatorship Sprunki",
+    "instructions": [
+      "Seleziona Personaggi: Scegli figure che simboleggiano autorità o resistenza silenziosa.",
+      "Trascina e Rilascia: Organizza i beat per riflettere comando e energia soffocata.",
+      "Sperimenta e Regola: Trova la complessità nascosta all'interno dei loop strutturati.",
+      "Salva e Condividi: Crea e condividi tracce che trasmettono controllo e tensione.",
+      "Creazione Esprimibile: Nonostante i vincoli, esplora le profondità della composizione."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot del Mod della Dictatorship Sprunki"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori per il Mod della Dictatorship Sprunki",
+    "submitReviewLabel": "Invia la tua Recensione",
+    "nameLabel": "Il tuo Nome",
+    "reviewLabel": "La tua Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "Il Mod della Dictatorship Sprunki offre una nuova interpretazione nella creazione musicale. È un po' impegnativo ma molto gratificante!",
+        "author": "Alex P."
+      },
+      {
+        "content": "Un'esperienza unica e coinvolgente. Il tema autoritario aggiunge una profondità inaspettata al gioco.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "L'atmosfera è intensa e piena di tensione. Adoro come il gioco spinga i confini creativi.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Un mod che fa riflettere. Ti porta a pensare alla musica in un modo completamente nuovo.",
+        "author": "Casey M."
+      },
+      {
+        "content": "Mi è piaciuto esplorare la complessità stratificata all'interno della struttura rigida. È unico nel suo genere.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "I soundscape sono ipnotici. Altamente raccomandato per chi cerca una sfida unica.",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Un'interpretazione affascinante dello stile abituale di Sprunki. I vincoli stimolano davvero la creatività.",
+        "author": "Riley F."
+      },
+      {
+        "content": "È un'immersione profonda in un mondo dal design autoritario. Perfetto per gli amanti della musica e della strategia.",
+        "author": "Peyton R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Faq del Mod della Dictatorship Sprunki",
+    "questions": [
+      {
+        "question": "Cos'è il Mod della Dictatorship Sprunki?",
+        "answer": "Il Mod della Dictatorship Sprunki è una sfida musicale ambientata in un ambiente a tema autoritario."
+      },
+      {
+        "question": "Come posso iniziare a giocare?",
+        "answer": "Scegli personaggi che si allineano al tema, organizza i beat e sperimenta con le soundscape."
+      },
+      {
+        "question": "Posso condividere le mie composizioni?",
+        "answer": "Sì, puoi salvare e condividere le tue tracce con amici o con la community."
+      },
+      {
+        "question": "La creatività è limitata in questo mod?",
+        "answer": "Nonostante l'atmosfera sia vincolata, c'è ancora spazio per creatività ed espressione."
+      },
+      {
+        "question": "Cosa rende questo mod diverso dagli altri?",
+        "answer": "Il suo tema autoritario e i soundscape strutturati offrono un'esperienza di creazione musicale unica e sfidante."
+      },
+      {
+        "question": "Ho bisogno di esperienza pregressa nella creazione musicale?",
+        "answer": "Non è necessaria alcuna esperienza precedente. Il gioco è progettato per essere accessibile a tutti i giocatori."
+      }
+    ]
+  }
+}

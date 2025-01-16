@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "貓咪淨土 - 幻妙來生視覺小說",
+    "description": "探索貓咪淨土的迷人世界，一個時間靜止的來生視覺小說。結識古怪角色，解開謎團，享受精心手繪的體驗。",
+    "keywords": "貓咪淨土, 視覺小說, 來生遊戲, 點擊冒險, 幻妙角色, 遊戲特色"
+  },
+  "hero": {
+    "h1": "貓咪淨土 - 幻妙的來生冒險",
+    "p": "沉浸於貓咪淨土，一個充滿幻妙的視覺小說。探索、結交迷人的角色，並發現永恆並不那麼糟！"
+  },
+  "gameFeatures": {
+    "title": "貓咪淨土遊戲特色",
+    "features": [
+      "引人入勝的點擊探索",
+      "手繪視覺與迷人的角色",
+      "多重結局和豐富的故事體驗",
+      "提供英語、西班牙語和簡體中文版本",
+      "贏得「我不會畫畫」遊戲大賽"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩貓咪淨土",
+    "instructions": [
+      "使用滑鼠與世界互動。",
+      "使用鍵盤進行快速導航。",
+      "探索不同地點以揭開秘密。",
+      "解開謎題以推進故事。",
+      "與角色互動以了解他們的故事。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "貓咪淨土遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家對貓咪淨土的評價",
+    "submitReviewLabel": "提交您的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "卡在停電部分，但從社群得到幫助！喜歡大家如此合作！",
+        "author": "Blormp"
+      },
+      {
+        "content": "氛圍和角色友誼令人愉快。無法停止思考它！",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "一年後回來完成它。很幸運能體驗這個美麗的故事。",
+        "author": "kayak"
+      },
+      {
+        "content": "角色設計得如此精妙。遊戲的好結局讓我驚嘆不已。",
+        "author": "JUney"
+      },
+      {
+        "content": "貓咪淨土給每個角色提供了一個符合其動物形式的獨特個性。",
+        "author": "dizie"
+      },
+      {
+        "content": "一段絕對健全的旅程，充滿了搞笑雙關語！",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "美麗的故事和引人入勝的角色令我立刻沉迷。",
+        "author": "Maple"
+      },
+      {
+        "content": "這款遊戲的簡潔捕捉了生活的簡單和喜悅。",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "貓咪淨土在哪些平台上可用？",
+        "answer": "貓咪淨土可以在 HTML5 和 Windows 平台上玩。"
+      },
+      {
+        "question": "燈熄時的謎題要怎麼解決？",
+        "answer": "試著去娜塔莉的地方拿一根蠟燭作為光源。"
+      },
+      {
+        "question": "遊戲有多個結局嗎？",
+        "answer": "是的，貓咪淨土有多個基於您選擇的結局。"
+      },
+      {
+        "question": "貓咪淨土提供哪些語言版本？",
+        "answer": "提供英語、西班牙語和簡體中文版本。"
+      },
+      {
+        "question": "貓咪淨土有原聲帶嗎？",
+        "answer": "是的，原聲帶可以在多個平台上串流。"
+      },
+      {
+        "question": "如果遊戲無法啟動，我該怎麼辦？",
+        "answer": "嘗試刷新頁面或更換瀏覽器。為了更佳性能，建議下載 Windows 版本。"
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "幻妙旅程",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "夢幻來生",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "神秘冒險",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

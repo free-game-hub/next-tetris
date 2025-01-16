@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Double Taken - A Experiência de Jogo Definitiva",
+    "description": "Descubra Sprunki Retake: Double Taken – a mais nova sensação dos jogos, com designs inovadores e jogabilidade empolgante. Junte-se à comunidade gamer e viva a aventura!",
+    "keywords": "Sprunki Retake, Double Taken, jogos, videogame, novos jogos, recursos do jogo, instruções do jogo, avaliações dos jogadores"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Double Taken",
+    "p": "Bem-vindo ao Sprunki Retake: Double Taken – uma aventura emocionante onde a inovação encontra a nostalgia. Mergulhe em novos designs e jogabilidade empolgante."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Sprunki Retake: Double Taken",
+    "features": [
+      "Novos designs com gráficos visualmente impressionantes.",
+      "Uma narrativa envolvente que capta a essência dos jogos clássicos.",
+      "Mecânicas de jogo suaves para uma experiência imersiva.",
+      "Suporte multiplayer para diversão social entre jogadores.",
+      "Atualizações frequentes para aprimorar o conteúdo e a experiência do usuário."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Retake: Double Taken",
+    "instructions": [
+      "Comece baixando Sprunki Retake: Double Taken em nosso site oficial.",
+      "Siga o tutorial para se familiarizar com os controles e objetivos do jogo.",
+      "Use as teclas de seta e a barra de espaço para navegação e ações.",
+      "Estratégize seus movimentos para enfrentar desafios complexos e chefes.",
+      "Colabore com outros jogadores para enriquecer sua experiência de jogo."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores de Sprunki Retake: Double Taken",
+    "submitReviewLabel": "Envie sua avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Empolgante e profundamente envolvente. Uma ótima adição à minha coleção de jogos!",
+        "author": "GamerJoe42"
+      },
+      {
+        "content": "Adoro os novos designs. É como voltar à minha infância com ainda mais diversão!",
+        "author": "RetroLover88"
+      },
+      {
+        "content": "Absolutamente brilhante! O recurso multiplayer me mantém conectado com os amigos.",
+        "author": "SocialGamer5"
+      },
+      {
+        "content": "Jogabilidade inovadora com um toque de nostalgia. Perfeito para todos os tipos de jogadores.",
+        "author": "AdventureSeeker23"
+      },
+      {
+        "content": "Uma linda mistura de estilos de jogos do passado e presente. Nota dez!",
+        "author": "ClassicCraze49"
+      },
+      {
+        "content": "Este jogo nunca fica chato com suas atualizações regulares!",
+        "author": "TechieGeek101"
+      },
+      {
+        "content": "Agradeço o esforço colocado nos gráficos. Um deleite visual!",
+        "author": "ArtisticMind77"
+      },
+      {
+        "content": "Uma mistura perfeita de desafio e diversão. Altamente recomendado!",
+        "author": "ChallengeAccepted17"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"O que é Sprunki Retake: Double Taken?",
+        "answer":"Sprunki Retake: Double Taken é a versão mais recente do popular jogo Sprunki Retake, apresentando novos designs e jogabilidade aprimorada."
+      },
+      {
+        "question":"Como posso baixar o jogo?",
+        "answer":"O jogo pode ser baixado diretamente em nosso site oficial ou através de lojas de aplicativos autorizadas."
+      },
+      {
+        "question":"Há recurso multiplayer?",
+        "answer":"Sim, Sprunki Retake: Double Taken inclui um recurso multiplayer para aumentar a conectividade e os aspectos sociais dos jogos."
+      },
+      {
+        "question":"Há atualizações regulares para o jogo?",
+        "answer":"Fazemos atualizações frequentes no jogo para introduzir novos recursos, corrigir bugs e melhorar a experiência do usuário."
+      },
+      {
+        "question":"Quais são os requisitos do sistema?",
+        "answer":"O jogo requer no mínimo 4GB de RAM, uma placa de vídeo moderna e um sistema operacional atualizado para garantir o melhor desempenho."
+      },
+      {
+        "question":"Quem posso contatar para suporte?",
+        "answer":"Você pode entrar em contato com nossa equipe de suporte através do formulário de contato em nosso site para qualquer assistência."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Jogos Recomendados",
+    "games": [
+      {
+        "img": "path/to/image1.jpg",
+        "title": "Aventura Quest",
+        "link": "link_to_game1"
+      },
+      {
+        "img": "path/to/image2.jpg",
+        "title": "Resolutor de Mistérios",
+        "link": "link_to_game2"
+      },
+      {
+        "img": "path/to/image3.jpg",
+        "title": "Mestres do Quebra-Cabeça",
+        "link": "link_to_game3"
+      }
+    ]
+  }
+}

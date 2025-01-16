@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "惡魔快遞 - 敘事冒險遊戲",
+    "description": "在惡魔快遞中探索被詛咒的公寓大樓，一款充滿怪物、魔法和謎團的2D冒險遊戲。揭開秘密，並在途中交朋友。",
+    "keywords": "惡魔快遞, 冒險遊戲, 2D遊戲, 敘事遊戲, 謎團遊戲, 惡魔快遞下載"
+  },
+  "hero": {
+    "h1": "惡魔快遞",
+    "p": "踏入惡魔快遞的超現實世界，這是一款以敘事為重點的2D冒險遊戲。探索一個違背現實的神秘公寓大樓的秘密。"
+  },
+  "gameFeatures": {
+    "title": "惡魔快遞的主要特色",
+    "features": [
+      "完整翻譯為西班牙語",
+      "一小時的高速送貨動作",
+      "遇見超過16個獨特的怪物角色",
+      "包含失落、勞動和自我發現的主題",
+      "可下載執行檔或在瀏覽器中玩"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩惡魔快遞",
+    "instructions": [
+      "使用W / A鍵或左 / 右方向鍵移動",
+      "使用空白鍵或上方向鍵互動",
+      "使用Tab鍵或\"i\"鍵訪問背包",
+      "探索不同樓層並揭開謎團",
+      "與角色互動以解決難題"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交您的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "這現在是我最喜歡的遊戲！",
+        "author": "Sovech"
+      },
+      {
+        "content": "這是一個非常有趣且輕鬆的遊戲；角色瞬間讓人感到愉快！",
+        "author": "Subpar_Carrion.92"
+      },
+      {
+        "content": "我喜歡這款遊戲！它太可愛了！",
+        "author": "Starswapsans19@gmail.com"
+      },
+      {
+        "content": "我愛這款遊戲，請製作續集！",
+        "author": "Exabyte"
+      },
+      {
+        "content": "一個充滿美好氛圍和動人故事的平靜遊戲。",
+        "author": "Donaldsfries"
+      },
+      {
+        "content": "故事、音效設計、畫面——一切都太棒了。極度被低估。",
+        "author": "Mrspudcake"
+      },
+      {
+        "content": "音樂超然美麗，角色寫得非常好。",
+        "author": "Ani-the-GREAT"
+      },
+      {
+        "content": "如此簡單有趣的遊戲！我喜歡它！",
+        "author": "Snakeglitter"
+      }
+    ]
+  },
+  "faq": {
+    "title":"常見問題解答",
+    "questions": [
+      {
+        "question":"惡魔快遞可在哪些平台上遊玩？",
+        "answer":"惡魔快遞可在HTML5和Windows平台上遊玩。"
+      },
+      {
+        "question":"惡魔快遞有翻譯成其他語言嗎？",
+        "answer":"是的，遊戲有完整的西班牙語翻譯可供下載。"
+      },
+      {
+        "question":"惡魔快遞的平均遊玩時間是多少？",
+        "answer":"平均遊玩時長約為一小時。"
+      },
+      {
+        "question":"支援哪些輸入？",
+        "answer":"遊戲支援鍵盤輸入。"
+      },
+      {
+        "question":"我可以在瀏覽器上玩惡魔快遞嗎？",
+        "answer":"是的，您可以將其作為可下載的執行檔或直接在瀏覽器中遊玩。"
+      },
+      {
+        "question":"誰負責遊戲的藝術和音樂？",
+        "answer":"藝術由Shuteye負責，音樂則由7wave創作。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Purrgatory - 환상적인 사후 세계 비주얼 노블",
+    "description": "Purrgatory의 매력적인 세계를 탐험해보세요, 시간이 멈춘 사후 세계에 대한 비주얼 노블입니다. 특이한 캐릭터들을 만나고, 미스터리를 해결하고, 세심하게 그려진 경험을 즐기세요.",
+    "keywords": "Purrgatory, 비주얼 노블, 사후 세계 게임, 포인트 앤 클릭, 환상적인 캐릭터, 게임 특징"
+  },
+  "hero": {
+    "h1": "Purrgatory - 환상적인 사후 세계 모험",
+    "p": "환상으로 가득한 비주얼 노블, Purrgatory로 뛰어드세요. 매력적인 캐릭터들과 친구가 되고, '영원함'이 그렇게 나쁘진 않다는 것을 발견하세요!"
+  },
+  "gameFeatures": {
+    "title": "Purrgatory 게임 특징",
+    "features": [
+      "몰입감 있는 포인트 앤 클릭 탐험",
+      "매력적인 캐릭터가 있는 손으로 그린 비주얼",
+      "여러 가지 결말과 스토리가 풍부한 경험",
+      "영어, 스페인어, 간체 중국어로 제공",
+      "'I Can't Draw' 게임 잼 우승작"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Purrgatory 플레이 방법",
+    "instructions": [
+      "마우스를 사용하여 세상과 상호작용하세요.",
+      "빠른 네비게이션을 위해 키보드를 사용하세요.",
+      "다양한 장소를 탐험하여 비밀을 발견하세요.",
+      "퍼즐을 풀어 이야기를 진행하세요.",
+      "캐릭터들과 대화하여 그들의 이야기를 알아보세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Purrgatory 게임 스크린샷"
+  },
+  "playerReviews": {
+    "title": "Purrgatory에 대한 플레이어들의 의견",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "정전 부분에서 막혔지만 커뮤니티에서 도움을 받았어요! 모두가 협조적이라 좋아요!",
+        "author": "Blormp"
+      },
+      {
+        "content": "분위기와 캐릭터 친구 관계가 너무 즐거워요. 생각을 멈출 수가 없네요!",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "1년 후에 와서 마쳤어요. 이 아름다운 이야기를 경험할 수 있어서 축복받았어요.",
+        "author": "kayak"
+      },
+      {
+        "content": "캐릭터들이 너무 잘 짜여 있어요. 게임의 좋은 결말이 너무 감명 깊었어요.",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatory는 각 캐릭터의 동물 형태에 맞는 독특한 개성을 제공하네요.",
+        "author": "dizie"
+      },
+      {
+        "content": "완전히 따뜻한 여정, 웃긴 말장난이 가득해요!",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "아름다운 이야기와 매력적인 캐릭터들이 즉각적으로 저를 사로잡았어요.",
+        "author": "Maple"
+      },
+      {
+        "content": "이 게임의 단순함이 삶의 단순함과 기쁨의 본질을 포착했습니다.",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "questions": [
+      {
+        "question": "Purrgatory는 어떤 플랫폼에서 이용할 수 있나요?",
+        "answer": "Purrgatory는 HTML5와 Windows 플랫폼에서 플레이할 수 있습니다."
+      },
+      {
+        "question": "불이 꺼진 퍼즐은 어떻게 해결하나요?",
+        "answer": "빛의 출처로 촛불을 얻기 위해 Natalie의 집에 방문해 보세요."
+      },
+      {
+        "question": "게임에 여러 가지 결말이 있나요?",
+        "answer": "네, Purrgatory는 당신의 선택에 따라 여러 가지 결말을 제공합니다."
+      },
+      {
+        "question": "Purrgatory는 어떤 언어로 제공되나요?",
+        "answer": "영어, 스페인어, 간체 중국어로 제공됩니다."
+      },
+      {
+        "question": "Purrgatory에 대한 사운드트랙이 있나요?",
+        "answer": "네, 다양한 플랫폼에서 원작 사운드트랙을 스트리밍할 수 있습니다."
+      },
+      {
+        "question": "게임이 시작되지 않으면 어떻게 하나요?",
+        "answer": "페이지를 새로 고치거나 다른 브라우저를 사용해 보세요. 더 나은 성능을 위해 Windows 버전을 다운로드하세요."
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "환상적인 여행",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "꿈같은 사후 세계",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "신비로운 모험",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

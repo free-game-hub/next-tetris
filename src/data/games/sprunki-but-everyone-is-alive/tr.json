@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Ama Herkes Hayatta Modu - Sprunki Incredibox'a Canlı Bir Dokunuş",
+    "description": "Sprunki Ama Herkes Hayatta Modu'nu deneyimleyin, müzikal karakterlerin animasyonlarla hayat bulduğu, müzik yaratımınıza enerji ve kişilik kattığı bir dünya. Oyun özelliklerini, oyuncu yorumlarını, sıkça sorulan soruları ve daha fazlasını keşfedin.",
+    "keywords": "Sprunki Ama Herkes Hayatta, Sprunki Incredibox Modu, animasyonlu Sprunki karakterleri, müzik oyunu modu, Sprunki oyun deneyimi"
+  },
+  "hero": {
+    "h1": "Sprunki Ama Herkes Hayatta",
+    "p": "Müzikal bir maceraya dalın, burada her karakter canlı animasyonlarla hayat bulur. Sprunki Ama Herkes Hayatta Modu sadece ses oluşturmakla değil, müzik yapma deneyiminize enerji ve kişilik katmakla ilgilidir."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Ama Herkes Hayatta Özellikleri",
+    "features": [
+      "Tamamen animasyonlu karakterler müzikal yaratıcılığı artırır.",
+      "Sonsuz müzikal olasılıklar için yeni ses kombinasyonları.",
+      "Daha etkileyici bir deneyim için canlı kişilikler.",
+      "Hem yeni hem de sadık Sprunki hayranları için ideal.",
+      "Parlak, canlı ve unutulmaz müzikal seanslar."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Ama Herkes Hayatta Nasıl Oynanır",
+    "instructions": [
+      "Müzik yaratmaya başlamak için en sevdiğin karakteri seç.",
+      "Farklı ses ve animasyon kombinasyonlarıyla denemeler yap.",
+      "Karakterlerle etkileşime geçerek lively animasyonlarını aktif hale getir.",
+      "Eşsiz bestelerini kaydet ve paylaş.",
+      "Bu modda tanıtılan yeni ses kütüphanelerini keşfet."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Ama Herkes Hayatta Modu Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncular Ne Diyor",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Animasyonlar oyunu çok daha keyifli hale getiriyor. Her karakter canlı hissediliyor!",
+        "author": "Lily G."
+      },
+      {
+        "content": "Yeni ses kombinasyonları ile denemeler yapmayı seviyorum. Bu mod harika!",
+        "author": "Jackson T."
+      },
+      {
+        "content": "Animasyonların eklenmesi oyuna yeni bir soluk katıyor. Kesinlikle tavsiye ederim!",
+        "author": "Sophia M."
+      },
+      {
+        "content": "Müzik yaratımına yeni bir boyut kazandırıyor. Gerçekten etkileyici!",
+        "author": "Corp."
+      },
+      {
+        "content": "Bu canlı karakterler müzik seanslarımı daha eğlenceli hale getirdi.",
+        "author": "Emily R."
+      },
+      {
+        "content": "Orijinal Sprunki oyunu için mükemmel bir yükseltme. Bayıldım!",
+        "author": "Evan H."
+      },
+      {
+        "content": "Animasyonların bu kadar büyük bir fark yaratabileceğine şaşırdım.",
+        "author": "Nathan Y."
+      },
+      {
+        "content": "Bu mod oyuna hayat katıyor ve karakterlerle olan bağımı derinleştiriyor.",
+        "author": "Isabella W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Sprunki Ama Herkes Hayatta Modu nedir?",
+        "answer":"Bu, her karakterin tamamen animasyonlu olduğu bir Sprunki Incredibox versiyonudur ve müzik yaratım sürecine daha fazla kişilik ve etkileşim katmaktadır."
+      },
+      {
+        "question":"Bu mod, orijinal Sprunki oyunundan nasıl farklıdır?",
+        "answer":"Orijinalin aksine, bu mod her karakter için animasyonlar içerir, daha dinamik bir müzik yaratım deneyimi sunar."
+      },
+      {
+        "question":"Sprunki oyunlarına yeni başlıyorsam bu modu oynayabilir miyim?",
+        "answer":"Kesinlikle! Hem yeni oyuncular hem de uzun süredir fan olanlar için tasarlanmıştır ve keyifli bir oyun deneyimi sunar."
+      },
+      {
+        "question":"Bu modu kullanmak için herhangi bir ek yazılıma ihtiyacım var mı?",
+        "answer":"Ek bir yazılım gerekmez. Modu indirip hemen geliştirilmiş özelliklerin tadını çıkarmaya başlayabilirsiniz."
+      },
+      {
+        "question":"Müzik bestelerimi paylaşabileceğim bir topluluk var mı?",
+        "answer":"Evet, bestelerinizi paylaşabileceğiniz ve geri bildirim alabileceğiniz birçok çevrimiçi topluluk mevcut."
+      },
+      {
+        "question":"Orijinal Sprunki oyununa dönmek istersem geçiş yapabilir miyim?",
+        "answer":"Evet, istediğiniz zaman orijinal oyun ile bu mod arasında geçiş yapabilirsiniz."
+      }
+    ]
+  }
+}

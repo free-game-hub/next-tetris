@@ -1,0 +1,122 @@
+
+{
+  "metadata": {
+    "title": "Die in the Dungeon - A Unique Dice-based Roguelite Game",
+    "description": "Explore Die in the Dungeon, a unique deck-building roguelite where dice replace cards. Conquer the dungeon's many challenges and rise as the ultimate frog hero.",
+    "keywords": "Die in the Dungeon, deck-building, roguelite, dice game, froggy adventure, dungeon crawler, turn-based strategy"
+  },
+  "hero": {
+    "h1": "Die in the Dungeon",
+    "p": "Die in the Dungeon is an innovative deck-building roguelite where your strength lies in the roll of the dice. Take on the 2X-floor dungeon and prove your mettle!"
+  },
+  "gameFeatures": {
+    "title": "Features of Die in the Dungeon",
+    "features": [
+      "Engage in dice-based combat in a deck-building rogue adventure.",
+      "Collect unique relics to enhance your strategic advantage.",
+      "Experience an all-new event system with varied encounters.",
+      "Face off against new enemies and challenging bosses.",
+      "Discover numerous dice types and properties for limitless strategies."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play Die in the Dungeon",
+    "instructions": [
+      "Start by choosing your dice to build your deck.",
+      "Roll the dice to attack, defend, or use special abilities.",
+      "Plan your moves carefully and anticipate enemy reactions.",
+      "Gather relics and new dice to increase your power.",
+      "Navigate through complex dungeon layouts while overcoming foes."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Dive into the World of Die in the Dungeon"
+  },
+  "playerReviews": {
+    "title": "Player Reviews of Die in the Dungeon",
+    "submitReviewLabel": "Submit your review",
+    "nameLabel": "Your name",
+    "reviewLabel": "Your review",
+    "submitButtonLabel": "Submit",
+    "reviews": [
+      {
+        "content": "The game with the sword literally made my computer blue screen, but it's so worth it!",
+        "author": "EmanuelKJ"
+      },
+      {
+        "content": "I found a bug in my game, but I still love those cute frogs!",
+        "author": "loseygoosey"
+      },
+      {
+        "content": "Had fun until the boss bee flooded honey dice. Can't wait to try another run!",
+        "author": "hanungpurwaka"
+      },
+      {
+        "content": "This game was very fun, lots of options for dice. Excited for the full release!",
+        "author": "Jazz Man"
+      },
+      {
+        "content": "I love your game. It's honestly the greatest dungeon game I've played!",
+        "author": "GMletsITCH"
+      },
+      {
+        "content": "Just reached floor 25 and still loving it! Wish I could play frog boss fully.",
+        "author": "Melitaa"
+      },
+      {
+        "content": "A bit buggy, but I'm hooked! Can't stop replaying Die in the Dungeon.",
+        "author": "Zclipse"
+      },
+      {
+        "content": "Very fun game! Reminds me a bit of Dicey Dungeons, but with unique twists!",
+        "author": "Zazak"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is Die in the Dungeon?",
+        "answer": "Die in the Dungeon is a deck-building, turn-based roguelite where you use dice instead of traditional cards to progress through the dungeon."
+      },
+      {
+        "question": "How do I install Die in the Dungeon?",
+        "answer": "You can download Die in the Dungeon for Windows, macOS, and Linux from platforms like Steam and Itch.io."
+      },
+      {
+        "question": "What are the system requirements?",
+        "answer": "The game is available for HTML5, Windows, macOS, and Linux and requires basic system specifications for optimal performance."
+      },
+      {
+        "question": "Is there a multiplayer mode?",
+        "answer": "Currently, Die in the Dungeon is a single-player experience with no plans for multiplayer."
+      },
+      {
+        "question": "Can I use a controller?",
+        "answer": "The game primarily supports mouse input, but there may be additional options for control as development progresses."
+      },
+      {
+        "question": "How can I report a bug or give feedback?",
+        "answer": "Join our Discord server to report issues or share feedback directly with the developers."
+      }
+    ]
+  },
+  "recommendedGames": [
+    {
+      "imageUrl": "backpack_hero_thumbnail.jpg",
+      "title": "Backpack Hero",
+      "link": "https://store.steampowered.com/app/example123456"
+    },
+    {
+      "imageUrl": "super_rare_mixtape_thumbnail.jpg",
+      "title": "Super Rare Mixtape",
+      "link": "https://store.steampowered.com/app/example654321"
+    },
+    {
+      "imageUrl": "dicey_dungeons_thumbnail.jpg",
+      "title": "Dicey Dungeons",
+      "link": "https://store.steampowered.com/app/example987654"
+    }
+  ]
+}

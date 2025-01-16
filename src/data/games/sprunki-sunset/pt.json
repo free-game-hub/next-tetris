@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Sunset Mod: Crie Música na Quente Luz do Crepúsculo",
+    "description": "Descubra o Sprunki Sunset Mod, uma experiência de criação musical inspirada em tons noturnos e paisagens sonoras tranquilas. Aprenda a tocar e aproveite as avaliações dos jogadores.",
+    "keywords": "Sprunki Sunset Mod, criação musical, estética inspirada no pôr do sol, paisagens sonoras tranquilas, jogo de fazer música"
+  },
+  "hero": {
+    "h1": "Sprunki Sunset Mod",
+    "p": "Mergulhe nas quentes e douradas tonalidades do céu de uma tarde tardia com o Sprunki Sunset Mod. Transforme sua sessão de criação musical em uma experiência relaxante e contemplativa."
+  },
+  "gameFeatures": {
+    "title": "Principais Recursos do Sprunki Sunset Mod",
+    "features": [
+      "Estética Inspirada no Pôr do Sol: Imite a paleta do céu ao entardecer com fundos serenos.",
+      "Paisagens Sonoras Aconchegantes: Loops com tons suaves e harmonias fluidas para uma criatividade reflexiva.",
+      "Atmosfera Relaxante: Diminua o ritmo e descubra melodias confortantes e emocionais.",
+      "Seleção de Personagens: Escolha entre personagens que representam o espírito calmo do crepúsculo.",
+      "Compartilhamento Facilitado: Compartilhe suas criações musicais e permita que outros experimentem um pôr do sol Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Sunset Mod",
+    "instructions": [
+      "Selecione Personagens: Escolha entre uma linha de personagens que refletem o espírito calmo do crepúsculo.",
+      "Arraste e Solte: Organize sons para capturar a descida suave do sol.",
+      "Aperfeiçoe Sua Mixagem: Ajuste volumes e efeitos para deixar sua faixa perfeita.",
+      "Salve e Compartilhe: Compartilhe sua criação e espalhe a beleza tranquila do crepúsculo.",
+      "Experimente com Paciência: Descubra melodias que evocam a atmosfera tranquila do entardecer."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Sprunki Sunset Mod"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores sobre o Sprunki Sunset Mod",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "A estética é como assistir a um pôr do sol na vida real. Linda e reconfortante.",
+        "author": "Alice T."
+      },
+      {
+        "content": "Adoro os loops suaves e os sons delicados, perfeitos para uma sessão relaxante.",
+        "author": "Mike D."
+      },
+      {
+        "content": "É uma ótima maneira de relaxar e criar algo bonito. Recomendo muito!",
+        "author": "Julia F."
+      },
+      {
+        "content": "Perfeito para criatividade noturna. O tema do pôr do sol é maravilhosamente executado.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Compartilhei minhas faixas com amigos, e eles adoram a vibe tranquila.",
+        "author": "Nina L."
+      },
+      {
+        "content": "A interface é intuitiva e os efeitos adicionam o toque certo.",
+        "author": "Tom S."
+      },
+      {
+        "content": "Uma mistura perfeita de visuais relaxantes e sons calmantes. Ótima experiência!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Cada sessão parece uma jornada através de um tranquilo crepúsculo.",
+        "author": "Liam P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O que é o Sprunki Sunset Mod?",
+        "answer": "O Sprunki Sunset Mod é um jogo de criação musical que oferece um tema inspirado no crepúsculo com paisagens sonoras quentes e uma atmosfera relaxante."
+      },
+      {
+        "question": "Como seleciono personagens no Sprunki Sunset Mod?",
+        "answer": "Escolha entre uma linha de personagens que refletem o espírito calmo do crepúsculo para complementar sua música."
+      },
+      {
+        "question": "Posso compartilhar minhas criações com outros?",
+        "answer": "Sim, uma vez que você esteja satisfeito com sua faixa, pode salvá-la e compartilhá-la com outros."
+      },
+      {
+        "question": "Que tipo de sons posso esperar deste mod?",
+        "answer": "Espere loops com tons suaves, como brisas sussurrantes e sinos distantes, projetados para inspirar criatividade reflexiva."
+      },
+      {
+        "question": "Como posso aperfeiçoar minha mixagem?",
+        "answer": "Ajuste volumes e adicione efeitos sutis para aperfeiçoar sua faixa até que ela reflita a atmosfera tranquila do entardecer."
+      },
+      {
+        "question": "Há um tutorial para novos jogadores?",
+        "answer": "Sim, o jogo inclui instruções intuitivas para ajudar você a começar a criar suas próprias faixas."
+      }
+    ]
+  }
+}

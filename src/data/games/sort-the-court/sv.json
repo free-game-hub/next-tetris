@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sort the Court - Ett Roligt och Addictivt Simuleringsspel",
+    "description": "Utforska den fantastiska världen av Sort the Court, där beslutsfattande formar ditt kungarikes öde. Lär dig spelets regler, funktioner och spelarrecensioner.",
+    "keywords": "Sort the Court, simuleringsspel, beslutsfattande, Unity-spel, Ludum Dare 34"
+  },
+  "hero": {
+    "h1": "Sort the Court",
+    "p": "Kliv in i rollen som monark och fatta kloka beslut för att styra ditt kungarikets öde i Sort the Court. Njut av detta spännande simuleringsspel utvecklat av Graeme Borland och dyka ner i dess charmiga värld."
+  },
+  "gameFeatures": {
+    "title": "Spelfunktioner",
+    "features": [
+      "Engagerande beslutande spelmekanik",
+      "Charmig och söt grafik",
+      "Utvecklat med Unity, vilket säkerställer smidig prestanda",
+      "Flera språk stöds, inklusive engelska",
+      "Finns på plattformar som HTML5, Windows och Linux"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man spelar Sort the Court",
+    "instructions": [
+      "Använd tangentbord, mus eller spelkontroll för styrning.",
+      "Fatta beslut genom att svara Ja eller Nej på olika förfrågningar.",
+      "Balansera behoven hos ditt folk, rikedom och militär.",
+      "Navigera genom slumpmässiga händelser för att växa ditt kungarike.",
+      "Spellängden är bara några minuter, perfekt för en snabb paus."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelskärmbilder"
+  },
+  "playerReviews": {
+    "title": "Vad Spelarna Säger",
+    "submitReviewLabel": "Skicka In Din Recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sort the Court är ett underbart litet spel som garanterar timmar av underhållning!",
+        "author": "Emily Thompson"
+      },
+      {
+        "content": "De beslut du fattar påverkar verkligen ditt kungarikes utfall, och jag älskar den aspekten.",
+        "author": "Brian Cooper"
+      },
+      {
+        "content": "Grafiken är bedårande, och musiken är en fin touch. Perfekt för avslappnat spelande.",
+        "author": "Sophia Li"
+      },
+      {
+        "content": "Jag kan inte tro att jag klarade det på 53 dagar! Ett måste för strategientusiaster.",
+        "author": "Alex Russo"
+      },
+      {
+        "content": "Jag önskar att spelet fortfarande var under utveckling. Det är roligt och beroendeframkallande!",
+        "author": "Michael Lee"
+      },
+      {
+        "content": "Ett fantastiskt simuleringsspel som är enkelt men engagerande.",
+        "author": "Lydia Green"
+      },
+      {
+        "content": "Jag kunde inte få det att öppna på min Mac, men det fungerade perfekt på Windows.",
+        "author": "Jordan Hart"
+      },
+      {
+        "content": "Spelet kanske inte uppdateras längre, men det är fortfarande värt att spela!",
+        "author": "Chris Vance"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Är Sort the Court fortfarande under aktiv utveckling?",
+        "answer": "Nej, Sort the Court är för närvarande inte under aktiv utveckling."
+      },
+      {
+        "question": "Vilka plattformar kan jag spela Sort the Court på?",
+        "answer": "Du kan spela Sort the Court på HTML5, Windows och Linux."
+      },
+      {
+        "question": "Finns det några systemkompatibilitetsproblem?",
+        "answer": "Spelet har inte uppdaterats på flera år, så det kanske inte fungerar på nyare system."
+      },
+      {
+        "question": "Hur sparar jag mina framsteg?",
+        "answer": "Spelet har en autolagringsfunktion, så dina framsteg sparas automatiskt."
+      },
+      {
+        "question": "Kan jag spela Sort the Court på Mac?",
+        "answer": "Den nedladdningsbara versionen kanske inte fungerar på Mac, men du kan prova att köra det i en webbläsare."
+      },
+      {
+        "question": "Hur kan jag skicka in en buggrapport?",
+        "answer": "Du kan skicka in buggrapporter via communityforumet."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Rekommenderade Spel",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Reigns",
+        "link": "https://linktogame.com/reigns"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Kingdoms and Castles",
+        "link": "https://linktogame.com/kingdomsandcastles"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Banished",
+        "link": "https://linktogame.com/banished"
+      }
+    ]
+  }
+}

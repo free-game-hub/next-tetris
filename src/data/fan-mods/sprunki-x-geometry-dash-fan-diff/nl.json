@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki X Geometry Dash (Fan Diff.) - Game Review, Rules, and Features",
+    "description": "Ontdek Sprunki X Geometry Dash (Fan Diff.), een spannende fan-made aanpassing van het populaire spel. Ontdek de kenmerken van het spel, de regels en ervaringen van spelers. Perfect voor fans van Geometry Dash.",
+    "keywords": "Sprunki X Geometry Dash, Geometry Dash fan game, Sprunki game review, game features, game rules"
+  },
+  "hero": {
+    "h1": "Sprunki X Geometry Dash (Fan Diff.)",
+    "p": "Een opwindende fan-made versie van Geometry Dash, Sprunki X Geometry Dash (Fan Diff.) biedt nieuwe uitdagingen en spannende gameplay op je scherm. Duik in de wereld van ritmische sprongen en ingewikkelde levels."
+  },
+  "gameFeatures": {
+    "title": "Kenmerken van Sprunki X Geometry Dash (Fan Diff.)",
+    "features": [
+      "Unieke door fans gemaakte levels die je reflexen op de proef stellen",
+      "Levende graphics en meeslepende soundtracks",
+      "Meerdere moeilijkheidsinstellingen om aan alle vaardigheidsniveaus te voldoen",
+      "Compatibiliteit met verschillende apparaten voor een naadloze speelervaring",
+      "Leaderboards om het tegen andere spelers op te nemen"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te spelen Sprunki X Geometry Dash (Fan Diff.)",
+    "instructions": [
+      "Navigeer door uitdagende obstakelparcoursen door op het scherm te tikken.",
+      "Vermijd vallen met nauwkeurige timing.",
+      "Verzamel sterren en bonussen gedurende je reis.",
+      "Master verschillende levels om je score te verhogen.",
+      "Gebruik de oefenmodus om je vaardigheden te verfijnen zonder je rang te beïnvloeden."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spelscreenshots"
+  },
+  "playerReviews": {
+    "title": "Speler Recensies",
+    "submitReviewLabel": "Dien je Recensie in",
+    "nameLabel": "Naam",
+    "reviewLabel": "Recensie",
+    "submitButtonLabel": "Verzenden",
+    "reviews": [
+      {
+        "content": "Sprunki X Geometry Dash is ongelooflijk verslavend! Ik kan niet stoppen met spelen.",
+        "author": "AlexGamer"
+      },
+      {
+        "content": "Deze fanversie geeft een frisse wending aan het originele spel, zeer aan te raden!",
+        "author": "GameLover123"
+      },
+      {
+        "content": "De levels zijn uitdagend maar eerlijk. Perfect voor een doorgewinterde gamer!",
+        "author": "ProDashMaster"
+      },
+      {
+        "content": "Hou van de muziek en graphics. Het dompelt je echt onder in het spel.",
+        "author": "SoundBee"
+      },
+      {
+        "content": "Het heeft even geduurd voordat ik goed werd, maar nu ben ik verslaafd!",
+        "author": "JumpKing"
+      },
+      {
+        "content": "Geweldige manier om de tijd door te brengen, en het draait soepel op mijn apparaat.",
+        "author": "TechyPlayer"
+      },
+      {
+        "content": "De oefenmodus is een redder in nood voor moeilijke levels.",
+        "author": "QuickTap"
+      },
+      {
+        "content": "Een fantastische fanadaptatie die de essentie van Geometry Dash levend houdt.",
+        "author": "FanOfGD"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "questions": [
+      {
+        "question": "Is Sprunki X Geometry Dash (Fan Diff.) gratis om te spelen?",
+        "answer": "Ja, deze fanversie is gratis voor alle gebruikers."
+      },
+      {
+        "question": "Op welke platforms is het spel beschikbaar?",
+        "answer": "Het is beschikbaar op de meeste apparaten, waaronder pc, Android en iOS."
+      },
+      {
+        "question": "Kan ik het tegen vrienden opnemen in het spel?",
+        "answer": "Ja, er zijn leaderboards waar je tegen vrienden kunt concurreren."
+      },
+      {
+        "question": "Zijn er in-app aankopen?",
+        "answer": "Nee, deze fanversie heeft geen in-app aankopen."
+      },
+      {
+        "question": "Heeft het spel advertenties?",
+        "answer": "Deze versie bevat geen advertenties, wat zorgt voor ononderbroken gameplay."
+      },
+      {
+        "question": "Hoe vaak worden er nieuwe levels toegevoegd?",
+        "answer": "Nieuwe levels worden regelmatig door fans toegevoegd om het spel spannend te houden."
+      }
+    ]
+  }
+}

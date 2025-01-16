@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki x Regretevator - Ein kreatives Plattform-Abenteuer",
+    "description": "Entdecke die aufregende Welt von Sprunki x Regretevator, einem Plattformspiel, das einzigartiges Gameplay, charmante Grafiken und knifflige Rätsel vereint. Lerne die Fähigkeiten der Charaktere zu meistern, Hindernisse zu überwinden und Rätsel zu lösen in diesem fesselnden Spiel.",
+    "keywords": "Sprunki x Regretevator, Plattformspiel, Rätsellösung, Gaming-Tipps, Charakterfähigkeiten, Mehrspielermodus"
+  },
+  "hero": {
+    "h1": "Sprunki x Regretevator",
+    "p": "Navigiere durch eine bunte Welt voller Herausforderungen und Rätsel in Sprunki x Regretevator. Nutze einzigartige Charakterfähigkeiten und erkunde die Levels, besiege Feinde und verbessere dein Spielerlebnis."
+  },
+  "gameFeatures": {
+    "title": "Eigenschaften von Sprunki x Regretevator",
+    "features": [
+      "Fesselndes Plattform-Gameplay mit einzigartigen Spielelementen.",
+      "Charmante Grafiken, die die Spielwelt zum Leben erwecken.",
+      "Flüssige Charakterbewegungen für ein nahtloses Gameplay.",
+      "Eingängiger Soundtrack, der das Spielerlebnis verbessert.",
+      "Spezialfähigkeiten von Sprunki und Regretevator für strategisches Spielen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du Sprunki x Regretevator",
+    "instructions": [
+      "Lerne die einzigartigen Fähigkeiten von Sprunki und Regretevator, um Rätsel zu lösen.",
+      "Erkunde jedes Level gründlich nach versteckten Belohnungen.",
+      "Meistere Techniken wie Springen, Rutschen und Wände laufen.",
+      "Nutze die Fähigkeiten der Charaktere strategisch, um Rätsel zu meistern.",
+      "Sammle Gegenstände, um mächtige Charakter-Upgrades freizuschalten."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots von Sprunki x Regretevator"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen zu Sprunki x Regretevator",
+    "submitReviewLabel": "Bewertung abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Abgeben",
+    "reviews": [
+      {
+        "content": "Ein innovatives Spiel mit charmanten Grafiken!",
+        "author": "Alex"
+      },
+      {
+        "content": "Großartige Mischung aus Rätseln und Action. Sehr empfehlenswert!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Ich habe die Charakterfähigkeiten und das Leveldesign geliebt.",
+        "author": "Casey"
+      },
+      {
+        "content": "Fantastisches Spiel! Der Soundtrack ist ebenfalls eingängig.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Herausfordernd und dennoch belohnend. Ein Muss!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Der Mehrspielermodus macht riesigen Spaß mit Freunden!",
+        "author": "Taylor"
+      },
+      {
+        "content": "Beeindruckende Grafiken und flüssige Steuerung.",
+        "author": "Riley"
+      },
+      {
+        "content": "Unglaubliche Detailverliebtheit und fesselnde Handlung.",
+        "author": "Kris"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen zu Sprunki x Regretevator",
+    "questions": [
+      {
+        "question": "Auf welchen Plattformen ist Sprunki x Regretevator verfügbar?",
+        "answer": "Sprunki x Regretevator ist für PC, Mac und die gängigsten Spielkonsolen verfügbar."
+      },
+      {
+        "question": "Kann ich Sprunki x Regretevator mit Freunden spielen?",
+        "answer": "Ja, das Spiel enthält einen Mehrspielermodus für kooperatives Gameplay."
+      },
+      {
+        "question": "Was sind die Systemanforderungen für Sprunki x Regretevator?",
+        "answer": "Für optimale Leistung stelle sicher, dass dein System die auf der offiziellen Website angegebenen Mindestanforderungen erfüllt."
+      },
+      {
+        "question": "Gibt es In-Game-Käufe in Sprunki x Regretevator?",
+        "answer": "Sprunki x Regretevator hat keine In-Game-Käufe; alle Funktionen sind durch das Gameplay zugänglich."
+      },
+      {
+        "question": "Wie kann ich neue Fähigkeiten für meine Charaktere freischalten?",
+        "answer": "Sammle In-Game-Items, um Charakterfähigkeiten freizuschalten und zu verbessern."
+      },
+      {
+        "question": "Wo finde ich Gemeinschaftsunterstützung für Sprunki x Regretevator?",
+        "answer": "Tritt unseren Online-Community-Foren oder Social-Media-Kanälen bei, um Unterstützung zu erhalten und Tipps mit anderen Spielern auszutauschen."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Empfohlene Spiele",
+    "games": [
+      {
+        "image": "sprunked-daytime-demo.jpg",
+        "title": "Sprunked (Tagesdemo)",
+        "link": "/sprunked-daytime-demo"
+      },
+      {
+        "image": "incredibox-v9.jpg",
+        "title": "Incredibox V9",
+        "link": "/incredibox-v9"
+      }
+    ]
+  }
+}

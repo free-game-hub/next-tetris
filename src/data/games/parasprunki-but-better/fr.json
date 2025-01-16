@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Parasprunki mais Mieux Mod - Expérience de Création Musicale Améliorée",
+    "description": "Découvrez le Mod Parasprunki mais Mieux, une version raffinée de Parasprunki 12.0 avec une qualité audio améliorée, des visuels raffinés et une meilleure utilisation pour une expérience de création musicale supérieure.",
+    "keywords": "Parasprunki mais Mieux, mod musical, qualité audio, visuels raffinés, jeu de création musicale"
+  },
+  "hero": {
+    "h1": "Parasprunki mais Mieux",
+    "p": "Le Mod Parasprunki mais Mieux s'appuie sur les bases établies du mod Parasprunki 12.0 et les perfectionne, offrant une expérience de création musicale plus polie, cohérente et agréable."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du Mod Parasprunki mais Mieux",
+    "features": [
+      "Qualité Audio Améliorée : Des tons clairs et vibrants pour que chaque élément brille.",
+      "Visuels Raffinés : Designs plus propres et animations plus fluides.",
+      "Usabilité Améliorée : Interface intuitive pour se concentrer sur la créativité.",
+      "Interface Rationalisée : Réduit les incertitudes pour une navigation facile.",
+      "Expérience Musicale Cohérente : Un gameplay poli et agréable."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer au Mod Parasprunki mais Mieux",
+    "instructions": [
+      "Sélectionner des Personnages : Choisissez parmi un roster réglé pour la clarté et l'équilibre.",
+      "Glisser-Déposer : Disposez les personnages pour superposer des boucles améliorées.",
+      "Expérimenter et Ajuster : Affinez les volumes et ajoutez des effets.",
+      "Sauvegarder et Partager : Enregistrez votre composition et partagez-la avec la communauté.",
+      "Débloquer le Potentiel : Essayez différentes combinaisons pour une expérience unique."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Mod Parasprunki mais Mieux"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettre Votre Avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "J'adore absolument la nouvelle qualité audio de ce mod. Les tons sont si vibrants !",
+        "author": "Gamer123"
+      },
+      {
+        "content": "Les ajustements de l'interface font vraiment la différence. C'est tellement plus facile à utiliser maintenant.",
+        "author": "MusiqueAmateur"
+      },
+      {
+        "content": "Les visuels raffinés aident à distinguer les rôles des personnages pendant la composition. Grande amélioration !",
+        "author": "ArtisteVisuel"
+      },
+      {
+        "content": "La possibilité de sauvegarder et partager des compositions change la donne. J'adore !",
+        "author": "CompositeurPro"
+      },
+      {
+        "content": "Les boucles et mélodies sont parfaitement équilibrées, créant une expérience délicieuse.",
+        "author": "IngénieurSon"
+      },
+      {
+        "content": "Expérimenter avec les volumes et les effets est beaucoup plus facile maintenant. Bravo aux développeurs !",
+        "author": "MaîtreMixeur"
+      },
+      {
+        "content": "J'ai recommandé ce mod à tous mes amis. C'est juste incroyable !",
+        "author": "GamerFille"
+      },
+      {
+        "content": "L'usabilité améliorée m'a permis de me concentrer entièrement sur la créativité. Fantastique !",
+        "author": "EspritCréatif"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Qu'est-ce que le Mod Parasprunki mais Mieux ?",
+        "answer": "C'est une version raffinée du mod Parasprunki 12.0, offrant une qualité audio, des visuels et une usabilité améliorés."
+      },
+      {
+        "question": "Comment sélectionner des personnages ?",
+        "answer": "Choisissez parmi un roster qui a été affiné pour la clarté et l'équilibre."
+      },
+      {
+        "question": "Puis-je sauvegarder et partager mes compositions ?",
+        "answer": "Oui, vous pouvez sauvegarder vos créations et les partager avec la communauté."
+      },
+      {
+        "question": "Quelles nouvelles fonctionnalités ce mod offre-t-il ?",
+        "answer": "Le mod propose des visuels raffinés, une qualité audio améliorée et une interface utilisateur améliorée."
+      },
+      {
+        "question": "Ce mod est-il adapté aux débutants ?",
+        "answer": "Oui, l'interface intuitive le rend accessible aux débutants comme aux joueurs expérimentés."
+      },
+      {
+        "question": "Comment puis-je améliorer mes compositions ?",
+        "answer": "Expérimentez avec les volumes, les effets et différentes combinaisons des nouvelles qualités sonores."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Honey Dress Up: O Jogo de Vestir Mais Fofo",
+    "description": "Descubra a diversão e a criatividade em 'Honey Dress Up', um encantador jogo de vestir com um garotinho fofo! Jogue diretamente no seu PC para a melhor experiência.",
+    "keywords": "Honey Dress Up, jogo de vestir, jogo fofo, vestir online, vestir mobile, gráficos desenhados à mão"
+  },
+  "hero": {
+    "h1": "Honey Dress Up",
+    "p": "Expresse sua criatividade e estilo em 'Honey Dress Up', o jogo de vestir definitivo onde a fofura encontra a diversão!"
+  },
+  "gameFeatures": {
+    "title": "Recursos de Honey Dress Up",
+    "features": [
+      "Personagem masculino adorável e único",
+      "Gráficos atraentes desenhados à mão com estética de MC Paint",
+      "Um vasto guarda-roupa com mais de 100 itens de roupas estilosas",
+      "Inclui uma variedade de trajes de banho para estilos diversificados",
+      "Atualizações regulares garantem novo conteúdo e melhorias"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Honey Dress Up",
+    "instructions": [
+      "Selecione seus itens de vestuário favoritos no extenso guarda-roupa.",
+      "Arraste e solte os itens para vestir o garotinho fofo.",
+      "Use o mouse para um controle preciso no PC para a melhor experiência.",
+      "Compartilhe suas criações únicas de roupas na seção de comentários.",
+      "Aproveite a interface desenhada à mão, sem texto, para um jogo fluido."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "É tão divertido criar roupas! (desculpe pelas minhas abas, não consigo recortar de alguma forma)",
+        "author": "Nova (Ela/Eles)"
+      },
+      {
+        "content": "Muito fofo!",
+        "author": "HARUHI.JIROU"
+      },
+      {
+        "content": "Jogo incrível",
+        "author": "RenKun"
+      },
+      {
+        "content": "Ele é tão fofinho",
+        "author": "T0XI :3"
+      },
+      {
+        "content": "Oh sim, eu me saí muito bem B)",
+        "author": "barfbar"
+      },
+      {
+        "content": "Este jogo é tão engraçado, eu adoro!!! :3",
+        "author": "MuinBrownie!!!"
+      },
+      {
+        "content": "Perfeito",
+        "author": "yapunglin"
+      },
+      {
+        "content": "Eu amo esse garotinho totalmente normal!",
+        "author": "5ummerr"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "Em quais plataformas posso jogar 'Honey Dress Up'?",
+        "answer": "Você pode jogar 'Honey Dress Up' em navegadores da web via HTML5 e no Windows."
+      },
+      {
+        "question": "Qual é a versão mais recente disponível?",
+        "answer": "A versão mais recente de 'Honey Dress Up' foi atualizada em fevereiro de 2024 e está disponível online."
+      },
+      {
+        "question": "Há uma versão para download do jogo?",
+        "answer": "Sim, há uma versão para download, mas é uma versão mais antiga mantida para fins de arquivamento."
+      },
+      {
+        "question": "Posso jogar este jogo no celular?",
+        "answer": "'Honey Dress Up' tem suporte para celular, mas a experiência é ótima em um PC."
+      },
+      {
+        "question": "Que tipo de gráficos o jogo apresenta?",
+        "answer": "'Honey Dress Up' apresenta gráficos desenhados à mão com uma estética de MC Paint."
+      },
+      {
+        "question": "Como posso compartilhar minhas criações de roupas?",
+        "answer": "Você pode compartilhar suas roupas comentando na seção de comentários na página do jogo."
+      }
+    ]
+  }
+}

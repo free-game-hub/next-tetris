@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Irori: Il Viaggio Culinario tra le Terre",
+    "description": "Immergiti nel mondo accogliente in 2.5D di Irori, dove giochi nei panni di uno chef su un treno che attraversa le terre. Cucina deliziosi spiedini con ingredienti fantastici e incontra compagni di viaggio in cerca di conforto.",
+    "keywords": "gioco Irori, gioco di cucina fantasy, treno tra le terre, gioco 2.5D, gioco accogliente, PomePomelo"
+  },
+  "hero": {
+    "h1": "Irori: Il Viaggio Culinario tra le Terre",
+    "p": "Sali a bordo del treno che attraversa le terre e diventa lo chef, preparando deliziosi spiedini per riscaldare i cuori e gli stomaci dei viaggiatori. Goditi un'esperienza accogliente e coinvolgente in un mondo 2.5D morbido e invitante."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche del Gioco",
+    "features": [
+      "Grafica incantevole in 2.5D con design dei personaggi morbido",
+      "Un delizioso assortimento di ingredienti fantastici",
+      "Trama interattiva con un compagno adorabile",
+      "Sessioni di gioco brevi ma soddisfacenti (3-5 minuti)",
+      "Interagisci con i passeggeri attraverso la cucina e storie"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Istruzioni di Gioco",
+    "instructions": [
+      "Seleziona una varietà di spiedini da cucinare utilizzando ingredienti fantastici.",
+      "Regola il tempo di cottura per assicurarti che gli spiedini siano grigliati alla perfezione.",
+      "Interagisci con i passeggeri per conoscere le loro storie e preferenze.",
+      "Sblocca nuovi ingredienti e ricette man mano che procedi.",
+      "Concludi ogni sessione ricevendo feedback dai passeggeri."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot del Gioco"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori",
+    "submitReviewLabel": "Invia la tua Recensione",
+    "nameLabel": "Il tuo Nome",
+    "reviewLabel": "La tua Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "ADOOORO GIÀ QUESTO GIOCO. L'estetica e il gameplay sono incredibilmente rilassanti.",
+        "author": "Soulessvoidd"
+      },
+      {
+        "content": "La cucina in movimento di Howl incontra la narrativa interattiva! Unico e delizioso.",
+        "author": "MultiDarkZen"
+      },
+      {
+        "content": "L'atmosfera pacifica e le deliziose ricette di gioco lo rendono un must nella mia collezione.",
+        "author": "Littlebuddy_2015"
+      },
+      {
+        "content": "Irori è una bellissima fuga. Le storie dei compagni di viaggio sono commoventi.",
+        "author": "Angie"
+      },
+      {
+        "content": "Lo stile artistico è semplicemente fantastico. È carino e magnificamente progettato.",
+        "author": "superlocolillool"
+      },
+      {
+        "content": "Esperienza di gioco breve ma dolce. Non vedo l'ora di ulteriori aggiornamenti!",
+        "author": "Caring_Koala_Bro"
+      },
+      {
+        "content": "Avvincente ma semplice. Un modo accogliente per rilassarsi alla fine di una lunga giornata.",
+        "author": "FRIDAY_NIGHT_FUNKE"
+      },
+      {
+        "content": "Non riesco a giocare per motivi tecnici, ma sembra davvero promettente!",
+        "author": "catstuckinabox"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Domande Frequenti",
+    "questions": [
+      {
+      "question":"Cos’è il 2.5D?",
+      "answer":"Il 2.5D si riferisce a uno stile visivo che combina elementi 2D e 3D, offrendo profondità e prospettiva mantenendo un design dell'interfaccia piatta."
+      },
+      {
+      "question":"Quanto dura ogni sessione di gioco?",
+      "answer":"Ogni sessione dura circa 3-5 minuti, ideale per brevi sessioni di gioco."
+      },
+      {
+      "question":"Posso giocare a Irori su più piattaforme?",
+      "answer":"Sì, Irori è disponibile su piattaforme HTML5, Windows e macOS."
+      },
+      {
+      "question":"Dove posso condividere le mie esperienze di gioco?",
+      "answer":"Puoi condividere le tue esperienze e pensieri nel nostro forum comunitario."
+      },
+      {
+      "question":"Il gioco viene ancora aggiornato?",
+      "answer":"Il team di sviluppo è attualmente in pausa, ma sono previsti aggiornamenti futuri."
+      },
+      {
+      "question":"Chi ha sviluppato Irori?",
+      "answer":"Irori è sviluppato da PomePomelo con contributi di diversi talentuosi designer e programmatori."
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "image": "path/to/other-game1.jpg",
+      "title": "Cucina Mistica: Lo Chef Incantato",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game2.jpg",
+      "title": "Pasti Fantasy: Cronache Culinarie",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game3.jpg",
+      "title": "Frusta Fiabesca: Racconti di Cucine",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game4.jpg",
+      "title": "Odissea Edibile: Il Viaggio Gastronomico",
+      "link": "#"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Sunset Mod: Musik im warmen Licht der Dämmerung erstellen",
+    "description": "Entdecken Sie den Sprunki Sunset Mod, ein Musikschöpfungserlebnis inspiriert von Abendtönen und ruhigen Klanglandschaften. Erfahren Sie, wie man spielt, und genießen Sie die Spielerbewertungen.",
+    "keywords": "Sprunki Sunset Mod, Musikproduktion, von Sonnenuntergängen inspirierte Ästhetik, ruhige Klanglandschaften, Musikspiel"
+  },
+  "hero": {
+    "h1": "Sprunki Sunset Mod",
+    "p": "Tauchen Sie ein in die warmen, goldenen Töne eines späten Nachmittags mit dem Sprunki Sunset Mod. Verwandeln Sie Ihre Musikproduktion in ein entspanntes, nachdenkliches Erlebnis."
+  },
+  "gameFeatures": {
+    "title": "Hauptmerkmale des Sprunki Sunset Mod",
+    "features": [
+      "Von Sonnenuntergängen inspirierte Ästhetik: Nachahmung der Abendpalette des Himmels mit beruhigenden Hintergründen.",
+      "Warme Klanglandschaften: Loops mit sanften Tönen und harmonischen Klängen für kreative Gedanken.",
+      "Entspannte Atmosphäre: Schalten Sie einen Gang runter und entdecken Sie wohltuende und seelenvolle Melodien.",
+      "Charakterauswahl: Wählen Sie Charaktere, die den sanften Geist der Dämmerung repräsentieren.",
+      "Einfaches Teilen: Teilen Sie Ihre musikalischen Kreationen und lassen Sie andere einen Sprunki-Sonnenuntergang erleben."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielen Sie den Sprunki Sunset Mod",
+    "instructions": [
+      "Charaktere auswählen: Wählen Sie aus einer Auswahl, die den sanften Geist der Dämmerung widerspiegelt.",
+      "Ziehen und Ablegen: Arrangieren Sie Klänge, um den sanften Abstieg der Sonne einzufangen.",
+      "Mixen verfeinern: Passen Sie Lautstärke und Effekte an, um Ihren Track zu perfektionieren.",
+      "Speichern und Teilen: Teilen Sie Ihre Kreation und verbreiten Sie die ruhige Schönheit der Dämmerung.",
+      "Geduldig experimentieren: Entdecken Sie Melodien, die die ruhige Stimmung der Dämmerung hervorrufen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots des Sprunki Sunset Mod"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen des Sprunki Sunset Mod",
+    "submitReviewLabel": "Bewertung einreichen",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Einreichen",
+    "reviews": [
+      {
+        "content": "Die Ästhetik ist wie der Anblick eines Sonnenuntergangs im realen Leben. Schön und beruhigend.",
+        "author": "Alice T."
+      },
+      {
+        "content": "Ich liebe die sanften Loops und Klänge, perfekt für eine entspannte Session.",
+        "author": "Mike D."
+      },
+      {
+        "content": "Es ist eine großartige Möglichkeit, sich zu entspannen und etwas Schönes zu erschaffen. Sehr empfehlenswert!",
+        "author": "Julia F."
+      },
+      {
+        "content": "Perfekt für kreative Nächte. Das Sonnenuntergangsthema ist wunderbar umgesetzt.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Ich habe meine Tracks mit Freunden geteilt, und sie lieben die ruhige Stimmung.",
+        "author": "Nina L."
+      },
+      {
+        "content": "Die Benutzeroberfläche ist intuitiv und die Effekte verleihen dem Ganzen den richtigen Touch.",
+        "author": "Tom S."
+      },
+      {
+        "content": "Eine perfekte Mischung aus beruhigenden Bildern und entspannenden Klängen. Großartiges Erlebnis!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Jede Session fühlt sich an wie eine Reise durch eine friedliche Dämmerung.",
+        "author": "Liam P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Was ist der Sprunki Sunset Mod?",
+        "answer": "Sprunki Sunset Mod ist ein Musikspiel, das ein von der Dämmerung inspiriertes Thema mit warmen Klanglandschaften und einer entspannten Atmosphäre bietet."
+      },
+      {
+        "question": "Wie wähle ich Charaktere im Sprunki Sunset Mod aus?",
+        "answer": "Wählen Sie aus einer Auswahl an Charakteren, die den sanften Geist der Dämmerung widerspiegeln, um Ihre Musik zu ergänzen."
+      },
+      {
+        "question": "Kann ich meine Kreationen mit anderen teilen?",
+        "answer": "Ja, sobald Sie mit Ihrem Track zufrieden sind, können Sie ihn speichern und mit anderen teilen."
+      },
+      {
+        "question": "Welche Art von Klängen kann ich von diesem Mod erwarten?",
+        "answer": "Erwarten Sie Loops mit sanften Tönen, wie raschelnden Brisen und fernen Glocken, die dazu entworfen wurden, kreative Gedanken anzuregen."
+      },
+      {
+        "question": "Wie verfeinere ich meinen Mix?",
+        "answer": "Passen Sie Lautstärke an und fügen Sie subtile Effekte hinzu, um Ihren Track zu perfektionieren, bis er die ruhige Stimmung der Dämmerung widerspiegelt."
+      },
+      {
+        "question": "Gibt es ein Tutorial für neue Spieler?",
+        "answer": "Ja, das Spiel enthält intuitive Anleitungen, die Ihnen helfen, mit der Erstellung eigener Tracks zu beginnen."
+      }
+    ]
+  }
+}

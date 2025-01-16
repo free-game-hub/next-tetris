@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - Zorlu Bir Incredibox Modu",
+    "description": "Sprunki x Sprunked'i keşfedin, Sprunked ve Sprunki öğelerini harmanlayan hayran yapımı bir Incredibox modu; yeni karakterler, artırılmış zorluklar ve özgün bir müzik deneyimi sunuyor.",
+    "keywords": "Sprunki x Sprunked, Incredibox mod, Sprunked, Sprunki, ritim oyunu, yeni karakterler, özgün müzik"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "Sprunki x Sprunked'nin eşsiz ritim deneyimine dalın, Sprunked ve Sprunki öğelerini bir araya getiren hayran yapımı bir Incredibox modu."
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Sprunked'in Ana Özellikleri",
+    "features": [
+      "Farklı stillere ve müzikal yeteneklere sahip yeni karakter çeşitliliği",
+      "Karmaşık ritim kalıplarını ustaca yönetmek için artırılmış zorluk",
+      "Karanlık ve daha yoğun bir oyun atmosferi, korku temasıyla",
+      "Sprunked ve Sprunki öğelerini harmanlayan özgün bir müzik",
+      "Her iki moddan da bonus karakterler dahil olmak üzere tüm karakterler",
+      "Oyun deneyimini artıran ilgi çekici crossover unsurları"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki x Sprunked Nasıl Oynanır",
+    "instructions": [
+      "Eşsiz müzikal diziler oluşturmak için karakterlerinizi dikkatlice seçin.",
+      "Zorlu seviyelerde daha yüksek puanlar elde etmek için zamanlamayı ustalaşın.",
+      "Tüm karakter stillerini ve müzikal yeteneklerini keşfederek yaratıcılığınızı geliştirin.",
+      "Ritim doğruluğunu koruyarak yoğun ve karanlık temalarla etkileşime geçin.",
+      "Gerilim dolu senaryolar arasında ilerlerken özgün müziğin tadını çıkarın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Mod inanılmaz derecede zor, karanlık atmosferi beni her zaman tetikte tutuyor.",
+        "author": "Alex K."
+      },
+      {
+        "content": "Crossover unsurları harika; sanki tamamen yeni bir oyun oynuyormuşum gibi!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Özgün müzik harika ve oyunla çok iyi bir uyum sağlıyor.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Başlarda biraz zorlayıcı ama alıştıktan sonra gerçekten ödüllendirici.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Yeni karakterler çok fazla derinlik katıyor; her biri kendine has bir havaya sahip.",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Korku temalı unsurlar ritim oyunu türüne harika bir dokunuş katıyor.",
+        "author": "Robin J."
+      },
+      {
+        "content": "Orijinal modlara gerçek bir yükseltme gibi, son derece bağımlılık yapıcı!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Bazen hatalı olabilir ama genel anlamda harika bir mod, büyük potansiyele sahip.",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Sprunki x Sprunked nedir?",
+        "answer":"Sprunki x Sprunked, hem Sprunked hem de Sprunki modlarından öğeleri birleştiren hayran yapımı bir Incredibox modudur."
+      },
+      {
+        "question":"Özgün modları oynamadan Sprunki x Sprunked oynayabilir miyim?",
+        "answer":"Evet, özgün modlarla deneyim sahibi olmak anlayışınızı geliştirebilir, ancak Sprunki x Sprunked'in tadını çıkarmak için gerekli değildir."
+      },
+      {
+        "question":"Oyunda herhangi bir hata var mı?",
+        "answer":"Bazı karakterler henüz tamamlanmamış olabilir, ancak bu sorunların çözülmesi için güncellemeler bekleniyor."
+      },
+      {
+        "question":"Sprunki x Sprunked ne kadar zor?",
+        "answer":"Mod, oyuncuların karmaşık ritim kalıplarını ustalaşmalarını gerektirecek şekilde tasarlanmıştır."
+      },
+      {
+        "question":"Sprunki x Sprunked'de özgün bir müzik var mı?",
+        "answer":"Evet, mod, her iki moddan öğeleri eşsiz bir şekilde harmanlayan özgün bir müzik sunmaktadır."
+      },
+      {
+        "question":"Sprunki x Sprunked'i nereden indirebilirim?",
+        "answer":"Mod, Incredibox modlama topluluklarından ve forumlarından indirilebilir."
+      }
+    ]
+  }
+}

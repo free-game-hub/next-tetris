@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Die in the Dungeon - Permainan Roguelite Berbasis Dadu yang Unik",
+    "description": "Jelajahi Die in the Dungeon, permainan roguelite unik yang menggantikan kartu dengan dadu. Taklukkan berbagai tantangan di dungeon dan bangkit sebagai pahlawan katak ultimate.",
+    "keywords": "Die in the Dungeon, pembangunan dek, roguelite, permainan dadu, petualangan katak, penjelajahan dungeon, strategi berbasis giliran"
+  },
+  "hero": {
+    "h1": "Die in the Dungeon",
+    "p": "Die in the Dungeon adalah roguelite pembangunan dek yang inovatif di mana kekuatanmu terletak pada lemparan dadu. Hadapi dungeon 2X-lantai dan buktikan keberanianmu!"
+  },
+  "gameFeatures": {
+    "title": "Fitur Die in the Dungeon",
+    "features": [
+      "Terlibat dalam pertempuran berbasis dadu di petualangan rogue pembangunan dek.",
+      "Kumpulkan relik unik untuk meningkatkan keunggulan strategis anda.",
+      "Rasakan sistem acara baru dengan berbagai pertemuan.",
+      "Hadapi musuh baru dan bos yang menantang.",
+      "Temukan berbagai jenis dan properti dadu untuk strategi tanpa batas."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Die in the Dungeon",
+    "instructions": [
+      "Mulailah dengan memilih dadu untuk membangun dek anda.",
+      "Lempar dadu untuk menyerang, bertahan, atau menggunakan kemampuan khusus.",
+      "Rencanakan gerakan anda dengan hati-hati dan antisipasi reaksi musuh.",
+      "Kumpulkan relik dan dadu baru untuk meningkatkan kekuatan anda.",
+      "Navigasikan melalui tata letak dungeon yang kompleks sambil mengatasi musuh."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Masuki Dunia Die in the Dungeon"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain Die in the Dungeon",
+    "submitReviewLabel": "Kirim ulasan anda",
+    "nameLabel": "Nama anda",
+    "reviewLabel": "Ulasan anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Permainan dengan pedang benar-benar membuat komputer saya blue screen, tapi sangat berharga!",
+        "author": "EmanuelKJ"
+      },
+      {
+        "content": "Saya menemukan bug dalam permainan saya, tapi saya tetap mencintai katak-katak lucu itu!",
+        "author": "loseygoosey"
+      },
+      {
+        "content": "Bersenang-senang sampai bos lebah membanjiri dadu madu. Tidak sabar untuk mencoba permainan lagi!",
+        "author": "hanungpurwaka"
+      },
+      {
+        "content": "Permainan ini sangat menyenangkan, banyak pilihan dadu. Bersemangat untuk rilis penuh!",
+        "author": "Jazz Man"
+      },
+      {
+        "content": "Saya suka permainan anda. Jujur ini adalah permainan dungeon terbaik yang pernah saya mainkan!",
+        "author": "GMletsITCH"
+      },
+      {
+        "content": "Baru mencapai lantai 25 dan masih menyukainya! Semoga bisa bermain dengan bos katak sepenuhnya.",
+        "author": "Melitaa"
+      },
+      {
+        "content": "Sedikit bug, tapi saya kecanduan! Tidak bisa berhenti memainkan Die in the Dungeon.",
+        "author": "Zclipse"
+      },
+      {
+        "content": "Permainan yang sangat menyenangkan! Mengingatkan saya sedikit pada Dicey Dungeons, tapi dengan sentuhan unik!",
+        "author": "Zazak"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apa itu Die in the Dungeon?",
+        "answer": "Die in the Dungeon adalah roguelite berbasis giliran dengan pembangunan dek di mana anda menggunakan dadu sebagai pengganti kartu tradisional untuk melanjutkan petualangan dalam dungeon."
+      },
+      {
+        "question": "Bagaimana cara menginstal Die in the Dungeon?",
+        "answer": "Anda dapat mengunduh Die in the Dungeon untuk Windows, macOS, dan Linux dari platform seperti Steam dan Itch.io."
+      },
+      {
+        "question": "Apa saja persyaratan sistemnya?",
+        "answer": "Permainan ini tersedia untuk HTML5, Windows, macOS, dan Linux dan memerlukan spesifikasi sistem dasar untuk kinerja optimal."
+      },
+      {
+        "question": "Apakah ada mode multiplayer?",
+        "answer": "Saat ini, Die in the Dungeon adalah pengalaman pemain tunggal tanpa rencana untuk multiplayer."
+      },
+      {
+        "question": "Bisakah saya menggunakan controller?",
+        "answer": "Permainan ini terutama mendukung input mouse, tetapi mungkin ada opsi tambahan untuk kontrol saat pengembangan berlangsung."
+      },
+      {
+        "question": "Bagaimana saya dapat melaporkan bug atau memberikan umpan balik?",
+        "answer": "Bergabunglah dengan server Discord kami untuk melaporkan masalah atau berbagi umpan balik langsung dengan pengembang."
+      }
+    ]
+  },
+  "recommendedGames": [
+    {
+      "imageUrl": "backpack_hero_thumbnail.jpg",
+      "title": "Backpack Hero",
+      "link": "https://store.steampowered.com/app/example123456"
+    },
+    {
+      "imageUrl": "super_rare_mixtape_thumbnail.jpg",
+      "title": "Super Rare Mixtape",
+      "link": "https://store.steampowered.com/app/example654321"
+    },
+    {
+      "imageUrl": "dicey_dungeons_thumbnail.jpg",
+      "title": "Dicey Dungeons",
+      "link": "https://store.steampowered.com/app/example987654"
+    }
+  ]
+}

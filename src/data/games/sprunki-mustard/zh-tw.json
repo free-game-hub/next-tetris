@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Sprunki Mustard - 創意音樂 DJ 混音遊戲 | 線上音樂創作體驗",
+    "description": "探索 Sprunki Mustard 的音樂世界！在這款創新音樂創作遊戲中，化身 DJ 創造獨特節拍，遊戲中有芥末主題的角色。免費線上遊玩，釋放你的音樂創意！",
+    "keywords": "sprunted, Sprunki Mustard, 音樂遊戲, DJ 遊戲, 混音遊戲, 線上音樂創作, 節奏遊戲, 音樂製作"
+  },
+  "hero": {
+    "h1": "Sprunki Mustard: 釋放你的音樂創意",
+    "p": "沉浸在音樂創作的繽紛世界中，感受篤實的節奏遇上獨特的芥末主題角色。只需幾個點擊，就能將你的音樂想法變成現實！"
+  },
+  "gameFeatures": {
+    "title": "遊戲特色",
+    "features": [
+      "獨特的芥末主題角色，每個角色都有其獨特的音效元素",
+      "直觀的拖放介面，輕鬆創作音樂",
+      "豐富的音效組合，帶來無窮的音樂可能性",
+      "免費線上遊戲，無需下載",
+      "改良的遊戲機制，靈感來自經典的 Incredibox"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩",
+    "instructions": [
+      "選擇你最喜歡的芥末主題角色，每個角色都提供獨特的音效元素",
+      "拖放角色到舞台上開始混音",
+      "嘗試不同的組合以創造獨特的節奏和旋律",
+      "實時微調你的作品",
+      "保存並與朋友分享你的音樂傑作"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評論",
+    "submitReviewLabel": "分享你的體驗",
+    "nameLabel": "你的暱稱",
+    "reviewLabel": "你的評論",
+    "submitButtonLabel": "提交評論",
+    "reviews": [
+      {
+        "content": "作為音樂愛好者，這款遊戲讓我印象深刻。介面乾淨，控制直觀，音樂效果出乎意料的好！",
+        "author": "MusicLover123",
+        "rating": 5
+      },
+      {
+        "content": "超級有趣的音樂創作工具！即使沒有音樂背景，我也能創造出精彩的節拍。強力推薦！",
+        "author": "BeatMaker",
+        "rating": 5
+      },
+      {
+        "content": "芥末主題非常獨特，音效組合無窮無盡。我已經玩了好幾個小時，還在發現新的可能性。",
+        "author": "CreativePlayer",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "Sprunki Mustard 是免費玩的嗎？",
+        "answer": "是的，Sprunki Mustard 在你的瀏覽器中完全免費遊玩，無需下載或安裝。"
+      },
+      {
+        "question": "我需要音樂經驗才能玩嗎？",
+        "answer": "完全不需要！遊戲設計為直觀且易於上手，適合所有人，不論是否有音樂背景。"
+      },
+      {
+        "question": "我能保存我的音樂作品嗎？",
+        "answer": "可以！遊戲包含一個保存功能，可以存儲你的作品，並在之後繼續完善或與朋友分享。"
+      },
+      {
+        "question": "哪些瀏覽器支持這遊戲？",
+        "answer": "該遊戲支持所有現代瀏覽器，包括 Chrome、Firefox、Safari 和 Edge。"
+      },
+      {
+        "question": "提供多少種不同的音效？",
+        "answer": "遊戲提供多種音效，包括節奏、旋律和人聲，允許創造數百種獨特的組合。"
+      },
+      {
+        "question": "為什麼是芥末主題？",
+        "answer": "芥末主題是一個獨特的設計選擇，不僅讓遊戲在視覺上與眾不同，還增添了趣味性和記憶點。"
+      }
+    ]
+  }
+}

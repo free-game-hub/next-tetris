@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "title": "Baba is You - Juego de Rompecabezas Innovador",
+        "description": "Descubre 'Baba is You', un juego de rompecabezas galardonado donde cambias las reglas para resolver desafíos. ¡Prueba tu lógica y creatividad ahora!",
+        "keywords": "Baba is You, juego Baba is You, juego de rompecabezas, juego de rompecabezas creativo, juego indie"
+    },
+    "hero": {
+        "h1": "Baba is You - ¡Cambia las Reglas, Desafía tu Lógica!",
+        "p": "'Baba is You' es un juego de rompecabezas único donde manipulas bloques de reglas para crear formas completamente nuevas de resolver rompecabezas. Sumérgete en este juego aclamado por la crítica y desata tu creatividad!"
+    },
+    "gameFeatures": {
+        "title": "Características del Juego",
+        "features": [
+            "Mecánicas innovadoras: Cambia las reglas del juego moviendo bloques de reglas.",
+            "Diseño de niveles diverso: Más de 200 niveles para desafiar tu pensamiento lógico.",
+            "Soporte multiplataforma: Disponible en PC, Nintendo Switch, Google Play y App Store.",
+            "Juego galardonado: Ganador del Premio al Mejor Diseño del Festival de Juegos Independientes y del Premio del Público.",
+            "Creatividad sin límites: Explora innumerables soluciones y deja volar tu imaginación."
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Cómo Jugar",
+        "instructions": [
+            "Descarga e instala 'Baba is You' en tu dispositivo.",
+            "Familiarízate con bloques de reglas básicos como 'Baba Es Tú' y 'Bandera Es Victoria'.",
+            "Mueve bloques de reglas para modificar la lógica del juego y alcanzar tus objetivos.",
+            "Completa los objetivos del nivel (por ejemplo, tocar la bandera) para ganar.",
+            "¡Disfruta del juego mientras desafías tu lógica y creatividad!"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Capturas de Pantalla del Juego"
+    },
+    "playerReviews": {
+        "title": "Reseñas de Jugadores",
+        "submitReviewLabel": "Envía Tu Reseña",
+        "nameLabel": "Tu Nombre",
+        "reviewLabel": "Tu Reseña",
+        "submitButtonLabel": "Enviar",
+        "reviews": [
+            {
+                "content": "¡'Baba is You' es un juego alucinante! La libertad de manipular reglas lo hace increíblemente divertido.",
+                "author": "John Doe",
+                "rating": 5
+            },
+            {
+                "content": "El diseño de este juego es tan creativo que cada nivel se siente desafiante pero extremadamente gratificante.",
+                "author": "Jane Smith",
+                "rating": 5
+            },
+            {
+                "content": "Desde el estilo de arte hasta la jugabilidad, 'Baba is You' es un soplo de aire fresco. ¡Altamente recomendado para los fanáticos de los rompecabezas!",
+                "author": "Alex Johnson",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Preguntas Frecuentes",
+        "questions": [
+            {
+                "question": "¿En qué plataformas está disponible 'Baba is You'?",
+                "answer": "El juego está disponible en PC, Nintendo Switch, Google Play y App Store."
+            },
+            {
+                "question": "¿Es el juego adecuado para todas las edades?",
+                "answer": "Sí, 'Baba is You' es un juego de rompecabezas adecuado para jugadores de todas las edades."
+            },
+            {
+                "question": "¿El juego incluye compras dentro de la aplicación?",
+                "answer": "El juego es una compra única e incluye todos los niveles sin compras adicionales dentro de la aplicación."
+            },
+            {
+                "question": "¿Dónde puedo descargar 'Baba is You'?",
+                "answer": "Puedes descargar el juego desde las principales plataformas como Steam, Google Play y el App Store."
+            },
+            {
+                "question": "¿El juego soporta múltiples idiomas?",
+                "answer": "Sí, 'Baba is You' soporta múltiples idiomas, incluidos el inglés y el chino."
+            },
+            {
+                "question": "¿Hay recursos comunitarios o guías disponibles?",
+                "answer": "Puedes encontrar recursos comunitarios y guías en varias plataformas de redes sociales y foros."
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunked Gündüz Demo - Kendi Müzikal Maceranı Yarat",
+    "description": "Sprunked Gündüz Demo dünyasına dalın, Sprunki ve Incredibox unsurlarını birleştiren benzersiz bir müzik oyunu. Kullanımı kolay bir arayüz ile kendi melodilerinizi oluşturun ve yaratıcılığınızı dünyayla paylaşın.",
+    "keywords": "Sprunked, Sprunked Gündüz Demo, Sprunki, Incredibox, müzik oyunu, müzik yarat, müzik macerası"
+  },
+  "hero": {
+    "h1": "Sprunked (Gündüz Demo)",
+    "p": "Sprunked ile müzikal bir yolculuğa çıkın, burada yaratıcılık eğlence ile buluşuyor! Eşsiz melodiler oluşturun ve sınırsız müzikal olasılıkları keşfedin."
+  },
+  "gameFeatures": {
+    "title": "Sprunked'in Özellikleri",
+    "features": [
+      "Kesintisiz Scratch Arayüzü: Anında müzik yapmaya başlamak için kolay.",
+      "Eklektik Ses Kütüphanesi: Eğlenceli seslerin çeşitli yelpazesi.",
+      "Sonsuz Müzikal Keşif: Melodilerinizle sınırsız yaratıcılık.",
+      "Yaratımlarınızı Artırın: Şaheserlerinizi dünya ile paylaşın.",
+      "Yeni Özellikleri Açın: Oynarken daha fazla karakter ve ses keşfedin."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunked Gündüz Demo Nasıl Oynanır",
+    "instructions": [
+      "Karakterinizi Seçin: Eşsiz seslere sahip sıradışı bir karakter seçin.",
+      "Arayüzü Keşfedin: Çeşitli sesleri ve efektleri bulun ve kullanın.",
+      "Sesleri Keşfetmek için Scratch Yapın: Gizli ses kliplerini ortaya çıkarın.",
+      "Melodilerinizi Bestele: Sesleri katmanlayın ve birleştirerek eşsiz parçalar oluşturun.",
+      "Yaratımlarınızı Paylaşın: Müziğinizi çevrimiçi veya arkadaşlarınızla sergileyin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunked Gündüz Demo Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Değerlendirmenizi Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Değerlendirme",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Arayüzü kesinlikle seviyorum, basit ve sezgisel!",
+        "author": "Alice"
+      },
+      {
+        "content": "Ses kütüphanesi o kadar çeşitli ki, saatlerce içerik üretiyorum.",
+        "author": "Bob"
+      },
+      {
+        "content": "Yaratıcı olmak ve rahatlamak için harika bir yol.",
+        "author": "Charlie"
+      },
+      {
+        "content": "Yaratımlarımı paylaşmak hiç bu kadar eğlenceli olmamıştı.",
+        "author": "Dana"
+      },
+      {
+        "content": "Yeni özellikleri açmak oyunu taze tutuyor.",
+        "author": "Eli"
+      },
+      {
+        "content": "Sürükleyici ve müzikal yaratıcılığımı canlı tutuyor!",
+        "author": "Frank"
+      },
+      {
+        "content": "Topluluk o kadar ilham verici, işbirliği yapmayı seviyorum.",
+        "author": "Grace"
+      },
+      {
+        "content": "Müzik seven herkes için mutlaka oynanması gereken bir oyun.",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunked ile İlgili Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Incredibox Sprunked nedir?",
+        "answer": "Ritimleri harmanlama ve tuhaf karakterlerle yaratıcılığı keşfetme için ilgi çekici bir platformdur."
+      },
+      {
+        "question": "Sprunki Sprunked'in özellikleri nelerdir?",
+        "answer": "Seslerle, cazip karakterlerle ve müzik deneyiminizi geliştiren efektlerle doludur."
+      },
+      {
+        "question": "Sprunked'in arkasındaki hikaye nedir?",
+        "answer": "Her karakterin sizin yolculuğunuza kişilik kattığı, taze bir deneyim sunmak için yaratılmıştır."
+      },
+      {
+        "question": "Sprunked topluluğunun Incredibox'a tepkisi nedir?",
+        "answer": "Sürükleyici deneyimi nedeniyle çok seviliyor, geniş bir kitleye hitap ediyor."
+      },
+      {
+        "question": "Oyuncular neden Sprunked oynamayı sevmeli?",
+        "answer": "Eğlenceli tarzları, görselleri ve sonsuz yaratıcı ifade için."
+      },
+      {
+        "question": "Sprunked'i özel kılan nedir?",
+        "answer": "Yeni sesler, görseller ve etkileşimlilik deneyimi, önceki oyunların ötesine taşıyor."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Sizin İçin Önerilenler",
+    "games": [
+      {
+        "title": "Sprunki Dandy'nin Dünyası",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Kıyameti",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

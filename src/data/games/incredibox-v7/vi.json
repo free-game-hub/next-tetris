@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7: Tạo Giai Điệu Âm Nhạc Của Bạn",
+    "description": "Chơi Incredibox V7, một trò chơi âm nhạc sáng tạo nơi bạn điều khiển Incredicrew để tạo ra những giai điệu độc đáo. Khám phá các tính năng, quy tắc và đánh giá của người chơi.",
+    "keywords": "Incredibox V7, trò chơi âm nhạc, Incredicrew, tạo giai điệu, tính năng Incredibox"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Khám phá thế giới của Incredibox V7 và giải phóng sự sáng tạo âm nhạc của bạn. Điều khiển Incredicrew để tạo ra những giai điệu và nhịp điệu độc đáo của riêng bạn."
+  },
+  "gameFeatures": {
+    "title": "Tính Năng Trò Chơi Incredibox V7",
+    "features": [
+      "Điều khiển Incredicrew - mỗi nhân vật có khả năng âm thanh độc đáo.",
+      "Nhiều phong cách và chủ đề âm nhạc đa dạng để khám phá.",
+      "Sáng tạo vô tận mà không có cách chơi đúng hay sai.",
+      "Chia sẻ những sáng tác âm nhạc của bạn với cộng đồng.",
+      "Giao diện thân thiện với người dùng cho cả điều khiển bằng chuột và bàn phím."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Incredibox V7",
+    "instructions": [
+      "Chọn Nhân Vật: Lựa chọn từ nhiều nhân vật khác nhau, mỗi nhân vật có khả năng và hoạt ảnh đặc biệt.",
+      "Chọn một Bài Hát: Chọn phong cách âm nhạc hoặc chủ đề yêu thích của bạn để bắt đầu sáng tạo.",
+      "Cách Chơi: Kết hợp âm thanh và nhịp điệu để tạo ra một giai điệu độc đáo.",
+      "Sử Dụng Chuột: Nhấp vào các nhân vật để thêm hoặc bớt âm thanh.",
+      "Sử Dụng Bàn Phím: Sử dụng phím tắt để thao tác âm thanh nhanh chóng."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình Incredibox V7"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi Về Incredibox V7",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên Của Bạn",
+    "reviewLabel": "Đánh Giá Của Bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Incredibox V7 thật sự là một cách thú vị để khám phá việc sáng tạo âm nhạc!",
+        "author": "Alice"
+      },
+      {
+        "content": "Tôi thích những sự kết hợp âm thanh khác nhau bạn có thể tạo ra. Thật là vui không ngừng!",
+        "author": "John"
+      },
+      {
+        "content": "Các nhân vật rất độc đáo, và việc tạo nhịp điệu thật sự gây nghiện.",
+        "author": "Maya"
+      },
+      {
+        "content": "Thật tuyệt vời khi bạn có thể sáng tạo thế nào. Không có hai giai điệu nào giống nhau cả!",
+        "author": "Liam"
+      },
+      {
+        "content": "Chia sẻ những sáng tác của tôi với bạn bè là phần thú vị nhất!",
+        "author": "Sophia"
+      },
+      {
+        "content": "Các phím tắt trên bàn phím giúp tôi dễ dàng chuyển đổi âm thanh nhanh chóng.",
+        "author": "Henry"
+      },
+      {
+        "content": "Trò chơi tuyệt vời cho cả trẻ em và người lớn yêu thích âm nhạc.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 đã trở thành lựa chọn của tôi để thư giãn sáng tạo.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp Về Incredibox V7",
+    "questions": [
+      {
+        "question": "Incredibox V7 là gì?",
+        "answer": "Incredibox V7 là một trò chơi âm nhạc nơi bạn có thể tạo ra những giai điệu độc đáo bằng cách điều khiển một nhóm nhân vật được gọi là Incredicrew."
+      },
+      {
+        "question": "Làm thế nào để tôi bắt đầu chơi Incredibox V7?",
+        "answer": "Để bắt đầu chơi, chọn một nhân vật và một phong cách bài hát. Sau đó, kết hợp các âm thanh khác nhau để tạo ra giai điệu của bạn."
+      },
+      {
+        "question": "Tôi có thể chơi Incredibox V7 bằng bàn phím không?",
+        "answer": "Có, bạn có thể sử dụng các phím tắt để thêm hoặc bớt âm thanh nhanh chóng."
+      },
+      {
+        "question": "Có nhiều phong cách âm nhạc khác nhau trong Incredibox V7 không?",
+        "answer": "Có, trò chơi cung cấp nhiều phong cách và chủ đề để lựa chọn."
+      },
+      {
+        "question": "Có cách nào để chia sẻ sáng tác của tôi không?",
+        "answer": "Chắc chắn, bạn có thể chia sẻ những sáng tác âm nhạc của mình với các người chơi khác trong cộng đồng."
+      },
+      {
+        "question": "Incredibox V7 có phù hợp với mọi lứa tuổi không?",
+        "answer": "Có, Incredibox V7 là một trò chơi thú vị và sáng tạo phù hợp cho cả trẻ em và người lớn."
+      }
+    ]
+  }
+}

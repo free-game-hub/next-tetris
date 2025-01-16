@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 11 - 혁신적인 비트와 사운드로 음악 만들기",
+    "description": "Incredibox에서 영감을 받은 음악 중심의 게임 Sprunki Phase 11을 탐험해보세요. 보컬 루프를 믹싱하고, 사운드를 배열하며, 당신의 음악적 창작을 혁신하세요.",
+    "keywords": "Sprunki Phase 11, 음악 게임, 비트박싱, 사운드 창작, 보컬 루프, 게임 디자인"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 11",
+    "p": "Sprunki Phase 11의 풍부한 사운드 세계에 몰입하여 창의성과 음악 혁신을 만끽해보세요."
+  },
+  "gameFeatures": {
+    "title": "게임 특징",
+    "features": [
+      "보컬 및 악기 루프를 활용한 혁신적인 사운드 레이어링",
+      "사용하기 편리한 드래그 앤 드롭 인터페이스",
+      "창의력을 높이는 도전 모드 제공",
+      "시각 디자인 개선",
+      "인터랙티브하고 몰입감 넘치는 게임 메커니즘"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Phase 11 플레이 방법",
+    "instructions": [
+      "캐릭터 선택: 독특한 사운드를 가진 다양한 캐릭터 중에서 선택하세요.",
+      "드래그 앤 드롭: 게임 인터페이스에 캐릭터를 레이어하여 트랙을 작성하세요.",
+      "실험: 순서와 타이밍을 조절하여 혁신적인 사운드를 만들어 보세요.",
+      "도전 과제 완료: 더욱 재미있게 즐길 수 있는 목표에 참여하세요.",
+      "음악 즐기기: 당신만의 독특한 곡을 감상하고 공유하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "게임 스크린샷"
+  },
+  "playerReviews": {
+    "title": "플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 11은 최고의 단계입니다! 음악 조합은 무궁무진해요.",
+        "author": "알렉스 T."
+      },
+      {
+        "content": "새로운 비주얼과 캐릭터가 너무 마음에 들어요. 음악 만드는 것이 정말 재미있어요!",
+        "author": "사만다 R."
+      },
+      {
+        "content": "Phase 11의 도전 과제 덕분에 몇 시간 동안 몰입할 수 있어요.",
+        "author": "조던 P."
+      },
+      {
+        "content": "음악과 창의력을 사랑하는 사람들에게 좋은 게임이에요.",
+        "author": "크리스 M."
+      },
+      {
+        "content": "드래그 앤 드롭 기능이 정말 직관적이에요. 계속해서 플레이하고 싶어요!",
+        "author": "제스 F."
+      },
+      {
+        "content": "Sprunki의 업데이트는 갈수록 더 좋아져요. Phase 11은 혁신적이에요!",
+        "author": "패트 L."
+      },
+      {
+        "content": "Incredibox 팬이라면 반드시 플레이해야 할 게임이에요!",
+        "author": "제이미 W."
+      },
+      {
+        "content": "Sprunki Phase 11은 음악 작곡을 모든 사람이 즐길 수 있는 재미있는 활동으로 바꿨어요.",
+        "author": "테일러 G."
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "questions": [
+      {
+      "question": "Sprunki Phase 11은 어떤 플랫폼에서 이용할 수 있나요?",
+      "answer": "Sprunki Phase 11은 PC, iOS 및 Android를 포함한 다양한 플랫폼에서 이용할 수 있습니다."
+      },
+      {
+      "question": "Sprunki Phase 11에서 만든 음악을 어떻게 공유하나요?",
+      "answer": "작곡이 완료되면 게임 내에서 소셜 미디어 플랫폼을 통해 곡을 공유할 수 있습니다."
+      },
+      {
+      "question": "Sprunki Phase 11에 인앱 구매가 있나요?",
+      "answer": "네, Sprunki Phase 11은 추가 사운드 및 캐릭터에 대한 인앱 구매를 제공합니다."
+      },
+      {
+      "question": "Sprunki Phase 11을 오프라인으로 플레이할 수 있나요?",
+      "answer": "네, 제한된 기능으로 오프라인 모드에서 Sprunki Phase 11을 즐길 수 있습니다."
+      },
+      {
+      "question": "게임를 배우는 데 도움이 되는 튜토리얼이 있나요?",
+      "answer": "네, 새로운 플레이어가 사운드 창작의 기본을 안내하는 포괄적인 튜토리얼이 있습니다."
+      },
+      {
+      "question": "Sprunki Phase 11은 어떤 연령층에 적합한가요?",
+      "answer": "Sprunki Phase 11은 8세 이상의 플레이어에게 적합합니다."
+      }
+    ]
+  }
+}

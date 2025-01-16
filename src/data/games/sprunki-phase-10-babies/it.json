@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 Babies - Un'Esperienza Musicale Deliziosa a Tema Neonato",
+    "description": "Scopri Sprunki Phase 10 Babies, un mod unico con personaggi a tema neonato e paesaggi sonori rilassanti. Crea composizioni serene con facilità.",
+    "keywords": "Sprunki Phase 10 Babies, musica a tema neonato, mod musicale, ninnananne, gioco Sprunki"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10 Babies",
+    "p": "Immergiti in un’esperienza musicale serena con il Mod di Sprunki Phase 10 Babies, dove innocenza e tenerezza sono al centro della scena."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche Chiave di Sprunki Phase 10 Babies",
+    "features": [
+      "Personaggi a Tema Neonato: Design adorabili e animazioni delicate che catturano l'essenza dell'infanzia.",
+      "Paesaggi Sonori Morbidi: Esplora percussioni leggere e melodie rilassanti che evocano ninnananne.",
+      "Atmosfera Rallegrante: Crea composizioni calde e confortanti che ricordano momenti di tranquillità.",
+      "Facile Personalizzazione: Regola volumi ed effetti per un mix perfettamente sereno.",
+      "Condivisione nella Comunità: Condividi le tue melodie delicate con la comunità di Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare a Sprunki Phase 10 Babies",
+    "instructions": [
+      "Seleziona i Personaggi: Scegli tra figure ispirate ai neonati che rappresentano suoni unici.",
+      "Trascina e Rilascia: Disponi le figure sullo schermo per sovrapporre loop delicati.",
+      "Ottimizza il Tuo Mix: Regola volumi ed effetti per una composizione serena.",
+      "Salva e Condividi: Salva le tue tracce e diffondi il fascino nella comunità.",
+      "Esplora Combinazioni: Sperimenta per scoprire i tuoi arrangiamenti rilassanti preferiti."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot di Sprunki Phase 10 Babies"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori su Sprunki Phase 10 Babies",
+    "submitReviewLabel": "Invia la Tua Recensione",
+    "nameLabel": "Nome",
+    "reviewLabel": "Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "Adoro i personaggi adorabili in questo mod, e la musica è così rilassante!",
+        "author": "Alice"
+      },
+      {
+        "content": "Sprunki Phase 10 Babies è perfetto per rilassarsi. Le ninnananne sono magiche.",
+        "author": "John"
+      },
+      {
+        "content": "Un tocco unico all'esperienza di Sprunki con i suoi elementi a tema neonato. Semplicemente incantevole!",
+        "author": "Maria"
+      },
+      {
+        "content": "Da genitore, questo mod mi risuona. Anche i miei bambini godono dei suoni giocosi!",
+        "author": "Tom"
+      },
+      {
+        "content": "I morbidi paesaggi sonori sembrano un abbraccio caloroso. Perfetto per il relax.",
+        "author": "Sophie"
+      },
+      {
+        "content": "Facile creare belle composizioni. Lo consiglio vivamente!",
+        "author": "Daniel"
+      },
+      {
+        "content": "Un mod innovativo e delizioso che porta una nuova prospettiva a Sprunki.",
+        "author": "Ella"
+      },
+      {
+        "content": "Impressionato dall'atmosfera delicata. Sembra davvero un viaggio attraverso le ninnananne.",
+        "author": "James"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Domande Frequenti su Sprunki Phase 10 Babies",
+    "questions": [
+      {
+        "question":"Che cos'è Sprunki Phase 10 Babies?",
+        "answer":"È un mod del gioco Sprunki con personaggi a tema neonato e paesaggi sonori rilassanti."
+      },
+      {
+        "question":"Come inizio a giocare a Sprunki Phase 10 Babies?",
+        "answer":"Seleziona il tuo personaggio a tema neonato e inizia a disporli sullo schermo per creare composizioni musicali."
+      },
+      {
+        "question":"Posso salvare e condividere le mie composizioni?",
+        "answer":"Sì, puoi salvare le tue creazioni e condividerle all'interno della comunità di Sprunki."
+      },
+      {
+        "question":"Sprunki Phase 10 Babies è adatto a tutte le età?",
+        "answer":"Assolutamente, la natura delicata e confortante del gioco attrae sia i giovani che i giocatori più adulti."
+      },
+      {
+        "question":"Cosa rende questo mod differente dall'originale Sprunki?",
+        "answer":"Questo mod si concentra sull'estetica a tema neonato e su paesaggi sonori sereni, offrendo un'esperienza di gioco più dolce."
+      },
+      {
+        "question":"Posso personalizzare le combinazioni sonore?",
+        "answer":"Sì, puoi regolare volumi ed effetti per creare il tuo mix sereno ideale."
+      }
+    ]
+  }
+}

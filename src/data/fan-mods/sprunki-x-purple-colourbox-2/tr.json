@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Mor Menüsü - Canlı Bir Oyun Deneyimi",
+    "description": "Sprunki Mor Modu'nun tek renkli dünyasını keşfedin, yaratıcılığın eşsizlikle buluştuğu yer. Oyun özelliklerini, oyun talimatlarını, kullanıcı yorumlarını ve sıkça sorulan soruları keşfedin.",
+    "keywords": "Sprunki Mor Modu, tek renkli mor oyun, eşsiz oyun deneyimi, müzik yaratma oyunu"
+  },
+  "hero": {
+    "h1": "Sprunki Mor Modu",
+    "p": "Sınırsız yaratıcılığın hakim olduğu Sprunki Mor Modu'nun eşsiz tek renkli mor dünyasına dalın."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Mor Modu Oyun Özellikleri",
+    "features": [
+      "Tek Renkli Mor Paleti: Her şeyin mor bir atmosfere büründüğü bir evrene dalın.",
+      "Yenilikçi Galeri: Sadece görsel güzellik için bile olsa, farklı bir bakış açısıyla galeriyi keşfedin.",
+      "Tek Renkli Karakter Tasarımı: Tek renk tasarıma sahip, kendine özgü karakterler.",
+      "Özel Elektronik Müzik: Heyecan katacak elektronik seslerden oluşan bir koleksiyonun keyfini çıkarın.",
+      "Sonsuz Müzik Yaratma: Her karakterin kendine özgü sesi, sonsuz melodi olanağı sunar."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Mor Modu Nasıl Oynanır",
+    "instructions": [
+      "Karakterleri Seçin: Orijinal Incredibox'tan 6 müzik parçası seçin.",
+      "Sürükleyip Bırakın: Ses oluşturmak için yirmi simgeden birini yedi direğe yerleştirin.",
+      "Eşsiz Müzik Karışımları Oluşturun: Her karakterin sesi farklı olduğu için sonsuz müzikal yaratıcılık sunar.",
+      "İlk Hata: On ikinci karakter olan Simon'u yerleştirirken fazladan bir direk kalabilir.",
+      "İkinci Hata: Galeriden çıkmak, eksik bir çıkış düğmesi nedeniyle zordur."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Sprunki Mor Modu için Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Mor renk teması gerçekten bu oyunu farklı kılıyor. Büyüleyici!",
+        "author": "Alice"
+      },
+      {
+        "content": "Eşsiz karakter sesleri ile melodiler oluşturmak harika.",
+        "author": "Ben"
+      },
+      {
+        "content": "Elektronik müzik çok hoş, oyuna çok şey katıyor.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Galeri özelliği geliştirilmesi gerekiyor ama yine de ilginç.",
+        "author": "David"
+      },
+      {
+        "content": "Biraz hata var ama yine de çok eğlenceli bir oyun.",
+        "author": "Eve"
+      },
+      {
+        "content": "Mor tasarım görsel olarak çekici ve yenilikçi.",
+        "author": "Frank"
+      },
+      {
+        "content": "Geleneksel müzik oyunu türüne yaratıcı bir dokunuş.",
+        "author": "Grace"
+      },
+      {
+        "content": "Daha fazla güncelleme görmek isterim, ama genel olarak gerçekten eğlenceli!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Sprunki Mor Modu nedir?",
+        "answer": "Tüm görsel unsurların mor renk şemasına hakim olduğu, benzersiz bir sanat tarzı sunan bir oyun."
+      },
+      {
+        "question": "Galeri neden çıkış düğmesine sahip değil?",
+        "answer": "Bu bilinen bir hata. Gelecek güncellemelerde çıkış düğmesi eklemek için çalışıyoruz."
+      },
+      {
+        "question": "Her karakterin sesi mi benzersiz?",
+        "answer": "Evet, her karakterin kendine özgü bir sesi var ve sonsuz müzikal olasılıklar sunuyor."
+      },
+      {
+        "question": "Bu oyunu mobilde oynayabilir miyim?",
+        "answer": "Şu anda oyun masaüstü oynamaya optimize edilmiştir."
+      },
+      {
+        "question": "Orijinal modun sahibi kimdir?",
+        "answer": "Orijinal mod, mor renk kutusu v6 olarak bilinen Freepies'e aittir."
+      },
+      {
+        "question": "Bir hatayı nasıl rapor edebilirim?",
+        "answer": "Lütfen web sitemizdeki yardım bölümünden destek ekibimizle iletişime geçin."
+      }
+    ]
+  }
+}

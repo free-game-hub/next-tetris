@@ -1,0 +1,122 @@
+
+{
+  "metadata": {
+    "title": "Purrgatory - A Whimsical Afterlife Visual Novel",
+    "description": "Explore the enchanting world of Purrgatory, a visual novel about an afterlife where time stands still. Meet quirky characters, solve mysteries, and enjoy a lovingly hand-drawn experience.",
+    "keywords": "Purrgatory, visual novel, afterlife game, point-and-click, whimsical characters, game features"
+  },
+  "hero": {
+    "h1": "Purrgatory - A Whimsical Afterlife Adventure",
+    "p": "Dive into Purrgatory, a visual novel full of whimsy. Explore, befriend charming characters, and discover that 'furever' isn't so bad!"
+  },
+  "gameFeatures": {
+    "title": "Purrgatory Game Features",
+    "features": [
+      "Engaging Point-and-Click Exploration",
+      "Hand-Drawn Visual with Charming Characters",
+      "Multiple Endings and Story-rich Experience",
+      "Available in English, Spanish, and Simplified Chinese",
+      "Winner of the 'I Can't Draw' Game Jam"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play Purrgatory",
+    "instructions": [
+      "Interact with the world using your mouse.",
+      "Use the keyboard for quick navigation.",
+      "Explore different locations to uncover secrets.",
+      "Solve puzzles to progress through the story.",
+      "Engage with characters to learn their stories."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Purrgatory Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "What Players Are Saying About Purrgatory",
+    "submitReviewLabel": "Submit Your Review",
+    "nameLabel": "Name",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Submit",
+    "reviews": [
+      {
+        "content": "Stuck at the blackout part but got help from the community! Love how cooperative everyone is!",
+        "author": "Blormp"
+      },
+      {
+        "content": "The atmosphere and character friendships are delightful. Can't stop thinking about it!",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "Came back to finish it after a year. Blessed to have experienced this beautiful story.",
+        "author": "kayak"
+      },
+      {
+        "content": "The characters are so well thought out. The game's good ending left me awestruck.",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatory offers a unique personality for each character that matches their animal form.",
+        "author": "dizie"
+      },
+      {
+        "content": "An absolute wholesome journey with hilarious puns!",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "Beautiful story and compelling characters that hooked me instantly.",
+        "author": "Maple"
+      },
+      {
+        "content": "This game's simplicity captures the essence of life's simplicity and joys.",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Frequently Asked Questions",
+    "questions": [
+      {
+        "question":"What platforms is Purrgatory available on?",
+        "answer":"Purrgatory can be played on HTML5 and Windows platforms."
+      },
+      {
+        "question":"How do I solve the puzzle when the lights go out?",
+        "answer":"Try visiting Natalie's place to get a candle as a light source."
+      },
+      {
+        "question":"Are there multiple endings to the game?",
+        "answer":"Yes, Purrgatory features multiple endings based on your choices."
+      },
+      {
+        "question":"What languages is Purrgatory available in?",
+        "answer":"It is available in English, Spanish, and Simplified Chinese."
+      },
+      {
+        "question":"Is there a soundtrack available for Purrgatory?",
+        "answer":"Yes, the original soundtrack can be streamed on various platforms."
+      },
+      {
+        "question":"What should I do if the game doesn't start?",
+        "answer":"Try refreshing the page or using another browser. For better performance, download the Windows version."
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "A Whimsical Journey",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "Dreamy Afterlife",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "Mystical Adventures",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

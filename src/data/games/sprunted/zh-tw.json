@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "Sprunted - 創意十足的模組，擁有全新角色設計",
+    "description": "Sprunted 是 Sprunk 的粉絲製作模組，推出全新的角色外觀、服裝、髮型、配件和表情。發掘這個由社群支持的獨特創意遊戲體驗！",
+    "keywords": "sprunted, sprunted 模組, sprunk 模組, 遊戲模組, sprunted 角色設計, sprunted 遊戲"
+  },
+  "hero": {
+    "h1": "Sprunted - 滿載創意的模組",
+    "p": "Sprunted 是 Sprunk 的粉絲製作模組，透過新元素和獨特風格重新定義角色設計。加入冒險，探索這個由社群推動創造的特有設計和遊戲玩法！"
+  },
+  "gameFeatures": {
+    "title": "Sprunted 的特色",
+    "features": [
+      "全新角色設計，包括服裝、髮型、配件和表情",
+      "粉絲創建的模組，為原遊戲增添創意和創新",
+      "保留 Sprunk 的核心玩法，並引入新元素",
+      "廣泛的角色自定義選項以適合每個玩家的風格",
+      "非常適合喜愛創意和個性化遊戲體驗的玩家"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunted",
+    "instructions": [
+      "下載並安裝 Sprunted 模組至您的 Sprunk 遊戲。",
+      "選擇新角色並自定義他們的外觀和配件。",
+      "用新角色探索獨特的關卡和挑戰。",
+      "與朋友分享您的遊戲體驗並加入社區討論。",
+      "保持您的模組更新以享受最新內容和改進。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunted 遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家對 Sprunted 的評價",
+    "submitReviewLabel": "提交您的評價",
+    "nameLabel": "您的名字",
+    "reviewLabel": "您的評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunted 的角色設計驚人，讓遊戲焕然一新！",
+        "author": "Alex"
+      },
+      {
+        "content": "作為一款粉絲製作的模組，這款遊戲真正展現了創作者的熱情和創意。",
+        "author": "Jamie"
+      },
+      {
+        "content": "Sprunted 帶來了值得嘗試的新遊戲玩法和角色設計！",
+        "author": "Taylor"
+      },
+      {
+        "content": "感謝創作者製作如此精彩的模組！太有趣了！",
+        "author": "Chris"
+      },
+      {
+        "content": "服裝和表情設計得非常好，讓遊戲更具可玩性！",
+        "author": "Jordan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "關於 Sprunted 的常見問題",
+    "questions": [
+      {
+        "question": "什麼是 Sprunted？",
+        "answer": "Sprunted 是 Sprunk 的粉絲製作模組，推出全新的角色外觀，包括服裝、髮型、配件和表情。"
+      },
+      {
+        "question": "如何安裝 Sprunted？",
+        "answer": "您可以從其官方網站或相關平台下載 Sprunted，並按照說明將其安裝到您的 Sprunk 遊戲中。"
+      },
+      {
+        "question": "Sprunted 適合誰？",
+        "answer": "Sprunted 非常適合喜愛個性化角色設計、創意遊戲和探索新內容的玩家。"
+      },
+      {
+        "question": "Sprunted 是免費的嗎？",
+        "answer": "是的，Sprunted 是粉絲製作的模組，所有玩家皆可免費獲得。"
+      },
+      {
+        "question": "Sprunted 有定期更新嗎？",
+        "answer": "是的，創作者根據玩家反饋經常更新 Sprunted，以帶來新內容和改進。"
+      },
+      {
+        "question": "我可以提供 Sprunted 的建議或反饋嗎？",
+        "answer": "當然可以！您可以在 Sprunted 的社區平台上分享您的建議，幫助使遊戲變得更好。"
+      }
+    ]
+  }
+}

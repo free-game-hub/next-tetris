@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - Ciekawe Gra Przygód | Zagraj Teraz",
+    "description": "Dołącz do ekscytującego świata Sprunki! Odkryj zasady, cechy i opinie na temat tej fascynującej gry przygodowej. Zagraj w Sprunki teraz i wyrusz w epicką podróż.",
+    "keywords": "Sprunki, gra Sprunki, gra przygodowa, zagraj w Sprunki, cechy Sprunki, zasady gry"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Zanurz się w emocjonującą przygodę Sprunki, gdzie każda postać wyrusza w epicką podróż. Dołącz do tysięcy graczy, aby doświadczyć fascynującego świata Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Cechy Gry Sprunki",
+    "features": [
+      "Wciągające fabuły z ciekawymi postaciami.",
+      "Zjawiskowa grafika, która ożywia świat Sprunki.",
+      "Interaktywna rozgrywka, która wyzwanie dla Twoich umiejętności.",
+      "Tryby wieloosobowe, które pozwalają na wspólną zabawę z przyjaciółmi.",
+      "Regularne aktualizacje i nowa zawartość dla niekończącej się zabawy."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Sprunki",
+    "instructions": [
+      "Pobierz aplikację Sprunki z oficjalnej strony lub sklepu z aplikacjami.",
+      "Stwórz swoją postać i dostosuj jej wygląd.",
+      "Nawiguj przez poziomy za pomocą klawiszy strzałek lub ekranu dotykowego.",
+      "Wykonuj zadania, aby zdobywać nagrody i rozwijać się w grze.",
+      "Współpracuj z innymi graczami, aby zmierzyć się z trudnymi misjami."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Odkrywaj Świat Sprunki"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Sprunki to najwyższa radość, jaką miałam od dłuższego czasu! Postacie i fabuły są tak angażujące.",
+        "author": "JaneD"
+      },
+      {
+        "content": "Fantastyczna gra z piękną grafiką i uzależniającą rozgrywką!",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "Kocham tryb wieloosobowy, gra z przyjaciółmi to czysta przyjemność!",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki ciągle się poprawia z każdą aktualizacją. Gorąco polecam!",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "Wyzwania są idealne na solo lub zabawę z przyjaciółmi.",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "Świetna gra zarówno dla dzieci, jak i dorosłych. Cała moja rodzina ją uwielbia!",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "Unikalne postacie i kreatywne zadania sprawiają, że Sprunki wyróżnia się na tle innych.",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "Gram w Sprunki od miesięcy. Wciągająca i nie nudzi się!",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question":"Gdzie mogę pobrać Sprunki?",
+        "answer":"Sprunki można pobrać z oficjalnej strony lub ze znanych sklepów z aplikacjami."
+      },
+      {
+        "question":"Czy Sprunki jest dostępne na wszystkie urządzenia?",
+        "answer":"Tak, Sprunki jest dostępne na PC, urządzenia iOS i Android."
+      },
+      {
+        "question":"Czy potrzebuję połączenia internetowego, aby grać w Sprunki?",
+        "answer":"Połączenie internetowe jest wymagane do funkcji wieloosobowych, ale można grać offline w misje solo."
+      },
+      {
+        "question":"Czy są jakieś zakupy w grze?",
+        "answer":"Tak, Sprunki oferuje opcjonalne zakupy w grze do dostosowywania postaci i nowej zawartości."
+      },
+      {
+        "question":"Jak często wydawana jest nowa zawartość?",
+        "answer":"Nowa zawartość i aktualizacje są regularnie wydawane, aby gra była świeża i ekscytująca."
+      },
+      {
+        "question":"Czy mogę grać w Sprunki z przyjaciółmi?",
+        "answer":"Absolutnie! Sprunki oferuje tryby wieloosobowe do wspólnej zabawy z przyjaciółmi lub innymi graczami online."
+      }
+    ]
+  }
+}

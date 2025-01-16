@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox v1 - 原版 Sprunki Mod 体验",
+    "description": "发现 Corruptbox v1，这款 Sprunki 的原始模组。进入黑暗美学、实验音乐和挑战性的游戏玩法，这个开创性的节奏游戏模组。",
+    "keywords": "corruptbox v1, corruptbox 模组, Sprunki 模组, 节奏游戏, 音乐游戏, 实验音乐, 黑暗美学"
+  },
+  "hero": {
+    "h1": "Corruptbox v1: 节奏革命的开端",
+    "p": "进入 Corruptbox 起源的 v1，这款模组开启了一切。探索令人销魂的旋律，面对腐化的挑战，体验这款标志性 Sprunki 模组的基础。"
+  },
+  "gameFeatures": {
+    "title": "为什么要玩 Corruptbox v1?",
+    "features": [
+      "定义 Corruptbox 体验的原始黑暗和沉浸式美学。",
+      "开创性的实验音乐创作，为未来版本奠定了基础。",
+      "旨在考验你的节奏与创造力的挑战性游戏机制。",
+      "可定制的旋律和角色，为个性化的游戏体验。",
+      "一个仍在纪念 Corruptbox v1 传奇的专注社区。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Corruptbox v1",
+    "instructions": [
+      "下载并安装 Sprunki 基本游戏。",
+      "从可信来源获取 Corruptbox v1 模组。",
+      "启动游戏并从菜单中选择 Corruptbox v1 模组。",
+      "按照节奏提示创建令人销魂的旋律并克服挑战。",
+      "尝试不同的角色和设置来增强你的游戏体验。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Corruptbox v1 实战"
+  },
+  "playerReviews": {
+    "title": "玩家对 Corruptbox v1 的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的姓名",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Corruptbox v1 是一切的起点。黑暗的美学和实验音乐令人难忘！",
+        "author": "Alex R.",
+        "rating": 5
+      },
+      {
+        "content": "玩 Corruptbox v1 就像踏入标志性模组的根源。节奏游戏爱好者必试。",
+        "author": "Jamie L.",
+        "rating": 4
+      },
+      {
+        "content": "原始的 Corruptbox 体验仍然是最好的之一。游戏玩法和音乐都是顶级的。",
+        "author": "Taylor K.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "关于 Corruptbox v1 的常见问题",
+    "questions": [
+      {
+        "question": "什么是 Corruptbox v1?",
+        "answer": "Corruptbox v1 是节奏游戏 Sprunki 的原始模组，特色是黑暗美学和实验音乐。"
+      },
+      {
+        "question": "如何安装 Corruptbox v1?",
+        "answer": "您需要先安装 Sprunki 基本游戏。然后，下载 Corruptbox v1 模组并将其添加到游戏的模组文件夹中。"
+      },
+      {
+        "question": "Corruptbox v1 是免费玩吗?",
+        "answer": "是的，Corruptbox v1 是一个免费模组，但您需要拥有 Sprunki 基本游戏才能玩。"
+      },
+      {
+        "question": "是什么让 Corruptbox v1 独一无二?",
+        "answer": "Corruptbox v1 引入了黑暗美学和实验音乐风格，这成为 Corruptbox 系列的标志。"
+      },
+      {
+        "question": "如果有更新的版本，我还能玩 Corruptbox v1 吗?",
+        "answer": "是的，许多玩家喜欢为了怀旧价值和独特的游戏体验而重温 Corruptbox v1。"
+      },
+      {
+        "question": "我可以在哪里找到像 Corruptbox v1 一样的模组?",
+        "answer": "您可以在 Sprunki 社区论坛或可信的模组网站上探索更多模组和扩展。"
+      }
+    ]
+  }
+}

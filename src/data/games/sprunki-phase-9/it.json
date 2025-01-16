@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Fase 9 - Immerse in a Rhythm-Based Platformer",
+    "description": "Esplora l'unica fusione di ritmo e platforming in Sprunki Fase 9. Crea musica, affronta sfide e immergiti in un mondo da sogno ipnotico.",
+    "keywords": "Sprunki Fase 9, gioco basato sul ritmo, platformer, creazione musicale, stile Incredibox"
+  },
+  "hero": {
+    "h1": "Sprunki Fase 9",
+    "p": "Vivi l'unione unica tra gameplay basato sul ritmo e platforming nel vivace mondo di Sprunki Fase 9. Crea musica e scopri sfide in un'ambientazione ultraterrena."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche principali di Sprunki Fase 9",
+    "features": [
+      "Creazione Musicale Espansa: Costruisci composizioni complete con più strati sonori.",
+      "Abilità dei Personaggi Migliorate: Utilizza salti ritmici e potenziamenti di battuta.",
+      "Puzzle e Ostacoli Basati sul Ritmo: Sincronizza le azioni con la colonna sonora.",
+      "Ambientazioni Interattive: Reagiscono alle creazioni musicali del giocatore.",
+      "Incontri con Boss con Strategie Musicali: Coordina le azioni per superare le sfide."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare a Sprunki Fase 9",
+    "instructions": [
+      "Naviga attraverso le sfide di platforming per sbloccare strati sonori.",
+      "Mescola battute, melodie e voci per creare colonne sonore personalizzate.",
+      "Dominare i puzzle basati sul ritmo con una tempistica precisa della colonna sonora.",
+      "Scambia tra i personaggi per adattare musica e strategie di gioco.",
+      "Coordina gli strati musicali per sconfiggere i boss di livello."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot di Sprunki Fase 9"
+  },
+  "playerReviews": {
+    "title": "Cosa Dicono i Giocatori su Sprunki Fase 9",
+    "submitReviewLabel": "Invia la tua recensione",
+    "nameLabel": "Il tuo nome",
+    "reviewLabel": "La tua recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "I puzzle basati sul ritmo sono sia affascinanti che divertenti!",
+        "author": "Alex R."
+      },
+      {
+        "content": "Adoro le ambientazioni interattive e come reagiscono alla mia musica.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Passare tra i personaggi aggiunge un livello strategico al gameplay.",
+        "author": "Sam T."
+      },
+      {
+        "content": "La colonna sonora che creo mentre gioco è incredibilmente immersiva.",
+        "author": "Casey D."
+      },
+      {
+        "content": "La Fase 9 porta la serie Sprunki a un altro livello con la sua integrazione musicale.",
+        "author": "Taylor F."
+      },
+      {
+        "content": "Le visuali oniriche sono straordinarie e affascinanti.",
+        "author": "Morgan E."
+      },
+      {
+        "content": "I combattimenti con i boss con strategie musicali sono unici e soddisfacenti.",
+        "author": "Jordan K."
+      },
+      {
+        "content": "Sprunki Fase 9 è una fusione perfetta di musica e gioco.",
+        "author": "Riley B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti su Sprunki Fase 9",
+    "questions": [
+      {
+        "question": "Su quali piattaforme è disponibile Sprunki Fase 9?",
+        "answer": "Sprunki Fase 9 è disponibile su PC, Xbox, PlayStation e Nintendo Switch."
+      },
+      {
+        "question": "Posso personalizzare la musica in ciascun livello?",
+        "answer": "Sì, puoi sperimentare con battiti, linee di basso e tracce vocali per creare mix unici."
+      },
+      {
+        "question": "Ci sono opzioni multiplayer in Sprunki Fase 9?",
+        "answer": "Attualmente, Sprunki Fase 9 si concentra su un'esperienza single-player."
+      },
+      {
+        "question": "Come funzionano gli incontri con i boss?",
+        "answer": "I giocatori usano i loro strati musicali strategicamente per influenzare e indebolire il boss."
+      },
+      {
+        "question": "Esiste un tutorial per aiutare a iniziare?",
+        "answer": "Sì, il gioco include un tutorial che guida i giocatori attraverso le basi del gameplay."
+      },
+      {
+        "question": "Posso rigiocare i livelli per creare colonne sonore diverse?",
+        "answer": "Assolutamente, i livelli possono essere rigiocati per esplorare nuove combinazioni musicali."
+      }
+    ]
+  }
+}

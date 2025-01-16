@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki GreenCore: Skap Eco-Inspirert Musikk | Spillregler & Funksjoner",
+    "description": "Utforsk den miljøbevisste verden av Sprunki GreenCore, en fan-laget mod av Incredibox. Lag musikk med naturinspirerte visuals og karakterer. Lær regler, funksjoner, og få tips om spillopplevelsen.",
+    "keywords": "Sprunki GreenCore, Incredibox mod, eco-inspirert spill, musikkskapingsspill, Sprunki spillfunksjoner, miljøbevisst spill"
+  },
+  "hero": {
+    "h1": "Sprunki GreenCore",
+    "p": "Dyk ned i naturens rytme med Sprunki GreenCore, en unik mod av Incredibox som feirer bærekraft og miljø gjennom engasjerende musikkcreating."
+  },
+  "gameFeatures": {
+    "title": "Sprunki GreenCore Spillfunksjoner",
+    "features": [
+      "Naturinspirerte Visuals: Fordyp deg i livlige, jordnære paletter med grøntområder og naturlige elementer.",
+      "Miljøtema Karakterer: Karakterene symboliserer bærekraftige konsepter som fornybar energi og bevaring av dyreliv.",
+      "Interaktive Bonuser: Lås opp animasjoner som viser miljøvennlige handlinger som reforestring.",
+      "Intuitivt Gameplay: Enkle dra-og-slipp mekanikker for enkel musikkcreating.",
+      "Tilpassbar Musikk: Bland beats, effekter og vokaler for å lage unike komposisjoner."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hvordan Spille Sprunki GreenCore",
+    "instructions": [
+      "Start Spillet: Start Sprunki GreenCore på din foretrukne plattform.",
+      "Dra Karakterer: Velg og dra karakterer til scenen for å aktivere lyder.",
+      "Lag Lydlag: Kombiner beats, effekter og vokaler for å lage musikken din.",
+      "Lås Opp Bonuser: Test kombinasjoner for å avdekke spesielle animasjoner.",
+      "Lagre & Del: Lagre komposisjonene dine og del dem med vennene dine."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki GreenCore Skjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser av Sprunki GreenCore",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "En så forfriskende vri på musikkspill! Elsker det miljøvennlige temaet!",
+        "author": "Anna K."
+      },
+      {
+        "content": "Visualene er fantastiske og gjenspeiler virkelig naturens skjønnhet!",
+        "author": "John M."
+      },
+      {
+        "content": "Å låse opp animasjoner er så givende, og musikken er fantastisk!",
+        "author": "Sophie L."
+      },
+      {
+        "content": "Perfekt for alle som er interessert i bærekraft og kreativitet.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Det er utrolig hvor lett det er å lage noe vakkert og minneverdig.",
+        "author": "Rachel F."
+      },
+      {
+        "content": "En vidunderlig blanding av kunst, musikk og miljøbevissthet!",
+        "author": "Tommy H."
+      },
+      {
+        "content": "Flott for alle aldre! Barna mine elsker det, og det er også lærerikt!",
+        "author": "Sandra A."
+      },
+      {
+        "content": "Elsker virkelig karakterene og deres miljøbudskap.",
+        "author": "Liam G."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte Stilte Spørsmål Om Sprunki GreenCore",
+    "questions": [
+      {
+        "question":"Hvilke plattformer er Sprunki GreenCore tilgjengelig på?",
+        "answer":"Sprunki GreenCore er tilgjengelig på flere plattformer, inkludert PC, Mac og mobile enheter."
+      },
+      {
+        "question":"Er Sprunki GreenCore en gratis mod?",
+        "answer":"Ja, Sprunki GreenCore er en fan-laget mod og er gratis å laste ned og spille."
+      },
+      {
+        "question":"Hvordan lagrer og deler jeg komposisjonene mine?",
+        "answer":"Du kan lagre komposisjonene dine ved å klikke på 'lagre' ikonet og dele direkte fra spillet ved å velge 'del' alternativet."
+      },
+      {
+        "question":"Kan jeg spille Sprunki GreenCore med venner?",
+        "answer":"For øyeblikket støtter ikke Sprunki GreenCore flerspiller, men du kan dele skapelsene dine med venner."
+      },
+      {
+        "question":"Er det noen kjøp i appen i Sprunki GreenCore?",
+        "answer":"Nei, det er ingen kjøp i appen eller annonser i Sprunki GreenCore."
+      },
+      {
+        "question":"Hvor ofte er nye oppdateringer tilgjengelige?",
+        "answer":"Oppdateringer for Sprunki GreenCore slippes jevnlig, med fokus på nye funksjoner og optimalisering av spillopplevelsen."
+      }
+    ]
+  }
+}

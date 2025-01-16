@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Die in the Dungeon - Um Jogo Roguelite Único Baseado em Dados",
+    "description": "Explore Die in the Dungeon, um roguelite único de construção de baralhos onde dados substituem cartas. Conquiste os muitos desafios da masmorra e eleve-se como o supremo herói sapo.",
+    "keywords": "Die in the Dungeon, construção de baralhos, roguelite, jogo de dados, aventura sapenta, caça-masmorra, estratégia por turnos"
+  },
+  "hero": {
+    "h1": "Die in the Dungeon",
+    "p": "Die in the Dungeon é um roguelite inovador de construção de baralhos onde sua força está na rolagem dos dados. Enfrente a masmorra de 2 andares e prove seu valor!"
+  },
+  "gameFeatures": {
+    "title": "Recursos de Die in the Dungeon",
+    "features": [
+      "Participe de combates baseados em dados em uma aventura roguelite de construção de baralhos.",
+      "Colete relíquias únicas para melhorar sua vantagem estratégica.",
+      "Experimente um novo sistema de eventos com encontros variados.",
+      "Enfrente novos inimigos e chefes desafiadores.",
+      "Descubra diversos tipos de dados e propriedades para estratégias ilimitadas."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Die in the Dungeon",
+    "instructions": [
+      "Comece escolhendo seus dados para construir seu baralho.",
+      "Role os dados para atacar, defender ou usar habilidades especiais.",
+      "Planeje seus movimentos com cuidado e antecipe as reações dos inimigos.",
+      "Reúna relíquias e novos dados para aumentar seu poder.",
+      "Navegue por layouts complexos de masmorras enquanto supera os oponentes."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Mergulhe no Mundo de Die in the Dungeon"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores de Die in the Dungeon",
+    "submitReviewLabel": "Envie sua avaliação",
+    "nameLabel": "Seu nome",
+    "reviewLabel": "Sua avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "O jogo com a espada literalmente fez meu computador dar tela azul, mas valeu muito a pena!",
+        "author": "EmanuelKJ"
+      },
+      {
+        "content": "Encontrei um bug no meu jogo, mas ainda amo esses sapos fofos!",
+        "author": "loseygoosey"
+      },
+      {
+        "content": "Me diverti até o chefe abelha inundar dados de mel. Mal posso esperar para tentar outra vez!",
+        "author": "hanungpurwaka"
+      },
+      {
+        "content": "Este jogo foi muito divertido, muitas opções de dados. Animado para o lançamento completo!",
+        "author": "Jazz Man"
+      },
+      {
+        "content": "Eu amo seu jogo. Sinceramente, é o melhor jogo de masmorra que já joguei!",
+        "author": "GMletsITCH"
+      },
+      {
+        "content": "Acabei de chegar no andar 25 e ainda estou amando! Gostaria de poder jogar o chefe sapo por completo.",
+        "author": "Melitaa"
+      },
+      {
+        "content": "Um pouco buggy, mas estou viciado! Não consigo parar de jogar Die in the Dungeon.",
+        "author": "Zclipse"
+      },
+      {
+        "content": "Jogo muito divertido! Me lembra um pouco de Dicey Dungeons, mas com reviravoltas únicas!",
+        "author": "Zazak"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O que é Die in the Dungeon?",
+        "answer": "Die in the Dungeon é um roguelite de construção de baralhos por turnos onde você usa dados em vez de cartas tradicionais para progredir pela masmorra."
+      },
+      {
+        "question": "Como instalo Die in the Dungeon?",
+        "answer": "Você pode baixar Die in the Dungeon para Windows, macOS e Linux em plataformas como Steam e Itch.io."
+      },
+      {
+        "question": "Quais são os requisitos do sistema?",
+        "answer": "O jogo está disponível para HTML5, Windows, macOS e Linux e requer especificações básicas do sistema para um desempenho ideal."
+      },
+      {
+        "question": "Há um modo multiplayer?",
+        "answer": "Atualmente, Die in the Dungeon é uma experiência para um jogador, sem planos para multiplayer."
+      },
+      {
+        "question": "Posso usar um controle?",
+        "answer": "O jogo suporta principalmente entrada de mouse, mas pode haver opções adicionais de controle conforme o desenvolvimento avança."
+      },
+      {
+        "question": "Como posso relatar um bug ou dar feedback?",
+        "answer": "Junte-se ao nosso servidor Discord para relatar problemas ou compartilhar feedback diretamente com os desenvolvedores."
+      }
+    ]
+  },
+  "recommendedGames": [
+    {
+      "imageUrl": "backpack_hero_thumbnail.jpg",
+      "title": "Backpack Hero",
+      "link": "https://store.steampowered.com/app/example123456"
+    },
+    {
+      "imageUrl": "super_rare_mixtape_thumbnail.jpg",
+      "title": "Super Rare Mixtape",
+      "link": "https://store.steampowered.com/app/example654321"
+    },
+    {
+      "imageUrl": "dicey_dungeons_thumbnail.jpg",
+      "title": "Dicey Dungeons",
+      "link": "https://store.steampowered.com/app/example987654"
+    }
+  ]
+}

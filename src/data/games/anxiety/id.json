@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Mainkan SUMBER DAYA KESEHATAN MENTAL - Sebuah Permainan Novel Visual oleh Nicky Case",
+    "description": "Jelajahi SUMBER DAYA KESEHATAN MENTAL, sebuah permainan novel visual yang fokus pada kesehatan mental, komedi, dan narasi. Tetap kuat dan nikmati permainan HTML5 dengan rating 4.9 ini.",
+    "keywords": "SUMBER DAYA KESEHATAN MENTAL, novel visual, Nicky Case, permainan HTML5, komedi, kesehatan mental, narasi"
+  },
+  "hero": {
+    "h1": "SUMBER DAYA KESEHATAN MENTAL",
+    "p": "Mulailah perjalanan yang menyentuh untuk meningkatkan kesadaran kesehatan mental dengan permainan novel visual yang sangat dihargai, SUMBER DAYA KESEHATAN MENTAL, yang dibuat oleh Nicky Case."
+  },
+  "gameFeatures": {
+    "title": "Fitur Utama dari SUMBER DAYA KESEHATAN MENTAL",
+    "features": [
+      "Narasi Menarik: Terlibatlah dalam cerita yang memadukan humor dengan tema kesehatan mental.",
+      "Gameplay Interaktif: Buat pilihan yang mempengaruhi alur cerita dan hasilnya.",
+      "Karakter yang Dapat Dikenali: Terhubung dengan karakter yang menghadapi masalah kesehatan mental di dunia nyata.",
+      "Visual yang Memukau: Rasakan seni dan desain yang menarik yang meningkatkan narasi.",
+      "Gratis & Sumber Terbuka: Akses permainan secara gratis di berbagai platform."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain SUMBER DAYA KESEHATAN MENTAL",
+    "instructions": [
+      "Mulailah perjalanan Anda dengan memilih pilihan yang membentuk narasi.",
+      "Gunakan mouse untuk menjelajahi dan berinteraksi dengan karakter dan objek.",
+      "Perhatikan dialog untuk membuat keputusan yang tepat.",
+      "Jelajahi berbagai jalur cerita berdasarkan pilihan Anda.",
+      "Mainkan ulang permainan untuk menemukan akhir dan narasi alternatif."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan SUMBER DAYA KESEHATAN MENTAL"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain untuk SUMBER DAYA KESEHATAN MENTAL",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Narasi yang menyentuh hati yang mendidik dan menghibur.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Visual yang indah dan alur cerita yang menarik.",
+        "author": "Jordan R."
+      },
+      {
+        "content": "Sebuah permainan penting untuk meningkatkan kesadaran tentang kesehatan mental.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Menyukai humor dan kedalaman karakter.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Membuat saya berpikir mendalam tentang kesejahteraan mental.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Gameplay yang menarik dengan keputusan yang bermakna.",
+        "author": "Lee P."
+      },
+      {
+        "content": "Sungguh permainan yang harus dialami semua orang.",
+        "author": "Casey W."
+      },
+      {
+        "content": "Sangat terampil dan penuh pemikiran.",
+        "author": "Sam B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ SUMBER DAYA KESEHATAN MENTAL",
+    "questions": [
+      {
+        "question": "Di platform mana saya bisa bermain SUMBER DAYA KESEHATAN MENTAL?",
+        "answer": "Permainan ini tersedia di platform yang mendukung HTML5."
+      },
+      {
+        "question": "Apakah SUMBER DAYA KESEHATAN MENTAL gratis?",
+        "answer": "Ya, permainan ini gratis dan sumber terbuka."
+      },
+      {
+        "question": "Bisakah saya mendukung pencipta permainan?",
+        "answer": "Ya, Anda dapat mendukung Nicky Case melalui Patreon, PayPal, atau Ko-Fi."
+      },
+      {
+        "question": "Apakah permainan ini cocok untuk semua usia?",
+        "answer": "Konten permainan ini cocok untuk khalayak dewasa karena tema sensitifnya."
+      },
+      {
+        "question": "Apakah ada beberapa akhir dalam SUMBER DAYA KESEHATAN MENTAL?",
+        "answer": "Ya, pilihan Anda mempengaruhi alur cerita dan dapat mengarah ke akhir yang berbeda."
+      },
+      {
+        "question": "Di mana saya bisa menemukan lebih banyak sumber daya kesehatan mental?",
+        "answer": "Kunjungi https://ncase.me/mental-health/ untuk informasi lebih lanjut."
+      }
+    ]
+  }
+}

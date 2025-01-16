@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Baba adalah Anda - Permainan Teka-Teki Inovatif",
+    "description": "Temui 'Baba adalah Anda,' permainan teka-teki yang memenangi anugerah di mana anda mengubah peraturan untuk menyelesaikan cabaran. Uji logik dan kreativiti anda sekarang!",
+    "keywords": "Baba adalah Anda, permainan Baba adalah Anda, permainan teka-teki, permainan teka-teki kreatif, permainan indie"
+  },
+  "hero": {
+    "h1": "Baba adalah Anda - Tukar Peraturan, Cabar Logik Anda!",
+    "p": "'Baba adalah Anda' adalah permainan teka-teki yang unik di mana anda memanipulasi blok peraturan untuk mencipta cara baru sepenuhnya untuk menyelesaikan teka-teki. Selami permainan yang diiktiraf ini dan lepaskan kreativiti anda!"
+  },
+  "gameFeatures": {
+    "title": "Ciri-Ciri Permainan",
+    "features": [
+      "Mekanisme inovatif: Tukar peraturan permainan dengan menggerakkan blok peraturan.",
+      "Reka bentuk tahap yang pelbagai: Lebih 200 tahap untuk mencabar pemikiran logik anda.",
+      "Sokongan pelbagai platform: Tersedia di PC, Nintendo Switch, Google Play, dan App Store.",
+      "Permainan memenangi anugerah: Pemenang Anugerah Reka Bentuk Terbaik dan Anugerah Penonton Festival Permainan Bebas.",
+      "Kreativiti tanpa batas: Terokai berbagai penyelesaian dan biarkan imaginasi anda berkembang."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain",
+    "instructions": [
+      "Muat turun dan pasang 'Baba adalah Anda' pada peranti anda.",
+      "Biasa diri dengan blok peraturan asas seperti 'Baba adalah Anda' dan 'Bendera adalah Menang.'",
+      "Gerakkan blok peraturan untuk mengubah logik permainan dan mencapai matlamat anda.",
+      "Lengkapkan objektif tahap (contohnya, menyentuh bendera) untuk menang.",
+      "Nikmati permainan sambil mencabar logik dan kreativiti anda!"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Skrin Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "'Baba adalah Anda' adalah permainan yang menakjubkan! Kebebasan untuk memanipulasi peraturan membuatkan ia sangat menyeronokkan.",
+        "author": "John Doe",
+        "rating": 5
+      },
+      {
+        "content": "Reka bentuk permainan ini sangat kreatif. Setiap tahap rasa mencabar tetapi sangat memuaskan!",
+        "author": "Jane Smith",
+        "rating": 5
+      },
+      {
+        "content": "Dari gaya seni hingga gameplay, 'Baba adalah Anda' adalah pernafasan segar. Sangat disyorkan untuk peminat teka-teki!",
+        "author": "Alex Johnson",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Apakah platform yang tersedia untuk 'Baba adalah Anda'?",
+        "answer": "Permainan ini tersedia di PC, Nintendo Switch, Google Play, dan App Store."
+      },
+      {
+        "question": "Adakah permainan ini sesuai untuk semua peringkat umur?",
+        "answer": "Ya, 'Baba adalah Anda' adalah permainan teka-teki yang sesuai untuk pemain dari semua peringkat umur."
+      },
+      {
+        "question": "Adakah permainan ini termasuk pembelian dalam aplikasi?",
+        "answer": "Permainan ini adalah pembelian sekali sahaja dan termasuk semua tahap tanpa pembelian dalam aplikasi tambahan."
+      },
+      {
+        "question": "Di mana saya boleh memuat turun 'Baba adalah Anda'?",
+        "answer": "Anda boleh memuat turun permainan dari platform utama seperti Steam, Google Play, dan App Store."
+      },
+      {
+        "question": "Adakah permainan ini menyokong pelbagai bahasa?",
+        "answer": "Ya, 'Baba adalah Anda' menyokong pelbagai bahasa, termasuk Bahasa Inggeris dan Bahasa Cina."
+      },
+      {
+        "question": "Adakah terdapat sumber komuniti atau panduan yang tersedia?",
+        "answer": "Anda boleh menemui sumber komuniti dan panduan di berbagai platform media sosial dan forum."
+      }
+    ]
+  }
+}

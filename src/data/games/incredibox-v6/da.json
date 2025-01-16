@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V6 - Kreatives Musikspiel mit unbegrenztem Rhythmuspotential",
+    "description": "Entdecke Incredibox V6, das beliebte Musikkompositionsspiel für Spieler weltweit. Kontrolliere die Charaktere der 'Incredicrew' und erstelle einzigartige Musikbeats!",
+    "keywords": "Incredibox V6, Musikspiel, kreative Beats, DJ-Spiel, interaktives Spiel"
+  },
+  "hero": {
+    "h1": "Incredibox V6",
+    "p": "Begib dich mit Incredibox V6 auf eine kreative Reise in die Welt der Musik. Erlebe spaßige Gameplay-Mechaniken und fesselnde visuelle Effekte und werde zum Meister deiner eigenen Musik."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V6 Spielmerkmale",
+    "features": [
+      "Steuere eine Gruppe von Charakteren, den 'Incredicrew', um Musik zu kreieren.",
+      "Jeder Charakter hat einen einzigartigen Klang: Gesang, Schlagzeug und Instrumente.",
+      "Einfache Steuerung mit nur einem Klick zum Hinzufügen oder Entfernen von Klängen.",
+      "Vielfältige Klangkombinationen, um deine musikalische Kreativität zu entfalten.",
+      "Wunderschöne visuelle Effekte, die den kreativen Prozess angenehm machen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du Incredibox V6",
+    "instructions": [
+      "Wähle in einem Raster einen Charakter aus, jeder Charakter erzeugt unterschiedliche Klänge.",
+      "Füge durch Klicken Klänge hinzu oder entferne sie, um Beats zu erstellen.",
+      "Experimentiere mit verschiedenen Klangkombinationen und finde deinen Lieblingsbeat.",
+      "Steuere das Spiel mühelos mit Maus oder Tastenkürzeln.",
+      "Genieße die Musik während des Schaffens und entdecke deinen individuellen Stil."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V6 Spielbilder"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Reiche deine Bewertung ein",
+    "nameLabel": "Dein Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Bewertung einreichen",
+    "reviews": [
+      {
+        "content": "Incredibox V6 hat mir eine neue Leidenschaft für Musikkomposition eröffnet!",
+        "author": "Li Wei"
+      },
+      {
+        "content": "Die visuellen und akustischen Effekte sind einfach toll, es macht süchtig.",
+        "author": "Jessica"
+      },
+      {
+        "content": "Das ist eines der kreativsten Musikspiele, die ich je gespielt habe.",
+        "author": "Tom"
+      },
+      {
+        "content": "Ich empfehle es jedem, der Interesse an Musik hat – einfach zu bedienen, aber voller Spaß.",
+        "author": "Chen"
+      },
+      {
+        "content": "Der kreative Prozess macht viel Spaß, und ich habe viel über Rhythmus gelernt.",
+        "author": "Maria"
+      },
+      {
+        "content": "Selbst ohne musikalisches Wissen kann man dieses Spiel großartig spielen, es ist wirklich lehrreich.",
+        "author": "David"
+      },
+      {
+        "content": "Sowohl im Gameplay als auch im visuellen Design hat dieses Spiel enttäuscht.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Ein Freund hat mir dieses Spiel empfohlen und es hat meine Erwartungen übertroffen!",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wie aktualisiere ich Incredibox V6 auf die neueste Version?",
+        "answer": "Du kannst die neueste Version auf der offiziellen Webseite herunterladen."
+      },
+      {
+        "question": "Wie speichere ich meine Musikwerke?",
+        "answer": "Im Spiel findest du die Option, deine Musikwerke auf deinem Gerät zu speichern."
+      },
+      {
+        "question": "Kann man Incredibox V6 im Multiplayer-Modus spielen?",
+        "answer": "Aktuell ist Incredibox V6 ein Einzelspieler-Spiel, aber du kannst deine Kreationen mit Freunden teilen."
+      },
+      {
+        "question": "Welche Klangoptionen gibt es im Spiel?",
+        "answer": "Das Spiel bietet eine Vielzahl von Gesang, Drumming und Instrumentenkombinationen zur Auswahl."
+      },
+      {
+        "question": "Kann ich Incredibox V6 auf Mobilgeräten spielen?",
+        "answer": "Ja, Incredibox V6 unterstützt die Steuerung auf mobilen Geräten."
+      },
+      {
+        "question": "Wie erhalte ich mehr Klangkombinationen?",
+        "answer": "Durch Spielen des Spiels kannst du weitere Klänge freischalten."
+      }
+    ]
+  }
+}

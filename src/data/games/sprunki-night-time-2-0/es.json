@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time 2.0 - Experimenta la Magia de la Noche",
+    "description": "Sumérgete en el encantador mundo de Sprunki Night Time 2.0, donde paisajes sonoros y visuales mejorados crean una experiencia de juego serena. Aprende cómo jugar, explora las características y lee reseñas.",
+    "keywords": "Sprunki Night Time 2.0, juego Sprunki Night Time, juego nocturno, juego de paisajes sonoros, mods de Sprunki"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time 2.0",
+    "p": "Sumérgete en la belleza tranquila de Sprunki Night Time 2.0, donde paisajes sonoros enriquecidos y visuales vívidos transforman la noche en una experiencia mágica."
+  },
+  "gameFeatures": {
+    "title": "Características del Juego Sprunki Night Time",
+    "features": [
+      "Estética Nocturna Enriquecida: Iluminación mejorada, sutilezas en las animaciones y siluetas más definidas.",
+      "Biblioteca de Sonidos Refinada: Bucles matizados que combinan suaves campanillas, cálidos murmullos y delicadas cuerdas.",
+      "Atmósfera Tranquilizadora: Fomenta la relajación y la experimentación consciente.",
+      "Selección de Personajes Interactivos: Personajes diseñados para encarnar el apacible silencio de la noche.",
+      "Aventura Sonora Explorativa: Descubre nuevas capas de calma en tu música."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki Night Time 2 Mod",
+    "instructions": [
+      "Selecciona Personajes: Elige figuras que encarnen la tranquilidad de la noche.",
+      "Arrastra y Suelta: Organiza personajes para crear suaves paisajes sonoros.",
+      "Ajusta Tu Mezcla: Modifica los volúmenes y aplica efectos para calidez nocturna.",
+      "Guarda y Comparte: Comparte tus composiciones que reflejan la magia de la noche.",
+      "Explora Más: Experimenta con diversas combinaciones de sonido para personalizar tu experiencia."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Explora Sprunki Night Time 2.0 a Través de Capturas de Pantalla"
+  },
+  "playerReviews": {
+    "title": "Lo Que Dicen los Jugadores",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "¡Absolutamente inspirador! Los gráficos y la música son estelares.",
+        "author": "Emma"
+      },
+      {
+        "content": "Un juego maravillosamente relajante que me ayuda a desconectar después de un largo día.",
+        "author": "Liam"
+      },
+      {
+        "content": "Los paisajes sonoros son tan intrincados y relajantes. Una experiencia imperdible para quienes aman la música ambiental.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Me encanta el diseño de los personajes y cómo interactúan con el entorno.",
+        "author": "Noah"
+      },
+      {
+        "content": "Crear música en este entorno es una experiencia única.",
+        "author": "Isabella"
+      },
+      {
+        "content": "Cada sesión se siente como una nueva exploración de sonido y estado de ánimo.",
+        "author": "Olivia"
+      },
+      {
+        "content": "Los visuales y sonidos mejorados hacen que la segunda versión sea aún mejor.",
+        "author": "Jackson"
+      },
+      {
+        "content": "La noche nunca se ha sentido tan viva e inmersiva. ¡Altamente recomendado!",
+        "author": "Aiden"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿En qué plataformas está disponible Sprunki Night Time 2.0?",
+        "answer": "Sprunki Night Time 2.0 está disponible en PC y consolas de juegos principales."
+      },
+      {
+        "question": "¿Puedo compartir mis composiciones con amigos?",
+        "answer": "Sí, puedes guardar y compartir fácilmente tus composiciones con amigos."
+      },
+      {
+        "question": "¿Hay compras dentro de la aplicación?",
+        "answer": "El juego básico es gratis, con opciones de compras dentro de la aplicación para características adicionales."
+      },
+      {
+        "question": "¿Es Sprunki Night Time 2.0 adecuado para niños?",
+        "answer": "Sí, el juego está diseñado para jugadores de todas las edades con sus temas calmantes."
+      },
+      {
+        "question": "¿Cómo puedo proporcionar comentarios o reportar problemas?",
+        "answer": "Los comentarios y problemas se pueden reportar a través de la página oficial de soporte del juego."
+      },
+      {
+        "question": "¿El juego requiere conexión a Internet?",
+        "answer": "Necesitarás una conexión a Internet para compartir y recibir actualizaciones, pero se admite el juego sin conexión."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V6 - Um jogo de música criativa que te dá ritmos infinitos",
+    "description": "Explore o Incredibox V6, um jogo de criação musical muito popular entre jogadores de todo o mundo. Controle os personagens da 'Incredicrew' e crie batidas musicais únicas!",
+    "keywords": "Incredibox V6, jogo musical, ritmos criativos, jogo de DJ, jogo interativo"
+  },
+  "hero": {
+    "h1": "Incredibox V6",
+    "p": "Entre no mundo do Incredibox V6 e comece sua jornada musical. Experimente uma jogabilidade divertida e visuais cativantes enquanto se torna um mestre da música."
+  },
+  "gameFeatures": {
+    "title": "Características do Jogo Incredibox V6",
+    "features": [
+      "Controle um grupo chamado 'Incredicrew' para criar música.",
+      "Cada personagem tem um som único: canto, batidas e instrumentos.",
+      "Operação simples, basta clicar para adicionar ou remover sons.",
+      "Uma rica combinação de efeitos sonoros para estimular sua criatividade musical.",
+      "Belos visuais que tornam o processo de criação musical ainda mais agradável."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Incredibox V6",
+    "instructions": [
+      "Selecione os personagens na grade, cada um produz sons diferentes.",
+      "Clique para adicionar ou remover sons dos personagens e criar batidas.",
+      "Experimente combinações diferentes de sons para encontrar o ritmo que você gosta.",
+      "Use o mouse ou atalhos de teclado para facilitar a jogabilidade.",
+      "Aproveite a música durante a criação e explore seu estilo pessoal."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo Incredibox V6"
+  },
+  "playerReviews": {
+    "title": "Comentários dos Jogadores",
+    "submitReviewLabel": "Envie seu comentário",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Conteúdo do comentário",
+    "submitButtonLabel": "Enviar Comentário",
+    "reviews": [
+      {
+        "content": "Incredibox V6 me ajudou a descobrir um novo hobby em criação musical!",
+        "author": "Li Wei"
+      },
+      {
+        "content": "Os efeitos visuais e sonoros são incríveis, é muito viciante.",
+        "author": "Jessica"
+      },
+      {
+        "content": "Um dos jogos musicais mais criativos que já joguei.",
+        "author": "Tom"
+      },
+      {
+        "content": "Recomendo muito para quem é apaixonado por música, é fácil de jogar e muito divertido.",
+        "author": "Chen"
+      },
+      {
+        "content": "O processo de criação é muito prazeroso e aprendi bastante sobre ritmo.",
+        "author": "Maria"
+      },
+      {
+        "content": "Mesmo sem saber muito de música, consegui me divertir bastante, realmente educativo.",
+        "author": "David"
+      },
+      {
+        "content": "Tanto a jogabilidade quanto o design visual deste jogo são excepcionais.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Um amigo me recomendou o jogo e não me decepcionou!",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes",
+    "questions": [
+      {
+        "question":"Como atualizar o Incredibox V6 para a versão mais recente?",
+        "answer":"Você pode baixar a versão de atualização mais recente no site oficial."
+      },
+      {
+        "question":"Como salvar minhas criações musicais?",
+        "answer":"Você pode clicar na opção de salvar dentro do jogo para guardar suas criações no seu dispositivo."
+      },
+      {
+        "question":"Incredibox V6 suporta multiplayer?",
+        "answer":"Atualmente, Incredibox V6 é um jogo solo, mas você pode compartilhar suas criações com amigos."
+      },
+      {
+        "question":"Que tipos de efeitos sonoros estão disponíveis no jogo?",
+        "answer":"O jogo possui uma variedade de combinações de canto, batidas e instrumentos para você escolher."
+      },
+      {
+        "question":"Posso jogar Incredibox V6 em dispositivos móveis?",
+        "answer":"Sim, Incredibox V6 é compatível com dispositivos móveis."
+      },
+      {
+        "question":"Como obter mais combinações de sons?",
+        "answer":"Você pode desbloquear mais combinações de sons jogando o jogo."
+      }
+    ]
+  }
+}

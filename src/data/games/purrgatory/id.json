@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Purrgatory - Novel Visual Kehidupan Setelah Mati yang Ajaib",
+    "description": "Jelajahi dunia menawan Purrgatory, sebuah novel visual tentang kehidupan setelah mati di mana waktu seakan berhenti. Temui karakter unik, pecahkan misteri, dan nikmati pengalaman yang digambar dengan tangan penuh cinta.",
+    "keywords": "Purrgatory, novel visual, permainan kehidupan setelah mati, point-and-click, karakter ajaib, fitur permainan"
+  },
+  "hero": {
+    "h1": "Purrgatory - Petualangan Kehidupan Setelah Mati yang Ajaib",
+    "p": "Masuklah ke Purrgatory, sebuah novel visual penuh keajaiban. Jelajahi, berteman dengan karakter menarik, dan temukan bahwa 'selamanya' tidak terlalu buruk!"
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan Purrgatory",
+    "features": [
+      "Eksplorasi Point-and-Click yang Menarik",
+      "Visual Digambar Tangan dengan Karakter Menawan",
+      "Beberapa Akhir Cerita dan Pengalaman Kaya Cerita",
+      "Tersedia dalam Bahasa Inggris, Spanyol, dan Mandarin Sederhana",
+      "Pemenang 'Game Jam Saya Tidak Bisa Menggambar'"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Purrgatory",
+    "instructions": [
+      "Berinteraksi dengan dunia menggunakan mouse Anda.",
+      "Gunakan keyboard untuk navigasi cepat.",
+      "Jelajahi berbagai lokasi untuk mengungkap rahasia.",
+      "Pecahkan teka-teki untuk melanjutkan cerita.",
+      "Bergabunglah dengan karakter untuk mempelajari cerita mereka."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan Purrgatory"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Tentang Purrgatory",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Terjebak pada bagian mati lampu tapi mendapat bantuan dari komunitas! Suka bagaimana semua orang bersikap koperatif!",
+        "author": "Blormp"
+      },
+      {
+        "content": "Atmosfer dan persahabatan karakternya sangat menyenangkan. Tidak bisa berhenti memikirkannya!",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "Kembali menyelesaikannya setelah setahun. Diberkati telah mengalami cerita indah ini.",
+        "author": "kayak"
+      },
+      {
+        "content": "Karakter-karakternya sangat dipikirkan dengan baik. Akhir baik dari permainan ini membuat saya takjub.",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatory menawarkan kepribadian unik untuk setiap karakter yang cocok dengan bentuk hewan mereka.",
+        "author": "dizie"
+      },
+      {
+        "content": "Perjalanan yang sangat menghangatkan hati dengan permainan kata yang lucu!",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "Cerita indah dan karakter menarik yang membuat saya langsung terpikat.",
+        "author": "Maple"
+      },
+      {
+        "content": "Kesederhanaan permainan ini menangkap esensi dari kesederhanaan hidup dan kebahagiaan.",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Platform apa yang tersedia untuk Purrgatory?",
+        "answer": "Purrgatory dapat dimainkan di platform HTML5 dan Windows."
+      },
+      {
+        "question": "Bagaimana cara memecahkan teka-teki ketika lampu padam?",
+        "answer": "Cobalah mengunjungi tempat Natalie untuk mendapatkan lilin sebagai sumber cahaya."
+      },
+      {
+        "question": "Apakah ada beberapa akhir pada permainan ini?",
+        "answer": "Ya, Purrgatory memiliki beberapa akhir berdasarkan pilihan Anda."
+      },
+      {
+        "question": "Bahasa apa saja yang tersedia untuk Purrgatory?",
+        "answer": "Tersedia dalam Bahasa Inggris, Spanyol, dan Mandarin Sederhana."
+      },
+      {
+        "question": "Apakah ada soundtrack untuk Purrgatory?",
+        "answer": "Ya, soundtrack asli dapat diputar di berbagai platform."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika permainan tidak dimulai?",
+        "answer": "Coba segarkan halaman atau gunakan browser lain. Untuk performa yang lebih baik, unduh versi Windows."
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "Perjalanan Ajaib",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "Kehidupan Setelah Mati yang Menyentuh",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "Petualangan Mistis",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

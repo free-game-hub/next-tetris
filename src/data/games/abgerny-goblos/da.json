@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Abgerny Goblos - Dyk ind i Goblin Musik Eventyr",
+    "description": "Oplev en eventyrlig musikskabelsesrejse med Abgerny Goblos. Udforsk goblin-tema karakterer, jordnære lydbilleder og rustik æstetik. Perfekt for musik- og fantasyelskere.",
+    "keywords": "Abgerny Goblos, musik mod, goblin tema, Sprunki mod, musik eventyr, fantasy spil, musik komposition"
+  },
+  "hero": {
+    "h1": "Abgerny Goblos",
+    "p": "Dyk ned i den særprægede verden af Abgerny Goblos, en blanding af unikke goblin-inspirerede æstetikker og Sprunkis ikoniske musikrammeværk. Skab jordnære kompositioner, der ekkoer de skjulte goblinlandsbyer."
+  },
+  "gameFeatures": {
+    "title": "Abgerny Goblos Funktioner",
+    "features": [
+      "Goblin-tema karakterer med unikke silhuetter.",
+      "Jordnære lydbilleder med primære og legende melodier.",
+      "Rustik æstetik med bløde farvepaletter og subtile animationer.",
+      "Unikke musikkompositionsværktøjer til at skabe lagdelte melodier.",
+      "Gem og del dine kompositioner med fællesskabet."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spiller du Abgerny Goblos",
+    "instructions": [
+      "Vælg karakterer: Vælg mellem goblin-lignende figurer med unikke lydelementer.",
+      "Træk og slip: Arranger figurer for at skabe melodier, der minder om gamle skove.",
+      "Eksperimenter og juster: Skift, tilpas og tilføj effekter for at skabe en goblin-hymne.",
+      "Gem: Bevar din komposition til fremtidig fornøjelse.",
+      "Del: Vis din musik til venner eller online fællesskabet."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Abgerny Goblos Skærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend din anmeldelse",
+    "nameLabel": "Dit navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Abgerny Goblos åbnede min fantasi til en verden af unikke lyde!",
+        "author": "Gamer123"
+      },
+      {
+        "content": "Goblin-temaet tilføjer en jordnær charme til min musikskabelse.",
+        "author": "Musikelsker"
+      },
+      {
+        "content": "Et must-try for dem, der elsker quirky musikmods!",
+        "author": "FantasyFan"
+      },
+      {
+        "content": "Karaktererne og lydene smelter sømløst sammen for at skabe fortryllende musik.",
+        "author": "SoundCrafter"
+      },
+      {
+        "content": "Jeg nød at eksperimentere med forskellige karakterer for at skabe nye melodier.",
+        "author": "KreativSind"
+      },
+      {
+        "content": "En fantastisk måde at udforske musikalsk kreativitet gennem et sjovt tema.",
+        "author": "ArtisticSoul"
+      },
+      {
+        "content": "Elsker den rustikke æstetik og legende lydbilleder!",
+        "author": "VisuelKunstner"
+      },
+      {
+        "content": "Anbefales varmt for alle, der er interesseret i musikkomposition!",
+        "author": "HarmoniJæger"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+        "question": "Hvad er Abgerny Goblos?",
+        "answer": "Abgerny Goblos er en musikmod, der kombinerer goblin-tema æstetik med Sprunkis musikskabelsesramme."
+      },
+      {
+        "question": "Hvordan starter jeg med at skabe musik?",
+        "answer": "Vælg dine karakterer og begynd at arrangere dem for at skabe tematiserede melodier."
+      },
+      {
+        "question": "Kan jeg gemme mine kompositioner?",
+        "answer": "Ja, når du er tilfreds med din kreation, kan du gemme dit stykke til senere lytning."
+      },
+      {
+        "question": "Er der community-funktioner?",
+        "answer": "Ja, du kan dele dine kompositioner med venner og onlinefællesskaber."
+      },
+      {
+        "question": "Er der en specifik aldersgrænse?",
+        "answer": "Abgerny Goblos er velegnet for alle aldre, der er entusiastiske omkring musik og kreativitet."
+      },
+      {
+        "question": "Kan jeg justere lydelementer?",
+        "answer": "Ja, du kan eksperimentere med lydstyrker og effekter for at tilpasse din musik."
+      }
+    ]
+  },
+  "recommendedGames": {
+    "title": "Anbefalede Spil",
+    "games": [
+      {
+        "image": "image_url_1",
+        "title": "Sprunki Classic Mod",
+        "link": "#"
+      }, 
+      {
+        "image": "image_url_2",
+        "title": "Fantasy Lydbilledskaber",
+        "link": "#"
+      },
+      {
+        "image": "image_url_3",
+        "title": "Skovharmoni",
+        "link": "#"
+      }
+    ]
+  }
+}

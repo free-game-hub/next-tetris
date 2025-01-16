@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - 難解なIncrediboxモッド",
+    "description": "SprunkedとSprunkiを融合させたファンメイドのIncrediboxモッド、Sprunki x Sprunkedを探検し、新しいキャラクター、向上した難易度、オリジナルサウンドトラックを体験しよう。",
+    "keywords": "Sprunki x Sprunked, Incredibox モッド, Sprunked, Sprunki, リズムゲーム, 新しいキャラクター, オリジナルサウンドトラック"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "SprunkedとSprunkiの要素を組み合わせたファンメイドのIncrediboxモッド、Sprunki x Sprunkedのユニークなリズム体験に飛び込もう。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Sprunkedの主な特徴",
+    "features": [
+      "独自のスタイルと音楽能力を持つ新しいキャラクターのバラエティ",
+      "複雑なリズムパターンをマスターするための向上した難易度",
+      "ホラーに焦点を当てた、ダークで強烈なゲームの雰囲気",
+      "SprunkedとSprunkiの要素を融合させたオリジナルサウンドトラック",
+      "両方のモッドからのボーナスキャラクターを含むすべてのキャラクター",
+      "ゲームプレイ体験を向上させる魅力的なクロスオーバー要素"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki x Sprunkedの遊び方",
+    "instructions": [
+      "ユニークな音楽シーケンスを作成するためにキャラクターを慎重に選ぼう。",
+      "挑戦的なレベルで高得点を目指すためにタイミングをマスターしよう。",
+      "キャラクターのスタイルと音楽能力を探求して創造性を広げよう。",
+      "リズムの精度を維持しながら、強烈でダークなテーマに取り組もう。",
+      "ス suspensefulなシナリオを進みながらオリジナルサウンドトラックを楽しもう。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "ゲームスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "プレイヤーレビュー",
+    "submitReviewLabel": "レビューを送信",
+    "nameLabel": "名前",
+    "reviewLabel": "レビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "このモッドは信じられないほど挑戦的で、ダークな雰囲気が私をドキドキさせる。",
+        "author": "アレックス K."
+      },
+      {
+        "content": "クロスオーバー要素が大好き。まるで全く新しいゲームのように感じる！",
+        "author": "ジェイミー L."
+      },
+      {
+        "content": "オリジナルのサウンドトラックは素晴らしく、ゲームプレイにうまく溶け込んでいる。",
+        "author": "サム T."
+      },
+      {
+        "content": "最初は少し難しいが、慣れてくると本当にやりがいがある。",
+        "author": "クリス P."
+      },
+      {
+        "content": "新しいキャラクターは多くの深みを加えており、各キャラクターには独自の雰囲気がある。",
+        "author": "モーガン F."
+      },
+      {
+        "content": "ホラーをテーマにした要素はリズムゲームジャンルには新鮮なひねり。",
+        "author": "ロビン J."
+      },
+      {
+        "content": "オリジナルモッドへの本物のアップグレードのようで、非常に中毒性がある！",
+        "author": "テイラー M."
+      },
+      {
+        "content": "時々バグがあるが、全体としては素晴らしいモッドで大きな可能性を秘めている。",
+        "author": "ジョーダン H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"よくある質問",
+    "questions": [
+      {
+        "question":"Sprunki x Sprunkedとは何ですか？",
+        "answer":"Sprunki x Sprunkedは、SprunkedとSprunkiの要素を組み合わせたIncrediboxのファンメイドモッドです。"
+      },
+      {
+        "question":"オリジナルモッドをプレイせずにSprunki x Sprunkedを楽しめますか？",
+        "answer":"はい、オリジナルのモッドの経験があれば理解が深まりますが、Sprunki x Sprunkedを楽しむためには必須ではありません。"
+      },
+      {
+        "question":"ゲーム内にバグはありますか？",
+        "answer":"一部のスプライトが未完成ですが、これらの問題を解決するためのアップデートが期待されています。"
+      },
+      {
+        "question":"Sprunki x Sprunkedはどのくらい難しいですか？",
+        "answer":"このモッドはより挑戦的に設計されており、プレイヤーは複雑なリズムパターンをマスターする必要があります。"
+      },
+      {
+        "question":"Sprunki x Sprunkedにはオリジナルのサウンドトラックがありますか？",
+        "answer":"はい、このモッドには両方のモッドの要素を独自に融合させたオリジナルサウンドトラックがあります。"
+      },
+      {
+        "question":"どこでSprunki x Sprunkedをダウンロードできますか？",
+        "answer":"このモッドはIncrediboxモッディングコミュニティとフォーラムからダウンロードできます。"
+      }
+    ]
+  }
+}

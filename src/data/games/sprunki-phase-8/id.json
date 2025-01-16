@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 8: Petualangan Ritmis dalam Game",
+    "description": "Masuki Sprunki Phase 8, perpaduan yang menarik antara platforming dan penciptaan musik yang terinspirasi oleh Incredibox. Temukan karakter unik, grafis yang cerah, dan level yang menantang.",
+    "keywords": "Sprunki Phase 8, Incredibox, game platform, game musik, kustomisasi karakter, permainan ritme"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 8",
+    "p": "Lepaskan kreativitas dan bakat musikmu di Sprunki Phase 8, di mana setiap level menantang keterampilan ritme dan platformingmu."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Integrasi Musik dengan elemen dari Incredibox",
+      "Pilihan Kustomisasi Karakter yang Luas",
+      "Grafis yang Cerah dan animasi yang menarik",
+      "Desain Level yang Beragam dengan tantangan strategis",
+      "Koleksi dan Power-up untuk meningkatkan pengalaman bermain"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Petunjuk Permainan",
+    "instructions": [
+      "Jelajahi level dengan menghindari rintangan dan menciptakan musik.",
+      "Gunakan kontrol sederhana untuk bergerak dan melompat dalam lingkungan.",
+      "Beralih antara karakter untuk memanfaatkan kemampuan unik mereka.",
+      "Aktifkan segmen musik untuk selaras dengan ritme permainan.",
+      "Seimbangkan antara menghadapi tantangan dan menciptakan musik untuk meraih sukses."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Integrasi musiknya sungguh luar biasa! Bermain sambil menciptakan melodi adalah pengalaman yang sangat unik.",
+        "author": "Alex M."
+      },
+      {
+        "content": "Kustomisasi karakter menambahkan sentuhan pribadi pada permainan, menjadikan setiap permainan unik.",
+        "author": "Jamie T."
+      },
+      {
+        "content": "Grafis yang cerah sangat memukau dan membuat permainan ini sangat menyenangkan.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Saya suka menemukan rute dan rahasia baru di setiap level. Selalu ada sesuatu yang baru!",
+        "author": "Sam K."
+      },
+      {
+        "content": "Permainan berbasis ritme adalah pendekatan baru dalam game platform, dan dieksekusi dengan brilian.",
+        "author": "Patricia W."
+      },
+      {
+        "content": "Sprunki Phase 8 adalah kebahagiaan mutlak bagi pecinta musik dan gamer!",
+        "author": "Jordan L."
+      },
+      {
+        "content": "Setiap level adalah tantangan, tetapi musiknya membuat saya termotivasi!",
+        "author": "Taylor R."
+      },
+      {
+        "content": "Menggabungkan musik dengan game adalah ide genious, dan permainan ini dieksekusi dengan sempurna.",
+        "author": "Morgan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apa tujuan dari Sprunki Phase 8?",
+        "answer": "Tujuan utamanya adalah menjelajahi berbagai level, menghindari rintangan dan musuh sambil menciptakan musik."
+      },
+      {
+        "question": "Bagaimana cara mengontrol karakter?",
+        "answer": "Gunakan kontrol sederhana untuk bergerak dan melompat, dan beralih antara karakter secara strategis untuk memanfaatkan kemampuan unik mereka."
+      },
+      {
+        "question": "Bisakah saya mengkustomisasi karakter saya?",
+        "answer": "Ya, pemain dapat memilih dari berbagai karakter dengan gaya visual dan suara yang berbeda untuk pengalaman yang dipersonalisasi."
+      },
+      {
+        "question": "Apa yang membuat gameplay ini unik?",
+        "answer": "Integrasi penciptaan musik dengan elemen platform menawarkan pengalaman permainan yang unik dan menarik."
+      },
+      {
+        "question": "Apakah ada beberapa rute dalam level?",
+        "answer": "Ya, Sprunki Phase 8 mendorong replayability dengan beberapa rute dan area rahasia untuk ditemukan."
+      },
+      {
+        "question": "Apakah permainan ini memiliki koleksi dan power-up?",
+        "answer": "Pemain dapat mengumpulkan item yang membuka kemampuan baru dan meningkatkan kreasi musik mereka seiring kemajuan."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Game yang Direkomendasikan",
+    "games": [
+      {
+        "image": "image_url_sprunki_phase_4",
+        "title": "Sprunki Phase 4",
+        "link": "link_to_sprunki_phase_4"
+      },
+      {
+        "image": "image_url_sprunki_phase_7",
+        "title": "Sprunki Phase 7",
+        "link": "link_to_sprunki_phase_7"
+      }
+    ]
+  }
+}

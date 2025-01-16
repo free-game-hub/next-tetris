@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Sunset Mod: Luo Musiikkia Ilta-auringon Lämpimässä Hohteessa",
+    "description": "Tutustu Sprunki Sunset Modiin, musiikin luontikokemukseen, joka on saanut inspiraationsa illan väreistä ja rauhallisista äänimaailmoista. Opi soittamaan ja nauti pelaajien arvioista.",
+    "keywords": "Sprunki Sunset Mod, musiikin luonti, auringonlasku-innoittama estetiikka, rauhalliset äänimaailmat, musiikin tekemispeli"
+  },
+  "hero": {
+    "h1": "Sprunki Sunset Mod",
+    "p": "Sukella lämpimien, kultaisien sävyjen maailmaan myöhäisiltataivaalla Sprunki Sunset Modin avulla. Muuta musiikintuotantosessiosi rentouttavaksi ja mietiskeleväksi kokemukseksi."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Sunset Modin Pääominaisuudet",
+    "features": [
+      "Auringonlasku-Innoittama Estetiikka: Jäljitä taivaan illan väriharmoniaa rauhoittavilla taustoilla.",
+      "Lämpimät Äänimaailmat: Toistot lempeillä sävyillä ja pehmeillä harmoniolla ajatusten virittämiseksi.",
+      "Rennon Tunnelma: Hidasta tahtia ja löydä lohduttavia ja sielukkaita melodioita.",
+      "Hahmovalinta: Valitse hahmoja, jotka edustavat ilta-auringon rauhallista henkeä.",
+      "Helppo Jakaminen: Jaa musiikkiluomuksesi ja anna muiden kokea Sprunki-auringonlasku."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Sunset Modia",
+    "instructions": [
+      "Valitse Hahmot: Valitse joukosta hahmoja, jotka heijastavat ilta-auringon lempeää henkeä.",
+      "Vedä ja Pudota: Järjestä ääniä vangitaksesi auringon lempeän laskun.",
+      "Tee Sääntöjä: Säädä ääniä ja efektejä täydentääksesi kappalettasi.",
+      "Tallenna ja Jaa: Jaa luomuksesi ja levitä hämärän rauhallista kauneutta.",
+      "Kokeile Kärsivällisesti: Löydä melodioita, jotka herättävät hämärän rauhoittavan tunnelman."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Sunset Modin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arviot Sprunki Sunset Modista",
+    "submitReviewLabel": "Lähetä Arviosi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Estetiikka on kuin katsoisi auringonlaskua oikeassa elämässä. Kaunis ja rauhoittava.",
+        "author": "Alice T."
+      },
+      {
+        "content": "Rakastan näitä lempeitä toistoja ja rauhallisia ääniä, täydellinen rentoutumiseen.",
+        "author": "Mike D."
+      },
+      {
+        "content": "Loistava tapa rentoutua ja luoda jotain kaunista. Vahvasti suositeltavaa!",
+        "author": "Julia F."
+      },
+      {
+        "content": "Täydellinen myöhäisillan luovuuteen. Auringonlaskuteema on upeasti toteutettu.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Olen jakanut kappaleeni ystävilleni, ja he rakastavat rauhallista tunnelmaa.",
+        "author": "Nina L."
+      },
+      {
+        "content": "Käyttöliittymä on intuitiivinen, ja efektit antavat juuri oikeanlaisen kosketuksen.",
+        "author": "Tom S."
+      },
+      {
+        "content": "Täydellinen yhdistelmä rauhoittavaa visuaalista sisältöä ja rauhallisia ääniä. Loistava kokemus!",
+        "author": "Emma R."
+      },
+      {
+        "content": "Jokainen sessio tuntuu matkalta rauhallisen hämärän läpi.",
+        "author": "Liam P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Mikä on Sprunki Sunset Mod?",
+        "answer": "Sprunki Sunset Mod on musiikin luomispeli, joka tarjoaa ilta-aurinkoinnoittaman teeman lämpimillä äänimaailmoilla ja rennolla tunnelmalla."
+      },
+      {
+        "question": "Miten valitsen hahmoja Sprunki Sunset Modissa?",
+        "answer": "Valitse joukosta hahmoja, jotka heijastavat ilta-auringon lempeää henkeä täydentämään musiikkiasi."
+      },
+      {
+        "question": "Voinko jakaa luomukseni muiden kanssa?",
+        "answer": "Kyllä, kun olet tyytyväinen kappaleeseesi, voit tallentaa ja jakaa sen muille."
+      },
+      {
+        "question": "Millaista ääntä voin odottaa tältä modilta?",
+        "answer": "Odotettavissa on toistoja, joissa on lempeitä sävyjä, kuten suhisevia tuulia ja kaukaisia kelloja, jotka on suunniteltu herättämään ajatuksellista luovuutta."
+      },
+      {
+        "question": "Miten hienosäätää miksaukseni?",
+        "answer": "Säädä ääniä ja lisää hienovaraisia efektejä täydentääksesi kappaleesi, kunnes se heijastaa hämärän rauhallista tunnelmaa."
+      },
+      {
+        "question": "Onko uusia pelaajia varten ohjetta?",
+        "answer": "Kyllä, pelissä on intuitiiviset ohjeet, jotka auttavat sinua aloittamaan omien kappaleidesi luomisen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Kauhuteemainen Käännös Spunky-pelistä",
+    "description": "Sukella Sprunki Retakeen, kauhuteemaisen uudelleenkuvitelman rakastetusta Spunky-pelistä. Tutki synkkiä visuaaleja, aavemaista äänimaailmaa ja paljasta piilotettuja salaisuuksia tässä ainutlaatuisessa musiikillisessa matkassa.",
+    "keywords": "Sprunki Retake, Spunky-peli, kauhupeli, Sprunki-moduuli, musiikin luominen"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Kauhuteemainen Käännös Spunky-pelistä",
+    "p": "Koe Sprunki Retaken aavemainen maailma, jossa eteeriset hahmot ja aavemaiset melodiat luovat jännittävän musiikillisen matkan. Pelaa verkossa nyt, latauksia ei tarvita!"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Retaken Ominaisuudet",
+    "features": [
+      "Aavistuttavat Äänimaastot: Luo kylmiä sävellyksiä aavemaisilla rytmeillä.",
+      "Eteeriset Hahmot: Löydä varjoiset uudelleenmuotoilut yliluonnollisilla käänteillä.",
+      "Synkkä Ilmapiiri: Vaalitu moody visuaaleissa ja selkäpiitä kutkuttavissa animaatioissa.",
+      "Piilotetut Salaisuudet: Avaa salaperäisiä animaatioita ja synkkiä kertomuksia.",
+      "Mobiili Optimoitu: Sujuva kauhuteemainen musiikin luominen pöytäkoneilla ja mobiililaitteilla."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki Retakea",
+    "instructions": [
+      "Valitse Hahmot: Valitse aavemaisista, kauhuteemaisista hahmoista.",
+      "Luo Synkkää Musiikkia: Mixaa ja yhdistä ääniä luodaksesi aavemaisia mestariteoksia.",
+      "Paljasta Mysteerit: Löydä piilossa olevat yhdistelmät paljastaaksesi pelottavia salaisuuksia ja animaatioita.",
+      "Jaa Luomukset: Jaa musiikilliset sävellyksesi maailmanlaajuiselle yhteisölle.",
+      "Tutki Päivityksiä: Nauti säännöllisistä päivityksistä uusilla sisällöillä ja hahmoilla."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Retake -pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut Sprunki Retakesta",
+    "submitReviewLabel": "Lähetä Arvostelu",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Kauhuteema lisää jännitystä klassiseen Spunky-peliin!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Rakastan aavemaisia musiikkiluomuksia! Täydellinen pelottavaan iltaan.",
+        "author": "Sam W."
+      },
+      {
+        "content": "Animaatiot ja ääniefektit ovat huipputasoa. Ehdottomasti suositus!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Pelaaminen tätä yöllä saa minut jännittämään - hyvällä tavalla!",
+        "author": "Taylor K."
+      },
+      {
+        "content": "Goottityylinen uudelleenkuvitelma on juuri sitä, mitä peli tarvitsi. Fantastista!",
+        "author": "Morgan H."
+      },
+      {
+        "content": "Rakastan tunnelmaa ja hahmosuunnittelua.",
+        "author": "Dana P."
+      },
+      {
+        "content": "Kiehtova ja luovasti synkkä tulkinta rakastetusta pelistä.",
+        "author": "Chris G."
+      },
+      {
+        "content": "Musiikkiluomukset ovat uskomattoman aavemaisia!",
+        "author": "Pat R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Retake -FAQ",
+    "questions": [
+      {
+        "question": "Mikä tekee Sprunki Retakesta erilaisen?",
+        "answer": "Sprunki Retake yhdistää kauhuelementtejä, synkkiä visuaaleja ja aavemaista äänimaailmaa ainutlaatuiselle musiikilliselle matkalle."
+      },
+      {
+        "question": "Kuinka avaan uutta sisältöä?",
+        "answer": "Kokeile ääniyhdistelmiä paljastaaksesi piilotettuja animaatioita ja salaisia ominaisuuksia."
+      },
+      {
+        "question": "Voinko pelata Sprunki Retakea mobiilissa?",
+        "answer": "Kyllä, se on optimoitu sekä pöytäkoneille että mobiililaitteille."
+      },
+      {
+        "question": "Onko olemassa eksklusiivisia hahmoja?",
+        "answer": "Kyllä, mukana on ainutlaatuisesti uudelleenmuotoiltuja hahmoja yliluonnollisilla elementeillä."
+      },
+      {
+        "question": "Tarvitaanko musiikillista kokemusta?",
+        "answer": "Ei, peli on suunniteltu kaikille pelaajille riippumatta musiikillisesta taustasta."
+      },
+      {
+        "question": "Onko Sprunki Retake ilmainen pelata?",
+        "answer": "Kyllä, nauti Sprunki Retakesta ilmaiseksi verkkoselaimesi kautta."
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Purrgatory - Novel Visual Kehidupan Selepas Kematian yang Whimsical",
+    "description": "Terokai dunia mempesona Purrgatory, sebuah novel visual tentang kehidupan selepas kematian di mana masa berhenti. Temui watak-watak unik, selesaikan misteri, dan nikmati pengalaman dilukis tangan yang penuh kasih sayang.",
+    "keywords": "Purrgatory, novel visual, permainan kehidupan selepas kematian, point-and-click, watak-watak whimsical, ciri permainan"
+  },
+  "hero": {
+    "h1": "Purrgatory - Pengembaraan Kehidupan Selepas Kematian yang Whimsical",
+    "p": "Selami Purrgatory, sebuah novel visual penuh keajaiban. Terokai, berkawan dengan watak-watak menawan, dan temui bahawa 'selamanya' tidaklah begitu buruk!"
+  },
+  "gameFeatures": {
+    "title": "Ciri Permainan Purrgatory",
+    "features": [
+      "Penjelajahan Point-and-Click yang Menarik",
+      "Visual Dilukis Tangan dengan Watak-watak Menawan",
+      "Pelbagai Pengakhiran dan Pengalaman Kaya Cerita",
+      "Tersedia dalam Bahasa Inggeris, Sepanyol, dan Cina Ringkas",
+      "Pemenang 'I Can't Draw' Game Jam"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Purrgatory",
+    "instructions": [
+      "Berinteraksi dengan dunia menggunakan tetikus anda.",
+      "Gunakan papan kekunci untuk navigasi cepat.",
+      "Terokai lokasi berbeza untuk membongkar rahsia.",
+      "Selesaikan teka-teki untuk meneruskan cerita.",
+      "Berinteraksi dengan watak-watak untuk mengetahui cerita mereka."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot Permainan Purrgatory"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Tentang Purrgatory",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Tersangkut di bahagian blackout tetapi mendapat bantuan daripada komuniti! Suka betapa kerjasamanya semua orang!",
+        "author": "Blormp"
+      },
+      {
+        "content": "Atmosfera dan persahabatan watak sungguh mengagumkan. Tak boleh berhenti memikirkannya!",
+        "author": "Robot_Raven"
+      },
+      {
+        "content": "Kembali untuk menyudahkannya selepas setahun. Beruntung dapat mengalami cerita indah ini.",
+        "author": "kayak"
+      },
+      {
+        "content": "Watak-wataknya terlalu terperinci. Pengakhiran yang baik permainan ini membuat saya terpaku.",
+        "author": "JUney"
+      },
+      {
+        "content": "Purrgatory menawarkan personaliti unik untuk setiap watak yang sepadan dengan bentuk haiwan mereka.",
+        "author": "dizie"
+      },
+      {
+        "content": "Perjalanan yang benar-benar wholesome dengan jenaka yang lucu!",
+        "author": "Jessa_r"
+      },
+      {
+        "content": "Cerita yang indah dan watak-watak yang menarik yang memikat saya serta-merta.",
+        "author": "Maple"
+      },
+      {
+        "content": "Kesederhanaan permainan ini menangkap inti kesederhanaan dan kegembiraan hidup.",
+        "author": "skibidipenis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Pada platform apa Purrgatory tersedia?",
+        "answer": "Purrgatory boleh dimainkan di platform HTML5 dan Windows."
+      },
+      {
+        "question": "Bagaimana saya menyelesaikan teka-teki apabila lampu terpadam?",
+        "answer": "Cuba pergi ke tempat Natalie untuk mendapatkan lilin sebagai sumber cahaya."
+      },
+      {
+        "question": "Adakah terdapat pelbagai pengakhiran untuk permainan ini?",
+        "answer": "Ya, Purrgatory mempunyai pelbagai pengakhiran bergantung pada pilihan anda."
+      },
+      {
+        "question": "Dengan bahasa apa Purrgatory tersedia?",
+        "answer": "Ia tersedia dalam Bahasa Inggeris, Sepanyol, dan Cina Ringkas."
+      },
+      {
+        "question": "Adakah terdapat soundtrack tersedia untuk Purrgatory?",
+        "answer": "Ya, soundtrack asal boleh di-stream di pelbagai platform."
+      },
+      {
+        "question": "Apa yang perlu saya lakukan jika permainan tidak bermula?",
+        "answer": "Cuba muat semula halaman atau gunakan pelayar lain. Untuk prestasi yang lebih baik, muat turun versi Windows."
+      }
+    ]
+  },
+  "gameRecommendations": [
+    {
+      "image": "link_to_image_1",
+      "title": "Pengembaraan Whimsical",
+      "link": "http://example.com/whimsical-journey"
+    },
+    {
+      "image": "link_to_image_2",
+      "title": "Kehidupan Selepas Kematian yang Impian",
+      "link": "http://example.com/dreamy-afterlife"
+    },
+    {
+      "image": "link_to_image_3",
+      "title": "Pengembaraan Mistik",
+      "link": "http://example.com/mystical-adventure"
+    }
+  ]
+}

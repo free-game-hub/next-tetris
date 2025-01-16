@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V3: 나만의 음악 만들기",
+    "description": "Incredibox V3를 만나보세요. 비트를 섞고 독특한 트랙을 만들어내는 음악 게임입니다. 새로운 기능, 사운드트랙, 생동감 넘치는 비주얼을 탐험해보세요.",
+    "keywords": "Incredibox V3, 음악 게임, 비트 만들기, 인터랙티브 게임, 사운드 믹싱"
+  },
+  "hero": {
+    "h1": "Incredibox V3",
+    "p": "Incredibox V3와 함께 창의력을 발휘하세요. 다양한 사운드와 캐릭터를 사용하여 나만의 비트를 만들 수 있는 인터랙티브 음악 게임입니다."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V3의 특징",
+    "features": [
+      "애니메이션 캐릭터와 함께하는 인터랙티브 음악 제작",
+      "드래그 앤 드롭 사운드 믹싱 시스템",
+      "밝고 매력적인 비주얼",
+      "멜로디, 효과, 보컬 등 다양한 사운드",
+      "자신의 음악 트랙을 녹음하고 공유"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox V3 플레이 방법",
+    "instructions": [
+      "애니메이션 캐릭터에 할당할 다양한 사운드, 비트, 효과를 선택하세요.",
+      "사운드 아이콘을 캐릭터에 드래그 앤 드롭하여 실시간으로 음악을 만들어보세요.",
+      "사운드 조합을 실험하여 독특한 트랙을 만들어보세요.",
+      "마우스나 키보드를 사용하여 게임과 상호작용하세요.",
+      "자신의 음악을 녹음하고 공유하거나 커뮤니티 대회에 참여하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V3 스크린샷"
+  },
+  "playerReviews": {
+    "title": "Incredibox V3 플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "Incredibox V3는 정말 재미있어요. 창의력과 오락의 완벽한 조합이에요.",
+        "author": "Alex J."
+      },
+      {
+        "content": "새로운 사운드트랙과 비주얼 덕분에 계속 돌아오게 됩니다!",
+        "author": "Sophia L."
+      },
+      {
+        "content": "간단하면서도 몰입감 있는 게임으로, 내 음악적 창의력을 탐구할 수 있어요.",
+        "author": "David R."
+      },
+      {
+        "content": "Incredibox V3에서 생동감 넘치는 색상과 중독성 있는 비트를 사랑해요!",
+        "author": "Ella M."
+      },
+      {
+        "content": "모든 연령대에 적합하며, 쉽게 플레이할 수 있고 매우 중독성이 강해요.",
+        "author": "Liam T."
+      },
+      {
+        "content": "드래그 앤 드롭 기능이 직관적이어서 음악 창작이 정말 재미있어요.",
+        "author": "Olivia K."
+      },
+      {
+        "content": "다양한 사운드를 실험하는 걸 좋아하는 음악 애호가에게 완벽해요.",
+        "author": "Mason B."
+      },
+      {
+        "content": "Incredibox V3는 비주얼과 오디오가 조화를 이루는 멋진 경험을 제공합니다. 강력 추천해요!",
+        "author": "Emma W."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Incredibox V3 자주 묻는 질문",
+    "questions": [
+      {
+        "question": "Incredibox V3란 무엇인가요?",
+        "answer": "Incredibox V3는 애니메이션 캐릭터를 사용하여 다양한 사운드를 믹스하여 나만의 음악 트랙을 만드는 음악 제작 게임입니다."
+      },
+      {
+        "question": "Incredibox V3는 어떻게 플레이하나요?",
+        "answer": "마우스나 키보드를 사용하여 사운드 아이콘을 애니메이션 캐릭터에 드래그 앤 드롭하여 실시간으로 음악을 만듭니다."
+      },
+      {
+        "question": "내 음악을 녹음하고 공유할 수 있나요?",
+        "answer": "네, 자신의 음악 트랙을 녹음하고 공유하거나 게임 내 커뮤니티 대회에 참여할 수 있습니다."
+      },
+      {
+        "question": "Incredibox V3는 어떤 플랫폼에서 플레이할 수 있나요?",
+        "answer": "Incredibox V3는 온라인으로 플레이할 수 있으며 다양한 앱 플랫폼에서도 이용할 수 있습니다."
+      },
+      {
+        "question": "선택할 수 있는 다양한 사운드 카테고리가 있나요?",
+        "answer": "네, 멜로디, 효과, 타악기, 보컬 등의 여러 사운드 카테고리가 있습니다."
+      },
+      {
+        "question": "Incredibox V3는 모든 연령대에 적합한가요?",
+        "answer": "네, Incredibox V3는 모든 연령대의 플레이어를 위해 설계되었으며 재미있고 몰입감 있는 경험을 제공합니다."
+      }
+    ]
+  }
+}

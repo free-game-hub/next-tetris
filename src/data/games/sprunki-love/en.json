@@ -1,0 +1,140 @@
+
+{
+  "metadata": {
+    "title": "Sprunki Love Game - Play My Singing Spunky Love Online Without Download",
+    "description": "Experience the world of musical creativity with Sprunki Love - the innovative singing game online. Mix unique Sprunki characters to create musical masterpieces instantly in your browser.",
+    "keywords": "Sprunki Love, My Singing Spunky Love, Sprunki Love game, play Sprunki Love online, Sprunki music game, Spunky Game"
+  },
+  "hero": {
+    "h1": "Sprunki Love: My Singing Sprunki's Musical Experience",
+    "p": "Dive into the harmonious world of Sprunki Love, where you can mix and match unique vocal characters to create your own musical masterpieces. Play instantly in your browser - no downloads required!"
+  },
+  "gameFeatures": {
+    "title": "Key Features of Sprunki Love",
+    "features": [
+      "Vocal Harmony: Combine unique Sprunki vocal characters to create beautiful harmonies.",
+      "Easy Controls: Simple drag-and-drop interface makes music creation accessible to everyone.",
+      "Share Creations: Save and share your musical masterpieces with the Sprunki Love community.",
+      "Performance Mode: Watch your Sprunkis perform in perfect harmony.",
+      "Layer Multiple Vocals: Create rich, complex harmonies by combining different vocal tracks."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play Sprunki Love: Your Musical Journey",
+    "instructions": [
+      "Choose Your Vocals: Select from unique Sprunki characters, each with their own vocal style and sound.",
+      "Layer & Create: Drag characters to the stage to build your song and create dynamic harmonies.",
+      "Perform & Share: Watch your Sprunkis perform, adjust the mix, save your creation, and share it with friends!",
+      "Adjust Volumes: Fine-tune each character's volume for perfect balance.",
+      "Remove Characters: Drag unwanted characters off the stage to change your composition."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Love Game Screenshots"
+  },
+  "playerReviews": {
+    "title": "Player Reviews for Sprunki Love",
+    "submitReviewLabel": "Submit Your Review",
+    "nameLabel": "Your Name",
+    "reviewLabel": "Your Review",
+    "submitButtonLabel": "Submit Review",
+    "reviews": [
+      {
+        "content": "Sprunki Love is an incredibly fun and creative game! I love mixing the different vocal harmonies.",
+        "author": "Jessica T."
+      },
+      {
+        "content": "As a music enthusiast, Sprunki Love offers endless possibilities for creating unique compositions.",
+        "author": "Mike R."
+      },
+      {
+        "content": "The interface is so intuitive, making it easy for beginners like me to enjoy the game.",
+        "author": "Karen L."
+      },
+      {
+        "content": "No downloads make it perfect to dive in and play anywhere, anytime.",
+        "author": "Alex G."
+      },
+      {
+        "content": "I enjoy the collaborative aspect - sharing my creations with friends is amazing!",
+        "author": "Sophie H."
+      },
+      {
+        "content": "A creative escape that helps me relax and explore musical compositions.",
+        "author": "Sam D."
+      },
+      {
+        "content": "The performance mode adds a nice touch, seeing characters sing your creation is fantastic.",
+        "author": "Tom C."
+      },
+      {
+        "content": "Impressive depth in creating complex harmonies while staying user-friendly.",
+        "author": "Linda W."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Frequently Asked Questions About Sprunki Love",
+    "questions": [
+      {
+        "question":"What makes Sprunki Love unique in Spunky Game?",
+        "answer":"Sprunki Love offers a distinctive musical experience featuring vocal harmonies and interactive sound mixing."
+      },
+      {
+        "question":"How do I create melodies in Sprunki Love?",
+        "answer":"Drag and drop characters onto the stage to layer their unique vocal sounds and create harmonious compositions."
+      },
+      {
+        "question":"Can I save my Sprunki Love creations?",
+        "answer":"Yes! You can save and share your Sprunki Love compositions with the community."
+      },
+      {
+        "question":"What controls are used in Sprunki Love?",
+        "answer":"Use mouse for drag-and-drop interactions and keyboard shortcuts like spacebar to play/pause."
+      },
+      {
+        "question":"Is Sprunki Love suitable for beginners?",
+        "answer":"Absolutely! Sprunki Love is designed to be intuitive for newcomers while offering depth for experienced users."
+      },
+      {
+        "question":"How many vocal layers can I combine in Sprunki Love?",
+        "answer":"You can layer multiple vocal tracks to create rich, complex harmonies."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Recommended Games",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Kiss Edition",
+        "link": "url/to/game1"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Sprunki Romantic",
+        "link": "url/to/game2"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Sprunki Sinner",
+        "link": "url/to/game3"
+      },
+      {
+        "image": "path/to/image4.jpg",
+        "title": "Spunky Sperunky",
+        "link": "url/to/game4"
+      },
+      {
+        "image": "path/to/image5.jpg",
+        "title": "Sprunki Retake",
+        "link": "url/to/game5"
+      },
+      {
+        "image": "path/to/image6.jpg",
+        "title": "Sprunki Infected",
+        "link": "url/to/game6"
+      }
+    ]
+  }
+}

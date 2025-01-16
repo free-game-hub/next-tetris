@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Irori: Kıtalararası Mutfak Yolculuğu",
+    "description": "Irori'nin sıcak 2.5D dünyasına dalın, burada bir kıtalararası trende şef olarak oynuyorsunuz. Fantastik malzemelerle lezzetli şişler hazırlayın ve huzur arayan diğer yolcularla tanışın.",
+    "keywords": "Irori oyunu, fantastik yemek oyunu, kıtalararası tren, 2.5D oyunu, rahat oyun deneyimi, PomePomelo"
+  },
+  "hero": {
+    "h1": "Irori: Kıtalararası Mutfak Yolculuğu",
+    "p": "Kıtalararası trene binin ve şef olun, yolcuların kalplerini ve karnlarını ısıtacak lezzetli şişler hazırlayın. Yumuşak ve davetkar 2.5D dünyada sıcak ve ilgi çekici bir deneyimin tadını çıkarın."
+  },
+  "gameFeatures": {
+    "title": "Oyun Özellikleri",
+    "features": [
+      "Yumuşak karakter tasarımları ile çekici 2.5D grafikler",
+      "Fantastik malzemelerden oluşan keyifli bir çeşit",
+      "Sevimli bir arkadaşla etkileşimli hikaye",
+      "Kısa ama tatmin edici oyun seansları (3-5 dakika)",
+      "Yemek pişirme ve hikayeler aracılığıyla diğer yolcularla etkileşim kurun"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Oynanış Talimatları",
+    "instructions": [
+      "Fantastik malzemelerle pişirmek için çeşitli şişler seçin.",
+      "Şişlerin mükemmel şekilde ızgarada pişmesini sağlamak için pişirme süresini ayarlayın.",
+      "Yolcularla etkileşime geçerek onların hikayelerini ve tercihlerine ulaşın.",
+      "İlerledikçe yeni malzemeleri ve tarifleri açın.",
+      "Her seansı yolculardan geri bildirim alarak sonlandırın."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "BU OYUNU ŞİMDİDEN ÇOK SEVİYORUM. Estetik ve oynanış inanılmaz rahatlatıcı.",
+        "author": "Soulessvoidd"
+      },
+      {
+        "content": "Hareketli mutfak, etkileşimli kurgu ile buluşuyor! Benzersiz ve keyifli.",
+        "author": "MultiDarkZen"
+      },
+      {
+        "content": "Sakin atmosferi ve oyundaki lezzetli tarifler, oyun koleksiyonumda vazgeçilmez bir yer edinmesini sağladı.",
+        "author": "Littlebuddy_2015"
+      },
+      {
+        "content": "Irori harika bir kaçış. Diğer yolculardan gelen hikayeler iç ısıtıcı.",
+        "author": "Angie"
+      },
+      {
+        "content": "Sanat tarzı mükemmel. Sevimli ve güzel bir tasarıma sahip.",
+        "author": "superlocolillool"
+      },
+      {
+        "content": "Kısa ama tatlı bir oynanış deneyimi. Daha fazla güncellemeyi sabırsızlıkla bekliyorum!",
+        "author": "Caring_Koala_Bro"
+      },
+      {
+        "content": "Etkileyici ama basit. Uzun bir günün sonunda dinlenmek için rahat bir yol.",
+        "author": "FRIDAY_NIGHT_FUNKE"
+      },
+      {
+        "content": "Teknik nedenlerle oyunu oynayamıyorum, ama gerçekten umut verici görünüyor!",
+        "author": "catstuckinabox"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sık Sorulan Sorular",
+    "questions": [
+      {
+      "question":"2.5D nedir?",
+      "answer":"2.5D, düz bir arayüz tasarımını korurken derinlik ve perspektif sunan 2D ve 3D unsurların karıştırıldığı bir görsel tarzı ifade eder."
+      },
+      {
+      "question":"Her oyun seansı ne kadar sürüyor?",
+      "answer":"Her seans yaklaşık 3-5 dakika sürüyor, kısa oyun süreleri için mükemmel."
+      },
+      {
+      "question":"Irori'yi birden fazla platformda oynayabilir miyim?",
+      "answer":"Evet, Irori HTML5, Windows ve macOS platformlarında mevcuttur."
+      },
+      {
+      "question":"Oyun deneyimlerimi nerede paylaşabilirim?",
+      "answer":"Deneyimlerinizi ve düşüncelerinizi topluluk forumumuzda paylaşabilirsiniz."
+      },
+      {
+      "question":"Oyun hala güncelleniyor mu?",
+      "answer":"Geliştirme ekibi şu anda bir mola vermiştir, ancak gelecekte güncellemeler planlanmaktadır."
+      },
+      {
+      "question":"Irori'yi kim geliştirdi?",
+      "answer":"Irori, birkaç yetenekli tasarımcı ve programcının katkılarıyla PomePomelo tarafından geliştirilmiştir."
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "image": "path/to/other-game1.jpg",
+      "title": "Mistik Mutfak: Büyülü Şef",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game2.jpg",
+      "title": "Fantastik Lezzetler: Mutfak Günlükleri",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game3.jpg",
+      "title": "Huşu Fırçası: Mutfağın Masalları",
+      "link": "#"
+    },
+    {
+      "image": "path/to/other-game4.jpg",
+      "title": "Yenilebilir Odyssey: Gastronomik Yolculuk",
+      "link": "#"
+    }
+  ]
+}

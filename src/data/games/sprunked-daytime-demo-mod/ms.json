@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Demo Sprunked Siang - Cipta Pengembaraan Muzik Anda Sendiri",
+    "description": "Selami dunia Demo Sprunked Siang, sebuah permainan muzik unik yang menggabungkan elemen Sprunki dan Incredibox. Cipta melodi anda sendiri menggunakan antara muka seret yang intuitif dan kongsikan ciptaan anda dengan dunia.",
+    "keywords": "Sprunked, Demo Sprunked Siang, Sprunki, Incredibox, permainan muzik, cipta muzik, pengembaraan muzik"
+  },
+  "hero": {
+    "h1": "Sprunked (Demo Siang)",
+    "p": "Mulakan perjalanan muzik dengan Sprunked, di mana kreativiti bertemu keseronokan! Cipta melodi unik dan terokai kemungkinan muzik yang tiada had."
+  },
+  "gameFeatures": {
+    "title": "Ciri-ciri Sprunked",
+    "features": [
+      "Antara Muka Seret Tanpa Gangguan: Mudah untuk mula membuat muzik dengan segera.",
+      "Perpustakaan Bunyi Eclectic: Pelbagai bunyi yang menyeronokkan.",
+      "Eksplorasi Muzik Tanpa Had: Kreativiti tanpa batasan dengan melodi anda.",
+      "Perkuatkan Ciptaan Anda: Kongsikan karya agung anda dengan dunia.",
+      "Buka Ciri Baru: Temui lebih banyak watak dan bunyi semasa anda bermain."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Demo Sprunked Siang",
+    "instructions": [
+      "Pilih Watak Anda: Pilih watak unik dengan bunyi yang berbeza.",
+      "Terokai Antara Muka: Cari dan gunakan pelbagai bunyi dan kesan.",
+      "Seret untuk Menemui Bunyi: Temui klip audio tersembunyi.",
+      "Cipta Melodi Anda: Lapiskan dan gabungkan bunyi untuk trek unik.",
+      "Kongsi Ciptaan Anda: Tunjukkan muzik anda dalam talian atau kepada rakan-rakan."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkap Layar Demo Sprunked Siang"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Saya sangat suka antara muka ini, mudah dan intuitif!",
+        "author": "Alice"
+      },
+      {
+        "content": "Perpustakaan bunyinya sangat pelbagai, saya menghabiskan berjam-jam mencipta.",
+        "author": "Bob"
+      },
+      {
+        "content": "Cara yang fantastik untuk bercreatif dan berehat.",
+        "author": "Charlie"
+      },
+      {
+        "content": "Kongsi ciptaan saya tidak pernah semudah ini.",
+        "author": "Dana"
+      },
+      {
+        "content": "Membuka ciri baru menjadikan permainan sentiasa segar.",
+        "author": "Eli"
+      },
+      {
+        "content": "Menarik dan membuatkan kreativiti muzik saya mengalir!",
+        "author": "Frank"
+      },
+      {
+        "content": "Komuniti ini sangat memberi inspirasi, suka berkolaborasi.",
+        "author": "Grace"
+      },
+      {
+        "content": "Permainan wajib bagi sesiapa yang mencintai muzik.",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim tentang Sprunked",
+    "questions": [
+      {
+        "question": "Apa itu Incredibox Sprunked?",
+        "answer": "Ia adalah platform menarik untuk mencampurkan irama dan meneroka kreativiti dengan watak-watak unik."
+      },
+      {
+        "question": "Apa ciri-ciri Sprunki Sprunked?",
+        "answer": "Dipenuhi dengan bunyi, watak yang menawan, dan kesan untuk meningkatkan pengalaman muzik anda."
+      },
+      {
+        "question": "Apa cerita di sebalik Sprunked?",
+        "answer": "Dicipta untuk memberikan pengalaman baru, setiap watak menambah personaliti pada perjalanan anda."
+      },
+      {
+        "question": "Apa reaksi komuniti Sprunked terhadap Incredibox?",
+        "answer": "Sangat disukai kerana pengalaman mendalam, menarik untuk pelbagai penonton."
+      },
+      {
+        "question": "Mengapa pemain harus suka bermain Sprunked?",
+        "answer": "Kerana gaya yang menyeronokkan, visual yang menarik, dan ekspresi kreatif yang tiada henti."
+      },
+      {
+        "question": "Apa yang menjadikan Sprunked istimewa?",
+        "answer": "Bunyi baru, visual, dan interaktiviti meningkatkan pengalaman di atas pendahulu."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Disyorkan untuk Anda",
+    "games": [
+      {
+        "title": "Dunia Sprunki Dandy",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Cataclysm",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

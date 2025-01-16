@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle游戏：玩转探险 | 官方网站",
+    "description": "探索Sprunkle的精彩世界，这是一款充满独特功能和挑战的在线游戏。了解游戏规则、控制方法，阅读玩家评论，提升你的游戏体验。",
+    "keywords": "Sprunkle游戏, Sprunkle在线, 玩Sprunkle, Sprunkle游戏规则, Sprunkle评论"
+  },
+  "hero": {
+    "h1": "Sprunkle游戏",
+    "p": "加入Sprunkle的激动人心冒险，这款迷人的在线游戏将让玩家始终保持紧张刺激的状态！"
+  },
+  "gameFeatures": {
+    "title": "Sprunkle的特点",
+    "features": [
+      "身临其境的游戏体验，动态动画带来视觉盛宴",
+      "针对不同技能级别的独特挑战",
+      "随着玩家选择而演变的引人入胜的故事情节",
+      "与朋友一起游戏的多人选项",
+      "定期更新新关卡和角色"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunkle",
+    "instructions": [
+      "使用键盘上的箭头键导航角色。",
+      "收集能量提升道具，在游戏中增强能力。",
+      "击败每一关的首领，以便继续进阶。",
+      "留意意外出现的陷阱和障碍物。",
+      "在多人模式中与朋友合作，享受合作体验。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkle游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评论",
+    "submitReviewLabel": "提交您的评论",
+    "nameLabel": "姓名",
+    "reviewLabel": "评论",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunkle真是令人上瘾！关卡设计精妙且充满挑战。",
+        "author": "亚历克斯·琼斯"
+      },
+      {
+        "content": "我喜欢Sprunkle的画面。色彩丰富，让人感到愉悦！",
+        "author": "玛丽·K."
+      },
+      {
+        "content": "和朋友一起玩Sprunkle太有趣了。多人模式是最棒的！",
+        "author": "汤米·L."
+      },
+      {
+        "content": "更新频繁，总能为游戏带来新内容。",
+        "author": "克里斯·P."
+      },
+      {
+        "content": "Sprunkle的控制容易上手，但掌握它需要技巧。",
+        "author": "尼娜·T."
+      },
+      {
+        "content": "我喜欢Sprunkle的故事线和选择驱动的游戏玩法。",
+        "author": "塞缪尔·D."
+      },
+      {
+        "content": "游戏的配乐非常动感，增添了沉浸感。",
+        "author": "瑞贝卡·S."
+      },
+      {
+        "content": "我会推荐这款游戏给任何喜欢挑战的人。",
+        "author": "杰森·H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "我如何保存Sprunkle的进度？",
+        "answer": "您的Sprunkle进度会在检查点自动保存。"
+      },
+      {
+        "question": "我可以在移动设备上玩Sprunkle吗？",
+        "answer": "目前，Sprunkle仅支持桌面浏览器。移动版正在开发中。"
+      },
+      {
+        "question": "有没有办法重置我的游戏进度？",
+        "answer": "是的，您可以从设置菜单重置游戏进度。"
+      },
+      {
+        "question": "Sprunkle中有内购吗？",
+        "answer": "Sprunkle提供可选的内购，但并不影响完整游戏体验。"
+      },
+      {
+        "question": "我如何报告游戏中的bug或问题？",
+        "answer": "请使用我们网站上的联系表单报告任何bug或问题。"
+      },
+      {
+        "question": "多人模式是免费玩吗？",
+        "answer": "是的，Sprunkle的多人模式是免费的，您可以邀请朋友一起加入。"
+      }
+    ]
+  }
+}

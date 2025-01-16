@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "title": "Friday Night Funkin (FNF) - Nihai Ritim Savaşı Oyunu | Şimdi Oyna",
+        "description": "Viral ritim oyunu senzasyonu Friday Night Funkin' (FNF) dalın! Müzik sololarında savaşın, topluluk modlarını keşfedin ve interneti kasıp kavuran oyunu deneyimleyin. Oynaması ücretsiz, öğrenmesi kolay, ustalaşması zor!",
+        "keywords": "Friday Night Funkin, FNF, ritim oyunu, rap savaşı, Newgrounds oyunu, FNF modları, müzik oyunu, indie oyunu"
+    },
+    "hero": {
+        "h1": "Friday Night Funkin' - Müziğin Zorlukla Buluştuğu Yer",
+        "p": "İnternetin en popüler ritim savaşı oyununda milyonlarca oyuncuya katılın. Renkli karakterlerden oluşan bir kadroya karşı müzik sololarında karşılaşın, ritim becerilerinizi kanıtlayın ve büyüyen topluluğumuzun bir parçası olun!"
+    },
+    "gameFeatures": {
+        "title": "FNF'yi Özel Kılan Nedir",
+        "features": [
+            "Orijinal Viral Soundtrack: Milyonları etkilemiş profesyonel olarak hazırlanmış şarkılarda dans edin",
+            "Aktif Modlama Topluluğu: Topluluk tarafından oluşturulmuş binlerce karakter, şarkı ve seviyeye erişim sağlayın",
+            "Klasik Sanat Tarzı: Flash dönemi etkili animasyonlar ve karakter tasarımlarının tadını çıkarın",
+            "Düzenli Güncellemeler: Oyun sürekli evrim geçirirken yeni içerik ve özellikleri deneyimleyin",
+            "Açık Kaynak Geliştirme: Topluluğuyla büyüyen bir oyunun parçası olun"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Nasıl Oynanır",
+        "instructions": [
+            "Gelen notaların ritmini eşleştirmek için ok tuşlarını (⬆️⬇️⬅️➡️) kullanın",
+            "Notaları doğru bir şekilde vurarak sağlığınızı koruyun ve kombo puanları kazanın",
+            "Yeni karakterler ve parçaların kilidini açmak için Hikaye Modunda ilerleyin",
+            "Favori şarkılarınızı pratik yapmak için Serbest Oyun Modunu deneyin",
+            "Topluluk tarafından oluşturulmuş içerik keşfetmek için mod bölümünü keşfedin"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Aksiyon İçinde FNF"
+    },
+    "playerReviews": {
+        "title": "Topluluk Geri Bildirimi",
+        "submitReviewLabel": "FNF Deneyiminizi Paylaşın",
+        "nameLabel": "Kullanıcı Adı",
+        "reviewLabel": "Yorumunuz",
+        "submitButtonLabel": "Yorumu Paylaş",
+        "reviews": [
+            {
+                "content": "Modlama topluluğu bu oyunu taze tutuyor! Her zaman denenecek yeni bir şey var ve temel oyun zaten harika.",
+                "author": "RhythmMaster2023",
+                "rating": 5
+            },
+            {
+                "content": "Viral olduğunda oynamaya başladım, hala bırakamıyorum. Açık kaynak doğası onu daha da iyi yapıyor!",
+                "author": "FunkinPlayer",
+                "rating": 5
+            },
+            {
+                "content": "Yıllardır oynadığım en iyi ritim oyunu. Topluluk giderek büyüyor ve daha iyi oluyor!",
+                "author": "BeatDropper",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "questions": [
+            {
+                "question": "Friday Night Funkin' oynaması ücretsiz mi?",
+                "answer": "Evet! Ana oyun, Newgrounds ve diğer resmi platformlar üzerinden tamamen ücretsiz oynanabilir."
+            },
+            {
+                "question": "FNF modlarını nasıl yüklerim?",
+                "answer": "Çoğu mod güvenilir mod platformlarından indirilebilir. Her mod genellikle yükleme talimatlarıyla gelir, ancak genellikle dosyaları oyun dizininize yerleştirmeyi içerir."
+            },
+            {
+                "question": "Minimum sistem gereksinimleri nelerdir?",
+                "answer": "FNF tarayıcı tabanlıdır ve çoğu modern bilgisayarda çalışır. Oynamak için yalnızca bir klavyeye ve güncel bir web tarayıcısına ihtiyacınız var!"
+            },
+            {
+                "question": "Kendi modlarımı oluşturabilir miyim?",
+                "answer": "Kesinlikle! FNF açık kaynaktır ve topluluk yeni yaratıcıları memnuniyetle karşılar. Modlama öğreticileri ve kaynaklarını resmi topluluk forumlarında bulabilirsiniz."
+            },
+            {
+                "question": "Oyun ne sıklıkta güncelleniyor?",
+                "answer": "Ana oyun, geliştirme ekibinden düzenli güncellemeler alırken, yeni topluluk modları neredeyse her gün yayınlanır."
+            },
+            {
+                "question": "FNF'nin mobil bir versiyonu var mı?",
+                "answer": "Bazı resmi olmayan mobil portlar olsa da, resmi versiyon bir klavye ile masaüstü oyunu için tasarlanmıştır."
+            }
+        ]
+    }
+}

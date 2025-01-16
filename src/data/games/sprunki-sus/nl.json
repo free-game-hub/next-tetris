@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki SUS - Ultieme Muzikale Avontuur op Spunky Game",
+    "description": "Ontdek de unieke muzikale wereld van Sprunki SUS op Spunky Game. Speel direct in je browser, creëer muzikale composities en deel deze met de gaminggemeenschap. Geen downloads nodig!",
+    "keywords": "Sprunki SUS, Spunky Game, online ritme game, muzikale creativiteit, browser game"
+  },
+  "hero": {
+    "h1": "Sprunki SUS",
+    "p": "Doe mee aan het ultieme muzikale avontuur met Sprunki SUS, een ritmegame die je creativiteit uitdaagt. Mix, deel en geniet van unieke beats direct in je browser op Spunky Game."
+  },
+  "gameFeatures": {
+    "title": "Belangrijkste Kenmerken van Sprunki SUS op Spunky Game",
+    "features": [
+      "Intuïtieve Besturing: Gebruiksvriendelijke interface geschikt voor alle vaardigheidsniveaus.",
+      "Direct Spelen: Geen downloads nodig – speel direct in je browser.",
+      "Prestigesysteem: Verdien beloningen naarmate je vordert door de niveaus.",
+      "Gemeenschapsfuncties: Verbind en deel je creaties met andere spelers.",
+      "Diverse Geluidstijlen: Experimenteer met verschillende muzikale genres en stijlen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Sprunki SUS op Spunky Game",
+    "instructions": [
+      "Selecteer je Personage: Kies uit unieke Sprunki SUS personages met verschillende muzikale vaardigheden.",
+      "Creëer Je Mix: Combineer verschillende personages om geweldige muzikale combinaties te produceren.",
+      "Deel & Geniet: Sla je creaties op en deel ze binnen de Spunky Game gemeenschap.",
+      "Navigeer Besturing: Gebruik je muis voor slepen-en-neerzetten acties en sneltoetsen voor geavanceerde besturing.",
+      "Verken Modi: Ervaar verschillende spelmodi zoals Klassiek, Uitdaging, Vrije Stijl en Samenwerking."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots van de Sprunki SUS Game"
+  },
+  "playerReviews": {
+    "title": "Spelersrecensies voor Sprunki SUS",
+    "submitReviewLabel": "Dien Je Recensie In",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Recensie",
+    "submitButtonLabel": "Indienen",
+    "reviews": [
+      {
+        "content": "Een ongelooflijk leuk en creatief spel! Het gemeenschapsaspect is fantastisch.",
+        "author": "Alex G."
+      },
+      {
+        "content": "Ik hou ervan hoe gemakkelijk het is om te starten zonder gedoe. Perfect voor snelle sessies!",
+        "author": "Jordan T."
+      },
+      {
+        "content": "De verscheidenheid aan muzikale stijlen zorgt ervoor dat ik steeds terugkom. Sterk aanbevolen!",
+        "author": "Sam R."
+      },
+      {
+        "content": "Sprunki SUS is een meesterwerk in casual gaming. Een must-try voor muziekliefhebbers.",
+        "author": "Casey L."
+      },
+      {
+        "content": "De interface is intuïtief en de gameplay is zo boeiend!",
+        "author": "Jamie H."
+      },
+      {
+        "content": "Perfecte mix van creativiteit en plezier. Delen met vrienden is geweldig!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Een geweldige manier om muzikale creativiteit te verkennen en te uiten. Ik hou ervan!",
+        "author": "Riley S."
+      },
+      {
+        "content": "Ik kan niet geloven dat ik zo gemakkelijk muziek kan maken in een spel. Verslavend!",
+        "author": "Morgan P."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Veelgestelde Vragen Over Sprunki SUS",
+    "questions": [
+      {
+        "question":"Wat maakt Sprunki SUS uniek in Spunky Game?",
+        "answer":"Sprunki SUS biedt een innovatieve draai met unieke karakterontwerpen en muzikale elementen."
+      },
+      {
+        "question":"Hoe begin ik met spelen van Sprunki SUS op Spunky Game?",
+        "answer":"Bezoek de website van Spunky Game, selecteer Sprunki SUS en begin met mixen met de slepen-en-neerzetten interface."
+      },
+      {
+        "question":"Kan ik mijn Sprunki SUS creaties opslaan?",
+        "answer":"Ja, je kunt je muzikale composities opslaan en delen met andere spelers."
+      },
+      {
+        "question":"Welke besturingselementen worden gebruikt in Sprunki SUS?",
+        "answer":"Gebruik je muis om personages te slepen en neer te zetten, en gebruik sneltoetsen voor extra besturing."
+      },
+      {
+        "question":"Is Sprunki SUS geschikt voor beginners?",
+        "answer":"Absoluut! Het is ontworpen om toegankelijk te zijn voor nieuwkomers, terwijl het diepgang biedt voor ervaren spelers."
+      },
+      {
+        "question":"Hoeveel geluidlagen kan ik combineren in Sprunki SUS?",
+        "answer":"Je kunt meerdere geluidlagen combineren voor rijke muzikale composities."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunked Daytime Demo - 自分だけの音楽冒険を作ろう",
+    "description": "Sprunked Daytime Demoの世界に飛び込み、SprunkiとIncrediboxの要素を組み合わせたユニークな音楽ゲームで、直感的なスクラッチインターフェースを使って自分だけのメロディを作成し、世界と共有しましょう。",
+    "keywords": "Sprunked, Sprunked Daytime Demo, Sprunki, Incredibox, 音楽ゲーム, 音楽を作る, 音楽冒険"
+  },
+  "hero": {
+    "h1": "Sprunked (デモ版)",
+    "p": "Sprunkedと共に音楽の旅に出かけよう！創造性と楽しさが交差する場所で、ユニークなメロディを作り、無限の音楽の可能性を探求しよう。"
+  },
+  "gameFeatures": {
+    "title": "Sprunkedの特徴",
+    "features": [
+      "シームレスなスクラッチインターフェース: 簡単に音楽を作り始められます。",
+      "多彩なサウンドライブラリ: 楽しい音声が豊富に揃っています。",
+      "無限の音楽探求: あなたのメロディで無限の創造性を楽しんでください。",
+      "クリエーションを増幅: あなたの作品を世界と共有しましょう。",
+      "新機能の解除: プレイすることで新しいキャラクターや音を発見します。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunked Daytime Demoの遊び方",
+    "instructions": [
+      "キャラクターを選ぶ: ユニークな音を持つ個性的なキャラクターを選んでください。",
+      "インターフェースを探る: 様々な音やエフェクトを見つけて利用しましょう。",
+      "サウンドを発見するためにスクラッチ: 隠れた音声クリップを見つけ出します。",
+      "メロディを作曲: 音を重ね合わせてユニークなトラックを作成します。",
+      "クリエーションを共有: あなたの音楽をオンラインまたは友達と披露しましょう。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunked Daytime Demoのスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "プレイヤーレビュー",
+    "submitReviewLabel": "レビューを投稿",
+    "nameLabel": "名前",
+    "reviewLabel": "レビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "インターフェースが素晴らしく、使いやすくて直感的です！",
+        "author": "アリス"
+      },
+      {
+        "content": "サウンドライブラリがとても多様で、何時間も創作に没頭できます。",
+        "author": "ボブ"
+      },
+      {
+        "content": "クリエイティブでリラックスする素晴らしい方法です。",
+        "author": "チャーリー"
+      },
+      {
+        "content": "自分の作品を共有するのがこんなに楽しいのは初めてです。",
+        "author": "ダナ"
+      },
+      {
+        "content": "新機能の解除がゲームを新鮮に保ちます。",
+        "author": "エリ"
+      },
+      {
+        "content": "没頭できて、音楽の感性が高まります！",
+        "author": "フランク"
+      },
+      {
+        "content": "コミュニティがとても刺激的で、コラボレーションが楽しいです。",
+        "author": "グレース"
+      },
+      {
+        "content": "音楽好きには絶対にプレイしてほしいゲームです。",
+        "author": "ハンク"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunkedに関するよくある質問",
+    "questions": [
+      {
+        "question": "Incredibox Sprunkedとは何ですか？",
+        "answer": "リズムをミックスし、ユニークなキャラクターと共に創造性を探求する魅力的なプラットフォームです。"
+      },
+      {
+        "question": "Sprunki Sprunkedの特徴は何ですか？",
+        "answer": "様々な音、魅力的なキャラクター、音楽体験を豊かにするエフェクトが詰まっています。"
+      },
+      {
+        "question": "Sprunkedの背景にあるストーリーは何ですか？",
+        "answer": "新たな体験を提供するために作成され、それぞれのキャラクターが旅に個性を加えます。"
+      },
+      {
+        "question": "SprunkedコミュニティはIncrediboxに対してどのように反応していますか？",
+        "answer": "没入感のある体験が多くの人に愛され、幅広いオーディエンスに支持されています。"
+      },
+      {
+        "question": "なぜプレイヤーはSprunkedを楽しむべきなのですか？",
+        "answer": "楽しいスタイル、ビジュアル、無限の創造的表現が魅力です。"
+      },
+      {
+        "question": "Sprunkedの特別な点は何ですか？",
+        "answer": "新しい音、ビジュアル、インタラクティブ性が体験を次のレベルに引き上げます。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "あなたへのおすすめ",
+    "games": [
+      {
+        "title": "Sprunki Dandyの世界",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Cataclysm",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

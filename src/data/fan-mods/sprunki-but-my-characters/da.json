@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - Et Underholdende Eventyrspil | Spil Nu",
+    "description": "Deltag i den spændende verden af Sprunki! Udforsk reglerne, funktionerne og anmeldelserne af dette fængslende eventyrspil. Spil Sprunki nu og begiv dig ud på en episk rejse.",
+    "keywords": "Sprunki, Sprunki spil, eventyrspil, spil Sprunki, Sprunki funktioner, spilverden"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Dyk ind i det spændende eventyr af Sprunki, hvor hver karakter tager på en episk rejse. Slut dig til tusindvis af spillere og oplev den fascinerende verden af Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Spilfunktioner",
+    "features": [
+      "Immersive historier med fængslende karakterer.",
+      "Fantastisk grafik, der bringer Sprunkis verden til live.",
+      "Interaktiv gameplay, der udfordrer dine færdigheder.",
+      "Multiplayer-tilstande, der tillader dig at team op med venner.",
+      "Regelmæssige opdateringer og nyt indhold for uendelig sjov."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan spiller du Sprunki",
+    "instructions": [
+      "Download Sprunki-appen fra den officielle hjemmeside eller appbutik.",
+      "Opret din karakter og tilpas dens udseende.",
+      "Naviger gennem niveauer ved hjælp af piletasterne eller berøringsskærmen.",
+      "Fuldfør opgaver for at tjene belønninger og avancere i spillet.",
+      "Samarbejd med andre spillere for at tackle udfordrende missioner."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Udforsk Sprunkis Verden"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Dit Navn",
+    "reviewLabel": "Din Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Sprunki er det sjoveste, jeg har haft i lang tid! Karaktererne og historierne er så engagerende.",
+        "author": "JaneD"
+      },
+      {
+        "content": "Et fantastisk spil med smuk grafik og vanedannende gameplay!",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "Jeg elsker multiplayer-tilstanden, det er en fest at spille med venner!",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki bliver kun bedre med hver opdatering. Anbefales varmt!",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "Udfordringerne er perfekte til en solo gaming session eller sjov med venner.",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "Fantastisk spil for både børn og voksne. Alle i min familie elsker det!",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "Unikke karakterer og kreative quests gør Sprunki til noget særligt.",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "Jeg har spillet Sprunki i måneder. Engagerende og bliver aldrig gammelt!",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+        "question":"Hvor kan jeg downloade Sprunki?",
+        "answer":"Sprunki kan downloades fra den officielle hjemmeside eller gennem større appbutikker."
+      },
+      {
+        "question":"Er Sprunki tilgængelig for alle enheder?",
+        "answer":"Ja, Sprunki er tilgængelig på PC, iOS og Android-enheder."
+      },
+      {
+        "question":"Har jeg brug for internetforbindelse for at spille Sprunki?",
+        "answer":"En internetforbindelse er nødvendig for multiplayerfunktioner, men du kan spille offline solo-missioner."
+      },
+      {
+        "question":"Er der nogen køb i spillet?",
+        "answer":"Ja, Sprunki tilbyder valgfrie køb i spillet til karaktertilpasning og nyt indhold."
+      },
+      {
+        "question":"Hvor ofte bliver der udgivet nyt indhold?",
+        "answer":"Nyt indhold og opdateringer udgives regelmæssigt for at holde spillet friskt og spændende."
+      },
+      {
+        "question":"Kan jeg spille Sprunki med venner?",
+        "answer":"Absolut! Sprunki tilbyder multiplayer-tilstande til at spille med venner eller andre online spillere."
+      }
+    ]
+  }
+}

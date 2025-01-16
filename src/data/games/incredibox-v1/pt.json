@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V1 - Mergulhe no Mundo do Ritmo e Beatboxing",
+    "description": "Explore Incredibox V1, um jogo encantador de criação musical que combina ritmo, melodia e beatboxing. Crie faixas únicas com jogabilidade de arrastar e soltar. Ideal para amantes da música que buscam criatividade e diversão.",
+    "keywords": "Incredibox V1, jogo de criação musical, ritmo, beatboxing, jogo Incredibox Alpha"
+  },
+  "hero": {
+    "h1": "Incredibox V1",
+    "p": "Liberte sua criatividade musical com Incredibox V1, onde ritmo se encontra com melodia em uma aventura interativa de beatboxing."
+  },
+  "gameFeatures": {
+    "title": "Por que Incredibox V1 se Destaca",
+    "features": [
+      "Crie faixas musicais únicas com jogabilidade fácil de arrastar e soltar.",
+      "Explore paisagens sonoras diversas com personagens de beatboxing animados.",
+      "Desbloqueie bônus visuais ao descobrir combinações de sons.",
+      "Compartilhe suas composições com uma comunidade de entusiastas da música.",
+      "Participe de uma experiência audiovisual imersiva."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Dominar Incredibox V1",
+    "instructions": [
+      "Escolha um Estilo: Selecione entre uma variedade de estilos musicais para iniciar sua jornada musical.",
+      "Crie um Mix: Arraste ícones de som para os avatares para atribuir sons distintos e criar sua composição.",
+      "Experimente: Camadas de sons para explorar novos ritmos e efeitos, desbloqueando animações ocultas.",
+      "Controles do Mouse: Clique e arraste para manipular sons, ajustando seu mix com facilidade.",
+      "Atalhos de Teclado: Use os atalhos disponíveis para ajustes rápidos de som (dependente da versão)."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V1 em Ação"
+  },
+  "playerReviews": {
+    "title": "O que os Jogadores Estão Dizendo Sobre Incredibox V1",
+    "submitReviewLabel": "Envie sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Incredibox V1 é uma maneira única e agradável de criar música. É acessível mesmo para quem não tem formação musical.",
+        "author": "Alex J."
+      },
+      {
+        "content": "As animações são fantásticas! Elas realmente adicionam à experiência imersiva.",
+        "author": "Samantha P."
+      },
+      {
+        "content": "Adoro como posso compartilhar minhas criações facilmente. A comunidade é muito encorajadora!",
+        "author": "Mike T."
+      },
+      {
+        "content": "Simples, mas viciante. Passei horas experimentando diferentes sons.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Uma ótima maneira de expressar criatividade. Os bônus visuais são um toque recompensador.",
+        "author": "Chris R."
+      },
+      {
+        "content": "É mais do que um jogo, é uma plataforma criativa!",
+        "author": "Patricia G."
+      },
+      {
+        "content": "Meus filhos e eu gostamos de criar música juntos. É amigável para a família e divertido!",
+        "author": "John D."
+      },
+      {
+        "content": "Controles muito intuitivos. Adoro sua simplicidade e profundidade.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Perguntas Frequentes sobre Incredibox V1",
+    "questions": [
+      {
+      "question":"O que é Incredibox V1?",
+      "answer":"Incredibox V1 é um jogo interativo de criação musical que combina elementos de ritmo, melodia e beatboxing por meio de personagens animados."
+      },
+      {
+      "question":"Como eu jogo Incredibox V1?",
+      "answer":"Selecione um estilo musical, arraste ícones de som para os personagens para criar seu mix e explore combinações de sons para efeitos e animações adicionais."
+      },
+      {
+      "question":"Posso usar atalhos de teclado em Incredibox V1?",
+      "answer":"Em algumas versões, atalhos de teclado estão disponíveis para silenciamento rápido de sons, solo e rearranjo, embora a interação principal seja via mouse."
+      },
+      {
+      "question":"Incredibox V1 é adequado para todas as idades?",
+      "answer":"Sim, a interface intuitiva e os gráficos envolventes tornam o jogo acessível e divertido para jogadores de todas as idades."
+      },
+      {
+      "question":"Posso compartilhar minhas criações musicais do Incredibox V1?",
+      "answer":"Absolutamente, os jogadores podem compartilhar suas composições online para inspirar e interagir com uma comunidade de entusiastas da música."
+      },
+      {
+      "question":"O que torna Incredibox V1 diferente de outros jogos musicais?",
+      "answer":"Sua combinação de jogabilidade de arrastar e soltar, narrativa animada e compartilhamento comunitário o destaca como um jogo e uma ferramenta criativa."
+      }
+    ]
+  }
+}

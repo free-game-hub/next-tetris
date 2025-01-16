@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Parasprunki but Better Mod - 音楽制作体験の向上",
+    "description": "Parasprunki 12.0の洗練されたバージョンであるParasprunki but Better Modを探求し、音質の向上、洗練されたビジュアル、使いやすさを提供し、優れた音楽制作体験を実現します。",
+    "keywords": "Parasprunki but Better, 音楽mod, 音質, 洗練されたビジュアル, 音楽制作ゲーム"
+  },
+  "hero": {
+    "h1": "Parasprunki but Better",
+    "p": "Parasprunki but Better Modは、Parasprunki 12.0 modの基盤をさらに洗練させ、より磨きがかかった、一貫性のある楽しい音楽制作体験を提供します。"
+  },
+  "gameFeatures": {
+    "title": "Parasprunki but Better Modの特徴",
+    "features": [
+      "音質の向上: 鮮明で活気に満ちたトーンがすべての要素を引き立てる。",
+      "洗練されたビジュアル: クリーンなデザインとスムーズなアニメーション。",
+      "使いやすさの向上: 創造性に集中できる直感的なインターフェース。",
+      "シンプルなインターフェース: 照会を最小限に抑え、簡単なナビゲーションを実現。",
+      "一貫した音楽体験: 磨き上げられ、楽しいゲームプレイ。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Parasprunki but Better Modの遊び方",
+    "instructions": [
+      "キャラクターの選択: 明確さとバランスのために調整されたロースターから選びます。",
+      "ドラッグ＆ドロップ: キャラクターを配置して改善されたループを重ねます。",
+      "実験と調整: 音量を微調整し、エフェクトを追加します。",
+      "保存して共有: 自分の作品を保存し、コミュニティと共有します。",
+      "可能性を引き出す: ユニークな体験のために異なる組み合わせを試してみてください。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Parasprunki but Better Modのスクリーンショット"
+  },
+  "playerReviews": {
+    "title": "プレイヤーのレビュー",
+    "submitReviewLabel": "レビューを送信する",
+    "nameLabel": "名前",
+    "reviewLabel": "レビュー",
+    "submitButtonLabel": "送信",
+    "reviews": [
+      {
+        "content": "このmodの新しい音質が大好きです。トーンがとても鮮やかです！",
+        "author": "Gamer123"
+      },
+      {
+        "content": "インターフェースの調整が本当に効果があります。今はずっと使いやすいです。",
+        "author": "MusicLover"
+      },
+      {
+        "content": "洗練されたビジュアルのおかげで、作曲中にキャラクターの役割を見分けやすくなりました。素晴らしい改善です！",
+        "author": "VisualArtist"
+      },
+      {
+        "content": "作品を保存して共有できる機能は革命的です。大好きです！",
+        "author": "ComposerPro"
+      },
+      {
+        "content": "ループとメロディーが完璧にバランスが取れており、楽しい体験を生み出しています。",
+        "author": "SoundEngineer"
+      },
+      {
+        "content": "音量やエフェクトを実験するのがずっと簡単になりました。開発者に感謝！",
+        "author": "MixerMaster"
+      },
+      {
+        "content": "このmodを友達全員に勧めました。素晴らしいです！",
+        "author": "GamerGirl"
+      },
+      {
+        "content": "使いやすさが向上したことで、完全に創造性に集中できるようになりました。素晴らしい！",
+        "author": "CreativeMind"
+      }
+    ]
+  },
+  "faq": {
+    "title": "よくある質問",
+    "questions": [
+      {
+        "question": "Parasprunki but Better Modとは何ですか？",
+        "answer": "Parasprunki 12.0 modの洗練されたバージョンで、音質、ビジュアル、使いやすさが向上しています。"
+      },
+      {
+        "question": "キャラクターはどうやって選択しますか？",
+        "answer": "明確さとバランスのために調整されたロースターから選びます。"
+      },
+      {
+        "question": "作品を保存して共有できますか？",
+        "answer": "はい、作品を保存し、コミュニティと共有できます。"
+      },
+      {
+        "question": "このmodにはどんな新機能がありますか？",
+        "answer": "このmodは、洗練されたビジュアル、向上した音質、そして強化されたユーザーインターフェースを提供します。"
+      },
+      {
+        "question": "このmodは初心者に適していますか？",
+        "answer": "はい、直感的なインターフェースが初心者と経験豊富なプレイヤーの両方にアクセス可能です。"
+      },
+      {
+        "question": "作品をどうやって向上させることができますか？",
+        "answer": "音量、エフェクト、そして新しい音質の異なる組み合わせで実験してみてください。"
+      }
+    ]
+  }
+}

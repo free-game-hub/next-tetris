@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Kulje Muistojen Läpi: Liikuttava Seikkailu Haamujen ja Koiraiden kanssa",
+    "description": "Tutustu sydäntä lämmittävään tarinaan 'Kulje Muistojen Läpi', liikuttavasta pulmapelistä, jossa haamu koira auttaa perhettään surussa selviytymisessä. Löydä pelin ominaisuudet, ohjeet ja lue pelaajien arvioita.",
+    "keywords": "Kulje Muistojen Läpi, haamu koira peli, pulmapeli, perhe koira peli, pelin arvostelut, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Kulje Muistojen Läpi",
+    "p": "Aloita liikuttava matka haamupaikan kanssa, kun he tutkivat kotiaan ja auttavat perhettään parantumaan menetyksestä. Kaunis pulmapeli, joka on huolellisesti tehty Picogramin toimesta Global Game Jam 2019:ssä."
+  },
+  "gameFeatures": {
+    "title": "Pelin Ominaisuudet",
+    "features": [
+      "Sydäntä lämmittävä kertomus, joka tutkii menetystä ja parantumista.",
+      "Viehätysvoimaiset grafiikat ja tunnelmallinen musiikki Grahm Nesbittiltä.",
+      "Yksinkertaiset ohjaimet, jotka sopivat kaikille ikäryhmille.",
+      "Pelattavissa HTML5-alustoilla, saavutettavissa erilaisilla laitteilla.",
+      "Arvioitu 4.8/5 tähteä yli 3,850 pelaajan toimesta."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Pelin Ohjeet",
+    "instructions": [
+      "Käytä nuolinäppäimiä näppäimistöllä liikuttaaaksesi haamu koiraa.",
+      "Paina 'Z' vuorovaikutukseen esineiden kanssa ja edisty tarinassa.",
+      "Tutki jokaista huonetta löytääksesi muistoja ja auttaa perhettä selviytymään.",
+      "Kiinnitä huomiota ympäristön hienovaraisiin vihjeisiin vinkeistä.",
+      "Nauti kokemuksesta introspektiivisenä matkana, ei vain pelinä."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelistä Kuvakaappauksia"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "NIIN SULOINEN :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Rakastin tätä! Se oli niin suloinen ja jätti minut lämpimään tunnelmaan.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "Tämä oli niin makea. Tämä oli erittäin hyvin tehty näin lyhyeksi peliksi.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Ei tämä ollut ensimmäinen kertani pelissä, menetin koirani äskettäin. Se lämmittää sydäntäni.",
+        "author": "This is dope"
+      },
+      {
+        "content": "Bravo, onnellinen, surullinen ja suloinen, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "Koiira on niin suloinen kantaessaan leipäpalaa.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Kirjaimellisesti suloinen <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "Ajattelen, että Eminem-soittolistan kuunteleminen pelatessani saattoi pilata tunnelmaa, mutta silti yksi parhaista peleistä, joita olen pelannut aikoihin.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question":"Millä alustoilla 'Kulje Muistojen Läpi' on saatavilla?",
+        "answer":"Peli on saatavilla HTML5-alustoilla, mikä tekee siitä saavutettavan useimmilla laitteilla, joissa on moderni web-selain."
+      },
+      {
+        "question":"Kuinka vuorovaikutan esineiden kanssa pelissä?",
+        "answer":"Käytä 'Z'-näppäintä näppäimistöllä vuorovaikuttaaksesi esineiden kanssa ja edisty tarinassa."
+      },
+      {
+        "question":"Kuka loi pelin musiikin?",
+        "answer":"Tunnelmallisen musiikin 'Kulje Muistojen Läpi' on säveltänyt Grahm Nesbitt."
+      },
+      {
+        "question":"Onko peli sopiva kaikille ikäryhmille?",
+        "answer":"Kyllä, pelissä on yksinkertaiset ohjaimet ja sydäntä lämmittävä kertomus, joka sopii kaikille ikäryhmille."
+      },
+      {
+        "question":"Kuinka kauan pelin pelaaminen kestää?",
+        "answer":"Peli on suhteellisen lyhyt, tarjoten tiiviin mutta emotionaalisen kokemuksen, joka voidaan pelata yhdellä kertaa."
+      },
+      {
+        "question":"Voinko pelata 'Kulje Muistojen Läpi' mobiililaitteellani?",
+        "answer":"Jos mobiililaitteesi tukee HTML5-pelejä web-selaimen kautta, sinun pitäisi pystyä pelaamaan peliä."
+      }
+    ]
+  }
+}

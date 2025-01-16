@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Mais Memes - Votre Aire de Jeu Musicale d'Humour",
+    "description": "Découvrez le mod Sprunki Retake mais Memes, où l'humour d'internet se mêle à la création musicale. Plongez dans un monde de personnages inspirés des memes et de paysages sonores hilarants qui transforment vos compositions en sessions de jam remplies de rires.",
+    "keywords": "Sprunki Retake, Memes Mod, personnages inspirés des memes, paysages sonores humoristiques, création musicale"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Mais Memes",
+    "p": "Immergez-vous dans le mod Sprunki Retake mais Memes, où chaque composition musicale peut déclencher une expérience hilarante."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du Mod Sprunki Memes",
+    "features": [
+      "Personnages Inspirés des Memes : Conçus pour évoquer des memes reconnaissables avec des visuels iconiques et des phrases accrocheuses.",
+      "Paysages Sonores Humoristiques : Découvrez des boucles peu conventionnelles avec des effets sonores comiques.",
+      "Chaos Joyeux : Une atmosphère de plaisir total et d'expérimentation avec des combinaisons étranges.",
+      "Animations Ludiques : Des animations dynamiques qui renforcent l'essence comique de vos compositions.",
+      "Humour Inspiré d'Internet : Références à des moments viraux et des memes célèbres tout au long du jeu."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer au Mod Sprunki Retake mais Memes",
+    "instructions": [
+      "Sélectionner des Personnages : Choisissez parmi des figures inspirées des memes pour allier humour et rythme.",
+      "Glisser et Déposer : Disposez les personnages à l'écran pour créer des pistes remplies de blagues.",
+      "Expérimentez et Profitez : Ajustez les volumes et embrassez des mélanges absurdes pour le plaisir.",
+      "Sauvegarder et Partager : Enregistrez vos mélodies qui font sourire et partagez-les avec vos amis.",
+      "Riez et Rejouez : Continuez à explorer pour découvrir de nouvelles combinaisons hilarantes."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots du Jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Envoyez Votre Avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Envoyer",
+    "reviews": [
+      {
+        "content": "Je n'aurais jamais pensé que faire de la musique pouvait être aussi drôle !",
+        "author": "Alex K."
+      },
+      {
+        "content": "Un mélange parfait d'humour et de créativité.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Le mod Sprunki Retake mais Memes est mon incontournable pour des rires instantanés.",
+        "author": "Sam R."
+      },
+      {
+        "content": "Chaque session ressemble à une nouvelle aventure de meme !",
+        "author": "Chris T."
+      },
+      {
+        "content": "J'ai partagé mes mélodies avec des amis et ils ont adoré.",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Si vous aimez les memes et la musique, c'est un must à essayer !",
+        "author": "Jordan W."
+      },
+      {
+        "content": "Un plaisir sans fin, je ne peux pas arrêter de créer !",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Les références aux memes sont impeccables !",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQs",
+    "questions": [
+      {
+        "question": "Comment sélectionner un personnage ?",
+        "answer": "Cliquez sur la liste des personnages pour choisir votre figure inspirée des memes."
+      },
+      {
+        "question": "Puis-je sauvegarder mes créations musicales ?",
+        "answer": "Oui, vous pouvez sauvegarder et partager vos mélodies avec d'autres."
+      },
+      {
+        "question": "Y a-t-il des tutoriels disponibles ?",
+        "answer": "Le jeu offre des instructions intuitives pour vous guider dans le gameplay."
+      },
+      {
+        "question": "L'Internet est-il nécessaire pour jouer ?",
+        "answer": "Non, vous pouvez profiter du jeu hors ligne après le téléchargement initial."
+      },
+      {
+        "question": "Puis-je personnaliser les effets sonores ?",
+        "answer": "Vous pouvez ajuster les volumes et expérimenter différentes combinaisons sonores."
+      },
+      {
+        "question": "À quelle fréquence de nouveaux memes sont ajoutés ?",
+        "answer": "Le jeu se met à jour régulièrement pour inclure les derniers memes viraux."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Jeux Recommandés",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "Mods d'Horreur",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Mods Sprunki",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

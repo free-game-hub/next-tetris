@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: Double Taken - Pengalaman Bermain Terbaik",
+    "description": "Temukan Sprunki Retake: Double Taken – sensasi permainan terbaru dengan desain yang sepenuhnya baru dan gameplay yang mendebarkan. Bergabunglah dengan komunitas pemain dan rasakan petualangannya!",
+    "keywords": "Sprunki Retake, Double Taken, permainan, video game, game baru, fitur game, instruksi game, ulasan pemain"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: Double Taken",
+    "p": "Selamat datang di Sprunki Retake: Double Taken – petualangan seru di mana inovasi bertemu dengan nostalgia. Selami desain baru dan gameplay yang mendebarkan."
+  },
+  "gameFeatures": {
+    "title": "Fitur Sprunki Retake: Double Taken",
+    "features": [
+      "Desain baru dengan grafis yang memukau.",
+      "Alur cerita yang menarik yang menangkap esensi permainan tradisional.",
+      "Mekanika gameplay yang mulus untuk pengalaman imersif.",
+      "Dukungan multiplayer untuk kesenangan bermain sosial.",
+      "Pembaruan rutin untuk meningkatkan konten game dan pengalaman pengguna."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Retake: Double Taken",
+    "instructions": [
+      "Mulailah dengan mengunduh Sprunki Retake: Double Taken dari situs resmi kami.",
+      "Ikuti tutorial untuk mengenal kontrol dan tujuan permainan.",
+      "Gunakan tombol panah dan spasi untuk navigasi dan aksi.",
+      "Rencanakan langkah Anda untuk menghadapi tantangan dan bos yang kompleks.",
+      "Berkolaborasi dengan pemain lain untuk meningkatkan pengalaman bermain Anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Game"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain untuk Sprunki Retake: Double Taken",
+    "submitReviewLabel": "Kirim ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Seru dan sangat menarik. Penambahan yang hebat untuk koleksi game saya!",
+        "author": "GamerJoe42"
+      },
+      {
+        "content": "Saya suka desain baru ini. Seperti kembali ke masa kecil dengan kesenangan lebih!",
+        "author": "RetroLover88"
+      },
+      {
+        "content": "Sangat brilian! Fitur multiplayer membuat saya terhubung dengan teman-teman.",
+        "author": "SocialGamer5"
+      },
+      {
+        "content": "Gameplay inovatif dengan sedikit nuansa nostalgia. Sempurna untuk semua jenis gamer.",
+        "author": "AdventureSeeker23"
+      },
+      {
+        "content": "Perpaduan yang indah antara gaya bermain masa lalu dan sekarang. Jempol untuk itu!",
+        "author": "ClassicCraze49"
+      },
+      {
+        "content": "Game ini tidak pernah membosankan dengan pembaruan rutin!",
+        "author": "TechieGeek101"
+      },
+      {
+        "content": "Saya menghargai usaha yang dituangkan dalam grafisnya. Suatu pengalaman visual yang menakjubkan!",
+        "author": "ArtisticMind77"
+      },
+      {
+        "content": "Perpaduan tanpa cela antara tantangan dan kesenangan. Sangat direkomendasikan!",
+        "author": "ChallengeAccepted17"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Apa itu Sprunki Retake: Double Taken?",
+        "answer":"Sprunki Retake: Double Taken adalah versi terbaru dari game Sprunki Retake yang populer, dengan desain baru dan gameplay yang ditingkatkan."
+      },
+      {
+        "question":"Bagaimana cara saya mengunduh game ini?",
+        "answer":"Game ini dapat diunduh langsung dari situs resmi kami atau melalui toko aplikasi resmi."
+      },
+      {
+        "question":"Apakah ada fitur multiplayer?",
+        "answer":"Ya, Sprunki Retake: Double Taken menyertakan fitur multiplayer untuk meningkatkan konektivitas dan aspek sosial dalam bermain."
+      },
+      {
+        "question":"Apakah ada pembaruan rutin untuk game ini?",
+        "answer":"Kami sering memperbarui game untuk memperkenalkan fitur baru, memperbaiki bug, dan meningkatkan pengalaman pengguna."
+      },
+      {
+        "question":"Apa saja persyaratan sistemnya?",
+        "answer":"Game ini membutuhkan minimal 4GB RAM, kartu grafis modern, dan sistem operasi yang diperbarui untuk memastikan performa terbaik."
+      },
+      {
+        "question":"Siapa yang bisa saya hubungi untuk dukungan?",
+        "answer":"Anda dapat menghubungi tim dukungan kami melalui formulir kontak di situs kami untuk bantuan lebih lanjut."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Game yang Direkomendasikan",
+    "games": [
+      {
+        "img": "path/to/image1.jpg",
+        "title": "Adventure Quest",
+        "link": "link_to_game1"
+      },
+      {
+        "img": "path/to/image2.jpg",
+        "title": "Mystery Solver",
+        "link": "link_to_game2"
+      },
+      {
+        "img": "path/to/image3.jpg",
+        "title": "Puzzle Masters",
+        "link": "link_to_game3"
+      }
+    ]
+  }
+}

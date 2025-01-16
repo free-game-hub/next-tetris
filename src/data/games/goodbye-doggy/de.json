@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Drift Through Memory: Ein berührendes Abenteuer mit Geistern und Hunden",
+    "description": "Erleben Sie die herzerwärmende Geschichte von 'Drift Through Memory', einem bewegenden Puzzle-Spiel, in dem ein Geisterhund seiner Familie hilft, mit Trauer umzugehen. Entdecken Sie die Spielmerkmale, Steuerungen und lesen Sie Spielerbewertungen.",
+    "keywords": "Drift Through Memory, Geisterhund Spiel, Puzzle Spiel, Haustier Spiel, Spielbewertungen, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Drift Through Memory",
+    "p": "Begib dich auf eine bewegende Reise mit einem geisterhaften Begleiter, der sein Zuhause erkundet und seiner Familie hilft, den Verlust zu verarbeiten. Ein wunderschönes Puzzle-Spiel, liebevoll von Picogram für den Global Game Jam 2019 gestaltet."
+  },
+  "gameFeatures": {
+    "title": "Spielmerkmale",
+    "features": [
+      "Herzerwärmende Erzählung, die Themen von Verlust und Heilung erforscht.",
+      "Charmante Grafiken und atmosphärische Musik von Grahm Nesbitt.",
+      "Einfache Steuerung, die für alle Altersgruppen geeignet ist.",
+      "Spielbar auf HTML5-Plattformen, zugänglich auf verschiedenen Geräten.",
+      "Mit 4,8 von 5 Sternen von über 3.850 Spielern bewertet."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spielanleitung",
+    "instructions": [
+      "Nutze die Pfeiltasten auf deiner Tastatur, um den Geisterhund zu bewegen.",
+      "Drücke 'Z', um mit Objekten zu interagieren und die Geschichte voranzutreiben.",
+      "Erkunde jeden Raum, um Erinnerungen zu entdecken und der Familie zu helfen.",
+      "Achte auf subtile Hinweise in der Umgebung für Hinweise.",
+      "Genieße die Erfahrung als introspektive Reise und nicht nur als Spiel."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spiel-Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Bewertung Abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Absenden",
+    "reviews": [
+      {
+        "content": "SO SÜSS :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Ich habe es geliebt! Es war so süß und hat mir ein warmes Gefühl gegeben.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "Das war so süß. Für ein so kurzes Spiel war es sehr gut gemacht.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Nicht das erste Mal, dass ich das spiele, ich habe kürzlich meinen Hund verloren. Es erwärmt mein Herz.",
+        "author": "This is dope"
+      },
+      {
+        "content": "Bravo, glücklich, traurig und süß, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "Der Hund ist so süß, wenn er ein Stück Brot trägt.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Wirklich bezaubernd <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "Ich glaube, dass das Hören meiner Eminem-Playlist beim Spielen die Stimmung ruiniert hat, aber es ist trotzdem eines der besten Spiele, die ich in letzter Zeit gespielt habe.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Häufig Gestellte Fragen",
+    "questions": [
+      {
+        "question":"Auf welchen Plattformen ist 'Drift Through Memory' verfügbar?",
+        "answer":"Das Spiel ist auf HTML5-Plattformen verfügbar und somit auf den meisten Geräten mit modernen Webbrowsern zugänglich."
+      },
+      {
+        "question":"Wie interagiere ich mit Objekten im Spiel?",
+        "answer":"Nutze die 'Z'-Taste auf deiner Tastatur, um mit Objekten zu interagieren und die Geschichte voranzutreiben."
+      },
+      {
+        "question":"Wer hat die Musik für das Spiel erstellt?",
+        "answer":"Die atmosphärische Musik in 'Drift Through Memory' wurde von Grahm Nesbitt komponiert."
+      },
+      {
+        "question":"Ist das Spiel für alle Altersgruppen geeignet?",
+        "answer":"Ja, das Spiel bietet einfache Steuerungen und eine herzerwärmende Erzählung, die für Spieler jeden Alters geeignet ist."
+      },
+      {
+        "question":"Wie lange dauert es, das Spiel zu beenden?",
+        "answer":"Das Spiel ist relativ kurz und bietet ein kompaktes, emotionales Erlebnis, das in einer Sitzung abgeschlossen werden kann."
+      },
+      {
+        "question":"Kann ich 'Drift Through Memory' auf meinem mobilen Gerät spielen?",
+        "answer":"Wenn dein mobiles Gerät HTML5-Spiele über einen Webbrowser unterstützt, solltest du in der Lage sein, das Spiel zu spielen."
+      }
+    ]
+  }
+}

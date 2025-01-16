@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Romantic | 在线畅玩终极浪漫音乐游戏",
+    "description": "与Sprunki Romantic一起踏上音乐冒险之旅，这是一款引人入胜的在线音乐创作游戏。创作浪漫旋律，分享你独特的作品。",
+    "keywords": "Sprunki Romantic, 音乐游戏, 在线创作音乐, 玩Sprunki Romantic, Sprunki Romantic特点"
+  },
+  "hero": {
+    "h1": "Sprunki Romantic",
+    "p": "沉浸在Sprunki Romantic的迷人世界中，这里音乐与爱情交织在一起。直接在浏览器中创作并分享你自己的浪漫作品。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Romantic的主要特点",
+    "features": [
+      "直观界面：简单易用的音乐创作控制，人人可用。",
+      "丰富音效库：探索多样化的浪漫声音和循环音效。",
+      "实时混音：随时调整你的作品。",
+      "分享创作：导出并分享你的音乐杰作。",
+      "浪漫视觉特效：用主题动画增强你的音乐体验。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki Romantic",
+    "instructions": [
+      "选择你的声音：从各种音乐元素中挑选。",
+      "创作你的混音：将不同的声音结合，形成独特的作品。",
+      "分享与享受：保存并与他人分享你的创作。",
+      "和声模式：混合旋律来表达情感。",
+      "二重奏模式：与他人合作并结合作品。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Romantic 截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Sprunki Romantic的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunki Romantic是音乐与创意的完美结合。我非常喜欢!",
+        "author": "爱丽丝 W."
+      },
+      {
+        "content": "直观的界面让人轻松创作出惊艳的作品。",
+        "author": "约翰 D."
+      },
+      {
+        "content": "探索浪漫音乐主题的绝佳方式。强烈推荐!",
+        "author": "莎拉 T."
+      },
+      {
+        "content": "实时混音功能非常适合现场创作。",
+        "author": "瑞安 L."
+      },
+      {
+        "content": "Sprunki Romantic提供了无限的可能性，创造独特的音乐。",
+        "author": "艾米丽 R."
+      },
+      {
+        "content": "一个非常适合初学者和有经验的音乐人的平台。",
+        "author": "克拉拉 M."
+      },
+      {
+        "content": "喜欢分享功能，方便我展示自己的创作。",
+        "author": "索菲亚 K."
+      },
+      {
+        "content": "游戏和音乐创意的完美结合，非常吸引人!",
+        "author": "迈克尔 B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "关于Sprunki Romantic的常见问题",
+    "questions": [
+      {
+        "question": "Sprunki Romantic有什么独特之处？",
+        "answer": "Sprunki Romantic提供浪漫旋律和互动的节奏元素，独特的爱情主题音景让人耳目一新。"
+      },
+      {
+        "question": "我如何在Sprunki Romantic中创作音乐？",
+        "answer": "将角色拖放到舞台上，以混合浪漫节拍和旋律。每个角色带来独特的声音。"
+      },
+      {
+        "question": "我可以保存我的Sprunki Romantic作品吗？",
+        "answer": "可以，你的创作可以保存并在Spunky游戏社区中与他人分享。"
+      },
+      {
+        "question": "Sprunki Romantic适合初学者吗？",
+        "answer": "绝对适合！为新手和经验丰富的玩家设计，配备直观的控制。"
+      },
+      {
+        "question": "Sprunki Romantic中有不同的模式吗？",
+        "answer": "有，包括和声模式（用于混合旋律）和二重奏模式（用于合作）。"
+      },
+      {
+        "question": "我可以和其他人在Sprunki Romantic中合作吗？",
+        "answer": "可以，分享你的创作，获取其他玩家的混音灵感。"
+      }
+    ]
+  }
+}

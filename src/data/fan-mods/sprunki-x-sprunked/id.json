@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - Mod Incredibox yang Menantang",
+    "description": "Jelajahi Sprunki x Sprunked, mod buatan penggemar untuk Incredibox yang menggabungkan elemen dari Sprunked dan Sprunki, menawarkan karakter baru, kesulitan yang meningkat, dan soundtrack orisinal.",
+    "keywords": "Sprunki x Sprunked, mod Incredibox, Sprunked, Sprunki, game ritme, karakter baru, soundtrack orisinal"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "Masuki pengalaman ritme unik Sprunki x Sprunked, mod Incredibox buatan penggemar yang mengombinasikan elemen dari Sprunked dan Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Fitur Utama Sprunki x Sprunked",
+    "features": [
+      "Beragam karakter baru dengan gaya dan kemampuan musik yang berbeda",
+      "Kesulitan yang meningkat untuk menguasai pola ritme yang kompleks",
+      "Atmosfer permainan yang lebih gelap dan intens dengan fokus horor",
+      "Soundtrack orisinal yang menggabungkan elemen dari Sprunked dan Sprunki",
+      "Semua karakter termasuk karakter bonus dari kedua mod",
+      "Elemen crossover yang menarik yang meningkatkan pengalaman bermain"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki x Sprunked",
+    "instructions": [
+      "Pilih karakter Anda dengan bijak untuk menciptakan urutan musik yang unik.",
+      "Kuasi timing untuk mencapai skor lebih tinggi di level yang menantang.",
+      "Jelajahi semua gaya karakter dan kemampuan musik mereka untuk mengembangkan kreativitas Anda.",
+      "Terlibatlah dengan tema yang intens dan gelap sambil menjaga akurasi ritme.",
+      "Nikmati soundtrack orisinal saat menjelajahi skenario yang menegangkan."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Mod ini sangat menantang, dan atmosfer gelapnya membuat saya terus waspada.",
+        "author": "Alex K."
+      },
+      {
+        "content": "Saya suka elemen crossover; terasa seperti permainan yang benar-benar baru!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Soundtrack orisinalnya fantastis dan berpadu dengan baik dalam permainan.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Agak sulit pada awalnya, tetapi begitu Anda memahaminya, sangat memuaskan.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Karakter baru menambah banyak kedalaman; masing-masing memiliki suasana uniknya sendiri.",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Elemen yang bercita rasa horor adalah sentuhan keren dalam genre permainan ritme.",
+        "author": "Robin J."
+      },
+      {
+        "content": "Terasa seperti peningkatan nyata dari mod orisinal, sangat adiktif!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Kadang-kadang sedikit bug, tetapi secara keseluruhan mod yang fantastis dengan potensi besar.",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apa itu Sprunki x Sprunked?",
+        "answer": "Sprunki x Sprunked adalah mod buatan penggemar untuk permainan Incredibox, yang menggabungkan elemen dari kedua mod Sprunked dan Sprunki."
+      },
+      {
+        "question": "Bisakah saya memainkan Sprunki x Sprunked tanpa memainkan mod orisinal?",
+        "answer": "Ya, meskipun memiliki pengalaman dengan mod orisinal dapat meningkatkan pemahaman Anda, tidak diperlukan untuk menikmati Sprunki x Sprunked."
+      },
+      {
+        "question": "Apakah ada bug dalam permainan?",
+        "answer": "Beberapa sprite mungkin belum selesai, tetapi pembaruan diharapkan untuk menyelesaikan masalah ini."
+      },
+      {
+        "question": "Seberapa sulit Sprunki x Sprunked?",
+        "answer": "Mod ini dirancang untuk lebih menantang, mengharuskan pemain untuk menguasai pola ritme yang kompleks."
+      },
+      {
+        "question": "Apakah ada soundtrack orisinal di Sprunki x Sprunked?",
+        "answer": "Ya, mod ini menampilkan soundtrack orisinal yang secara unik menggabungkan elemen dari kedua mod."
+      },
+      {
+        "question": "Di mana saya bisa mengunduh Sprunki x Sprunked?",
+        "answer": "Mod ini dapat diunduh dari komunitas dan forum modding Incredibox."
+      }
+    ]
+  }
+}

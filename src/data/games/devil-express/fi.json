@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Devil Express - Narratiivipohjainen Seikkailupeli",
+    "description": "Tutki Devil Expressin kiroittua asuintaloa, 2D-seikkailupeliä, joka on täynnä hirviöitä, taikuutta ja salaisuuksia. Paljasta salaisuuksia ja saavuta ystäviä matkan varrella.",
+    "keywords": "Devil Express, seikkailupeli, 2D-peli, narratiivipeli, mysteeripeli, Devil Express lataus"
+  },
+  "hero": {
+    "h1": "Devil Express",
+    "p": "Astut surrealistiseen hirviöiden ja taikuuden maailmaan Devil Expressin kautta, narratiiviseen 2D-seikkailupeliin. Löydä salaisuuksia mystisestä asuintalosta, joka käy järjen yli."
+  },
+  "gameFeatures": {
+    "title": "Devil Expressin Avainominaisuudet",
+    "features": [
+      "Täysin käännetty espanjaksi",
+      "Tunnin verran nopeatempoista toimitusjännitystä",
+      "Tapaa yli 16 ainutlaatuista hirviöhahmoa",
+      "Teemoja menetyksestä, työstä ja itsensä löytämisestä",
+      "Pelattavissa ladattavana suoritettavana tai selaimessa"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Devil Expressiä",
+    "instructions": [
+      "Liiku W / A tai Vasemmalla / Oikealla nuolinäppäimillä",
+      "Vuorovaikuta Spacebarilla tai Ylös-nuolella",
+      "Pääsy Inventaarioon Tabilla tai \"i\"-näppäimellä",
+      "Tutki eri kerroksia ja paljasta salaisuuksia",
+      "Osallistu hahmoihin ratkaistaksesi pulmia"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelin Näyttökuvat"
+  },
+  "playerReviews": {
+    "title": "Pelaaja-arvostelut",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Tämä on nyt lempipelini!",
+        "author": "Sovech"
+      },
+      {
+        "content": "Se on niin hauska ja kevyt peli; hahmomomentit ovat niin ihastuttavia!",
+        "author": "Subpar_Carrion.92"
+      },
+      {
+        "content": "Rakastin tätä peliä! Se oli ihana!",
+        "author": "Starswapsans19@gmail.com"
+      },
+      {
+        "content": "Rakastan rakastan rakastan tätä peliä, tee ennemmin jatkoa!",
+        "author": "Exabyte"
+      },
+      {
+        "content": "Rauhallinen peli upeilla tunnelmilla ja kauniilla tarinalla.",
+        "author": "Donaldsfries"
+      },
+      {
+        "content": "Tarina, äänen suunnittelu, taide - kaikki on fantastista. Äärimmäisen aliarvostettua.",
+        "author": "Mrspudcake"
+      },
+      {
+        "content": "Musiikki on taianomaisen kaunista, ja hahmot ovat todella hyvin kirjoitettuja.",
+        "author": "Ani-The-GREAT"
+      },
+      {
+        "content": "Niin yksinkertainen ja hauska peli! Rakastan sitä!",
+        "author": "Snakeglitter"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question":"Millä alustoilla Devil Express on saatavilla?",
+        "answer":"Devil Express on saatavilla HTML5- ja Windows-alustoilla."
+      },
+      {
+        "question":"Onko Devil Express käännetty muihin kieliin?",
+        "answer":"Kyllä, pelissä on täydellinen espanjankielinen käännös saatavilla ladattavaksi."
+      },
+      {
+        "question":"Mikä on Devil Expressin keskimääräinen peliaika?",
+        "answer":"Keskimääräinen sessio kestää noin tunnin."
+      },
+      {
+        "question":"Mitä syötteitä tuetaan?",
+        "answer":"Peli tukee näppäimistösyötteitä."
+      },
+      {
+        "question":"Voinko pelata Devil Expressiä selaimessani?",
+        "answer":"Kyllä, voit pelata sitä ladattavana suoritettavana tai suoraan selaimessasi."
+      },
+      {
+        "question":"Kuka kehitti pelin taiteen ja musiikin?",
+        "answer":"Taide on tehty Shuteyen toimesta ja musiikin on luonut 7wave."
+      }
+    ]
+  }
+}

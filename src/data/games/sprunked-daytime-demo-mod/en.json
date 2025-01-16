@@ -1,0 +1,120 @@
+
+{
+  "metadata": {
+    "title": "Sprunked Daytime Demo - Create Your Own Musical Adventure",
+    "description": "Dive into the world of Sprunked Daytime Demo, a unique musical game combining elements of Sprunki and Incredibox. Craft your own melodies using an intuitive scratch interface and share your creations with the world.",
+    "keywords": "Sprunked, Sprunked Daytime Demo, Sprunki, Incredibox, musical game, create music, music adventure"
+  },
+  "hero": {
+    "h1": "Sprunked (Daytime Demo)",
+    "p": "Embark on a musical journey with Sprunked, where creativity meets fun! Create unique melodies and explore endless musical possibilities."
+  },
+  "gameFeatures": {
+    "title": "Features of Sprunked",
+    "features": [
+      "Seamless Scratch Interface: Easy to start making music instantly.",
+      "Eclectic Sound Library: A diverse range of fun sounds.",
+      "Boundless Musical Exploration: Limitless creativity with your melodies.",
+      "Amplify Your Creations: Share your masterpieces with the world.",
+      "Unlock New Features: Discover more characters and sounds as you play."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play Sprunked Daytime Demo",
+    "instructions": [
+      "Choose Your Character: Select a quirky character with unique sounds.",
+      "Explore the Interface: Find and use various sounds and effects.",
+      "Scratch to Discover Sounds: Uncover hidden audio clips.",
+      "Compose Your Melodies: Layer and combine sounds for unique tracks.",
+      "Share Your Creations: Showcase your music online or with friends."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunked Daytime Demo Screenshots"
+  },
+  "playerReviews": {
+    "title": "Player Reviews",
+    "submitReviewLabel": "Submit Your Review",
+    "nameLabel": "Name",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Submit",
+    "reviews": [
+      {
+        "content": "Absolutely love the interface, easy and intuitive!",
+        "author": "Alice"
+      },
+      {
+        "content": "The sound library is so diverse, I spend hours creating.",
+        "author": "Bob"
+      },
+      {
+        "content": "A fantastic way to get creative and relax.",
+        "author": "Charlie"
+      },
+      {
+        "content": "Sharing my creations has never been this fun.",
+        "author": "Dana"
+      },
+      {
+        "content": "Unlocking new features keeps the game fresh.",
+        "author": "Eli"
+      },
+      {
+        "content": "Engaging and keeps my musical juices flowing!",
+        "author": "Frank"
+      },
+      {
+        "content": "The community is so inspiring, love collaborating.",
+        "author": "Grace"
+      },
+      {
+        "content": "A must-play for anyone who loves music.",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions about Sprunked",
+    "questions": [
+      {
+        "question": "What is Incredibox Sprunked?",
+        "answer": "It's an engaging platform for mixing rhythms and exploring creativity with quirky characters."
+      },
+      {
+        "question": "What are the features of Sprunki Sprunked?",
+        "answer": "Packed with sounds, charming characters, and effects to enhance your music experience."
+      },
+      {
+        "question": "What is the story behind Sprunked?",
+        "answer": "Created to deliver a fresh experience, each character adds personality to your journey."
+      },
+      {
+        "question": "What is the Sprunked community's reaction to Incredibox?",
+        "answer": "Much loved for its immersive experience, appealing to a broad audience."
+      },
+      {
+        "question": "Why should players love playing Sprunked?",
+        "answer": "For its fun styles, visuals, and endless creative expression."
+      },
+      {
+        "question": "What makes Sprunked special?",
+        "answer": "New sounds, visuals, and interactivity elevate the experience beyond predecessors."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Recommended for You",
+    "games": [
+      {
+        "title": "Sprunki Dandy's World",
+        "img": "sprunki-dandy-world.jpg",
+        "link": "/games/sprunki-dandy-world"
+      },
+      {
+        "title": "Incredibox Cataclysm",
+        "img": "incredibox-cataclysm.jpg",
+        "link": "/games/incredibox-cataclysm"
+      }
+    ]
+  }
+}

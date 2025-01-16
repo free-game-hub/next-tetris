@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Sprunki Mustard - Juego de Mezcla Musical Creativa DJ | Experiencia de Creación Musical en Línea",
+    "description": "¡Sumérgete en el mundo musical de Sprunki Mustard! Crea ritmos únicos como DJ en este innovador juego de creación musical con personajes temáticos de mostaza. ¡Juega gratis en línea y desata tu creatividad musical!",
+    "keywords": "sprunted, Sprunki Mustard, juego de música, juego de DJ, juego de mezcla, creación musical en línea, juego de ritmo, producción musical"
+  },
+  "hero": {
+    "h1": "Sprunki Mustard: Desata tu Creatividad Musical",
+    "p": "Sumérgete en un mundo vibrante de creación musical donde ritmos funky se encuentran con personajes únicos temáticos de mostaza. ¡Convierte tus ideas musicales en realidad con solo unos pocos clics!"
+  },
+  "gameFeatures": {
+    "title": "Características del Juego",
+    "features": [
+      "Personajes únicos temáticos de mostaza, cada uno con elementos de sonido distintos",
+      "Interfaz intuitiva de arrastrar y soltar para una creación musical sin esfuerzo",
+      "Rica combinación de efectos de sonido para posibilidades musicales infinitas",
+      "Juego en línea gratuito sin necesidad de descarga",
+      "Mecánicas de juego mejoradas inspiradas en el clásico Incredibox"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar",
+    "instructions": [
+      "Selecciona tus personajes temáticos de mostaza favoritos, cada uno ofrece elementos de sonido únicos",
+      "Arrastra y suelta personajes en el escenario para comenzar a mezclar sonidos",
+      "Experimenta con diferentes combinaciones para crear ritmos y melodías únicas",
+      "Ajusta tu composición en tiempo real",
+      "Guarda y comparte tus obras maestras musicales con amigos"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Reseñas de Jugadores",
+    "submitReviewLabel": "Comparte tu Experiencia",
+    "nameLabel": "Tu Apodo",
+    "reviewLabel": "Tu Reseña",
+    "submitButtonLabel": "Enviar Reseña",
+    "reviews": [
+      {
+        "content": "Como entusiasta de la música, estoy absolutamente impresionado con este juego. ¡La interfaz es limpia, los controles son intuitivos y el resultado musical es sorprendentemente bueno!",
+        "author": "MusicLover123",
+        "rating": 5
+      },
+      {
+        "content": "¡Una herramienta de creación musical muy entretenida! Incluso sin experiencia musical, pude crear ritmos geniales. ¡Altamente recomendado!",
+        "author": "BeatMaker",
+        "rating": 5
+      },
+      {
+        "content": "El tema de la mostaza es brillantemente único, y las combinaciones de sonido son infinitas. He pasado horas jugando y aún descubro nuevas posibilidades.",
+        "author": "CreativePlayer",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Sprunki Mustard es gratis para jugar?",
+        "answer": "Sí, Sprunki Mustard es completamente gratuito para jugar en tu navegador sin necesidad de descarga o instalación."
+      },
+      {
+        "question": "¿Necesito experiencia musical para jugar?",
+        "answer": "¡Para nada! El juego está diseñado para ser intuitivo y accesible para todos, independientemente de su experiencia musical."
+      },
+      {
+        "question": "¿Puedo guardar mis creaciones musicales?",
+        "answer": "¡Sí! El juego incluye una función de guardado que te permite almacenar tus creaciones y continuar trabajando en ellas más tarde o compartirlas con amigos."
+      },
+      {
+        "question": "¿Qué navegadores admiten el juego?",
+        "answer": "El juego funciona en todos los navegadores modernos, incluidos Chrome, Firefox, Safari, y Edge."
+      },
+      {
+        "question": "¿Cuántos efectos de sonido diferentes están disponibles?",
+        "answer": "El juego ofrece una amplia variedad de efectos de sonido, incluidos ritmos, melodías y voces, permitiendo cientos de combinaciones únicas."
+      },
+      {
+        "question": "¿Por qué el tema de la mostaza?",
+        "answer": "El tema de la mostaza es una elección de diseño única que no solo hace que el juego sea visualmente distintivo, sino que también añade un elemento de diversión y memorabilidad a la experiencia."
+      }
+    ]
+  }
+}

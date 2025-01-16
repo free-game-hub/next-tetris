@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Jouez à RESSOURCES SUR LA SANTÉ MENTALE - Un jeu de roman visuel par Nicky Case",
+    "description": "Explorez RESSOURCES SUR LA SANTÉ MENTALE, un jeu de roman visuel axé sur la santé mentale, la comédie et des récits. Restez fort et profitez de ce jeu HTML5 évalué à 4,9.",
+    "keywords": "RESSOURCES SUR LA SANTÉ MENTALE, roman visuel, Nicky Case, jeu HTML5, comédie, santé mentale, récit"
+  },
+  "hero": {
+    "h1": "RESSOURCES SUR LA SANTÉ MENTALE",
+    "p": "Embarquez pour un voyage poignant sur la sensibilisation à la santé mentale avec le jeu de roman visuel très apprécié, RESSOURCES SUR LA SANTÉ MENTALE, créé par Nicky Case."
+  },
+  "gameFeatures": {
+    "title": "Caractéristiques clés de RESSOURCES SUR LA SANTÉ MENTALE",
+    "features": [
+      "Narration engageante : Plongez-vous dans une histoire mêlant humour et thèmes liés à la santé mentale.",
+      "Gameplay interactif : Faites des choix qui influencent le récit et les conséquences.",
+      "Personnages relatables : Connectez-vous avec des personnages confrontés à de réels problèmes de santé mentale.",
+      "Visuels époustouflants : Découvrez un art et un design captivants qui rehaussent le récit.",
+      "Gratuit et Open Source : Accédez au jeu librement sur diverses plateformes."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment jouer à RESSOURCES SUR LA SANTÉ MENTALE",
+    "instructions": [
+      "Commencez votre voyage en faisant des choix qui façonnent le récit.",
+      "Utilisez la souris pour naviguer et interagir avec les personnages et les objets.",
+      "Faites attention aux dialogues pour prendre des décisions éclairées.",
+      "Explorez différents chemins narratifs selon vos choix.",
+      "Rejouez le jeu pour découvrir des fins et récits alternatifs."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran du jeu RESSOURCES SUR LA SANTÉ MENTALE"
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs sur RESSOURCES SUR LA SANTÉ MENTALE",
+    "submitReviewLabel": "Soumettez votre avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Une narration touchante qui est à la fois éducative et divertissante.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Visuels magnifiques et une histoire captivante.",
+        "author": "Jordan R."
+      },
+      {
+        "content": "Un jeu important pour sensibiliser à la santé mentale.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "J'ai adoré l'humour et la profondeur des personnages.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "M'a fait réfléchir profondément sur le bien-être mental.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Un gameplay captivant avec des décisions significatives.",
+        "author": "Lee P."
+      },
+      {
+        "content": "Vraiment un jeu que tout le monde devrait vivre.",
+        "author": "Casey W."
+      },
+      {
+        "content": "Extrêmement bien conçu et réfléchi.",
+        "author": "Sam B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ RESSOURCES SUR LA SANTÉ MENTALE",
+    "questions": [
+      {
+        "question": "Sur quelles plateformes puis-je jouer à RESSOURCES SUR LA SANTÉ MENTALE ?",
+        "answer": "Le jeu est disponible sur des plateformes supportant HTML5."
+      },
+      {
+        "question": "RESSOURCES SUR LA SANTÉ MENTALE est-il gratuit ?",
+        "answer": "Oui, le jeu est gratuit et open source."
+      },
+      {
+        "question": "Puis-je soutenir le créateur du jeu ?",
+        "answer": "Oui, vous pouvez soutenir Nicky Case via Patreon, PayPal ou Ko-Fi."
+      },
+      {
+        "question": "Ce jeu est-il adapté à tous les âges ?",
+        "answer": "Le contenu du jeu est destiné à un public mature en raison de ses thèmes sensibles."
+      },
+      {
+        "question": "Y a-t-il plusieurs fins dans RESSOURCES SUR LA SANTÉ MENTALE ?",
+        "answer": "Oui, vos choix influencent le récit et peuvent mener à des fins différentes."
+      },
+      {
+        "question": "Où puis-je trouver d'autres ressources sur la santé mentale ?",
+        "answer": "Visitez https://ncase.me/mental-health/ pour plus d'informations."
+      }
+    ]
+  }
+}

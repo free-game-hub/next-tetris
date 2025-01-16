@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki - Viihdyttävä Seikkailupeli | Pelaa Nyt",
+    "description": "Liity Sprunki-jännittävään maailmaan! Tutustu tämän kiehtovan seikkailupelin sääntöihin, ominaisuuksiin ja arvosteluihin. Pelaa Sprunki nyt ja aloita eeppinen matka.",
+    "keywords": "Sprunki, Sprunki peli, seikkailupeli, pelaa Sprunki, Sprunki ominaisuudet, pelin säännöt"
+  },
+  "hero": {
+    "h1": "Sprunki",
+    "p": "Sukella Sprunki-vihdyttävään seikkailuun, jossa jokainen hahmo lähtee eeppiselle matkalle. Liity tuhansiin pelaajiin ja koe Sprunki-maailman kiehtovuus."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Pelin Ominaisuudet",
+    "features": [
+      "Koukuttavat tarinat kiehtovilla hahmoilla.",
+      "Upeat grafiikat, jotka herättävät Sprunki-maailman eloon.",
+      "Interaktiivinen pelaaminen, joka haastaa taitosi.",
+      "Moninpelitilat, joissa voit tiimiytyä ystäviesi kanssa.",
+      "Säännölliset päivitykset ja uusi sisältö loputtomaan hauskanpitoon."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki",
+    "instructions": [
+      "Lataa Sprunki-sovellus viralliselta verkkosivustolta tai sovelluskaupasta.",
+      "Luo hahmosi ja muokkaa sen ulkonäköä.",
+      "Liiku tasoilla nuolinäppäimillä tai kosketusnäytöllä.",
+      "Suorita tehtäviä saadaksesi palkintoja ja edetäksesi pelissä.",
+      "Tiimiydy muiden pelaajien kanssa haasteellisiin tehtäviin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tutustu Sprunki-maailmaan"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Jätä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki on se hauskin peli, jota olen pelannut pitkään aikaan! Hahmot ja tarinat ovat niin koukuttavia.",
+        "author": "JaneD"
+      },
+      {
+        "content": "Upea peli, jossa on upeaa grafiikkaa ja koukuttavaa pelattavuutta!",
+        "author": "GameFanatic89"
+      },
+      {
+        "content": "Rakastan moninpelitilaa, pelaaminen ystävien kanssa on todella hauskaa!",
+        "author": "FriendGamer"
+      },
+      {
+        "content": "Sprunki vain paranee jokaisessa päivityksessä. Suosittelen lämpimästi!",
+        "author": "UpdateLover"
+      },
+      {
+        "content": "Haasteet ovat täydellisiä niin yksinpeliin kuin hauskanpitoon ystävien kanssa.",
+        "author": "SoloPlayer"
+      },
+      {
+        "content": "Loistava peli sekä lapsille että aikuisille. Kaikki perheessäni rakastavat sitä!",
+        "author": "FamilyGamer"
+      },
+      {
+        "content": "Uniikit hahmot ja luovat tehtävät tekevät Sprunkista erottuvan.",
+        "author": "QuestMaster"
+      },
+      {
+        "content": "Olen pelannut Sprunkiä kuukausia. Koukuttavaa eikä vanhene ikinä!",
+        "author": "LongTermPlayer"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question":"Mistä voin ladata Sprunki?",
+        "answer":"Sprunki voidaan ladata viralliselta verkkosivustolta tai suurista sovelluskaupoista."
+      },
+      {
+        "question":"Onko Sprunki saatavilla kaikille laitteille?",
+        "answer":"Kyllä, Sprunki on saatavilla PC:lle, iOS:lle ja Android-laitteille."
+      },
+      {
+        "question":"Tarvitseeko Sprunkin pelaamiseen internet-yhteyttä?",
+        "answer":"Internet-yhteys on tarpeen moninpelitoimintoja varten, mutta voit pelata offline-tilassa yksittäisiä tehtäviä."
+      },
+      {
+        "question":"Onko pelissä sisäisiä ostoja?",
+        "answer":"Kyllä, Sprunki tarjoaa vapaaehtoisia sisäisiä ostoja hahmon muokkaamiseen ja uuteen sisältöön."
+      },
+      {
+        "question":"Kuinka usein uutta sisältöä julkaistaan?",
+        "answer":"Uutta sisältöä ja päivityksiä julkaistaan säännöllisesti, jotta peli pysyy raikkaana ja jännittävänä."
+      },
+      {
+        "question":"Voinko pelata Sprunkiä ystävien kanssa?",
+        "answer":"Ehdottomasti! Sprunki tarjoaa moninpelitiloja pelaamiseen ystävien tai muiden verkkopelaajien kanssa."
+      }
+    ]
+  }
+}

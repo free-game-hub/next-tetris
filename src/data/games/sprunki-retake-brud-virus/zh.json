@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki重制布鲁德病毒模组 - 一场创新音乐体验",
+    "description": "探索独特的Sprunki重制布鲁德病毒模组，特色病毒主题角色和不稳定的音景，挑战你的创意。了解如何游戏并揭晓深入的玩法指导。",
+    "keywords": "Sprunki重制布鲁德病毒, 音乐模组, 病毒主题模组, Sprunki, 创意游戏"
+  },
+  "hero": {
+    "h1": "Sprunki重制布鲁德病毒",
+    "p": "沉浸在Sprunki重制布鲁德病毒模组的魅力世界中，在这里，你的音乐制作技能将面对病毒引发的声音异常挑战。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki重制布鲁德病毒模组的特点",
+    "features": [
+      "病毒主题角色",
+      "不稳定的音景",
+      "创意实验",
+      "保存与分享功能",
+      "视觉互动令人瞩目"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何游玩Sprunki重制布鲁德病毒模组",
+    "instructions": [
+      "从角色列表中选择你喜欢的病毒主题角色。",
+      "将元素拖放到屏幕上，开始创作音乐。",
+      "通过调整音量和添加效果来完善你的曲目。",
+      "适应病毒影响下音调的意外变化。",
+      "保存你独特的创作，并与音乐社区分享。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki重制布鲁德病毒模组截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "布鲁德病毒模组为游戏玩法增添了新鲜感，激发了我的创意潜力！",
+        "author": "艾希莉"
+      },
+      {
+        "content": "我喜欢音景的不可预测性。这款模组是音乐爱好者的必试之选。",
+        "author": "利亚姆"
+      },
+      {
+        "content": "Sprunki重制布鲁德病毒提供了有趣的挑战，视觉设计与音乐同样引人入胜。",
+        "author": "索菲亚"
+      },
+      {
+        "content": "每一局都是独特的体验，病毒主题与游戏玩法完美融合。",
+        "author": "伊桑"
+      },
+      {
+        "content": "一款优秀的模组，充满创意潜力！对于任何音乐爱好者来说都是一次刺激的体验。",
+        "author": "米亚"
+      },
+      {
+        "content": "混沌与节奏之间的平衡让这个模组迷人，强烈推荐！",
+        "author": "奥利弗"
+      },
+      {
+        "content": "我喜欢把故障转化为节奏，体验既有趣又有收获。",
+        "author": "阿米莉亚"
+      },
+      {
+        "content": "布鲁德病毒模组将音乐创作转变为激动人心的拼图，真是了不起的作品！",
+        "author": "诺亚"
+      }
+    ]
+  },
+  "faq": {
+    "title":"常见问题",
+    "questions": [
+      {
+        "question":"Sprunki重制布鲁德病毒模组的主要目标是什么？",
+        "answer":"主要目标是通过拥抱音景中的病毒引发的异常来创作独特曲目。"
+      },
+      {
+        "question":"我可以与他人分享我的作品吗？",
+        "answer":"可以，你可以保存你的曲目并与他人分享，展示你的创意才华。"
+      },
+      {
+        "question":"新手玩家是否有教程可用？",
+        "answer":"是的，游戏包含教程，帮助新手玩家了解基本机制和创新特性。"
+      },
+      {
+        "question":"这个模组适合所有年龄段吗？",
+        "answer":"是的，Sprunki重制布鲁德病毒模组设计为适合对音乐和创意感兴趣的各个年龄段的玩家。"
+      },
+      {
+        "question":"角色是否具有独特能力？",
+        "answer":"是的，每个角色都有受病毒主题影响的独特视觉和音频特征，可以在你的作品中发挥作用。"
+      },
+      {
+        "question":"我可以离线游玩这个模组吗？",
+        "answer":"可以，你可以离线享受Sprunki重制布鲁德病毒模组的所有功能。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推荐模组",
+    "recommendations": [
+      {
+        "image": "link-to-image-1.jpg",
+        "title": "Sprunki恐怖模组",
+        "link": "https://example.com/sprunki-horror-mod"
+      },
+      {
+        "image": "link-to-image-2.jpg",
+        "title": "Sprunki冒险模组",
+        "link": "https://example.com/sprunki-adventure-mod"
+      }
+    ]
+  }
+}

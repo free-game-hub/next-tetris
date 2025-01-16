@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V7 : Créez vos propres rythmes musicaux",
+    "description": "Jouez à Incredibox V7, un jeu de musique créatif où vous contrôlez l'Incredicrew pour créer des rythmes uniques. Découvrez les fonctionnalités du jeu, les règles et les avis des joueurs.",
+    "keywords": "Incredibox V7, jeu de musique, Incredicrew, créer des rythmes, fonctionnalités d'Incredibox"
+  },
+  "hero": {
+    "h1": "Incredibox V7",
+    "p": "Plongez dans l'univers d'Incredibox V7 et libérez votre créativité musicale. Contrôlez l'Incredicrew pour créer vos propres mélodies et rythmes uniques."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du jeu Incredibox V7",
+    "features": [
+      "Contrôlez l'Incredicrew - chacun avec des capacités sonores uniques.",
+      "Styles musicaux et thèmes divers à explorer.",
+      "Créativité illimitée avec aucune bonne ou mauvaise façon de jouer.",
+      "Partagez vos créations musicales avec la communauté.",
+      "Interface conviviale pour les contrôles à la souris et au clavier."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment jouer à Incredibox V7",
+    "instructions": [
+      "Choisissez votre personnage : Sélectionnez parmi une variété de personnages, chacun avec des pouvoirs et animations spéciaux.",
+      "Sélectionnez une chanson : Choisissez votre style musical ou thème préféré pour commencer à créer.",
+      "Gameplay : Combinez des sons et des rythmes pour élaborer un rythme unique.",
+      "Utilisez la souris : Cliquez sur les personnages pour ajouter ou supprimer des sons.",
+      "Utilisez le clavier : Utilisez les raccourcis pour une manipulation rapide des sons."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'écran d'Incredibox V7"
+  },
+  "playerReviews": {
+    "title": "Avis des joueurs sur Incredibox V7",
+    "submitReviewLabel": "Soumettez votre avis",
+    "nameLabel": "Votre nom",
+    "reviewLabel": "Votre avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Incredibox V7 est une manière tellement amusante d'explorer la création musicale !",
+        "author": "Alice"
+      },
+      {
+        "content": "J'adore les différentes combinaisons de sons que l'on peut créer. C'est un plaisir sans fin !",
+        "author": "John"
+      },
+      {
+        "content": "Les personnages sont si uniques, et la création de rythmes est addictive.",
+        "author": "Maya"
+      },
+      {
+        "content": "C'est incroyable à quel point vous pouvez être créatif. Aucun rythme ne se ressemble !",
+        "author": "Liam"
+      },
+      {
+        "content": "Partager mes créations avec mes amis est la meilleure partie !",
+        "author": "Sophia"
+      },
+      {
+        "content": "Les raccourcis clavier rendent le changement de sons si facile.",
+        "author": "Henry"
+      },
+      {
+        "content": "Un jeu formidable pour les enfants et les adultes qui aiment la musique.",
+        "author": "Chloe"
+      },
+      {
+        "content": "Incredibox V7 est mon refuge créatif pour me détendre.",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ Incredibox V7",
+    "questions": [
+      {
+        "question": "Qu'est-ce qu'Incredibox V7 ?",
+        "answer": "Incredibox V7 est un jeu de musique où vous pouvez créer des rythmes uniques en contrôlant un groupe de personnages appelés l'Incredicrew."
+      },
+      {
+        "question": "Comment commencer à jouer à Incredibox V7 ?",
+        "answer": "Pour commencer à jouer, choisissez un personnage et un style de chanson. Ensuite, mélangez différents sons pour créer votre rythme."
+      },
+      {
+        "question": "Puis-je jouer à Incredibox V7 avec un clavier ?",
+        "answer": "Oui, vous pouvez utiliser les raccourcis clavier pour ajouter ou supprimer rapidement des sons."
+      },
+      {
+        "question": "Y a-t-il différents styles musicaux dans Incredibox V7 ?",
+        "answer": "Oui, le jeu propose une variété de styles et de thèmes parmi lesquels choisir."
+      },
+      {
+        "question": "Y a-t-il un moyen de partager mes créations ?",
+        "answer": "Absolument, vous pouvez partager vos créations musicales avec d'autres joueurs dans la communauté."
+      },
+      {
+        "question": "Incredibox V7 est-il adapté à tous les âges ?",
+        "answer": "Oui, Incredibox V7 est un jeu amusant et créatif adapté tant aux enfants qu'aux adultes."
+      }
+    ]
+  }
+}

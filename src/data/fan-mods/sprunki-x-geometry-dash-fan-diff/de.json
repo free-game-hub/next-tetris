@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki X Geometry Dash (Fan Diff.) - Spielbewertung, Regeln und Funktionen",
+    "description": "Entdecken Sie Sprunki X Geometry Dash (Fan Diff.), eine aufregende von Fans erstellte Adaption des beliebten Spiels. Erfahren Sie mehr über die Spielmerkmale, Regeln und Spielerfahrungen. Perfekt für Fans von Geometry Dash.",
+    "keywords": "Sprunki X Geometry Dash, Geometry Dash Fan-Spiel, Sprunki Spielbewertung, Spielmerkmale, Spielregeln"
+  },
+  "hero": {
+    "h1": "Sprunki X Geometry Dash (Fan Diff.)",
+    "p": "Eine spannende, von Fans gemachte Version von Geometry Dash, Sprunki X Geometry Dash (Fan Diff.) bietet neue Herausforderungen und aufregendes Gameplay auf Ihrem Bildschirm. Tauchen Sie ein in die Welt der rhythmischen Sprünge und komplexen Levels."
+  },
+  "gameFeatures": {
+    "title": "Funktionen von Sprunki X Geometry Dash (Fan Diff.)",
+    "features": [
+      "Einzigartige, von Fans erstellte Levels, die Ihre Reflexe herausfordern",
+      "Lebendige Grafiken und fesselnde Soundtracks",
+      "Verschiedene Schwierigkeitsgrade für alle Fähigkeitsstufen",
+      "Kompatibilität mit verschiedenen Geräten für nahtloses Spielen",
+      "Bestenlisten, um mit anderen Spielern zu konkurrieren"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielen Sie Sprunki X Geometry Dash (Fan Diff.)",
+    "instructions": [
+      "Navigieren Sie durch herausfordernde Hindernisparcours, indem Sie den Bildschirm antippen.",
+      "Vermeiden Sie Fallen und Gruben mit präzisem Timing.",
+      "Sammeln Sie Sterne und Boni auf Ihrer Reise.",
+      "Meistern Sie verschiedene Levels, um Ihre Punktzahl zu steigern.",
+      "Nutzen Sie den Übungsmodus, um Ihre Fähigkeiten zu verfeinern, ohne Ihre Platzierung zu beeinflussen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spiel-Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Bewertung abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Absenden",
+    "reviews": [
+      {
+        "content": "Sprunki X Geometry Dash ist unglaublich süchtig! Ich kann nicht aufhören zu spielen.",
+        "author": "AlexGamer"
+      },
+      {
+        "content": "Diese Fan-Version bringt eine frische Wendung ins ursprüngliche Spiel, sehr empfehlenswert!",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Die Levels sind herausfordernd, aber fair. Perfekt für erfahrene Spieler!",
+        "author": "ProDashMaster"
+      },
+      {
+        "content": "Ich liebe die Musik und Grafiken. Es zieht einen wirklich ins Spiel.",
+        "author": "SoundBee"
+      },
+      {
+        "content": "Es hat eine Weile gedauert, bis ich gut wurde, aber jetzt bin ich süchtig!",
+        "author": "JumpKing"
+      },
+      {
+        "content": "Eine großartige Möglichkeit, die Zeit zu vertreiben, und es läuft flüssig auf meinem Gerät.",
+        "author": "TechyPlayer"
+      },
+      {
+        "content": "Der Übungsmodus ist ein Lebensretter für harte Levels.",
+        "author": "QuickTap"
+      },
+      {
+        "content": "Eine großartige Fan-Adaption, die den Geist von Geometry Dash am Leben hält.",
+        "author": "FanOfGD"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Ist Sprunki X Geometry Dash (Fan Diff.) kostenlos spielbar?",
+        "answer": "Ja, diese Fan-Version ist für alle Benutzer kostenlos."
+      },
+      {
+        "question": "Auf welchen Plattformen ist das Spiel verfügbar?",
+        "answer": "Es ist auf den meisten Geräten verfügbar, einschließlich PC, Android und iOS."
+      },
+      {
+        "question": "Kann ich im Spiel mit Freunden konkurrieren?",
+        "answer": "Ja, es gibt Bestenlisten, auf denen Sie mit Freunden konkurrieren können."
+      },
+      {
+        "question": "Gibt es In-App-Käufe?",
+        "answer": "Nein, diese Fan-Version hat keine In-App-Käufe."
+      },
+      {
+        "question": "Hat das Spiel Werbung?",
+        "answer": "Diese Version enthält keine Werbung, sodass ungestörtes Spielen möglich ist."
+      },
+      {
+        "question": "Wie oft werden neue Levels hinzugefügt?",
+        "answer": "Neue Levels werden regelmäßig von Fans hinzugefügt, um das Spiel spannend zu halten."
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - Exploración Musical Serena",
+    "description": "Descubre Sprunki Blue, el mod de juego envolvente que transforma tu experiencia de juego con una paleta azul relajante y paisajes sonoros armoniosos.",
+    "keywords": "Sprunki Blue, Mod Sprunki Blue, mod de juego, estética monocromática, paisajes sonoros relajantes, juego de música calmante"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "Sumérgete en un entorno de juego tranquilo donde los azules serenos y los paisajes sonoros armoniosos redefinen tu exploración musical."
+  },
+  "gameFeatures": {
+    "title": "Características Clave de Sprunki Blue",
+    "features": [
+      "Estética Monocromática: Experimenta una paleta azul relajante que unifica cada elemento del juego.",
+      "Paisajes Sonoros Relajantes: Descubre melodías y armonías diversas complementadas con visuales calmantes.",
+      "Estado Meditativo: Concéntrate en la creación musical sin la distracción de múltiples colores.",
+      "Personajes Personalizables: Elige personajes vestidas en tonos azules relajantes, cada uno con efectos únicos.",
+      "Comparte Tus Creaciones: Guarda y comparte tus composiciones con la comunidad de Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki Blue",
+    "instructions": [
+      "Selecciona Personajes: Elige tus personajes favoritos, cada uno ofreciendo bucles y efectos únicos.",
+      "Arrastra y Suelta: Colócalos en la pantalla para crear capas de sonido refrescantes.",
+      "Experimenta y Refina: Ajusta los volúmenes y cambia personajes para perfeccionar tu pista.",
+      "Guarda y Comparte: Comparte tus creaciones musicales calmantes con otros jugadores.",
+      "Explora Variaciones: Evoluciona continuamente tu paisaje sonoro para que se ajuste a tu estado de ánimo."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla de Sprunki Blue"
+  },
+  "playerReviews": {
+    "title": "Opiniones de Jugadores sobre Sprunki Blue",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Tu Nombre",
+    "reviewLabel": "Tu Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki Blue ofrece una experiencia única y relajante que es perfecta después de un largo día.",
+        "author": "John Doe"
+      },
+      {
+        "content": "El diseño monocromático es visualmente atractivo y añade a la experiencia inmersiva.",
+        "author": "Jane Smith"
+      },
+      {
+        "content": "Me encantan los paisajes sonoros. Me ayudan a concentrarme y relajarme al mismo tiempo.",
+        "author": "Eric Wong"
+      },
+      {
+        "content": "Una hermosa combinación de visuales y sonidos relajantes. ¡Altamente recomendado!",
+        "author": "Anna Lee"
+      },
+      {
+        "content": "Este mod de juego me permite ser el compositor de mi escape musical relajante.",
+        "author": "Mark Johnson"
+      },
+      {
+        "content": "Sprunki Blue transforma la experiencia de Sprunki en un viaje sereno.",
+        "author": "Sophia Brown"
+      },
+      {
+        "content": "La simplicidad y belleza de la paleta azul son incomparables.",
+        "author": "Chris Evans"
+      },
+      {
+        "content": "Es impresionante cómo un cambio de color puede mejorar todo el ambiente del juego.",
+        "author": "Laura Green"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre Sprunki Blue",
+    "questions": [
+      {
+        "question": "¿Qué es Sprunki Blue?",
+        "answer": "Sprunki Blue es un mod del juego original Sprunki que presenta una paleta de color azul unificada y paisajes sonoros relajantes."
+      },
+      {
+        "question": "¿Cómo guardo mi música en Sprunki Blue?",
+        "answer": "Una vez que estés satisfecho con tu pista, hay una opción para guardar y compartir tu música dentro del juego."
+      },
+      {
+        "question": "¿Puedo jugar Sprunki Blue en múltiples dispositivos?",
+        "answer": "Sí, Sprunki Blue está disponible en dispositivos compatibles que soportan el juego original Sprunki."
+      },
+      {
+        "question": "¿Hay una comunidad para compartir creaciones?",
+        "answer": "Sí, los jugadores pueden compartir sus creaciones con la comunidad de Sprunki y disfrutar de las composiciones musicales de otros."
+      },
+      {
+        "question": "¿Necesito experiencia previa en música para jugar?",
+        "answer": "No, Sprunki Blue está diseñado para jugadores de todos los niveles de experiencia para que puedan crear y disfrutar de la música fácilmente."
+      },
+      {
+        "question": "¿Existen costos asociados con el Mod Sprunki Blue?",
+        "answer": "Sprunki Blue está disponible como una actualización gratuita para los propietarios del juego Sprunki original."
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Juegos Recomendados",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Red",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Chill Harmonics",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Melodic Ocean",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

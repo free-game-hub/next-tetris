@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sáu Mèo Dưới - Một Cuộc Phiêu Lưu Giải Đố Hấp Dẫn",
+    "description": "Khám phá 'Sáu Mèo Dưới', một trò chơi giải đố nhấn-để-điểm đáng yêu, nơi bạn sử dụng sức mạnh của poltergeist để cứu đàn mèo của mình. Được người chơi đánh giá 4.8/5.",
+    "keywords": "Sáu Mèo Dưới, trò chơi giải đố, nhấn-để-điểm, trò chơi cứu mèo, game jam, sức mạnh ma, đánh giá Sáu Mèo Dưới"
+  },
+  "hero": {
+    "h1": "Sáu Mèo Dưới",
+    "p": "Chìm đắm trong 'Sáu Mèo Dưới', một trò chơi giải đố nhấn-để-điểm tuyệt vời, nơi sức mạnh poltergeist của bạn giúp đưa những chú mèo yêu quý của bạn đến nơi an toàn."
+  },
+  "gameFeatures": {
+    "title": "Tính Năng Trò Chơi",
+    "features": [
+      "Gameplay giải đố nhấn-để-điểm độc đáo",
+      "Hình ảnh và hoạt ảnh pixel đáng yêu",
+      "Cốt truyện hấp dẫn với những yếu tố huyền bí",
+      "Lý tưởng cho những người yêu mèo và đam mê giải đố",
+      "Trải nghiệm chơi ngắn gọn và ngọt ngào, phù hợp cho những phiên chơi nhanh"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sáu Mèo Dưới",
+    "instructions": [
+      "Sử dụng chuột để tương tác với đồ vật và dẫn dắt mèo của bạn.",
+      "Sử dụng khả năng poltergeist để di chuyển đồ vật và mở đường.",
+      "Giải các câu đố để tiến bước qua các cấp độ và cứu tất cả các chú mèo.",
+      "Chú ý đến các manh mối và gợi ý trực quan trong suốt trò chơi.",
+      "Thưởng thức cốt truyện và sự tương tác đáng yêu với những người bạn mèo."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sáu Mèo Dưới - Ảnh Chụp Trò Chơi"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên",
+    "reviewLabel": "Đánh Giá",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Một trò chơi dễ thương! Hoạt ảnh tuyệt vời và những chú mèo vô cùng đáng yêu.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Là một người sở hữu mèo, trò chơi này thật gần gũi. Một viên ngọc quý thực sự!",
+        "author": "gecko"
+      },
+      {
+        "content": "Một trò chơi ngọt ngào... thật tội nghiệp Goldy! Ấm lòng nhưng cũng đầy cảm xúc.",
+        "author": "magerites"
+      },
+      {
+        "content": "Những câu đố độc đáo và nhiều khoảnh khắc đáng yêu. Thích lắm!",
+        "author": "DLGames"
+      },
+      {
+        "content": "Sự kết hợp giữa dễ thương và một chút buồn bã khiến trò chơi này nổi bật.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Trò chơi tuyệt vời! Tôi đã hoàn thành chỉ trong 15 phút, yêu từng khoảnh khắc.",
+        "author": "MCG"
+      },
+      {
+        "content": "Vừa đáng yêu vừa buồn bã nhưng thực sự thú vị! Trải nghiệm tuyệt vời tổng thể.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Những chú mèo thật dễ thương và khía cạnh trợ giúp ma quái rất độc đáo. Highly recommend!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question":"Sáu Mèo Dưới có mặt trên những nền tảng nào?",
+        "answer":"Sáu Mèo Dưới có sẵn trên HTML5, Windows, macOS, và Linux."
+      },
+      {
+        "question":"Trò chơi mất bao lâu để hoàn thành?",
+        "answer":"Thời gian trung bình cho một phiên chơi khoảng nửa giờ, mang đến trải nghiệm nhanh nhưng thú vị."
+      },
+      {
+        "question":"'Sáu Mèo Dưới' có phù hợp với mọi lứa tuổi không?",
+        "answer":"Có, trò chơi được thiết kế để mọi người đều có thể thưởng thức, đặc biệt là những người yêu mèo."
+      },
+      {
+        "question":"Yêu cầu tối thiểu để chạy trò chơi là gì?",
+        "answer":"Trò chơi nhẹ và có thể chạy trên hầu hết các hệ thống hỗ trợ HTML5 hoặc các phiên bản hệ điều hành tương ứng."
+      },
+      {
+        "question":"Trò chơi có thể chơi ngoại tuyến không?",
+        "answer":"Các phiên bản tải xuống cho Windows, macOS, và Linux có thể chơi ngoại tuyến sau khi cài đặt."
+      },
+      {
+        "question":"Ai đã phát triển 'Sáu Mèo Dưới'?",
+        "answer":"Trò chơi do Team Bean Loop và Mosu phát triển, với sự đóng góp của Miles Äijälä, Robin Swift, Tomas Beržinskas, và Alex Martin."
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+
+{
+  "metadata": {
+    "title": "Sprunki Romantic | Play the Ultimate Romantic Music Game Online",
+    "description": "Embark on a musical adventure with Sprunki Romantic, an engaging online music creation game. Craft romantic melodies and share your unique compositions.",
+    "keywords": "Sprunki Romantic, music game, create music online, play Sprunki Romantic, Sprunki Romantic features"
+  },
+  "hero": {
+    "h1": "Sprunki Romantic",
+    "p": "Dive into the enchanting world of Sprunki Romantic, where music and love intertwine. Create and share your own romantic compositions right in your browser."
+  },
+  "gameFeatures": {
+    "title": "Key Features of Sprunki Romantic",
+    "features": [
+      "Intuitive Interface: Easy controls for creating music accessible to all.",
+      "Rich Sound Library: Explore diverse romantic sounds and loops.",
+      "Real-time Mixing: Adjust your compositions on the fly.",
+      "Share Creations: Export and share your musical masterpieces.",
+      "Romantic Visual Effects: Enhance your music with themed animations."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "How to Play Sprunki Romantic",
+    "instructions": [
+      "Choose Your Sounds: Select from a variety of musical elements.",
+      "Create Your Mix: Combine different sounds for a unique composition.",
+      "Share and Enjoy: Save and share your creations with others.",
+      "Harmony Mode: Mix melodies for expressing emotions.",
+      "Duet Mode: Collaborate and combine compositions with others."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Romantic Screenshots"
+  },
+  "playerReviews": {
+    "title": "Player Reviews of Sprunki Romantic",
+    "submitReviewLabel": "Submit Your Review",
+    "nameLabel": "Name",
+    "reviewLabel": "Review",
+    "submitButtonLabel": "Submit",
+    "reviews": [
+      {
+        "content": "Sprunki Romantic is a beautiful blend of music and creativity. I love it!",
+        "author": "Alice W."
+      },
+      {
+        "content": "The intuitive interface makes it easy to create stunning compositions.",
+        "author": "John D."
+      },
+      {
+        "content": "A wonderful way to explore romantic music themes. Highly recommend!",
+        "author": "Sarah T."
+      },
+      {
+        "content": "The real-time mixing feature is fantastic for live creativity.",
+        "author": "Ryan L."
+      },
+      {
+        "content": "Sprunki Romantic offers endless possibilities for creating unique music.",
+        "author": "Emily R."
+      },
+      {
+        "content": "An amazing platform for both beginners and experienced musicians.",
+        "author": "Clara M."
+      },
+      {
+        "content": "Love the share feature that lets me show my creations off easily.",
+        "author": "Sophia K."
+      },
+      {
+        "content": "A perfect mix of game and musical creativity. Very engaging!",
+        "author": "Michael B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Sprunki Romantic",
+    "questions": [
+      {
+        "question": "What makes Sprunki Romantic unique from other music games?",
+        "answer": "Sprunki Romantic offers romantic melodies and interactive beatboxing, distinct with its love-themed soundscapes."
+      },
+      {
+        "question": "How do I create music in Sprunki Romantic?",
+        "answer": "Drag and drop characters onto the stage to mix romantic beats and melodies. Each character brings unique sounds."
+      },
+      {
+        "question": "Can I save my Sprunki Romantic compositions?",
+        "answer": "Yes, your creations can be saved and shared with others in the Spunky Game community."
+      },
+      {
+        "question": "Is Sprunki Romantic suitable for beginners?",
+        "answer": "Absolutely! Designed for both newcomers and experienced players, featuring intuitive controls."
+      },
+      {
+        "question": "Are there different modes in Sprunki Romantic?",
+        "answer": "Yes, including Harmony Mode for melody mixing and Duet Mode for collaboration."
+      },
+      {
+        "question": "Can I collaborate with others in Sprunki Romantic?",
+        "answer": "Yes, share your creations and get inspired by other players' mixes."
+      }
+    ]
+  }
+}

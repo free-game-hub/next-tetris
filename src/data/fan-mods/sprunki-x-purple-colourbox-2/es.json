@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Modo Púrpura - Una Experiencia de Juego Vibrante",
+    "description": "Explora el mundo monocromático de Sprunki Modo Púrpura, donde la creatividad se encuentra con la singularidad. Descubre las características del juego, instrucciones de juego, opiniones de usuarios y preguntas frecuentes.",
+    "keywords": "Sprunki Modo Púrpura, juego monocromático púrpura, experiencia de juego única, juego de creación musical"
+  },
+  "hero": {
+    "h1": "Sprunki Modo Púrpura",
+    "p": "Sumérgete en el único mundo monocromático púrpura de Sprunki Modo Púrpura, donde la creatividad no tiene límites."
+  },
+  "gameFeatures": {
+    "title": "Características del Juego de Sprunki Modo Púrpura",
+    "features": [
+      "Paleta Monocromática Púrpura: Sumérgete en un universo donde todo está bañado en púrpura.",
+      "Galería Innovadora: Explora la galería con un giro, incluso si es solo por su atractivo visual.",
+      "Esquema de Personajes de Un Solo Color: Personajes únicos distinguidos por su diseño de un solo color.",
+      "Banda Sonora Electrónica Especial: Disfruta de una colección de sonidos electrónicos que añaden emoción.",
+      "Creación Musical Infinita: Sonidos únicos para cada personaje, permitiendo posibilidades melódicas infinitas."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki Modo Púrpura",
+    "instructions": [
+      "Seleccionar Personajes: Elige 6 pistas de música de Incredibox original.",
+      "Arrastrar y Soltar: Coloca uno de los veinte íconos sobre uno de los siete postes para crear sonidos.",
+      "Crear Mezclas Únicas: El sonido de cada personaje es distinto, lo que permite una creatividad musical infinita.",
+      "Primer Error: Al colocar a Simon, el duodécimo personaje, puede quedar un polo extra.",
+      "Segundo Error: Salir de la galería es complicado debido a la falta de un botón de salida."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Opiniones de Jugadores sobre Sprunki Modo Púrpura",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "¡El tema de color púrpura realmente diferencia a este juego. Es hipnotizante!",
+        "author": "Alice"
+      },
+      {
+        "content": "Crear melodías con los sonidos únicos de cada personaje es increíble.",
+        "author": "Ben"
+      },
+      {
+        "content": "Me encanta la banda sonora electrónica, aporta mucho al juego.",
+        "author": "Chloe"
+      },
+      {
+        "content": "La función de galería necesita mejoras, pero sigue siendo interesante.",
+        "author": "David"
+      },
+      {
+        "content": "Un poco lleno de errores, pero sigue siendo un juego super divertido.",
+        "author": "Eve"
+      },
+      {
+        "content": "El esquema púrpura es visualmente atractivo e innovador.",
+        "author": "Frank"
+      },
+      {
+        "content": "Es un giro creativo en el género tradicional de juegos musicales.",
+        "author": "Grace"
+      },
+      {
+        "content": "¡Me encantaría ver más actualizaciones, pero en general es muy divertido!",
+        "author": "Hank"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Qué es Sprunki Modo Púrpura?",
+        "answer": "Un juego donde todos los elementos visuales están dominados por un esquema de color púrpura, ofreciendo un estilo artístico único."
+      },
+      {
+        "question": "¿Por qué la galería no tiene botón de salida?",
+        "answer": "Este es un error conocido. Estamos trabajando para agregar un botón de salida en futuras actualizaciones."
+      },
+      {
+        "question": "¿El sonido de cada personaje es único?",
+        "answer": "Sí, cada personaje tiene un sonido distinto, ofreciendo infinitas posibilidades musicales."
+      },
+      {
+        "question": "¿Puedo jugar este juego en móvil?",
+        "answer": "Actualmente, el juego está optimizado para jugar en escritorio."
+      },
+      {
+        "question": "¿Quién creó el mod original?",
+        "answer": "El mod original pertenece a Freepies, conocido como colorbox púrpura v6."
+      },
+      {
+        "question": "¿Cómo puedo reportar un error?",
+        "answer": "Por favor, contacta a nuestro equipo de soporte a través de la sección de ayuda en nuestro sitio web."
+      }
+    ]
+  }
+}

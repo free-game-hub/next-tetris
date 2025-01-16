@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Chơi TÀI NGUYÊN SỨC KHỎE TÂM THẦN - Một Trò Chơi Tiểu Thuyết Hình Ảnh của Nicky Case",
+    "description": "Khám phá TÀI NGUYÊN SỨC KHỎE TÂM THẦN, một trò chơi tiểu thuyết hình ảnh tập trung vào sức khỏe tâm thần, hài hước và cốt truyện. Hãy giữ vững tinh thần và tận hưởng trò chơi HTML5 được đánh giá 4.9 này.",
+    "keywords": "TÀI NGUYÊN SỨC KHỎE TÂM THẦN, tiểu thuyết hình ảnh, Nicky Case, trò chơi HTML5, hài hước, sức khỏe tâm thần, cốt truyện"
+  },
+  "hero": {
+    "h1": "TÀI NGUYÊN SỨC KHỎE TÂM THẦN",
+    "p": "Bắt đầu hành trình cảm động về nhận thức sức khỏe tâm thần với trò chơi tiểu thuyết hình ảnh được đánh giá cao, TÀI NGUYÊN SỨC KHỎE TÂM THẦN, được tạo ra bởi Nicky Case."
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng Nổi Bật của TÀI NGUYÊN SỨC KHỎE TÂM THẦN",
+    "features": [
+      "Cốt Truyện Hấp Dẫn: Đắm chìm trong câu chuyện kết hợp giữa hài hước và chủ đề sức khỏe tâm thần.",
+      "Gameplay Tương Tác: Quyết định những lựa chọn ảnh hưởng đến cốt truyện và kết quả.",
+      "Nhân Vật Gần Gũi: Kết nối với các nhân vật đang đối mặt với những vấn đề sức khỏe tâm thần thực tế.",
+      "Hình Ảnh Ấn Tượng: Trải nghiệm nghệ thuật và thiết kế hấp dẫn làm nổi bật cốt truyện.",
+      "Miễn Phí & Mã Nguồn Mở: Truy cập trò chơi miễn phí trên nhiều nền tảng."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi TÀI NGUYÊN SỨC KHỎE TÂM THẦN",
+    "instructions": [
+      "Bắt đầu hành trình của bạn bằng cách lựa chọn những quyết định hình thành cốt truyện.",
+      "Sử dụng chuột để điều hướng và tương tác với các nhân vật và đồ vật.",
+      "Lưu ý đến các cuộc đối thoại để đưa ra quyết định sáng suốt.",
+      "Khám phá những hướng đi khác nhau của câu chuyện dựa trên lựa chọn của bạn.",
+      "Chơi lại trò chơi để khám phá các kết thúc và cốt truyện khác nhau."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Hình Ảnh Trò Chơi TÀI NGUYÊN SỨC KHỎE TÂM THẦN"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá của Người Chơi về TÀI NGUYÊN SỨC KHỎE TÂM THẦN",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên",
+    "reviewLabel": "Đánh Giá",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Một cốt truyện sâu sắc vừa giáo dục vừa giải trí.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Hình ảnh đẹp và cốt truyện hấp dẫn.",
+        "author": "Jordan R."
+      },
+      {
+        "content": "Một trò chơi quan trọng để nâng cao nhận thức về sức khỏe tâm thần.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Yêu thích sự hài hước và chiều sâu trong các nhân vật.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Khiến tôi suy ngẫm sâu sắc về sự cân bằng tâm lý.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Gameplay hấp dẫn với những quyết định có ý nghĩa.",
+        "author": "Lee P."
+      },
+      {
+        "content": "Thật sự là một trò chơi mà mọi người nên trải nghiệm.",
+        "author": "Casey W."
+      },
+      {
+        "content": "Rất được chăm chút và suy nghĩ kỹ lưỡng.",
+        "author": "Sam B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp về TÀI NGUYÊN SỨC KHỎE TÂM THẦN",
+    "questions": [
+      {
+        "question": "Tôi có thể chơi TÀI NGUYÊN SỨC KHỎE TÂM THẦN trên những nền tảng nào?",
+        "answer": "Trò chơi có sẵn trên các nền tảng hỗ trợ HTML5."
+      },
+      {
+        "question": "TÀI NGUYÊN SỨC KHỎE TÂM THẦN có miễn phí không?",
+        "answer": "Có, trò chơi là miễn phí và mã nguồn mở."
+      },
+      {
+        "question": "Tôi có thể hỗ trợ người tạo ra trò chơi này không?",
+        "answer": "Có, bạn có thể hỗ trợ Nicky Case qua Patreon, PayPal hoặc Ko-Fi."
+      },
+      {
+        "question": "Trò chơi này có phù hợp với mọi lứa tuổi không?",
+        "answer": "Nội dung của trò chơi phù hợp với khán giả trưởng thành do các chủ đề nhạy cảm."
+      },
+      {
+        "question": "Có nhiều kết thúc trong TÀI NGUYÊN SỨC KHỎE TÂM THẦN không?",
+        "answer": "Có, những lựa chọn của bạn ảnh hưởng đến cốt truyện và có thể dẫn đến các kết thúc khác nhau."
+      },
+      {
+        "question": "Tôi có thể tìm thấy thêm tài nguyên sức khỏe tâm thần ở đâu?",
+        "answer": "Truy cập https://ncase.me/mental-health/ để biết thêm thông tin."
+      }
+    ]
+  }
+}

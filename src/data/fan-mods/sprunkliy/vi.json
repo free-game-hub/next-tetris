@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Trò Chơi Sprunkliy - Lối Chơi Đơn Giản và Thú Vị",
+    "description": "Khám phá Sprunkliy, một phiên bản remix đơn giản của sprunki. Tìm hiểu các tính năng trò chơi, hướng dẫn, đánh giá và câu hỏi thường gặp.",
+    "keywords": "Sprunkliy, remix Sprunki, lối chơi đơn giản, đánh giá trò chơi, câu hỏi thường gặp"
+  },
+  "hero": {
+    "h1": "Sprunkliy",
+    "p": "Chào mừng đến với Sprunkliy, một phiên bản remix đơn giản của trò chơi nổi tiếng sprunki. Đắm chìm trong những cuộc phiêu lưu thú vị với lối chơi mượt mà."
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng Của Sprunkliy",
+    "features": [
+      "Lối chơi đơn giản cho mọi lứa tuổi",
+      "Hình ảnh sinh động và hấp dẫn",
+      "Điều khiển dễ học",
+      "Mức độ thử thách với những phần thưởng xứng đáng",
+      "Một bản làm lại bởi Amsosprunki trên Scratch"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sprunkliy",
+    "instructions": [
+      "Bắt đầu trò chơi và chọn nhân vật của bạn.",
+      "Điều hướng qua các cấp độ bằng cách tránh chướng ngại vật.",
+      "Thu thập phần thưởng để tăng điểm số của bạn.",
+      "Sử dụng các điều khiển đơn giản để làm nhân vật nhảy hoặc chạy.",
+      "Hoàn thành các cấp độ để mở khóa thử thách mới."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình Trò Chơi Sprunkliy"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên Của Bạn",
+    "reviewLabel": "Đánh Giá Của Bạn",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Sprunkliy chính xác là loại trò chơi đơn giản và vui vẻ mà tôi cần!",
+        "author": "Alex"
+      },
+      {
+        "content": "Trò chơi hoàn hảo để giải tỏa căng thẳng nhanh chóng trong giờ nghỉ.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Tôi thích thiết kế đơn giản và các điều khiển dễ sử dụng.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Các cấp độ đầy thử thách nhưng không gây ức chế. Tôi yêu điều đó!",
+        "author": "Casey"
+      },
+      {
+        "content": "Thật tuyệt vời khi một phiên bản remix đơn giản có thể trở thành một trò chơi tuyệt vời.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Trẻ con của tôi không thể ngừng chơi Sprunkliy. Nó thật sự hấp dẫn!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Trò chơi tuyệt vời cho mọi lứa tuổi - vui vẻ và gây nghiện!",
+        "author": "Charlie"
+      },
+      {
+        "content": "Tôi đánh giá cao lối chơi không phức tạp. Rất tốt!",
+        "author": "Pat"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Các Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question":"Sprunkliy là gì?",
+        "answer":"Sprunkliy là một phiên bản remix đơn giản của trò chơi gốc sprunki, được thiết kế để mang lại lối chơi thú vị và dễ tiếp cận."
+      },
+      {
+        "question":"Ai đã phát triển Sprunkliy?",
+        "answer":"Phiên bản remix được tạo ra bởi Amsosprunki trên Scratch và được chia sẻ bởi depicpro."
+      },
+      {
+        "question":"Tôi làm thế nào để chơi Sprunkliy?",
+        "answer":"Sử dụng các điều khiển đơn giản để dẫn dắt nhân vật của bạn qua các cấp độ khác nhau, tránh chướng ngại vật và thu thập phần thưởng."
+      },
+      {
+        "question":"Sprunkliy có phù hợp với trẻ em không?",
+        "answer":"Có, lối chơi đơn giản của nó khiến nó phù hợp với người chơi ở mọi độ tuổi."
+      },
+      {
+        "question":"Tôi có thể gửi đánh giá của riêng mình không?",
+        "answer":"Chắc chắn rồi! Chúng tôi rất hoan nghênh ý kiến và trải nghiệm của bạn về Sprunkliy."
+      },
+      {
+        "question":"Tôi có thể tìm thêm trò chơi giống Sprunkliy ở đâu?",
+        "answer":"Hãy xem module gợi ý trò chơi của chúng tôi để tìm những trò chơi thú vị tương tự."
+      }
+    ]
+  }
+}

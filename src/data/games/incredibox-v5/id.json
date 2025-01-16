@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V5 - Ciptakan Beat Khusus Anda | Panduan Permainan Musik",
+    "description": "Jelajahi Incredibox V5, permainan musik kreatif yang memungkinkan Anda menjadi DJ, menggabungkan berbagai suara untuk menciptakan beat yang unik. Pelajari aturan dan cara bermain, bergabunglah dengan komunitas musik global.",
+    "keywords": "Incredibox V5, permainan musik, beat kreatif, permainan DJ, Incredicrew"
+  },
+  "hero": {
+    "h1": "Incredibox V5",
+    "p": "Rasakan keseruan Incredibox V5, ciptakan beat musik Anda, dan bergabunglah dengan para penggemar di seluruh dunia."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Pengalaman penciptaan musik yang inovatif",
+      "Cara bermain yang sederhana dan intuitif",
+      "Beragam karakter dan kombinasi suara",
+      "Visual dan animasi yang menakjubkan",
+      "Berbagi musik secara online dan interaksi komunitas"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Aturan dan Panduan Cara Bermain",
+    "instructions": [
+      "Pilih karakter yang berbeda, masing-masing mewakili bagian suara musik.",
+      "Klik pada karakter untuk menambahkan atau menghapus suara.",
+      "Seret ikon suara ke karakter untuk memulai kreasi.",
+      "Gunakan tombol spasi untuk memutar atau menjeda karya musik Anda.",
+      "Cobalah kombinasi yang berbeda untuk menemukan efek musik yang tersembunyi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Permainan ini adiktif, sangat kreatif, dan benar-benar menyenangkan!",
+        "author": "Lily"
+      },
+      {
+        "content": "Saya suka grafik dan efek suara dari Incredibox V5, cocok untuk semua usia!",
+        "author": "John"
+      },
+      {
+        "content": "Sangat cocok untuk mengisi waktu, sekaligus melatih keterampilan menciptakan musik.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Luar biasa! Saya ikut berbagi karya saya di komunitas setiap hari.",
+        "author": "Alex"
+      },
+      {
+        "content": "Ramah untuk pemula, membuat saya tertarik pada musik dengan cara baru.",
+        "author": "Karen"
+      },
+      {
+        "content": "Sederhana namun mendalam, sangat menghibur.",
+        "author": "Michael"
+      },
+      {
+        "content": "Lagu tersembunyi menambah keseruan permainan, selalu ada yang baru untuk ditemukan.",
+        "author": "Emily"
+      },
+      {
+        "content": "Sungguh surga bagi pecinta musik, sangat direkomendasikan!",
+        "author": "David"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Bagaimana cara menciptakan musik di Incredibox V5?",
+        "answer": "Dengan mengklik karakter untuk menambahkan atau menghapus suara, dan menggunakan gerakan geser untuk mencoba kombinasi suara yang berbeda."
+      },
+      {
+        "question": "Apakah Incredibox V5 cocok untuk pemula?",
+        "answer": "Pasti, permainan ini menawarkan panduan yang sederhana dan banyak konten untuk dieksplorasi."
+      },
+      {
+        "question": "Bisakah saya membagikan karya musik saya?",
+        "answer": "Ya, Incredibox V5 memungkinkan Anda membagikan karya ke komunitas dan berinteraksi dengan pemain lain."
+      },
+      {
+        "question": "Bagaimana cara menemukan trek tersembunyi?",
+        "answer": "Cobalah kombinasi suara yang berbeda untuk menemukan kejutan trek tersembunyi."
+      },
+      {
+        "question": "Permainan ini cocok untuk usia berapa?",
+        "answer": "Incredibox V5 cocok untuk semua usia, terutama bagi pecinta musik."
+      },
+      {
+        "question": "Bagaimana saya dapat bergabung dengan komunitas Incredibox?",
+        "answer": "Dengan membagikan karya musik Anda dan berpartisipasi dalam diskusi, Anda dapat menjadi bagian dari komunitas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V1 - Sukella rytmin ja beatboxingin maailmaan",
+    "description": "Tutustu Incredibox V1:een, hurmaavaan musiikin luontipeliin, joka yhdistää rytmin, melodian ja beatboxingin. Luo ainutlaatuisia kappaleita vetämällä ja pudottamalla. Ihanteellinen musiikin ystäville, jotka etsivät luovuutta ja hauskuutta.",
+    "keywords": "Incredibox V1, musiikin luontipeli, rytmi, beatboxing, Incredibox Alpha Peli"
+  },
+  "hero": {
+    "h1": "Incredibox V1",
+    "p": "Hyödynnä musiikillista luovuuttasi Incredibox V1:ssä, jossa rytmi kohtaa melodian interaktiivisessa beatboxing-seikkailussa."
+  },
+  "gameFeatures": {
+    "title": "Miksi Incredibox V1 erottuu joukosta",
+    "features": [
+      "Luo ainutlaatuisia musiikkikappaleita helppoin vetämällä ja pudottamalla.",
+      "Tutustu monimuotoisiin äänimaailmoihin animaatioilla varustettujen beatboxing-hahmojen kanssa.",
+      "Avaa visuaalisia bonuksia löytämällä äänikombinaatioita.",
+      "Jaa sävellyksesi musiikin ystävien yhteisölle.",
+      "Osallistu immersiiviseen audiovisuaaliseen kokemukseen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka hallita Incredibox V1",
+    "instructions": [
+      "Valitse tyyli: Valitse monista musiikkityyleistä aloittaaksesi musiikillisen matkasi.",
+      "Luo sekoitus: Vedä ääni-ikonit hahmojen päälle määrittääksesi erottuvat äänet ja luodaksesi sävellyksesi.",
+      "Koe: Kerro ääniä yhdessä tutkiaksesi uusia rytmejä ja efektejä, avaten piilotettuja animaatioita.",
+      "Hiiren ohjaus: Klikkaa ja vedä manipuloidaksesi ääniä, säätäen sekoitustasi vaivattomasti.",
+      "Näppäinoikotiet: Käytä käytettävissä olevia pikanäppäimiä nopeisiin äänen säätöihin (versiosta riippuen)."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V1 toiminnassa"
+  },
+  "playerReviews": {
+    "title": "Mitä pelaajat sanovat Incredibox V1:stä",
+    "submitReviewLabel": "Lähetä arviointi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arviosi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Incredibox V1 on ainutlaatuinen ja hauska tapa luoda musiikkia. Se on helppokäyttöinen, vaikka et olisikaan musiikkikoulutettu.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Animaatiot ovat fantasiatasoa! Ne todella rikastuttavat immersiivistä kokemusta.",
+        "author": "Samantha P."
+      },
+      {
+        "content": "Rakastan, kuinka voin jakaa luomukseni helposti. Yhteisö on erittäin kannustava!",
+        "author": "Mike T."
+      },
+      {
+        "content": "Yksinkertaista mutta koukuttavaa. Käytin tunteja kokeillen eri ääniä.",
+        "author": "Linda K."
+      },
+      {
+        "content": "Loistava tapa ilmaista luovuutta. Visuaaliset bonukset ovat palkitseva lisä.",
+        "author": "Chris R."
+      },
+      {
+        "content": "Se on enemmän kuin peli, se on luova alusta!",
+        "author": "Patricia G."
+      },
+      {
+        "content": "Lapset ja minä nautimme yhdessä musiikin luomisesta. Se on perheystävällinen ja hauskaa!",
+        "author": "John D."
+      },
+      {
+        "content": "Erittäin intuitiivinen ohjaus. Rakastan sen yksinkertaisuutta ja syvyyttä.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Incredibox V1 UKK",
+    "questions": [
+      {
+      "question":"Mikä on Incredibox V1?",
+      "answer":"Incredibox V1 on interaktiivinen musiikin luontipeli, joka yhdistää rytmin, melodian ja beatboxingin animaatiohahmojen kautta."
+      },
+      {
+      "question":"Kuinka pelaan Incredibox V1:stä?",
+      "answer":"Valitse musiikkityyli, vedä ääni-ikonit hahmojen päälle luodaksesi sekoituksesi ja tutki ääniyhdistelmiä lisäefektejä ja animaatioita varten."
+      },
+      {
+      "question":"Voinko käyttää näppäinoikoteitä Incredibox V1:ssä?",
+      "answer":"Jossakin versiossa pikanäppäimiä on saatavilla äänten mykistämiseen, sooloamiseen ja järjestelyyn, vaikka ensisijainen vuorovaikutus tapahtuu hiiren kautta."
+      },
+      {
+      "question":"Onko Incredibox V1 sopiva kaikenikäisille?",
+      "answer":"Kyllä, intuitiivinen käyttöliittymä ja mukaansatempaava grafiikka tekevät siitä saavutettavan ja hauskan pelaajille kaikilta ikäryhmiltä."
+      },
+      {
+      "question":"Voinko jakaa musiikkiluomukseni Incredibox V1:stä?",
+      "answer":"Ehdottomasti, pelaajat voivat jakaa sävellyksensä verkossa inspiroidakseen ja sitouttaakseen musiikin ystävien yhteisön."
+      },
+      {
+      "question":"Mikä tekee Incredibox V1:stä erilaisen muihin musiikkipelihin verrattuna?",
+      "answer":"Sen yhdistelmä vedä ja pudota -pelimekaniikkaa, animaatiokerrontaa ja yhteisön jakamista erottavat sen pelinä ja luovana työkaluna."
+      }
+    ]
+  }
+}

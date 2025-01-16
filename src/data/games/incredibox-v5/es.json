@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V5 - Crea tu propio ritmo | Guía de Juegos de Música",
+    "description": "Descubre Incredibox V5, un juego de música creativo que te convierte en DJ, mezclando diferentes sonidos para crear ritmos únicos. Aprende las reglas del juego y cómo jugar, y únete a la comunidad musical de jugadores de todo el mundo.",
+    "keywords": "Incredibox V5, juego de música, ritmo creativo, juego de DJ, Incredicrew"
+  },
+  "hero": {
+    "h1": "Incredibox V5",
+    "p": "Disfruta de la diversión de Incredibox V5, crea tus propios ritmos musicales y únete a los fanáticos de todo el mundo."
+  },
+  "gameFeatures": {
+    "title": "Características del Juego",
+    "features": [
+      "Experiencia innovadora de creación musical",
+      "Controles simples e intuitivos",
+      "Diversos personajes y combinaciones de sonidos",
+      "Efectos visuales y animaciones impresionantes",
+      "Comparte música y interactúa con la comunidad en línea"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Reglas del Juego y Guía de Instrucciones",
+    "instructions": [
+      "Selecciona diferentes personajes, cada uno representando una parte musical distinta.",
+      "Haz clic en los personajes para añadir o eliminar sonidos.",
+      "Arrastra los iconos de sonido a los personajes para comenzar a crear.",
+      "Usa la barra espaciadora para reproducir o pausar tu obra musical.",
+      "Prueba distintas combinaciones para descubrir efectos musicales ocultos."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Comentarios de los Jugadores",
+    "submitReviewLabel": "Enviar Comentario",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Comentario",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Este juego es adictivo, muy creativo y realmente divertido!",
+        "author": "Lily"
+      },
+      {
+        "content": "Me encantan los gráficos y los efectos de sonido de Incredibox V5, ¡es perfecto para todas las edades!",
+        "author": "John"
+      },
+      {
+        "content": "Es ideal para pasar el tiempo y desarrollar habilidades de creación musical.",
+        "author": "Sophia"
+      },
+      {
+        "content": "¡Increíble! Participo en la comunidad todos los días compartiendo mis obras.",
+        "author": "Alex"
+      },
+      {
+        "content": "Amigable para principiantes, me ha despertado un nuevo interés por la música.",
+        "author": "Karen"
+      },
+      {
+        "content": "Sencillo pero profundo, tiene una jugabilidad muy alta.",
+        "author": "Michael"
+      },
+      {
+        "content": "Los sonidos ocultos aumentan la jugabilidad, siempre se pueden encontrar nuevas sorpresas.",
+        "author": "Emily"
+      },
+      {
+        "content": "Realmente es un paraíso para los amantes de la música, ¡lo recomiendo ampliamente!",
+        "author": "David"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Cómo puedo crear música en Incredibox V5?",
+        "answer": "Haz clic en los personajes para añadir o eliminar sonidos, y utiliza arrastrar para probar distintas combinaciones de sonidos."
+      },
+      {
+        "question": "¿Es Incredibox V5 adecuado para principiantes?",
+        "answer": "Definitivamente, el juego ofrece instrucciones simples y un rico contenido por explorar."
+      },
+      {
+        "question": "¿Puedo compartir mis obras musicales?",
+        "answer": "Sí, Incredibox V5 te permite compartir tus creaciones en la comunidad e interactuar con otros jugadores."
+      },
+      {
+        "question": "¿Cómo puedo encontrar pistas ocultas?",
+        "answer": "Prueba distintas combinaciones de sonidos para descubrir emocionantes pistas escondidas."
+      },
+      {
+        "question": "¿Qué edades son adecuadas para el juego?",
+        "answer": "Incredibox V5 es adecuado para todas las edades, especialmente para los amantes de la música."
+      },
+      {
+        "question": "¿Cómo puedo unirme a la comunidad de Incredibox?",
+        "answer": "Conviértete en parte de la comunidad compartiendo tus creaciones y participando en las discusiones."
+      }
+    ]
+  }
+}

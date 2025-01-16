@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 19 - Lag Beats og Gå Inn i en Ny Phase",
+    "description": "Oppdag Sprunki Phase 19, en unik spillopplevelse som kombinerer beat-laging med spennende spillmoro. Passer for 13 år og eldre.",
+    "keywords": "Sprunki Phase 19, beat-laging spill, spennende spillopplevelse, musikk spill, Sprunki Phase, spill for ungdom"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 19",
+    "p": "Sprunki Phase 19 er det ultimate beat-laging spillet, som kombinerer rytme, kreativitet og hjertebankende action. Gå inn i en ny verden av lyd og lag din egen vei!"
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner",
+    "features": [
+      "Innovative beat-laging mekanikker skreddersydd for kreativitet.",
+      "Immersiv grafikk som forbedrer spillopplevelsen.",
+      "Dynamiske utfordringer med økende kompleksitet.",
+      "Flerspiller-modus for samarbeid om beat-laging.",
+      "Rik historie med engasjerende progresjon."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik Spiller Du Sprunki Phase 19",
+    "instructions": [
+      "Start med å velge din foretrukne beat-mal.",
+      "Bruk verktøyene på skjermen for å endre og perfeksjonere beats.",
+      "Naviger gjennom nivåer ved å fullføre beat-utfordringer.",
+      "Samarbeid med venner i flerspiller-modus for rikere lydlandskaper.",
+      "Unngå hindringer og kom deg videre ved å holde rytmen konstant."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spillskjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send Inn Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 19 er utrolig vanedannende og kreativt.",
+        "author": "GamerGuru21"
+      },
+      {
+        "content": "Beat-lagingen er revolusjonerende! Elsker det!",
+        "author": "MusicMartian90"
+      },
+      {
+        "content": "En perfekt blanding av musikk og action. Anbefales på det sterkeste!",
+        "author": "RhythmRider23"
+      },
+      {
+        "content": "Får meg til å komme tilbake for mer! Utfordringene er fantastiske.",
+        "author": "BeatMaster07"
+      },
+      {
+        "content": "Flerspiller-modus er en ekte spillforandrer.",
+        "author": "PartyPlayer88"
+      },
+      {
+        "content": "Grafikk og musikkvalitet overgikk mine forventninger.",
+        "author": "VisualVibe58"
+      },
+      {
+        "content": "Historien er engasjerende og får deg til å spille mer.",
+        "author": "StorySeeker11"
+      },
+      {
+        "content": "Det er et spill som er vanskelig å legge fra seg når du først starter.",
+        "author": "GameAddict24"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Vanlige Spørsmål",
+    "questions": [
+      {
+        "question":"Hva er minimumsalderen for Sprunki Phase 19?",
+        "answer":"Spillet anbefales for spillere fra 13 år og oppover."
+      },
+      {
+        "question":"Kan jeg spille Sprunki Phase 19 på mobile enheter?",
+        "answer":"Ja, spillet er kompatibelt med både iOS og Android-enheter."
+      },
+      {
+        "question":"Er det en tutorial som kan hjelpe nye spillere i gang?",
+        "answer":"Ja, spillet inkluderer en omfattende tutorial for å veilede nye spillere."
+      },
+      {
+        "question":"Er det noen innebygde kjøp i Sprunki Phase 19?",
+        "answer":"Ja, det er tilgjengelige innebygde kjøp for ekstra funksjoner."
+      },
+      {
+        "question":"Kan du samarbeide med venner i Sprunki Phase 19?",
+        "answer":"Ja, spillet tilbyr en flerspiller-modus for samarbeidsspill."
+      },
+      {
+        "question":"Krever Sprunki Phase 19 en internettforbindelse?",
+        "answer":"En internettforbindelse er nødvendig for flerspiller og oppdateringer."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkliy-peli - Yksinkertaiset ja Jännittävät Pelimekaniikat",
+    "description": "Tutustu Sprunkliyn, joka on yksinkertaistettu remix suositusta pelistä sprunki. Löydä pelin ominaisuudet, ohjeet, arvostelut ja usein kysytyt kysymykset.",
+    "keywords": "Sprunkliy, Sprunki remix, yksinkertainen pelimekaniikka, pelin arvostelut, pelin usein kysytyt kysymykset"
+  },
+  "hero": {
+    "h1": "Sprunkliy",
+    "p": "Tervetuloa Sprunkliyn, yksinkertaistettuun remixiin suositusta pelistä sprunki. Sukella jännittäviin seikkailuihin sujuvalla pelimekaniikalla."
+  },
+  "gameFeatures": {
+    "title": "Sprunkliyn Ominaisuudet",
+    "features": [
+      "Yksinkertainen pelimekaniikka kaikille ikäryhmille",
+      "Viekkaat ja värikkäät visuaalit",
+      "Helppo oppia ohjaimet",
+      "Haastavat tasot palkitsevilla saavutuksilla",
+      "Amsosprunkin tekemä remake Scratchissa"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunkliyä",
+    "instructions": [
+      "Aloita peli ja valitse hahmosi.",
+      "Liiku tasoilla välttäen esteitä.",
+      "Kerää palkintoja nostaksesi pistemäärääsi.",
+      "Käytä yksinkertaisia ohjaimia hahmosi hyppäämiseen tai juoksemiseen.",
+      "Suorita tasot avataksesi uusia haasteita."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkliy-pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelusi",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunkliy on juuri se yksinkertainen hauskuus, jota tarvin!",
+        "author": "Alex"
+      },
+      {
+        "content": "Täydellinen peli nopeaa stressinlievitystä varten tauoilla.",
+        "author": "Jordan"
+      },
+      {
+        "content": "Rakastan selkeää suunnittelua ja helppoja ohjaimia.",
+        "author": "Taylor"
+      },
+      {
+        "content": "Tasot ovat haastavia mutta eivät turhauttavia. Rakastan sitä!",
+        "author": "Casey"
+      },
+      {
+        "content": "On hämmästyttävää, kuinka yksinkertainen remix voi muuttua mahtavaksi peliksi.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Lapseni eivät voi lakata pelaamasta Sprunkliyä. Se on niin koukuttavaa!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Loistava peli kaikille – hauskaa ja addiktoivaa!",
+        "author": "Charlie"
+      },
+      {
+        "content": "Arvostan ei-monimutkaista pelimekaniikkaa. Peukkua ylös!",
+        "author": "Pat"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question": "Mikä on Sprunkliy?",
+        "answer": "Sprunkliy on yksinkertaistettu remix alkuperäisestä pelistä sprunki, joka on suunniteltu tarjoamaan selkeää ja mukaansatempaavaa pelimekaniikkaa."
+      },
+      {
+        "question": "Kuka kehitti Sprunkliy?",
+        "answer": "Remixin loi Amsosprunki Scratchissa ja jakoi depicpro."
+      },
+      {
+        "question": "Miten pelata Sprunkliyä?",
+        "answer": "Käytä yksinkertaisia ohjaimia ohjataksesi hahmoasi eri tasoilla, vältä esteitä ja kerää palkintoja."
+      },
+      {
+        "question": "Onko Sprunkliy sopiva lapsille?",
+        "answer": "Kyllä, sen yksinkertainen pelimekaniikka tekee siitä sopivan pelaajille kaikilta ikäryhmiltä."
+      },
+      {
+        "question": "Voinko lähettää oman arvosteluni?",
+        "answer": "Ehdottomasti! Tervetuloa palautteesi ja kokemuksesi Sprunkliyistä."
+      },
+      {
+        "question": "Mistä löydän lisää pelejä kuten Sprunkliy?",
+        "answer": "Tutustu pelisuositusmoduuliimme löytääksesi samankaltaisia mukaansatempaavia pelejä."
+      }
+    ]
+  }
+}

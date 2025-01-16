@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Fas 30 - Utforska det Nya Musikaliska Äventyret",
+    "description": "Gå med i Sprunki-universumet med Fas 30 Mod. Upptäck nya karaktärer, dynamiska ljudlandskap och innovativt spelande. Perfekt för både nya och erfarna spelare.",
+    "keywords": "Sprunki Fas 30, Sprunki Mod, musikaliskt äventyr, dynamiska ljudlandskap, kreativt spelande"
+  },
+  "hero": {
+    "h1": "Sprunki Fas 30",
+    "p": "Ge dig ut på en ny musikalisk resa med Sprunki Fas 30 Mod. Dyk in i en uppslukande värld fylld med mysterier, äventyr och oändliga kreativa möjligheter."
+  },
+  "gameFeatures": {
+    "title": "Huvudfunktioner i Sprunki Fas 30",
+    "features": [
+      "Nya Karaktärer: Nyskapande karaktärer som för med sig unika loopar och effekter som utökar dina musikaliska möjligheter.",
+      "Dynamiska Ljudlandskap: Njut av en blandning av rytmiska beats, atmosfäriska melodier och lager av effekter för kreativt experimenterande.",
+      "Visuellt Fantastiska Teman: Upplev en konstnärlig estetik som fördjupar dig i en livfull och engagerande värld.",
+      "Förbättrat Spelande: Smidiga mekanismer och kuraterade ljudkombinationer säkerställer en intuitiv upplevelse.",
+      "Gemenskapsdelning: Visa upp dina musikaliska kompositioner genom att spara och dela dem med gemenskapen."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man Spelar Sprunki Fas 30 Mod",
+    "instructions": [
+      "Välj Karaktärer: Välj från en lista av nya och återkommande karaktärer, var och en med unika loopar.",
+      "Dra och Släpp: Arrangera karaktärerna på skärmen, lager av beats och effekter.",
+      "Experimentera och Förfina: Justera volymer och kombinationer för att förbättra din låt.",
+      "Spara och Dela: Spara din komposition och dela den med gemenskapen.",
+      "Utforska Miljöer: Upptäck livfulla och dynamiska miljöer medan du avancerar."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Fas 30 Skärmdumpar"
+  },
+  "playerReviews": {
+    "title": "Spelardomar",
+    "submitReviewLabel": "Skicka In Din Recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sprunki Fas 30 är ett mästerverk. Det kombinerar kreativitet och spelande på ett sömlöst sätt.",
+        "author": "Alice J."
+      },
+      {
+        "content": "De nya karaktärerna och looparna har gjort mina kompositioner så mycket mer dynamiska.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Jag älskar verkligen den visuella designen av Fas 30. Det är en glädje att utforska.",
+        "author": "Mike L."
+      },
+      {
+        "content": "De förbättrade spelkontrollerna är mycket intuitiva och gör att skapa musik känns enkelt.",
+        "author": "Jane D."
+      },
+      {
+        "content": "Det är fantastiskt hur spelet låter dig spara och dela musik. Mina vänner är imponerade!",
+        "author": "John T."
+      },
+      {
+        "content": "Fas 30 tog min Sprunki-upplevelse till en ny nivå. Brilliant!",
+        "author": "Anna P."
+      },
+      {
+        "content": "Som en långvarig fan är detta den bästa fasen hittills. Rekommenderas starkt för alla spelare.",
+        "author": "Robert K."
+      },
+      {
+        "content": "Jag älskar att experimentera med de nya ljudlandskapen. Det känns otroligt fräscht och engagerande.",
+        "author": "Lisa R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Vad är Sprunki Fas 30?",
+        "answer": "Sprunki Fas 30 är den senaste modden i Sprunki-serien, som erbjuder nya karaktärer, ljudlandskap och spelfunktioner."
+      },
+      {
+        "question": "Hur sparar jag mina kompositioner i Sprunki Fas 30?",
+        "answer": "Du kan spara dina kompositioner genom att klicka på 'Spara'-knappen i spelgränssnittet efter att ha slutfört en låt."
+      },
+      {
+        "question": "Kan jag dela mina skapelser med andra?",
+        "answer": "Ja, du kan dela dina sparade kompositioner med gemenskapen genom delningsfunktionen i spelet."
+      },
+      {
+        "question": "Är de nya karaktärerna i Sprunki Fas 30 gratis att använda?",
+        "answer": "Ja, alla nya karaktärer finns tillgängliga i modden, vilket ger ytterligare loopar och effekter gratis."
+      },
+      {
+        "question": "Vad gör Fas 30 annorlunda från tidigare versioner?",
+        "answer": "Fas 30 erbjuder förbättrat spelande, nya karaktärer, unika ljudlandskap och ett visuellt fantastiskt tema."
+      },
+      {
+        "question": "Är Sprunki Fas 30 lämpligt för nya spelare?",
+        "answer": "Absolut! Det är utformat för att vara intuitivt för nykomlingar samtidigt som det erbjuder djup för erfarna spelare."
+      }
+    ]
+  }
+}

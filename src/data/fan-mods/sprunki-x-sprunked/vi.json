@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - Mô-đun Incredibox Thách Thức",
+    "description": "Khám phá Sprunki x Sprunked, một mô-đun được tạo fan cho Incredibox kết hợp giữa Sprunked và Sprunki, cung cấp nhân vật mới, độ khó tăng cường và nhạc nền độc đáo.",
+    "keywords": "Sprunki x Sprunked, mô-đun Incredibox, Sprunked, Sprunki, game nhịp điệu, nhân vật mới, nhạc nền độc đáo"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "Hãy đắm chìm vào trải nghiệm nhịp điệu độc đáo của Sprunki x Sprunked, một mô-đun Incredibox do fan tạo ra kết hợp các yếu tố từ Sprunked và Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Các Tính Năng Chính của Sprunki x Sprunked",
+    "features": [
+      "Nhiều nhân vật mới với phong cách và khả năng âm nhạc độc đáo",
+      "Độ khó tăng cường để làm chủ các mẫu nhịp phức tạp",
+      "Không khí trò chơi u ám và mãnh liệt hơn với chủ đề kinh dị",
+      "Nhạc nền độc đáo kết hợp các yếu tố của Sprunked và Sprunki",
+      "Tất cả nhân vật bao gồm nhân vật bonus từ cả hai mô-đun",
+      "Các yếu tố crossover hấp dẫn làm phong phú trải nghiệm chơi game"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cách Chơi Sprunki x Sprunked",
+    "instructions": [
+      "Lựa chọn nhân vật khôn ngoan để tạo ra các chuỗi âm nhạc độc đáo.",
+      "Làm chủ thời gian để đạt điểm cao hơn trong các cấp độ thử thách.",
+      "Khám phá tất cả phong cách nhân vật và khả năng âm nhạc của chúng để mở rộng sáng tạo của bạn.",
+      "Tham gia vào các chủ đề căng thẳng và tối tăm trong khi duy trì độ chính xác của nhịp điệu.",
+      "Thưởng thức nhạc nền độc đáo trong khi di chuyển qua các tình huống gây cấn."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Ảnh Chụp Màn Hình Trò Chơi"
+  },
+  "playerReviews": {
+    "title": "Đánh Giá Của Người Chơi",
+    "submitReviewLabel": "Gửi Đánh Giá Của Bạn",
+    "nameLabel": "Tên",
+    "reviewLabel": "Đánh Giá",
+    "submitButtonLabel": "Gửi",
+    "reviews": [
+      {
+        "content": "Mô-đun này cực kỳ thách thức, và bầu không khí u ám khiến tôi cảm thấy hồi hộp.",
+        "author": "Alex K."
+      },
+      {
+        "content": "Tôi thích các yếu tố crossover; nó giống như một trò chơi hoàn toàn mới!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Nhạc nền độc đáo thật tuyệt vời và hòa quyện tốt với gameplay.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Ban đầu hơi khó, nhưng khi bạn quen thuộc, nó thực sự đáng giá.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Nhân vật mới thêm nhiều chiều sâu; mỗi nhân vật có một vibe riêng.",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Các yếu tố kinh dị là một bước ngoặt thú vị trong thể loại game nhịp điệu.",
+        "author": "Robin J."
+      },
+      {
+        "content": "Cảm giác như một bản nâng cấp thật sự của các mô-đun gốc, rất gây nghiện!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Hơi lỗi thời đôi chút nhưng tổng thể là một mô-đun tuyệt vời với tiềm năng lớn.",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Câu Hỏi Thường Gặp",
+    "questions": [
+      {
+        "question":"Sprunki x Sprunked là gì?",
+        "answer":"Sprunki x Sprunked là một mô-đun do fan tạo cho game Incredibox, kết hợp các yếu tố từ hai mô-đun Sprunked và Sprunki."
+      },
+      {
+        "question":"Tôi có thể chơi Sprunki x Sprunked mà không cần chơi các mô-đun gốc không?",
+        "answer":"Có, mặc dù có kinh nghiệm với các mô-đun gốc có thể giúp bạn hiểu rõ hơn, nhưng không cần thiết phải chơi chúng để thưởng thức Sprunki x Sprunked."
+      },
+      {
+        "question":"Có lỗi nào trong game không?",
+        "answer":"Một số sprite có thể chưa hoàn thành, nhưng các bản cập nhật dự kiến sẽ giải quyết những vấn đề này."
+      },
+      {
+        "question":"Sprunki x Sprunked khó như thế nào?",
+        "answer":"Mô-đun này được thiết kế để thách thức hơn, yêu cầu người chơi làm chủ các mẫu nhịp phức tạp."
+      },
+      {
+        "question":"Có nhạc nền độc đáo trong Sprunki x Sprunked không?",
+        "answer":"Có, mô-đun có nhạc nền độc đáo kết hợp các yếu tố của cả hai mô-đun."
+      },
+      {
+        "question":"Tôi có thể tải xuống Sprunki x Sprunked ở đâu?",
+        "answer":"Mô-đun này có thể được tải từ các cộng đồng và diễn đàn mod Incredibox."
+      }
+    ]
+  }
+}

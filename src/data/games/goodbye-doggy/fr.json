@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Volez à Travers la Mémoire : Une Aventure Touchante avec des Fantômes et des Chiens",
+    "description": "Explorez l'histoire réconfortante de 'Volez à Travers la Mémoire', un jeu de puzzle émouvant mettant en scène un chien fantôme aidant sa famille à faire face au deuil. Découvrez les fonctionnalités du jeu, les contrôles, et lisez les avis des joueurs.",
+    "keywords": "Volez à Travers la Mémoire, jeu de chien fantôme, jeu de puzzle, jeu sur les animaux de compagnie, avis sur les jeux, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Volez à Travers la Mémoire",
+    "p": "Embarquez pour un voyage poignant avec un compagnon fantomatique alors qu'ils explorent leur maison, aidant leur famille à guérir de la perte. Un beau jeu de puzzle élaboré avec soin par Picogram pour le Global Game Jam 2019."
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités du Jeu",
+    "features": [
+      "Narration réconfortante explorant les thèmes de la perte et de la guérison.",
+      "Graphismes charmants et musique atmosphérique par Grahm Nesbitt.",
+      "Contrôles simples adaptés à tous les âges.",
+      "Jouable sur des plateformes HTML5, accessible sur différents appareils.",
+      "Noté 4.8 sur 5 étoiles par plus de 3,850 joueurs."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Instructions de Jeu",
+    "instructions": [
+      "Utilisez les flèches de votre clavier pour déplacer le chien fantôme.",
+      "Appuyez sur 'Z' pour interagir avec les objets et progresser dans l'histoire.",
+      "Explorez chaque pièce pour découvrir des souvenirs et aider la famille à faire face.",
+      "Faites attention aux indices subtils dans l'environnement pour trouver des pistes.",
+      "Profitez de l'expérience comme un voyage introspectif, pas seulement comme un jeu."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Captures d'Écran du Jeu"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Nom",
+    "reviewLabel": "Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "TROP MIGNON :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "J'ai adoré ça ! C'était si mignon et m'a laissé une sensation chaleureuse.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "C'était tellement doux. Ce jeu a été très bien réalisé pour un si court jeu.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Ce n'est pas ma première fois en jouant à ça, j'ai perdu mon chien récemment. Ça me réchauffe le cœur.",
+        "author": "This is dope"
+      },
+      {
+        "content": "Bravo, heureux, triste, et mignon, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "Le chien est tellement mignon en portant un morceau de pain.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Littéralement adorable <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "Je pense que écouter ma playlist d'Eminem pendant que je jouais a peut-être ruiné l'ambiance mais c'est quand même l'un des meilleurs jeux auxquels j'ai joué depuis un moment.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question":"Sur quelles plateformes 'Volez à Travers la Mémoire' est-il disponible?",
+        "answer":"Le jeu est disponible sur des plateformes HTML5, le rendant accessible sur la plupart des appareils disposant d'un navigateur web moderne."
+      },
+      {
+        "question":"Comment puis-je interagir avec les objets dans le jeu?",
+        "answer":"Utilisez la touche 'Z' de votre clavier pour interagir avec les objets et progresser dans l'histoire."
+      },
+      {
+        "question":"Qui a composé la musique du jeu?",
+        "answer":"La musique atmosphérique de 'Volez à Travers la Mémoire' a été composée par Grahm Nesbitt."
+      },
+      {
+        "question":"Le jeu est-il adapté à tous les âges?",
+        "answer":"Oui, le jeu propose des contrôles simples et une narration réconfortante adaptée aux joueurs de tous âges."
+      },
+      {
+        "question":"Combien de temps faut-il pour terminer le jeu?",
+        "answer":"Le jeu est relativement court, offrant une expérience compacte mais émotionnelle qui peut être complétée en une seule séance."
+      },
+      {
+        "question":"Puis-je jouer à 'Volez à Travers la Mémoire' sur mon appareil mobile?",
+        "answer":"Si votre appareil mobile prend en charge les jeux HTML5 via un navigateur web, vous devriez être capable de jouer au jeu."
+      }
+    ]
+  }
+}

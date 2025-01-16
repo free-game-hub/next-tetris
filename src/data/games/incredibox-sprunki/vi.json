@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "title": "Sprunki - Tạo Nhạc Qua Trò Chơi",
+        "description": "Trở thành nhà sản xuất âm nhạc chỉ với vài cú nhấp chuột! Sprunki là một trò chơi nhịp điệu sáng tạo, nơi sự sáng tạo gặp gỡ niềm vui.",
+        "keywords": "trò chơi nhịp điệu, sáng tạo âm nhạc, beatbox, incredibox, sprunki, trò chơi âm nhạc, âm nhạc tương tác"
+    },
+    "hero": {
+        "h1": "Chào Mừng Đến Với Sprunki",
+        "p": "Hành trình trở thành nhà sản xuất âm nhạc của bạn bắt đầu với một cú nhấp chuột. Không cần kinh nghiệm âm nhạc - chỉ cần mang theo sự sáng tạo của bạn!"
+    },
+    "gameFeatures": {
+        "title": "Vì Sao Người Chơi Yêu Thích Sprunki",
+        "features": [
+            "Giao diện kéo-và-thả trực quan để tạo nhạc ngay lập tức",
+            "Nhiều phiên bản theo chủ đề bao gồm Chế Độ Nắng và Chế Độ Tối",
+            "Tạo, lưu và chia sẻ kiệt tác âm nhạc độc đáo của bạn",
+            "Phù hợp cho cả các phiên chơi nhanh chóng và sự sáng tạo kéo dài",
+            "Không cần kiến thức âm nhạc - chỉ thuần thúy vui vẻ"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Cách Chơi",
+        "instructions": [
+            "Chọn phiên bản Sprunki yêu thích của bạn",
+            "Kéo các nhân vật lên sân khấu để thêm âm thanh khác nhau",
+            "Kết hợp và phối hợp các yếu tố âm thanh khác nhau",
+            "Tạo ra những kết hợp hài hòa để mở khóa hoạt cảnh đặc biệt",
+            "Lưu lại sáng tác yêu thích của bạn",
+            "Chia sẻ tác phẩm của bạn với bạn bè"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Trải Nghiệm Sự Kỳ Diệu"
+    },
+    "playerReviews": {
+        "title": "Những Gì Người Chơi Của Chúng Tôi Nói",
+        "submitReviewLabel": "Chia Sẻ Trải Nghiệm Của Bạn",
+        "nameLabel": "Tên Của Bạn",
+        "reviewLabel": "Nhận Xét Của Bạn",
+        "submitButtonLabel": "Gửi Nhận Xét",
+        "reviews": [
+            {
+                "content": "Tôi chưa bao giờ có tài năng âm nhạc, nhưng Sprunki khiến tôi cảm thấy như một nhà sản xuất thực thụ. Không thể ngừng chơi!",
+                "author": "Mike, 23"
+            },
+            {
+                "content": "Cách hoàn hảo để giải tỏa căng thẳng sau công việc. Các kết hợp là vô tận và cảm giác thật thỏa mãn khi bạn tạo ra điều gì đó tuyệt vời.",
+                "author": "Sarah, 19"
+            },
+            {
+                "content": "Bắt đầu chơi với các con và bây giờ tôi còn nghiện hơn các con! Thật là một cách sáng tạo để dành thời gian cùng nhau.",
+                "author": "David, 35"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "questions": [
+            {
+                "question": "Tôi có cần kinh nghiệm âm nhạc để chơi không?",
+                "answer": "Không cần! Sprunki được thiết kế cho mọi người, bất kể nền tảng âm nhạc. Giao diện trực quan giúp bạn dễ dàng tạo ra âm nhạc tuyệt vời."
+            },
+            {
+                "question": "Tôi có thể lưu các sáng tác của mình không?",
+                "answer": "Có! Bạn có thể lưu những sáng tác yêu thích và thậm chí chia sẻ chúng với bạn bè."
+            },
+            {
+                "question": "Có phiên bản di động không?",
+                "answer": "Có, Sprunki có sẵn trên cả nền tảng máy tính và di động, vì vậy bạn có thể tạo nhạc ở bất cứ đâu!"
+            },
+            {
+                "question": "Nội dung mới được cập nhật bao lâu một lần?",
+                "answer": "Chúng tôi thường xuyên cập nhật trò chơi với các âm thanh mới, nhân vật, và các phiên bản theo chủ đề để giữ cho sự sáng tạo luôn phong phú!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunkle 遊戲：遊玩與探索 | 官方網站",
+    "description": "探索令人興奮的 Sprunkle 世界，這是一款擁有獨特功能和挑戰的引人入勝的網上遊戲。了解遊戲規則、控制方式，並閱讀玩家評價，提升你的遊戲體驗。",
+    "keywords": "Sprunkle 遊戲, Sprunkle 在線, 玩 Sprunkle, Sprunkle 遊戲規則, Sprunkle 評價"
+  },
+  "hero": {
+    "h1": "Sprunkle 遊戲",
+    "p": "深入引人入勝的 Sprunkle 冒險世界，這款刺激的網絡遊戲讓玩家緊張刺激!"
+  },
+  "gameFeatures": {
+    "title": "Sprunkle 的特色",
+    "features": [
+      "沉浸式的遊戲體驗，搭配動態動畫",
+      "針對不同技能層級的獨特挑戰",
+      "隨著玩家選擇而發展的引人入勝的故事情節",
+      "可與朋友一起遊玩的多人選項",
+      "定期更新新關卡和角色"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunkle",
+    "instructions": [
+      "使用鍵盤上的方向鍵操控角色。",
+      "收集增益道具以提升在遊戲中的能力。",
+      "在每個關卡的結束處擊敗Boss以進一步推進。",
+      "小心出現的陷阱和障礙物，這些有時會意外出現。",
+      "在多人模式中與朋友組隊，享受協作的樂趣。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunkle 遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "Sprunkle 絕對上癮！關卡設計精良且充滿挑戰。",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "我喜愛 Sprunkle 的圖形設計，色彩繽紛且讓人感到愉悅！",
+        "author": "Marie K."
+      },
+      {
+        "content": "和朋友一起玩 Sprunkle 非常有趣。多人模式真是太棒了！",
+        "author": "Tommy L."
+      },
+      {
+        "content": "更新頻繁，總是為遊戲添加新元素。",
+        "author": "Chris P."
+      },
+      {
+        "content": "Sprunkle 的控制方式容易學，但是掌握它們需要技巧。",
+        "author": "Nina T."
+      },
+      {
+        "content": "我很享受 Sprunkle 的故事情節和選擇驅動的玩法。",
+        "author": "Samuel D."
+      },
+      {
+        "content": "遊戲配樂非常動聽，增加了沉浸感。",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "我會推薦這款遊戲給任何喜歡挑戰的人。",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "我怎麼保存我在 Sprunkle 的進度？",
+        "answer": "你的進度會在檢查點自動保存。"
+      },
+      {
+        "question": "我可以在手機上玩 Sprunkle 嗎？",
+        "answer": "目前 Sprunkle 僅在桌面瀏覽器上提供。手機版本正在開發中。"
+      },
+      {
+        "question": "有沒有辦法重置我的遊戲進度？",
+        "answer": "可以，您可以在設定選單中重置遊戲進度。"
+      },
+      {
+        "question": "Sprunkle 中有內購項目嗎？",
+        "answer": "Sprunkle 提供可選的內購項目，但這不是享受遊戲的必要條件。"
+      },
+      {
+        "question": "我該如何舉報遊戲中的錯誤或問題？",
+        "answer": "請使用我們網站上的聯繫表單報告任何錯誤或問題。"
+      },
+      {
+        "question": "多人模式是免費的嗎？",
+        "answer": "是的，Sprunkle 的多人模式是免費的，您可以邀請朋友一起參加。"
+      }
+    ]
+  }
+}

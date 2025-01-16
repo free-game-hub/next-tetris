@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Erkunde die Tiefen des Abenteuers",
+    "description": "Tauche ein in die Welt von Sperunky Free, einem aufregenden Abenteuerspiel, das deine Fähigkeiten in Erkundung und Überleben herausfordert. Entdecke einzigartige Features, Spielanleitungen und lies die Spielerbewertungen.",
+    "keywords": "Sperunky Free, Abenteuerspiel, Erkundung, Überleben, Spielbewertungen"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Begib dich auf eine epische Reise mit Sperunky Free, in der du gefährliche Höhlen durchquerst, Hindernisse überwindest und verborgene Schätze entdeckst!"
+  },
+  "gameFeatures": {
+    "title": "Merkmale von Sperunky Free",
+    "features": [
+      "Umfangreiche Höhlensysteme zur Erkundung",
+      "Dynamisches Gameplay mit zufällig generierten Levels",
+      "Vielfalt an Fallen und Feinden",
+      "Mehrspielermodus für kooperatives Spielen",
+      "Reiche Grafiken und fesselnde Soundeffekte"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du Sperunky Free",
+    "instructions": [
+      "Benutze die Pfeiltasten, um deinen Charakter durch die Höhlen zu bewegen.",
+      "Drücke die Leertaste, um zu springen und Hindernisse zu vermeiden.",
+      "Sammle Schätze, um deine Punktzahl zu erhöhen.",
+      "Verwende Werkzeuge wie Seile und Bomben, um schwierige Bereiche zu meistern.",
+      "Kollaboriere mit Freunden im Mehrspielermodus, um komplexe Herausforderungen zu lösen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots von Sperunky Free"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen zu Sperunky Free",
+    "submitReviewLabel": "Bewertung Abgeben",
+    "nameLabel": "Dein Name",
+    "reviewLabel": "Deine Bewertung",
+    "submitButtonLabel": "Einreichen",
+    "reviews": [
+      {
+        "content": "Sperunky Free bietet ein aufregendes Erlebnis, bei dem jedes Level neue Überraschungen bereithält.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Die Grafiken sind wunderschön und tragen viel zum immersiven Gameplay bei.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Ich liebe es, mit meinen Freunden im Mehrspielermodus zu spielen, es ist eine großartige Möglichkeit, gemeinsam Strategien zu entwickeln.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Herausfordernd, aber lohnend, Sperunky Free lässt einen immer wieder zurückkehren.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "Die Vielfalt an Fallen hält mich auf Trab, es wird nie langweilig!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Tolle Balance zwischen Abenteuer und Strategie, sehr zu empfehlen für Fans beider Genres.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Eines der spannendsten Spiele, die ich dieses Jahr gespielt habe!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Ein Muss für jeden, der Abenteuer- und Erkundungsspiele liebt.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen: Sperunky Free",
+    "questions": [
+      {
+        "question": "Auf welchen Plattformen ist Sperunky Free verfügbar?",
+        "answer": "Sperunky Free ist für PC, Mac und verschiedene Spielkonsolen verfügbar."
+      },
+      {
+        "question": "Kann ich Sperunky Free mit meinen Freunden spielen?",
+        "answer": "Ja, Sperunky Free bietet einen Mehrspielermodus für kooperatives Spielen mit Freunden."
+      },
+      {
+        "question": "Gibt es im Spiel verschiedene Schwierigkeitsgrade?",
+        "answer": "Ja, du kannst aus mehreren Schwierigkeitsgraden wählen, die zu deinem Können passen."
+      },
+      {
+        "question": "Benötige ich eine Internetverbindung zum Spielen?",
+        "answer": "Eine Internetverbindung ist für den Mehrspielermodus erforderlich, nicht jedoch für den Einzelspieler."
+      },
+      {
+        "question": "Gibt es eine Möglichkeit, meinen Fortschritt zu speichern?",
+        "answer": "Ja, Sperunky Free ermöglicht es dir, deinen Fortschritt zu speichern und später fortzufahren."
+      },
+      {
+        "question": "Gibt es Mikrotransaktionen im Spiel?",
+        "answer": "Nein, Sperunky Free enthält keine Mikrotransaktionen."
+      }
+    ]
+  }
+}

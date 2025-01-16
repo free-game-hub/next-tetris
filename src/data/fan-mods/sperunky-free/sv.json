@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Utforska Djupen av Äventyr",
+    "description": "Dyka in i världen av Sperunky Free, ett spännande äventyrsspel som utmanar dina färdigheter inom utforskning och överlevnad. Upptäck unika funktioner, spelinstruktioner och läs spelrecensioner.",
+    "keywords": "Sperunky Free, äventyrsspel, utforskning, överlevnad, spelrecensioner"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Ge dig ut på en episk resa med Sperunky Free, där du navigerar genom förrädiska grottor, övervinner hinder och upptäcker dolda skatter!"
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sperunky Free",
+    "features": [
+      "Omfattande grottsystem att utforska",
+      "Dynamiskt spel med slumpmässigt genererade nivåer",
+      "Mångfald av fällor och fiender",
+      "Flermansläge för samarbetsinriktat spelande",
+      "Rika grafiker och uppslukande ljudeffekter"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man spelar Sperunky Free",
+    "instructions": [
+      "Använd piltangenterna för att flytta din karaktär genom grottorna.",
+      "Tryck på mellanslagstangenten för att hoppa och undvika hinder.",
+      "Samla skatter för att öka din poäng.",
+      "Använd verktyg som rep och bomber för att navigera svåra områden.",
+      "Samarbeta med vänner i flermansläge för att lösa komplexa utmaningar."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar från Sperunky Free"
+  },
+  "playerReviews": {
+    "title": "Spelrecensioner av Sperunky Free",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Ditt namn",
+    "reviewLabel": "Din recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Sperunky Free erbjuder en spännande upplevelse där varje nivå genererar nya överraskningar.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Grafiken är vacker och tillför mycket till den uppslukande spelupplevelsen.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Jag älskar att spela med mina vänner i flermansläge, det är ett fantastiskt sätt att strategisera tillsammans.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Utmanande men belönande, Sperunky Free får mig att komma tillbaka för mer.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "Variationen av fällor håller mig alert, det är aldrig tråkigt!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Bra balans mellan äventyr och strategi, rekommenderas starkt för fans av båda genrer.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Ett av de mest spännande spelen jag har spelat i år!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Ett måste att spela för alla som älskar äventyrs- och utforskningsspel.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor: Sperunky Free",
+    "questions": [
+      {
+        "question": "Vilka plattformar finns Sperunky Free på?",
+        "answer": "Sperunky Free finns tillgängligt på PC, Mac och olika spelkonsoler."
+      },
+      {
+        "question": "Kan jag spela Sperunky Free med mina vänner?",
+        "answer": "Ja, Sperunky Free har ett flermansläge för samarbetsinriktat spelande med vänner."
+      },
+      {
+        "question": "Finns det olika svårighetsgrader i spelet?",
+        "answer": "Ja, du kan välja mellan flera svårighetsgrader för att matcha din färdighetsnivå."
+      },
+      {
+        "question": "Behöver jag en internetanslutning för att spela?",
+        "answer": "En internetanslutning krävs för flermansläge, men inte för enspelarläget."
+      },
+      {
+        "question": "Finns det ett sätt att spara min framsteg?",
+        "answer": "Ja, Sperunky Free tillåter dig att spara din framsteg och fortsätta senare."
+      },
+      {
+        "question": "Finns det mikrotransaktioner i spelet?",
+        "answer": "Nej, Sperunky Free innehåller inga mikrotransaktioner."
+      }
+    ]
+  }
+}

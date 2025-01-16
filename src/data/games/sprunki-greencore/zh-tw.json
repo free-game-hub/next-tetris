@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki GreenCore: 創作生態靈感音樂 | 遊戲規則與特色",
+    "description": "探索Sprunki GreenCore這個富有生態意識的世界，這是Incredibox的粉絲自製模組。利用自然啟發的視覺效果和角色創作音樂。了解規則、特色並獲得遊戲技巧。",
+    "keywords": "Sprunki GreenCore, Incredibox模組, 生態啟發遊戲, 音樂創作遊戲, Sprunki遊戲特色, 生態意識遊戲"
+  },
+  "hero": {
+    "h1": "Sprunki GreenCore",
+    "p": "與Sprunki GreenCore一起沉浸在自然的節奏中，這是一個獨特的Incredibox模組，通過有趣的音樂創作來慶祝可持續性和環境。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki GreenCore遊戲特色",
+    "features": [
+      "自然啟發的視覺效果：沉浸在充滿生機、自然元素的鮮豔配色中。",
+      "生態主題角色：角色象徵可持續性理念，如可再生能源和野生動物保護。",
+      "互動獎勵：解鎖展示生態友好行動的動畫，如植樹造林。",
+      "直觀的遊戲玩法：簡單的拖放操作讓音樂創作變得輕鬆。",
+      "可定制音樂：混合節拍、效果和人聲，創作獨特的音樂作品。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何遊玩Sprunki GreenCore",
+    "instructions": [
+      "開始遊戲：在你選擇的平台上啟動Sprunki GreenCore。",
+      "拖動角色：選擇角色並拖到舞台上以啟動聲音。",
+      "疊加聲音：結合節拍、效果和人聲，創作你的音樂。",
+      "解鎖獎勵：試驗不同組合以顯示特殊動畫。",
+      "保存與分享：保存你的作品並與朋友分享。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki GreenCore截圖"
+  },
+  "playerReviews": {
+    "title": "Sprunki GreenCore 玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "這是音樂遊戲的一種令人耳目一新的詮釋！我喜歡這個生態友好的主題！",
+        "author": "安娜K."
+      },
+      {
+        "content": "視覺效果顯得驚人，真正展現了自然的美！",
+        "author": "約翰M."
+      },
+      {
+        "content": "解鎖動畫的過程非常有成就感，音樂也相當出色！",
+        "author": "索菲L."
+      },
+      {
+        "content": "非常適合任何對可持續性和創意感興趣的人。",
+        "author": "邁克T."
+      },
+      {
+        "content": "創作出美麗且難以忘懷的作品真的很簡單，太驚人了。",
+        "author": "瑞秋F."
+      },
+      {
+        "content": "藝術、音樂和環保意識的美妙結合！",
+        "author": "湯米H."
+      },
+      {
+        "content": "適合所有年齡段！我的孩子們也很喜歡，還能學習知識！",
+        "author": "桑德拉A."
+      },
+      {
+        "content": "我絕對愛這些角色及其強烈的生態訊息。",
+        "author": "利亞姆G."
+      }
+    ]
+  },
+  "faq": {
+    "title":"關於Sprunki GreenCore的常見問題",
+    "questions": [
+      {
+        "question":"Sprunki GreenCore在哪些平台上可以遊玩？",
+        "answer":"Sprunki GreenCore適用於多個平台，包括PC、Mac和移動設備。"
+      },
+      {
+        "question":"Sprunki GreenCore是免費的模組嗎？",
+        "answer":"是的，Sprunki GreenCore是一個粉絲自製的模組，免費下載和遊玩。"
+      },
+      {
+        "question":"我該如何保存和分享我的作品？",
+        "answer":"你可以通過點擊'保存'圖標來保存作品，並通過選擇'分享'選項直接從遊戲中分享。"
+      },
+      {
+        "question":"我可以和朋友一起玩Sprunki GreenCore嗎？",
+        "answer":"目前，Sprunki GreenCore不支持多人遊玩，但你可以與朋友分享你的創作。"
+      },
+      {
+        "question":"Sprunki GreenCore裡有內購嗎？",
+        "answer":"沒有，Sprunki GreenCore中沒有內購或廣告。"
+      },
+      {
+        "question":"新更新的頻率是多久一次？",
+        "answer":"Sprunki GreenCore的更新將定期發佈，重點是新功能及優化遊戲玩法。"
+      }
+    ]
+  }
+}

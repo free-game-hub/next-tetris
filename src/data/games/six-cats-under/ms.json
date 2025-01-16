@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Enam Kucing di Bawah - Petualangan Puzzle yang Menawan",
+    "description": "Temukan 'Enam Kucing di Bawah', sebuah permainan puzzle point-and-click yang menawan di mana Anda menggunakan kekuatan poltergeist untuk menyelamatkan kucing-kucing kesayangan Anda. Dinilai 4.8/5 oleh pemain.",
+    "keywords": "Enam Kucing di Bawah, permainan puzzle, point-and-click, permainan penyelamatan kucing, game jam, kekuatan hantu, rating Enam Kucing di Bawah"
+  },
+  "hero": {
+    "h1": "Enam Kucing di Bawah",
+    "p": "Rasakan pengalaman di 'Enam Kucing di Bawah', sebuah permainan puzzle point-and-click yang menyenangkan di mana kekuatan poltergeist Anda membantu mengarahkan kucing-kucing kesayangan Anda menuju keselamatan."
+  },
+  "gameFeatures": {
+    "title": "Fitur Permainan",
+    "features": [
+      "Gameplay puzzle point-and-click yang unik",
+      "Seni piksel dan animasi yang menawan",
+      "Narasi menarik dengan elemen hantu",
+      "Sempurna untuk pecinta kucing dan penggemar puzzle",
+      "Pengalaman bermain yang singkat dan manis, ideal untuk sesi cepat"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Memainkan Enam Kucing di Bawah",
+    "instructions": [
+      "Gunakan mouse Anda untuk berinteraksi dengan objek dan mengarahkan kucing-kucing Anda.",
+      "Manfaatkan kemampuan poltergeist untuk memindahkan barang dan membuka jalur.",
+      "Selesaikan puzzle untuk melanjutkan ke level berikutnya dan menyelamatkan semua kucing.",
+      "Perhatikan petunjuk visual dan tanda sepanjang permainan.",
+      "Nikmati narasi dan interaksi menawan dengan teman-teman berbulu Anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Enam Kucing di Bawah - Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Permainan yang sangat menyenangkan! Animasi yang hebat dan kucing-kucing yang benar-benar menggemaskan.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Sebagai pemilik kucing, permainan ini sangat menyentuh hati. Benar-benar permata!",
+        "author": "gecko"
+      },
+      {
+        "content": "Permainan yang manis dan menggemaskan... kasihan Goldy! Mengharukan tapi emosional.",
+        "author": "magerites"
+      },
+      {
+        "content": "Puzzle yang unik dan begitu banyak momen menggemaskan. Sangat suka!",
+        "author": "DLGames"
+      },
+      {
+        "content": "Perpaduan antara keceriaan dan sedikit kesedihan membuat permainan ini istimewa.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Permainan yang fantastis! Menyelesaikannya dalam 15 menit, menikmati setiap momen.",
+        "author": "MCG"
+      },
+      {
+        "content": "Baik menggemaskan maupun menyedihkan, tapi benar-benar menyenangkan! Pengalaman yang hebat secara keseluruhan.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Kucing-kucingnya menggemaskan dan aspek pembantu hantu itu unik. Sangat direkomendasikan!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Di platform apa saja Enam Kucing di Bawah tersedia?",
+        "answer":"Enam Kucing di Bawah tersedia di HTML5, Windows, macOS, dan Linux."
+      },
+      {
+        "question":"Berapa lama waktu yang dibutuhkan untuk menyelesaikan permainan?",
+        "answer":"Sesi rata-rata berlangsung sekitar setengah jam, memberikan pengalaman yang cepat namun menyenangkan."
+      },
+      {
+        "question":"Apakah 'Enam Kucing di Bawah' cocok untuk semua usia?",
+        "answer":"Ya, permainan ini dirancang untuk dinikmati oleh pemain dari segala usia, terutama pecinta kucing."
+      },
+      {
+        "question":"Apa saja persyaratan minimum untuk menjalankan permainan?",
+        "answer":"Permainan ini ringan dan dapat berjalan di sebagian besar sistem yang mendukung HTML5 atau versi OS yang bersangkutan."
+      },
+      {
+        "question":"Apakah permainan ini bisa dimainkan secara offline?",
+        "answer":"Versi unduhan untuk Windows, macOS, dan Linux dapat dimainkan secara offline setelah diinstal."
+      },
+      {
+        "question":"Siapa yang mengembangkan 'Enam Kucing di Bawah'?",
+        "answer":"Permainan ini dikembangkan oleh Team Bean Loop dan Mosu, dengan kontribusi dari Miles Äijälä, Robin Swift, Tomas Beržinskas, dan Alex Martin."
+      }
+    ]
+  }
+}

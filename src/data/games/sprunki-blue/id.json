@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Blue - Eksplorasi Musik yang Tenang",
+    "description": "Temukan Sprunki Blue, mod game yang imersif yang mengubah pengalaman bermain Anda dengan palet biru yang menenangkan dan lanskap suara harmonis.",
+    "keywords": "Sprunki Blue, Mod Sprunki Blue, mod game, estetika monokromatik, lanskap suara yang menenangkan, permainan musik yang menenangkan"
+  },
+  "hero": {
+    "h1": "Sprunki Blue",
+    "p": "Terjunlah ke dalam lingkungan permainan yang tenang di mana biru yang menenangkan dan lanskap suara harmonis mendefinisikan eksplorasi musik Anda."
+  },
+  "gameFeatures": {
+    "title": "Fitur Utama Sprunki Blue",
+    "features": [
+      "Estetika Monokromatik: Rasakan palet biru yang menenangkan yang menyatukan setiap elemen permainan.",
+      "Lanskap Suara yang Menenangkan: Temukan melodi dan harmoni yang beragam yang dilengkapi dengan visual yang menenangkan.",
+      "Suasana Meditatif: Fokus pada kreasi musik tanpa gangguan dari berbagai warna.",
+      "Karakter yang Dapat Disesuaikan: Pilih karakter yang mengenakan nuansa biru yang menenangkan, masing-masing dengan efek yang unik.",
+      "Bagikan Karya Anda: Simpan dan bagikan komposisi musik Anda yang penuh jiwa dengan komunitas Sprunki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sprunki Blue",
+    "instructions": [
+      "Pilih Karakter: Pilih karakter favorit Anda, masing-masing menawarkan loop dan efek yang unik.",
+      "Seret dan Jatuhkan: Posisi mereka di layar untuk menciptakan lapisan suara yang segar.",
+      "Eksperimen dan Perbaiki: Sesuaikan volume dan tukar karakter untuk menyempurnakan trek Anda.",
+      "Simpan dan Bagikan: Bagikan kreasi musik menenangkan Anda dengan pemain lain.",
+      "Jelajahi Variasi: Terus kembangkan lanskap suara Anda untuk mencocokkan suasana hati Anda."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot Permainan Sprunki Blue"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain tentang Sprunki Blue",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Sprunki Blue menawarkan pengalaman unik dan menenangkan yang sempurna setelah seharian lelah.",
+        "author": "John Doe"
+      },
+      {
+        "content": "Desain monokromatik sangat menarik secara visual dan menambah pengalaman imersif.",
+        "author": "Jane Smith"
+      },
+      {
+        "content": "Saya sangat menyukai lanskap suara ini. Mereka membantu saya fokus dan bersantai pada saat yang sama.",
+        "author": "Eric Wong"
+      },
+      {
+        "content": "Campuran yang indah dari visual dan suara yang menenangkan. Sangat direkomendasikan!",
+        "author": "Anna Lee"
+      },
+      {
+        "content": "Mod permainan ini membiarkan saya menjadi komposer dari pelarian musik yang menenangkan.",
+        "author": "Mark Johnson"
+      },
+      {
+        "content": "Sprunki Blue mengubah pengalaman Sprunki menjadi perjalanan yang tenang.",
+        "author": "Sophia Brown"
+      },
+      {
+        "content": "Kesederhanaan dan keindahan palet biru ini tidak tertandingi.",
+        "author": "Chris Evans"
+      },
+      {
+        "content": "Sungguh menakjubkan bagaimana perubahan warna dapat meningkatkan suasana permainan secara keseluruhan.",
+        "author": "Laura Green"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan tentang Sprunki Blue",
+    "questions": [
+      {
+        "question":"Apa itu Sprunki Blue?",
+        "answer":"Sprunki Blue adalah mod dari permainan Sprunki asli yang menampilkan palet warna biru yang terpadu dan lanskap suara yang menenangkan."
+      },
+      {
+        "question":"Bagaimana cara menyimpan musik saya di Sprunki Blue?",
+        "answer":"Setelah Anda puas dengan trek Anda, ada opsi untuk menyimpan dan membagikan musik Anda di dalam permainan."
+      },
+      {
+        "question":"Bisakah saya memainkan Sprunki Blue di beberapa perangkat?",
+        "answer":"Ya, Sprunki Blue tersedia di perangkat yang kompatibel yang mendukung permainan Sprunki asli."
+      },
+      {
+        "question":"Apakah ada komunitas untuk berbagi kreasi?",
+        "answer":"Ya, pemain dapat membagikan kreasi mereka dengan komunitas Sprunki dan menikmati komposisi musik orang lain."
+      },
+      {
+        "question":"Apakah saya perlu pengalaman musik sebelumnya untuk memainkan ini?",
+        "answer":"Tidak, Sprunki Blue dirancang untuk pemain dari semua tingkat pengalaman agar dapat dengan mudah membuat dan menikmati musik."
+      },
+      {
+        "question":"Apakah ada biaya yang terkait dengan Mod Sprunki Blue?",
+        "answer":"Sprunki Blue tersedia sebagai pembaruan gratis bagi pemilik permainan Sprunki yang sudah ada."
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Permainan yang Direkomendasikan",
+    "games": [
+      {
+        "image": "path/to/image1.jpg",
+        "title": "Sprunki Merah",
+        "link": "link-to-sprunki-red"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Harmoni Santai",
+        "link": "link-to-chill-harmonics"
+      },
+      {
+        "image": "path/to/image3.jpg",
+        "title": "Samudera Melodi",
+        "link": "link-to-melodic-ocean"
+      }
+    ]
+  }
+}

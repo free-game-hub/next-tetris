@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Pero Memes - Tu Patio Musical de Humor",
+    "description": "Explora Sprunki Retake pero Memes Mod, donde el humor de internet choca con la creación musical. Sumérgete en un mundo de personajes temáticos de memes y paisajes sonoros divertidos que transforman tus composiciones en sesiones de improvisación llenas de risas.",
+    "keywords": "Sprunki Retake, Memes Mod, personajes temáticos de memes, paisajes sonoros humorísticos, creación musical"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Pero Memes",
+    "p": "Sumérgete en Sprunki Retake pero Memes Mod, donde cada composición musical puede desatar una experiencia hilarante."
+  },
+  "gameFeatures": {
+    "title": "Características del Mod de Memes de Sprunki",
+    "features": [
+      "Personajes Temáticos de Memes: Diseñados para evocar memes reconocibles con visuales icónicos y frases ingeniosas.",
+      "Paisajes Sonoros Humorísticos: Descubre loops poco convencionales con efectos de sonido cómicos.",
+      "Caos Alegre: Una atmósfera de diversión desenfrenada y experimentación con combinaciones extrañas.",
+      "Animaciones Juguetonas: Animaciones dinámicas que realzan la esencia cómica de tus composiciones.",
+      "Humor Inspirado en Internet: Referencias a momentos virales y memes famosos a lo largo."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar Sprunki Retake pero Memes Mod",
+    "instructions": [
+      "Selecciona Personajes: Elige entre figuras inspiradas en memes para combinar humor con ritmo.",
+      "Arrastra y Suelta: Organiza personajes en la pantalla para crear pistas llenas de bromas.",
+      "Experimento y Disfruta: Ajusta volúmenes y abraza mezclas absurdas para divertirte.",
+      "Guarda y Comparte: Guarda tus melodías que inducen sonrisas y compártelas con amigos.",
+      "Ríe y Repite: Sigue explorando para encontrar nuevas combinaciones hilarantes."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Opiniones de los Jugadores",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "¡Nunca pensé que hacer música podría ser tan divertido!",
+        "author": "Alex K."
+      },
+      {
+        "content": "Una mezcla perfecta de humor y creatividad.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Sprunki Retake pero Memes Mod es mi opción para risas instantáneas.",
+        "author": "Sam R."
+      },
+      {
+        "content": "¡Cada sesión se siente como una nueva aventura de memes!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Compartí mis melodías con amigos y les encantó.",
+        "author": "Taylor M."
+      },
+      {
+        "content": "¡Si amas los memes y la música, esto es una prueba obligada!",
+        "author": "Jordan W."
+      },
+      {
+        "content": "Diversión interminable, ¡no puedo dejar de crear!",
+        "author": "Morgan F."
+      },
+      {
+        "content": "¡Las referencias a los memes son acertadas!",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Preguntas Frecuentes",
+    "questions": [
+      {
+        "question":"¿Cómo selecciono un personaje?",
+        "answer":"Haz clic en el elenco de personajes para elegir tu figura inspirada en memes."
+      },
+      {
+        "question":"¿Puedo guardar mis creaciones musicales?",
+        "answer":"Sí, puedes guardar y compartir tus melodías con otros."
+      },
+      {
+        "question":"¿Hay tutoriales disponibles?",
+        "answer":"El juego ofrece instrucciones intuitivas para guiarte en la jugabilidad."
+      },
+      {
+        "question":"¿Se necesita internet para jugar?",
+        "answer":"No, puedes disfrutar del juego sin conexión después de la descarga inicial."
+      },
+      {
+        "question":"¿Puedo personalizar los efectos de sonido?",
+        "answer":"Puedes ajustar los volúmenes y experimentar con diferentes combinaciones de sonido."
+      },
+      {
+        "question":"¿Con qué frecuencia se añaden nuevos memes?",
+        "answer":"El juego se actualiza regularmente para incluir los últimos memes virales."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Juegos Recomendados",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "Modos de Horror",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Modos de Sprunki",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

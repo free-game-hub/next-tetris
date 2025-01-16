@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Friday Night Funkin (FNF) - Het Ultieme Ritmegevechtspel | Speel Nu",
+    "description": "Duik in Friday Night Funkin' (FNF), de virale ritmespel sensatie! Ga de muzikale strijd aan, verken community-mods en ervaar het spel dat het internet veroverde. Gratis te spelen, makkelijk te leren, moeilijk te beheersen!",
+    "keywords": "Friday Night Funkin, FNF, ritmespel, rapgevecht, Newgrounds spel, FNF mods, muziekspel, indie spel"
+  },
+  "hero": {
+    "h1": "Friday Night Funkin' - Waar Muziek Uitdaging Ontmoet",
+    "p": "Doe mee met miljoenen spelers in het meest populaire ritmegevechtspel op internet. Neem het op tegen een kleurrijk stel personages in muzikale gevechten, bewijs je ritmekunsten en word onderdeel van onze bloeiende community!"
+  },
+  "gameFeatures": {
+    "title": "Wat Maakt FNF Speciaal",
+    "features": [
+      "Originele Virale Soundtrack: Swing mee op professioneel ontworpen nummers die miljoenen hebben geboeid",
+      "Actieve Modding Community: Toegang tot duizenden door de community gemaakte personages, nummers en niveaus",
+      "Klassieke Kunststijl: Geniet van de kenmerkende Flash-era geïnspireerde animaties en karakterontwerpen",
+      "Regelmatige Updates: Ervaar nieuwe inhoud en functies terwijl het spel continu evolueert",
+      "Open Source Ontwikkeling: Wees onderdeel van een spel dat groeit met zijn community"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen",
+    "instructions": [
+      "Gebruik de pijltjestoetsen (⬆️⬇️⬅️➡️) om het ritme van de binnenkomende noten te volgen",
+      "Raak noten nauwkeurig om je gezondheid te behouden en scorecombinatiepunten te behalen",
+      "Voltooi de Verhalenmodus om nieuwe personages en nummers vrij te spelen",
+      "Probeer de Vrije Speelmodus om je favoriete nummers te oefenen",
+      "Verken de mod-sectie om door de community gemaakte inhoud te ontdekken"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "FNF in Actie"
+  },
+  "playerReviews": {
+    "title": "Community Feedback",
+    "submitReviewLabel": "Deel Je FNF-ervaring",
+    "nameLabel": "Gebruikersnaam",
+    "reviewLabel": "Jouw Recensie",
+    "submitButtonLabel": "Recensie Plaatsen",
+    "reviews": [
+      {
+        "content": "De modding community houdt dit spel fris! Er is altijd iets nieuws om te proberen, en het basisspel is al geweldig.",
+        "author": "RitmeMeester2023",
+        "rating": 5
+      },
+      {
+        "content": "Begon te spelen toen het viraal ging, kan het nog steeds niet neerleggen. De open-source aard maakt het nog beter!",
+        "author": "FunkinSpeler",
+        "rating": 5
+      },
+      {
+        "content": "Beste ritmespel dat ik in jaren heb gespeeld. De gemeenschap blijft groeien en beter worden!",
+        "author": "BeatDropper",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "questions": [
+      {
+        "question": "Is Friday Night Funkin' gratis te spelen?",
+        "answer": "Ja! Het basisspel is volledig gratis te spelen via Newgrounds en andere officiële platforms."
+      },
+      {
+        "question": "Hoe installeer ik mods voor FNF?",
+        "answer": "De meeste mods kunnen worden gedownload van vertrouwde mod-platforms. Elke mod komt meestal met installatiestappen, maar het houdt meestal in dat je bestanden in je spelmap plaatst."
+      },
+      {
+        "question": "Wat zijn de minimale systeemvereisten?",
+        "answer": "FNF is browser-gebaseerd en werkt op de meeste moderne computers. Je hebt alleen een toetsenbord en een up-to-date webbrowser nodig om te spelen!"
+      },
+      {
+        "question": "Kan ik mijn eigen mods maken?",
+        "answer": "Absoluut! FNF is open-source, en de community verwelkomt nieuwe makers. Je kunt modding tutorials en bronnen vinden in de officiële communityforums."
+      },
+      {
+        "question": "Hoe vaak wordt het spel geüpdatet?",
+        "answer": "Het basisspel ontvangt regelmatige updates van het ontwikkelingsteam, terwijl nieuwe community-mods bijna dagelijks worden uitgebracht."
+      },
+      {
+        "question": "Is er een mobiele versie van FNF?",
+        "answer": "Hoewel er enkele niet-officiële mobiele versies zijn, is de officiële versie bedoeld voor desktop spelen met een toetsenbord."
+      }
+    ]
+  }
+}

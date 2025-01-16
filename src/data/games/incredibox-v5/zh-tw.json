@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V5 - 創造屬於你的節拍 | 音樂遊戲指南",
+    "description": "探索Incredibox V5，這款創意十足的音樂遊戲讓你化身DJ，混合多種聲音創造獨特的節拍。了解遊戲規則和操作，加入全球玩家的音樂社區。",
+    "keywords": "Incredibox V5, 音樂遊戲, 創意節拍, DJ 遊戲, Incredicrew"
+  },
+  "hero": {
+    "h1": "Incredibox V5",
+    "p": "體驗Incredibox V5的樂趣，創造你的音樂節拍，加入全球粉絲的行列。"
+  },
+  "gameFeatures": {
+    "title": "遊戲特色",
+    "features": [
+      "創新音樂創作體驗",
+      "簡單直觀的操作方式",
+      "多樣化角色與聲音組合",
+      "精美的視覺效果與動畫",
+      "網路分享音樂與社區互動"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "遊戲規則與操作指南",
+    "instructions": [
+      "選擇不同的角色，他們每個代表不同的音樂聲部。",
+      "透過點擊角色來添加或移除聲音。",
+      "拖動聲音圖示到角色上開始創作。",
+      "使用空白鍵播放或暫停你的音樂作品。",
+      "嘗試不同組合以發現隱藏的音樂效果。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交評價",
+    "nameLabel": "名稱",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "這款遊戲真是上癮，創意十足，玩得非常開心！",
+        "author": "Lily"
+      },
+      {
+        "content": "我喜歡Incredibox V5的畫面和音效，適合所有年齡層！",
+        "author": "John"
+      },
+      {
+        "content": "遊戲非常適合打發時間，還能培養我的音樂創作技能。",
+        "author": "Sophia"
+      },
+      {
+        "content": "太棒了！我每天都和社群分享我的作品。",
+        "author": "Alex"
+      },
+      {
+        "content": "適合初學者，讓我對音樂產生了全新的興趣。",
+        "author": "Karen"
+      },
+      {
+        "content": "簡單卻富有深度，玩法非常高。",
+        "author": "Michael"
+      },
+      {
+        "content": "隱藏的音軌增加了遊戲的耐玩度，總能找到新發現。",
+        "author": "Emily"
+      },
+      {
+        "content": "真的是音樂愛好者的天堂，強烈推介！",
+        "author": "David"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題解答",
+    "questions": [
+      {
+        "question": "如何在Incredibox V5中創造音樂？",
+        "answer": "透過點擊角色來添加或移除聲音，並使用拖拉操作來嘗試不同的聲音組合。"
+      },
+      {
+        "question": "Incredibox V5適合新手嗎？",
+        "answer": "絕對適合，遊戲提供簡單的指引和豐富的可探索內容。"
+      },
+      {
+        "question": "我可以分享我的音樂作品嗎？",
+        "answer": "可以，Incredibox V5允許你將作品分享到社群中，與其他玩家互動。"
+      },
+      {
+        "question": "如何找到隱藏的音軌？",
+        "answer": "嘗試不同的聲音組合以發現隱藏的驚喜音軌。"
+      },
+      {
+        "question": "這款遊戲適合什麼年齡層的玩家？",
+        "answer": "Incredibox V5適合所有年齡層，尤其是音樂愛好者。"
+      },
+      {
+        "question": "我如何加入Incredibox社群？",
+        "answer": "分享你的音樂作品並參與討論，即可成為社群的一員。"
+      }
+    ]
+  }
+}

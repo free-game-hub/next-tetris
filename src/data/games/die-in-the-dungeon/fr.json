@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Die in the Dungeon - Un Jeu Roguelite Unique Basé sur les Dés",
+    "description": "Explorez Die in the Dungeon, un roguelite unique de construction de deck où les dés remplacent les cartes. Conquérir les nombreux défis du donjon et émergez en tant que héros grenouille ultime.",
+    "keywords": "Die in the Dungeon, construction de deck, roguelite, jeu de dés, aventure grenouille, jeu d'exploration de donjon, stratégie au tour par tour"
+  },
+  "hero": {
+    "h1": "Die in the Dungeon",
+    "p": "Die in the Dungeon est un roguelite innovant de construction de deck où votre force réside dans le lancer de dés. Affrontez le donjon à 2 étages et prouvez votre valeur !"
+  },
+  "gameFeatures": {
+    "title": "Fonctionnalités de Die in the Dungeon",
+    "features": [
+      "Engagez-vous dans des combats basés sur les dés dans une aventure roguelite.",
+      "Collectionnez des reliques uniques pour améliorer votre avantage stratégique.",
+      "Découvrez un tout nouveau système d'événements avec des rencontres variées.",
+      "Affrontez de nouveaux ennemis et des boss difficiles.",
+      "Découvrez de nombreux types et propriétés de dés pour des stratégies illimitées."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer à Die in the Dungeon",
+    "instructions": [
+      "Commencez par choisir vos dés pour construire votre deck.",
+      "Lancez les dés pour attaquer, défendre ou utiliser des capacités spéciales.",
+      "Planifiez soigneusement vos mouvements et anticipez les réactions ennemies.",
+      "Rassemblez des reliques et de nouveaux dés pour accroître votre puissance.",
+      "Naviguez à travers des agencements complexes du donjon tout en surmontant vos ennemis."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Plongez dans l'Univers de Die in the Dungeon"
+  },
+  "playerReviews": {
+    "title": "Avis des Joueurs sur Die in the Dungeon",
+    "submitReviewLabel": "Soumettez votre avis",
+    "nameLabel": "Votre nom",
+    "reviewLabel": "Votre avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Le jeu avec l'épée a littéralement fait planter mon ordinateur, mais ça en valait vraiment la peine !",
+        "author": "EmanuelKJ"
+      },
+      {
+        "content": "J'ai trouvé un bug dans mon jeu, mais j'adore toujours ces mignonnes grenouilles !",
+        "author": "loseygoosey"
+      },
+      {
+        "content": "Je me suis bien amusé jusqu'à ce que le boss abeille inonde des dés de miel. J'ai hâte d'essayer une autre partie !",
+        "author": "hanungpurwaka"
+      },
+      {
+        "content": "Ce jeu était vraiment amusant, beaucoup d'options pour les dés. Hâte de la sortie finale !",
+        "author": "Jazz Man"
+      },
+      {
+        "content": "J'adore votre jeu. C'est honnêtement le meilleur jeu de donjon que j'ai joué !",
+        "author": "GMletsITCH"
+      },
+      {
+        "content": "Je viens d'atteindre le sol 25 et j'aime toujours autant ! J'aimerais pouvoir jouer complètement le boss grenouille.",
+        "author": "Melitaa"
+      },
+      {
+        "content": "Un peu de bugs, mais je suis accro ! Je n'arrive pas à m'arrêter de rejouer à Die in the Dungeon.",
+        "author": "Zclipse"
+      },
+      {
+        "content": "Jeu très amusant ! Ça me rappelle un peu Dicey Dungeons, mais avec des rebondissements uniques !",
+        "author": "Zazak"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Die in the Dungeon ?",
+        "answer": "Die in the Dungeon est un roguelite de construction de deck au tour par tour où vous utilisez des dés au lieu de cartes traditionnelles pour progresser à travers le donjon."
+      },
+      {
+        "question": "Comment installer Die in the Dungeon ?",
+        "answer": "Vous pouvez télécharger Die in the Dungeon pour Windows, macOS et Linux depuis des plateformes comme Steam et Itch.io."
+      },
+      {
+        "question": "Quelles sont les exigences système ?",
+        "answer": "Le jeu est disponible pour HTML5, Windows, macOS et Linux et nécessite des spécifications système de base pour des performances optimales."
+      },
+      {
+        "question": "Y a-t-il un mode multijoueur ?",
+        "answer": "Actuellement, Die in the Dungeon est une expérience solo sans plans pour un mode multijoueur."
+      },
+      {
+        "question": "Puis-je utiliser une manette ?",
+        "answer": "Le jeu prend principalement en charge l'entrée à la souris, mais il pourrait y avoir des options de contrôle supplémentaires à mesure que le développement avance."
+      },
+      {
+        "question": "Comment puis-je signaler un bug ou donner mon avis ?",
+        "answer": "Rejoignez notre serveur Discord pour signaler des problèmes ou partager des retours directement avec les développeurs."
+      }
+    ]
+  },
+  "recommendedGames": [
+    {
+      "imageUrl": "backpack_hero_thumbnail.jpg",
+      "title": "Backpack Hero",
+      "link": "https://store.steampowered.com/app/example123456"
+    },
+    {
+      "imageUrl": "super_rare_mixtape_thumbnail.jpg",
+      "title": "Super Rare Mixtape",
+      "link": "https://store.steampowered.com/app/example654321"
+    },
+    {
+      "imageUrl": "dicey_dungeons_thumbnail.jpg",
+      "title": "Dicey Dungeons",
+      "link": "https://store.steampowered.com/app/example987654"
+    }
+  ]
+}

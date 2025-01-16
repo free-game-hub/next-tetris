@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Pelaa MENTAL HEALTH RESOURCES - Visuaalinen romaanipeli Nicky Caselta",
+    "description": "Tutustu MENTAL HEALTH RESOURCES -peliin, joka keskittyy mielenterveyteen, komediaan ja tarinoihin. Pysy vahvana ja nauti tästä 4.9-arvoisesta HTML5-pelistä.",
+    "keywords": "MENTAL HEALTH RESOURCES, visuaalinen romaani, Nicky Case, HTML5-peli, komedia, mielenterveys, tarina"
+  },
+  "hero": {
+    "h1": "MENTAL HEALTH RESOURCES",
+    "p": "Aloita koskettava matka mielenterveys tietoisuuden pariin Nicky Casen luomassa, korkeasti arvioidussa visuaalisessa romaanipelissä MENTAL HEALTH RESOURCES."
+  },
+  "gameFeatures": {
+    "title": "MENTAL HEALTH RESOURCES -pelin keskeiset ominaisuudet",
+    "features": [
+      "Viehättävä tarina: Uppoudu tarinaan, joka yhdistää huumorin ja mielenterveysteemat.",
+      "Interaktiivinen pelattavuus: Tee valintoja, jotka vaikuttavat tarinan kulkuun ja lopputulokseen.",
+      "Suhteelliset hahmot: Yhdisty hahmoihin, jotka kohtaavat todellisia mielenterveysongelmia.",
+      "Upeaa visuaalista ilmaisua: Koe vaikuttava taide ja muotoilu, joka rikastuttaa tarinaa.",
+      "Ilmainen ja avoin lähdekoodi: Saat peliin pääsyn vapaasti eri alustoilla."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata MENTAL HEALTH RESOURCES -peliä",
+    "instructions": [
+      "Aloita matkasi valitsemalla valintoja, jotka muovaavat tarinaa.",
+      "Käytä hiirtä navigoidaksesi ja vuorovaikuttaaksesi hahmojen ja esineiden kanssa.",
+      "Keskustele huolellisesti, jotta voit tehdä tietoon perustuvia päätöksiä.",
+      "Tutki erilaisia tarinapolkuja valintojesi perusteella.",
+      "Pelaa peli uudelleen löytääksesi vaihtoehtoisia loppuja ja kertomuksia."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "MENTAL HEALTH RESOURCES -pelin ruudunkaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien arvostelut MENTAL HEALTH RESOURCES -pelistä",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Liikuttava tarina, joka on sekä opettavainen että viihdyttävä.",
+        "author": "Alex T."
+      },
+      {
+        "content": "Kauniit visuaalit ja mukaansatempaava juoni.",
+        "author": "Jordan R."
+      },
+      {
+        "content": "Tärkeä peli mielenterveystietoisuuden lisäämiseksi.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Rakastin huumoria ja syvyyttä hahmoissa.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Sai minut ajattelemaan syvällisesti mielenterveyttä.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Viehättävä pelattavuus merkityksellisten päätösten kera.",
+        "author": "Lee P."
+      },
+      {
+        "content": "Todellinen peli, jonka jokaisen tulisi kokea.",
+        "author": "Casey W."
+      },
+      {
+        "content": "Todella hyvin toteutettu ja ajatuksellinen.",
+        "author": "Sam B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "MENTAL HEALTH RESOURCES -usein kysytyt kysymykset",
+    "questions": [
+      {
+        "question": "Millä alustoilla voin pelata MENTAL HEALTH RESOURCES -peliä?",
+        "answer": "Peli on saatavilla HTML5-yhteensopivilla alustoilla."
+      },
+      {
+        "question": "Onko MENTAL HEALTH RESOURCES ilmainen?",
+        "answer": "Kyllä, peli on ilmainen ja avoimen lähdekoodin."
+      },
+      {
+        "question": "Voinko tukea pelin luojaa?",
+        "answer": "Kyllä, voit tukea Nicky Casea Patreonin, PayPalin tai Ko-Fi:n kautta."
+      },
+      {
+        "question": "Onko tämä peli sopiva kaikille ikäryhmille?",
+        "answer": "Pelin sisältö on suunnattu aikuisille tunteellisten teemojen vuoksi."
+      },
+      {
+        "question": "Onko MENTAL HEALTH RESOURCES -pelissä useita loppuja?",
+        "answer": "Kyllä, valintasi vaikuttavat tarinan kulkuun ja voivat johtaa erilaisiin loppuihin."
+      },
+      {
+        "question": "Mistä löydän lisää mielenterveysresursseja?",
+        "answer": "Käy osoitteessa https://ncase.me/mental-health/ saadaksesi lisätietoja."
+      }
+    ]
+  }
+}

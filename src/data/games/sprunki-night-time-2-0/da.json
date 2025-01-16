@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time 2.0 - Oplev Nattens Magi",
+    "description": "Dyk ned i den fortryllende verden af Sprunki Night Time 2.0, hvor forbedrede lydlandskaber og visuals skaber en fredfyldt spiloplevelse. Lær hvordan man spiller, udforsk funktioner og læs anmeldelser.",
+    "keywords": "Sprunki Night Time 2.0, Sprunki Night Time spil, natte-spil, lydlandskabsspil, Sprunki mods"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time 2.0",
+    "p": "Forløs dig selv i den rolige skønhed af Sprunki Night Time 2.0, hvor berigede lydlandskaber og levende visuals forvandler natten til en magisk oplevelse."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Night Time Spilfunktioner",
+    "features": [
+      "Beriget Nætteæstetik: Forbedret belysning, subtile animationer og mere definerede silhuetter.",
+      "Forfinet Lydbibliotek: Nuancerede loops, der blander bløde klange, varme summen og delikate strenge.",
+      "Beroligende Atmosfære: Tilskynder til afslapning og mindful eksperimentering.",
+      "Interaktiv Karaktervalg: Karakterer designet til at indkapsle nattens fredfyldte stilhed.",
+      "Udforskende Lydeventyr: Opdag nye lag af ro i din musik."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sådan Spiller Du Sprunki Night Time 2 Mod",
+    "instructions": [
+      "Vælg Karakterer: Vælg figurer, der indkapsler nattens fred.",
+      "Træk og Slip: Arranger karakterer for at skabe blide lydlandskaber.",
+      "Finjuster Dit Mix: Juster volumener og anvend effekter for natlig varme.",
+      "Gem og Del: Del dine kompositioner, der afspejler nattens magi.",
+      "Udforsk Videre: Eksperimenter med forskellige lydkombinationer for at personliggøre din oplevelse."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Udforsk Sprunki Night Time 2.0 gennem Skærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Hvad Spillerne Siger",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "Helt fantastisk! Grafikken og musikken er strålende.",
+        "author": "Emma"
+      },
+      {
+        "content": "Et vidunderligt beroligende spil, der hjælper mig med at slappe af efter en lang dag.",
+        "author": "Liam"
+      },
+      {
+        "content": "Lydlandskaberne er så komplekse og beroligende. Et must-try for alle, der elsker ambient musik.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Jeg elsker karakterdesignet og måden de interagerer med miljøet.",
+        "author": "Noah"
+      },
+      {
+        "content": "At skabe musik i dette setup er en så unik oplevelse.",
+        "author": "Isabella"
+      },
+      {
+        "content": "Hver session føles som en ny udforskning af lyd og stemning.",
+        "author": "Olivia"
+      },
+      {
+        "content": "De forbedrede visuals og lyde gør den anden version endnu bedre.",
+        "author": "Jackson"
+      },
+      {
+        "content": "Natten har aldrig været så levende og immersiv. Anbefales stærkt!",
+        "author": "Aiden"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Hyppigt Stillede Spørgsmål",
+    "questions": [
+      {
+        "question":"Hvilke platforme er Sprunki Night Time 2.0 tilgængelig på?",
+        "answer":"Sprunki Night Time 2.0 er tilgængelig på PC og større spillekonsoller."
+      },
+      {
+        "question":"Kan jeg dele mine kompositioner med venner?",
+        "answer":"Ja, du kan nemt gemme og dele dine kompositioner med venner."
+      },
+      {
+        "question":"Er der nogen køb i appen?",
+        "answer":"Det grundlæggende spil er gratis, med valgfri køb i appen for yderligere funktioner."
+      },
+      {
+        "question":"Er Sprunki Night Time 2.0 egnet for børn?",
+        "answer":"Ja, spillet er designet til spillere i alle aldre med sine beroligende temaer."
+      },
+      {
+        "question":"Hvordan giver jeg feedback eller rapporterer problemer?",
+        "answer":"Feedback og problemer kan rapporteres via spillets officielle supportside."
+      },
+      {
+        "question":"Kraves der internetforbindelse til spillet?",
+        "answer":"Du skal bruge en internetforbindelse for at dele og opdatere, men offline spil understøttes."
+      }
+    ]
+  }
+}

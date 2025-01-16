@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Night Time 2.0 - Experimente a Magia da Noite",
+    "description": "Mergulhe no mundo encantador de Sprunki Night Time 2.0, onde paisagens sonoras e visuais aprimorados criam uma experiência de jogo serena. Aprenda a jogar, explore os recursos e leia as avaliações.",
+    "keywords": "Sprunki Night Time 2.0, jogo Sprunki Night Time, jogos noturnos, jogo de paisagens sonoras, mods Sprunki"
+  },
+  "hero": {
+    "h1": "Sprunki Night Time 2.0",
+    "p": "Mergulhe na beleza tranquila de Sprunki Night Time 2.0, onde paisagens sonoras enriquecidas e visuais vívidos transformam a noite em uma experiência mágica."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo Sprunki Night Time",
+    "features": [
+      "Estéticas Noturnas Enriquecidas: Iluminação aprimorada, animações sutis e silhuetas mais definidas.",
+      "Biblioteca Sonora Refinada: Loops sutis com sinos suaves, zumbidos quentes e cordas delicadas.",
+      "Atmosfera Tranquilizante: Incentiva relaxamento e experimentação consciente.",
+      "Seleção de Personagem Interativa: Personagens projetados para embody a paz da noite.",
+      "Aventura Sônica Exploradora: Descubra novas camadas de calma na sua música."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Sprunki Night Time 2 Mod",
+    "instructions": [
+      "Selecione Personagens: Escolha figuras que representem a tranquilidade da noite.",
+      "Arraste e Solte: Organize personagens para criar paisagens sonoras suaves.",
+      "Ajuste sua Mixagem: Regule volumes e aplique efeitos para um calor noturno.",
+      "Salve e Compartilhe: Compartilhe suas composições que refletem a magia da noite.",
+      "Explore Mais: Experimente diferentes combinações sonoras para personalizar sua experiência."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Explore Sprunki Night Time 2.0 através de Capturas de Tela"
+  },
+  "playerReviews": {
+    "title": "O Que os Jogadores Estão Dizendo",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Absolutamente inspirador! Os gráficos e a música são estelares.",
+        "author": "Emma"
+      },
+      {
+        "content": "Um jogo maravilhosamente calmante que me ajuda a relaxar após um longo dia.",
+        "author": "Liam"
+      },
+      {
+        "content": "As paisagens sonoras são tão intricadas e relaxantes. Uma experiência obrigatória para quem ama música ambiente.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Eu adoro o design dos personagens e a forma como interagem com o ambiente.",
+        "author": "Noah"
+      },
+      {
+        "content": "Criar música neste cenário é uma experiência única.",
+        "author": "Isabella"
+      },
+      {
+        "content": "Cada sessão parece uma nova exploração de som e humor.",
+        "author": "Olivia"
+      },
+      {
+        "content": "Os visuais e sons aprimorados fazem a segunda versão ainda melhor.",
+        "author": "Jackson"
+      },
+      {
+        "content": "A noite nunca pareceu tão viva e imersiva. Super recomendo!",
+        "author": "Aiden"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "Em quais plataformas o Sprunki Night Time 2.0 está disponível?",
+        "answer": "Sprunki Night Time 2.0 está disponível no PC e principais consoles de jogos."
+      },
+      {
+        "question": "Posso compartilhar minhas composições com amigos?",
+        "answer": "Sim, você pode salvar e compartilhar suas composições com amigos facilmente."
+      },
+      {
+        "question": "Existem compras dentro do aplicativo?",
+        "answer": "O jogo básico é gratuito, com compras opcionais dentro do aplicativo para recursos adicionais."
+      },
+      {
+        "question": "Sprunki Night Time 2.0 é adequado para crianças?",
+        "answer": "Sim, o jogo é projetado para jogadores de todas as idades com seus temas calmantes."
+      },
+      {
+        "question": "Como posso fornecer feedback ou relatar problemas?",
+        "answer": "Feedback e problemas podem ser relatados pela página de suporte oficial do jogo."
+      },
+      {
+        "question": "O jogo requer conexão com a internet?",
+        "answer": "Você precisará de uma conexão com a internet para compartilhamento e atualizações, mas a jogabilidade offline é suportada."
+      }
+    ]
+  }
+}

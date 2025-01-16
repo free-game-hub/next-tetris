@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Baba is You - Innovatief Puzzelspel",
+    "description": "Ontdek 'Baba is You,' een bekroond puzzelspel waarin je de regels verandert om uitdagingen op te lossen. Test nu je logica en creativiteit!",
+    "keywords": "Baba is You, Baba is You spel, puzzelspel, creatief puzzelspel, indie spel"
+  },
+  "hero": {
+    "h1": "Baba is You - Verander de Regels, Daag Je Logica Uit!",
+    "p": "'Baba is You' is een uniek puzzelspel waarin je regelblokken manipuleert om geheel nieuwe manieren te creëren om puzzels op te lossen. Duik in dit door critici geprezen spel en ontketen je creativiteit!"
+  },
+  "gameFeatures": {
+    "title": "Spelfuncties",
+    "features": [
+      "Innovatieve mechanica: Verander de spelregels door regelblokken te verplaatsen.",
+      "Divers ontwerp van niveaus: Meer dan 200 niveaus om je logisch denken uit te dagen.",
+      "Cross-platform ondersteuning: Beschikbaar op pc, Nintendo Switch, Google Play en App Store.",
+      "Bekroonde gameplay: Winnaar van de Best Design Award en Audience Award van het Independent Games Festival.",
+      "Eindeloze creativiteit: Ontdek talloze oplossingen en laat je verbeelding de vrije loop."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen",
+    "instructions": [
+      "Download en installeer 'Baba is You' op je apparaat.",
+      "Maak kennis met basisregelblokken zoals 'Baba Is You' en 'Flag Is Win.'",
+      "Verplaats regelblokken om de spel logica aan te passen en je doelen te bereiken.",
+      "Voltooi objectieven van het niveau (bijv., de vlag aanraken) om te winnen.",
+      "Geniet van het spel terwijl je je logica en creativiteit uitdaagt!"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots van het Spel"
+  },
+  "playerReviews": {
+    "title": "Speler Reviews",
+    "submitReviewLabel": "Dien Je Review In",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Review",
+    "submitButtonLabel": "Indienen",
+    "reviews": [
+      {
+        "content": "'Baba is You' is een verbluffend spel! De vrijheid om regels te manipuleren maakt het ongelooflijk leuk.",
+        "author": "John Doe",
+        "rating": 5
+      },
+      {
+        "content": "Het ontwerp van dit spel is zo creatief. Elk niveau voelt uitdagend en toch enorm lonend!",
+        "author": "Jane Smith",
+        "rating": 5
+      },
+      {
+        "content": "Van de kunststijl tot de gameplay, 'Baba is You' is een verademing. Sterk aanbevolen voor puzzelliefhebbers!",
+        "author": "Alex Johnson",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "questions": [
+      {
+        "question": "Op welke platforms is 'Baba is You' beschikbaar?",
+        "answer": "Het spel is beschikbaar op pc, Nintendo Switch, Google Play en App Store."
+      },
+      {
+        "question": "Is het spel geschikt voor alle leeftijden?",
+        "answer": "Ja, 'Baba is You' is een puzzelspel geschikt voor spelers van alle leeftijden."
+      },
+      {
+        "question": "Bevat het spel in-app aankopen?",
+        "answer": "Het spel is een eenmalige aankoop en bevat alle niveaus zonder extra in-app aankopen."
+      },
+      {
+        "question": "Waar kan ik 'Baba is You' downloaden?",
+        "answer": "Je kunt het spel downloaden van grote platforms zoals Steam, Google Play, en de App Store."
+      },
+      {
+        "question": "Ondersteunt het spel meerdere talen?",
+        "answer": "Ja, 'Baba is You' ondersteunt meerdere talen, waaronder Engels en Chinees."
+      },
+      {
+        "question": "Zijn er gemeenschapsbronnen of gidsen beschikbaar?",
+        "answer": "Je kunt gemeenschapsbronnen en gidsen vinden op verschillende sociale mediaplatforms en forums."
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Sprunki - Ciptakan Musik Melalui Bermain",
+    "description": "Bertransformasi menjadi produser musik hanya dengan beberapa klik! Sprunki adalah permainan ritme inovatif di mana kreativitas bertemu dengan kesenangan.",
+    "keywords": "permainan ritme, pembuatan musik, beatbox, incredibox, sprunki, permainan musik, musik interaktif"
+  },
+  "hero": {
+    "h1": "Selamat Datang di Sprunki",
+    "p": "Perjalanan Anda menjadi produser musik dimulai dengan satu klik. Tidak diperlukan pengalaman musik - cukup bawa kreativitas Anda!"
+  },
+  "gameFeatures": {
+    "title": "Mengapa Pemain Menyukai Sprunki",
+    "features": [
+      "Antarmuka seret-dan-lepas intuitif untuk pembuatan musik instan",
+      "Beberapa versi bertema termasuk Mode Matahari dan Mode Gelap",
+      "Buat, simpan, dan bagikan karya musik unik Anda",
+      "Cocok untuk sesi singkat maupun kreativitas yang berkepanjangan",
+      "Tidak perlu pengetahuan musik - hanya bersenang-senang"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain",
+    "instructions": [
+      "Pilih versi Sprunki favorit Anda",
+      "Seret karakter ke panggung untuk menambahkan suara berbeda",
+      "Campur dan padukan elemen suara yang berbeda",
+      "Ciptakan kombinasi harmonis untuk membuka animasi spesial",
+      "Simpan komposisi favorit Anda",
+      "Bagikan kreasi Anda dengan teman"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Rasakan Keajaiban"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Kami",
+    "submitReviewLabel": "Bagikan Pengalaman Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim Ulasan",
+    "reviews": [
+      {
+        "content": "Saya tidak pernah berbakat musik, tetapi Sprunki membuat saya merasa seperti produser sungguhan. Tidak bisa berhenti bermain!",
+        "author": "Mike, 23"
+      },
+      {
+        "content": "Cara sempurna untuk menghilangkan stres setelah bekerja. Kombinasi tidak ada habisnya dan sangat memuaskan saat berhasil menciptakan sesuatu yang terdengar luar biasa.",
+        "author": "Sarah, 19"
+      },
+      {
+        "content": "Mulai bermain dengan anak-anak saya dan sekarang saya lebih kecanduan dari mereka! Cara kreatif menghabiskan waktu bersama.",
+        "author": "David, 35"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Apakah saya perlu pengalaman musik untuk bermain?",
+        "answer": "Tidak sama sekali! Sprunki dirancang untuk semua orang, terlepas dari latar belakang musik. Antarmuka yang intuitif membuatnya mudah untuk membuat musik yang terdengar hebat."
+      },
+      {
+        "question": "Bisakah saya menyimpan kreasi saya?",
+        "answer": "Ya! Anda dapat menyimpan komposisi favorit Anda dan bahkan membagikannya dengan teman."
+      },
+      {
+        "question": "Apakah ada versi mobile yang tersedia?",
+        "answer": "Ya, Sprunki tersedia di platform desktop dan mobile, jadi Anda bisa membuat musik di mana saja!"
+      },
+      {
+        "question": "Seberapa sering konten baru ditambahkan?",
+        "answer": "Kami secara teratur memperbarui permainan dengan suara, karakter, dan versi bertema baru untuk menjaga kreativitas tetap mengalir!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V5 - Lag din egen rytme | Musikkspillguide",
+    "description": "Utforsk Incredibox V5, det kreative musikkspillet hvor du blir DJ og blander ulike lyder for å skape unike rytmer. Lær reglene og hvordan man spiller, og bli en del av det globale musikkfellesskapet.",
+    "keywords": "Incredibox V5, musikkspill, kreativ rytme, DJ spill, Incredicrew"
+  },
+  "hero": {
+    "h1": "Incredibox V5",
+    "p": "Opplev moroa med Incredibox V5, skap dine egne musikkrytmer og bli med blant fans verden over."
+  },
+  "gameFeatures": {
+    "title": "Spillfunksjoner",
+    "features": [
+      "Innovativ musikkopplevelse",
+      "Enkel og intuitiv kontroll",
+      "Variert rolle- og lydkombinasjon",
+      "Fantastiske visuelle effekter og animasjoner",
+      "Del musikken din og interager med fellesskapet"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spilleregler og bruksanvisning",
+    "instructions": [
+      "Velg ulike roller, hver representerer et musikalsk element.",
+      "Klikk på karakterene for å legge til eller fjerne lyder.",
+      "Dra lydikoner til karakterene for å begynne å lage.",
+      "Bruk mellomromstasten for å spille av eller pause musikken din.",
+      "Prøv ulike kombinasjoner for å oppdage skjulte musikkeffekter."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spillskjermbilder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send inn anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send inn",
+    "reviews": [
+      {
+        "content": "Dette spillet er vanedannende, utrolig kreativt og virkelig morsomt!",
+        "author": "Lily"
+      },
+      {
+        "content": "Jeg elsker grafikken og lydene i Incredibox V5, passer for alle aldre!",
+        "author": "John"
+      },
+      {
+        "content": "Perfekt for å fordrive tiden, samtidig som man utvikler musikalske ferdigheter.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Fantastisk! Jeg deler mine verk med fellesskapet hver dag.",
+        "author": "Alex"
+      },
+      {
+        "content": "Nybegynnervennlig, har gitt meg en helt ny interesse for musikk.",
+        "author": "Karen"
+      },
+      {
+        "content": "Enkelt men dypt, svært underholdende.",
+        "author": "Michael"
+      },
+      {
+        "content": "De skjulte sporene øker gameplayet, man finner alltid noe nytt.",
+        "author": "Emily"
+      },
+      {
+        "content": "Virkelig et paradis for musikkelskere, anbefales på det sterkeste!",
+        "author": "David"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "questions": [
+      {
+        "question": "Hvordan lager jeg musikk i Incredibox V5?",
+        "answer": "Klikk på karakterene for å legge til eller fjerne lyder, og bruk dra-funksjonen for å prøve forskjellige lydkombinasjoner."
+      },
+      {
+        "question": "Er Incredibox V5 egnet for nybegynnere?",
+        "answer": "Absolutt, spillet gir enkel veiledning og mye innhold å utforske."
+      },
+      {
+        "question": "Kan jeg dele musikkverkene mine?",
+        "answer": "Ja, Incredibox V5 lar deg dele verkene dine med fellesskapet og interagere med andre spillere."
+      },
+      {
+        "question": "Hvordan finner jeg skjulte spor?",
+        "answer": "Prøv ulike lydkombinasjoner for å oppdage skjulte overraskinger."
+      },
+      {
+        "question": "Hvilke aldersgrupper passer spillet for?",
+        "answer": "Incredibox V5 passer for alle aldersgrupper, spesielt musikkelskere."
+      },
+      {
+        "question": "Hvordan kan jeg bli med i Incredibox-fellesskapet?",
+        "answer": "Del musikkverkene dine og delta i diskusjoner for å bli en del av fellesskapet."
+      }
+    ]
+  }
+}

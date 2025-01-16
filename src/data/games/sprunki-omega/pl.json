@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Mod Sprunki Omega - Tworzenie Muzyki Kosmicznej w Sprunki Incredibox",
+    "description": "Odkryj Mod Sprunki Omega, rewolucyjny dodatek do uniwersum Sprunki Incredibox. Zanurz się w ulepszonych wizualizacjach, futurystycznych dźwiękach i interesujących projektach postaci.",
+    "keywords": "Mod Sprunki Omega, Sprunki Incredibox, tworzenie muzyki, futurystyczne dźwięki, mod do gry"
+  },
+  "hero": {
+    "h1": "Mod Sprunki Omega",
+    "p": "Przeżyj epicką podróż w tworzeniu muzyki z Modem Sprunki Omega, łącząc futurystyczną estetykę z innowacyjną rozgrywką."
+  },
+  "gameFeatures": {
+    "title": "Cechy Modu Sprunki Omega",
+    "features": [
+      "Futurystyczne Projekty Postaci: Ulepszone, kosmicznie inspirowane postacie o smukłej estetyce.",
+      "Zaawansowane Efekty Dźwiękowe: Bogata biblioteka futurystycznych bitów i ambientowych melodii.",
+      "Imersywne Wizualizacje: Żywy interfejs uzupełniający rozbudowaną tematykę moda.",
+      "Wyzwania w Rozgrywce: Angażujące nowe funkcje i kombinacje.",
+      "Kosmiczna Kreatywność: Odkryj nowy poziom głębi w tworzeniu muzyki."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Mod Sprunki Omega",
+    "instructions": [
+      "Wybierz Postacie Omega: Przeciągnij i upuść postacie Sprunki w motywie Omega.",
+      "Mieszaj Zaawansowane Utwory: Łącz złożone bity, aby tworzyć dynamiczne utwory.",
+      "Odblokuj Epickie Bonusy: Odkrywaj bonusy poprzez kombinacje postaci.",
+      "Podziel się Swoim Arcydziełem: Zapisz i podziel się swoimi utworami muzycznymi z społecznością.",
+      "Wzywaj Remikserów: Zaproś innych do remiksowania swoich dzieł."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu Modu Sprunki Omega"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Prześlij Swoją Recenzję",
+    "nameLabel": "Imię",
+    "reviewLabel": "Recenzja",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Projekty postaci są niesamowite, a rozgrywka wciągająca!",
+        "author": "Alex J."
+      },
+      {
+        "content": "Niezwykły mod, który przenosi Sprunki na nowe wyżyny!",
+        "author": "Sam T."
+      },
+      {
+        "content": "Kocham kosmiczny vibe i wyzwania w rozgrywce.",
+        "author": "Mia L."
+      },
+      {
+        "content": "Futurystyczne efekty dźwiękowe są po prostu niesamowite.",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega to mod, którego nie chcesz przegapić.",
+        "author": "Noah P."
+      },
+      {
+        "content": "Świetny dla entuzjastów remiksów szukających wyzwań.",
+        "author": "Liam K."
+      },
+      {
+        "content": "Wizualizacje są oszałamiające i naprawdę immersyjne.",
+        "author": "Olivia R."
+      },
+      {
+        "content": "To fantastyczna muzyczna przygoda, którą polecam każdemu fanowi!",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Czym jest Mod Sprunki Omega?",
+        "answer": "Mod Sprunki Omega to zaawansowany mod do Sprunki Incredibox, z futurystycznymi dźwiękami i wizualizacjami."
+      },
+      {
+        "question": "Jak odblokować bonusy w grze?",
+        "answer": "Eksperymentuj z unikalnymi kombinacjami postaci, aby odkrywać ukryte bonusy."
+      },
+      {
+        "question": "Czy mogę dzielić się swoimi utworami muzycznymi?",
+        "answer": "Tak, możesz zapisywać i dzielić się swoimi utworami muzycznymi z społecznością Sprunki."
+      },
+      {
+        "question": "Czy w modzie są nowe postacie?",
+        "answer": "Tak, mod zawiera futurystyczne postacie Sprunki w motywie Omega."
+      },
+      {
+        "question": "Czy Mod Sprunki Omega jest odpowiedni dla początkujących?",
+        "answer": "Mimo że mod ma trudniejsze elementy, jest dostępny dla nowicjuszy."
+      },
+      {
+        "question": "Gdzie mogę pobrać Mod Sprunki Omega?",
+        "answer": "Możesz go pobrać z oficjalnej strony Sprunki Incredibox lub autoryzowanych platform modów."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Zalecane Gry",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki Galaxy Adventures",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox Solar Remix",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "Kosmiczna Podróż Beatbox",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

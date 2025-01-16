@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Baba é Você - Jogo de Enigma Inovador",
+    "description": "Descubra 'Baba é Você', um jogo de enigma premiado onde você muda as regras para resolver desafios. Teste sua lógica e criatividade agora!",
+    "keywords": "Baba é Você, jogo Baba é Você, jogo de enigma, jogo de enigma criativo, jogo indie"
+  },
+  "hero": {
+    "h1": "Baba é Você - Mude as Regras, Desafie Sua Lógica!",
+    "p": "'Baba é Você' é um jogo de enigma único onde você manipula blocos de regras para criar maneiras totalmente novas de resolver enigmas. Mergulhe neste jogo aclamado pela crítica e libere sua criatividade!"
+  },
+  "gameFeatures": {
+    "title": "Características do Jogo",
+    "features": [
+      "Mecânicas inovadoras: Mude as regras do jogo movendo blocos de regras.",
+      "Design de níveis diversificado: Mais de 200 níveis para desafiar seu raciocínio lógico.",
+      "Suporte multiplataforma: Disponível para PC, Nintendo Switch, Google Play e App Store.",
+      "Jogabilidade premiada: Vencedor do Prêmio de Melhor Design e Prêmio do Público do Independent Games Festival.",
+      "Criatividade sem limites: Explore inúmeras soluções e deixe sua imaginação correr solta."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar",
+    "instructions": [
+      "Baixe e instale 'Baba é Você' em seu dispositivo.",
+      "Familiarize-se com blocos de regras básicos como 'Baba é Você' e 'Bandeira é Vitória'.",
+      "Mova blocos de regras para modificar a lógica do jogo e alcançar seus objetivos.",
+      "Complete os objetivos dos níveis (por exemplo, tocar na bandeira) para vencer.",
+      "Divirta-se com o jogo enquanto desafia sua lógica e criatividade!"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "'Baba é Você' é um jogo incrível! A liberdade para manipular regras o torna incrivelmente divertido.",
+        "author": "John Doe",
+        "rating": 5
+      },
+      {
+        "content": "O design deste jogo é tão criativo. Cada nível é desafiador e extremamente gratificante!",
+        "author": "Jane Smith",
+        "rating": 5
+      },
+      {
+        "content": "Do estilo artístico à jogabilidade, 'Baba é Você' é um sopro de ar fresco. Altamente recomendado para fãs de enigmas!",
+        "author": "Alex Johnson",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "Em quais plataformas 'Baba é Você' está disponível?",
+        "answer": "O jogo está disponível para PC, Nintendo Switch, Google Play e App Store."
+      },
+      {
+        "question": "O jogo é adequado para todas as idades?",
+        "answer": "Sim, 'Baba é Você' é um jogo de enigma adequado para jogadores de todas as idades."
+      },
+      {
+        "question": "O jogo inclui compras dentro do aplicativo?",
+        "answer": "O jogo é uma compra única e inclui todos os níveis sem compras adicionais dentro do aplicativo."
+      },
+      {
+        "question": "Onde posso baixar 'Baba é Você'?",
+        "answer": "Você pode baixar o jogo em plataformas principais como Steam, Google Play e App Store."
+      },
+      {
+        "question": "O jogo suporta múltiplos idiomas?",
+        "answer": "Sim, 'Baba é Você' suporta múltiplos idiomas, incluindo inglês e chinês."
+      },
+      {
+        "question": "Existem recursos ou guias da comunidade disponíveis?",
+        "answer": "Você pode encontrar recursos e guias da comunidade em várias plataformas de mídia social e fóruns."
+      }
+    ]
+  }
+}

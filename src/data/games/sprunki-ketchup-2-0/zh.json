@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Ketchup 2.0 - 提升您的恐怖音乐体验",
+    "description": "深入Sprunki Ketchup 2.0的阴森世界，创作音乐化身为恐怖体验。探索游戏规则、特色和玩家评价。",
+    "keywords": "Sprunki Ketchup 2.0, 恐怖音乐游戏, 恐怖音景, 游戏特色, 玩家评价"
+  },
+  "hero": {
+    "h1": "Sprunki Ketchup 2.0",
+    "p": "探索Sprunki Ketchup 2.0的不安领域，在这里恐怖与音乐的结合为您带来刺激的游戏体验。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Ketchup 2.0的主要特色",
+    "features": [
+      "强化的恐怖美学，充满威胁感的角色设计。",
+      "更为阴暗的音景与诡异的循环音。",
+      "增强的悬疑感，含有实验性的音乐层次。",
+      "复杂的角色与令人不安的背景。",
+      "与其他恐怖爱好者分享您的创作。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki Ketchup 2.0",
+    "instructions": [
+      "选择角色：挑选散发着阴森魅力的人物。",
+      "将它们拖放到画布上，创造令人毛骨悚然的作品。",
+      "尝试调整音量和效果，达到恐怖的完美效果。",
+      "精细调整您的音轨，揭示隐藏的恐惧元素。",
+      "保存并与朋友分享您的恐怖音乐作品。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Ketchup 2.0 截图"
+  },
+  "playerReviews": {
+    "title": "玩家对Sprunki Ketchup 2.0的评价",
+    "submitReviewLabel": "提交您的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "这款游戏革新了音乐中的恐怖体验——是寻求刺激者的必玩之作。",
+        "author": "Alex"
+      },
+      {
+        "content": "在创造音乐时我从未如此紧张，悬念感十足！",
+        "author": "Jamie"
+      },
+      {
+        "content": "音乐与恐怖的完美结合。Sprunki Ketchup 2.0让我欲罢不能！",
+        "author": "Chris"
+      },
+      {
+        "content": "令人毛骨悚然的音景让人震撼。准备好被吓到了。",
+        "author": "Taylor"
+      },
+      {
+        "content": "非常适合万圣节派对，放大声吓唬你的朋友！",
+        "author": "Casey"
+      },
+      {
+        "content": "我绝对喜欢这个阴森的氛围和它所提供的创作自由。",
+        "author": "Jordan"
+      },
+      {
+        "content": "Sprunki Ketchup 2.0是一次无与伦比的体验。强烈推荐。",
+        "author": "Morgan"
+      },
+      {
+        "content": "游戏的氛围异常寒冷，非常适合恐怖爱好者。",
+        "author": "Drew"
+      }
+    ]
+  },
+  "faq": {
+    "title": "关于Sprunki Ketchup 2.0的常见问题",
+    "questions": [
+      {
+        "question": "什么是Sprunki Ketchup 2.0？",
+        "answer": "Sprunki Ketchup 2.0是一款以恐怖为主题的音乐游戏，带来不安的音景与视觉效果。"
+      },
+      {
+        "question": "我如何在这个游戏中创作音乐？",
+        "answer": "选择并排列阴森的人物音轨，曲作自己专属的恐怖音乐。"
+      },
+      {
+        "question": "我可以分享我的音乐作品吗？",
+        "answer": "可以，您可以保存并与其他玩家分享您的作品。"
+      },
+      {
+        "question": "Sprunki Ketchup 2.0适合儿童吗？",
+        "answer": "由于其恐怖元素，推荐成熟观众游玩。"
+      },
+      {
+        "question": "游戏内有购买选项吗？",
+        "answer": "Sprunki Ketchup 2.0提供多种可通过游戏内购买扩展的功能。"
+      },
+      {
+        "question": "哪些平台支持Sprunki Ketchup 2.0？",
+        "answer": "该游戏适用于主要游戏平台，包括PC和游戏主机。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推荐游戏",
+    "games": [
+      {
+        "image": "link_to_image_1.jpg",
+        "title": "惊悚回声",
+        "link": "thrilling_echoes_game_url"
+      },
+      {
+        "image": "link_to_image_2.jpg",
+        "title": "鬼魅和声",
+        "link": "haunted_harmonics_game_url"
+      },
+      {
+        "image": "link_to_image_3.jpg",
+        "title": "阴影交响曲",
+        "link": "shadow_symphony_game_url"
+      }
+    ]
+  }
+}

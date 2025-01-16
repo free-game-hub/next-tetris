@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V2 Jogo - Experiência Musical Interativa",
+    "description": "Descubra Incredibox V2, um jogo musical interativo que permite criar suas próprias faixas misturando sons e batidas únicos.",
+    "keywords": "Incredibox V2, jogo musical, interativo, criar música, mistura de sons, Incredibox V1, Incredibox Mustard"
+  },
+  "hero": {
+    "h1": "Incredibox V2",
+    "p": "Mergulhe no mundo de Incredibox V2, um jogo musical interativo onde criatividade e entretenimento se encontram. Misture batidas e harmonias para compor suas faixas únicas."
+  },
+  "gameFeatures": {
+    "title": "Características do Jogo",
+    "features": [
+      "Criação Musical Interativa: Arraste e solte ícones para criar faixas únicas com personagens animados.",
+      "Estilos Musicais Diversos: Explore vários estilos, cada um oferecendo uma experiência auditiva distinta.",
+      "Liberdade Criativa: Experimente sons para encontrar a mistura perfeita.",
+      "Visuais Cativantes: Aproveite animações coloridas e personagens excêntricos.",
+      "Compartilhamento Social: Compartilhe suas obras-primas musicais com outros e junte-se a uma comunidade de criadores."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Incredibox V2",
+    "instructions": [
+      "Inicie o Jogo: Abra o Mod Incredibox V2 no seu dispositivo.",
+      "Selecione um Estilo: Comece escolhendo entre vários estilos musicais.",
+      "Adicione Sons: Arraste ícones para batidas, melodias ou efeitos para os personagens.",
+      "Monte Sua Mistura: Combine sons para criar sua faixa única, modificando como desejar.",
+      "Grave & Compartilhe: Salve sua criação e compartilhe-a com o mundo."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Seu Nome",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Incredibox V2 é uma combinação perfeita de criatividade e diversão! Adoro criar novas misturas.",
+        "author": "Alex"
+      },
+      {
+        "content": "Os estilos disponíveis são incrivelmente diversos, mantendo o jogo sempre fresco e excitante.",
+        "author": "Samira"
+      },
+      {
+        "content": "Posso passar horas apenas explorando diferentes combinações de sons!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Os visuais são tão envolventes, e é super fácil entrar no ritmo.",
+        "author": "Zane"
+      },
+      {
+        "content": "Compartilhar minhas criações com amigos é a melhor parte! Nós nos divertimos muito.",
+        "author": "Luka"
+      },
+      {
+        "content": "O feedback instantâneo com batidas cativantes torna este jogo viciante!",
+        "author": "Maya"
+      },
+      {
+        "content": "Ótima interface fácil de usar, até meus filhos conseguem jogar sem dificuldade.",
+        "author": "Chris"
+      },
+      {
+        "content": "Um jogo imperdível para os amantes da música que adoram um pouco de criatividade.",
+        "author": "Nina"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O que é Incredibox V2?",
+        "answer": "Incredibox V2 é um jogo musical interativo que permite aos jogadores criar suas próprias faixas musicais misturando sons e batidas."
+      },
+      {
+        "question": "Como começo a criar música em Incredibox V2?",
+        "answer": "Inicie o jogo, selecione um estilo musical e arraste ícones de som para criar sua mistura."
+      },
+      {
+        "question": "Posso compartilhar minhas criações musicais?",
+        "answer": "Sim, você pode gravar e compartilhar suas misturas facilmente com os outros."
+      },
+      {
+        "question": "Preciso ter experiência musical prévia para jogar?",
+        "answer": "Não, Incredibox V2 é projetado para ser acessível a todos, independentemente do histórico musical."
+      },
+      {
+        "question": "Existem estilos musicais diferentes no jogo?",
+        "answer": "Sim, Incredibox V2 oferece vários estilos musicais, cada um com sons e personagens únicos."
+      },
+      {
+        "question": "Incredibox V2 é adequado para todas as idades?",
+        "answer": "Sim, seus controles simples tornam-no agradável e acessível para jogadores de todas as idades."
+      }
+    ]
+  }
+}

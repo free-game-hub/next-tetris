@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "Sprunki Omega Mod - 在 Sprunki Incredibox 中創造宇宙音樂",
+    "description": "探索 Sprunki Omega Mod，這是 Sprunki Incredibox 世界的突破性新增內容。沉浸於加強的視覺效果、未來感的音效及引人注目的角色設計中。",
+    "keywords": "Sprunki Omega Mod, Sprunki Incredibox, 音樂創作, 未來音效, 遊戲模組"
+  },
+  "hero": {
+    "h1": "Sprunki Omega Mod",
+    "p": "透過 Sprunki Omega Mod，體驗音樂創作的史詩之旅，結合未來主義的美學與創新的遊玩方式。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Omega Mod 的特色",
+    "features": [
+      "未來感角色設計：加強版、受到宇宙啟發的角色，具流線型美學。",
+      "先進音效：擁有豐富的未來節拍與環境旋律庫。",
+      "沉浸式視覺：鮮豔的介面與模組的宏大主題相輔相成。",
+      "具挑戰性的遊戲玩法：與全新功能和組合互動。",
+      "宇宙創意：探索音樂創作的新深度。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki Omega Mod",
+    "instructions": [
+      "選擇 Omega 角色：拖放 Omega 主題的 Sprunki 角色。",
+      "混合高級曲目：結合複雜的節拍創作動態曲目。",
+      "解鎖史詩獎勵：透過角色組合探索獎勵。",
+      "分享你的作品：保存並與社群分享音樂曲目。",
+      "挑戰重製者：邀請其他人來重製你的創作。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Omega Mod 截圖"
+  },
+  "playerReviews": {
+    "title": "玩家評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "角色設計令人驚豔，遊戲過程非常迷人！",
+        "author": "Alex J."
+      },
+      {
+        "content": "這是一個令人難以置信的模組，讓 Sprunki 飆升到新的高度！",
+        "author": "Sam T."
+      },
+      {
+        "content": "我喜歡這種宇宙氛圍和具挑戰性的遊戲玩法。",
+        "author": "Mia L."
+      },
+      {
+        "content": "未來感的音效簡直驚人。",
+        "author": "Ella B."
+      },
+      {
+        "content": "Sprunki Omega 是你不容錯過的模組。",
+        "author": "Noah P."
+      },
+      {
+        "content": "對於尋求挑戰的重製愛好者來說很棒。",
+        "author": "Liam K."
+      },
+      {
+        "content": "視覺效果驚人且真正帶入感。",
+        "author": "Olivia R."
+      },
+      {
+        "content": "這是一場我推薦給所有粉絲的奇妙音樂冒險！",
+        "author": "Emma S."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "questions": [
+      {
+        "question": "什麼是 Sprunki Omega Mod？",
+        "answer": "Sprunki Omega Mod 是一個為 Sprunki Incredibox 提供的先進模組，擁有未來感的音效與畫面。"
+      },
+      {
+        "question": "我該如何在遊戲中解鎖獎勵？",
+        "answer": "透過獨特的角色組合進行實驗，來探索隱藏的獎勵。"
+      },
+      {
+        "question": "我可以分享我的音樂曲目嗎？",
+        "answer": "可以，你可以保存並與 Sprunki 社群分享你的音樂曲目。"
+      },
+      {
+        "question": "模組中有新的角色嗎？",
+        "answer": "有的，這個模組包含了未來感的 Omega 主題 Sprunki 角色。"
+      },
+      {
+        "question": "Sprunki Omega Mod 適合初學者嗎？",
+        "answer": "雖然這個模組有挑戰性，但對新手還是很友好的。"
+      },
+      {
+        "question": "我可以在哪裡下載 Sprunki Omega Mod？",
+        "answer": "你可以從官方 Sprunki Incredibox 網站或授權模組平台下載它。"
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "推薦遊戲",
+    "games": [
+      {
+        "image": "link_to_image1.jpg",
+        "title": "Sprunki 銀河冒險",
+        "link": "http://example.com/galaxy-adventures"
+      },
+      {
+        "image": "link_to_image2.jpg",
+        "title": "Incredibox 太陽重製",
+        "link": "http://example.com/solar-remix"
+      },
+      {
+        "image": "link_to_image3.jpg",
+        "title": "宇宙節拍之旅",
+        "link": "http://example.com/beatbox-journey"
+      }
+    ]
+  }
+}

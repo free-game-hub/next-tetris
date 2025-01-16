@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sechs Katzen Unter - Ein fesselndes Puzzle-Abenteuer",
+    "description": "Entdecke 'Sechs Katzen Unter', ein charmantes Point-and-Click-Puzzle-Spiel, in dem du Poltergeistkräfte einsetzt, um deine Katzen zu retten. Von Spielern mit 4,8/5 bewertet.",
+    "keywords": "Sechs Katzen Unter, Puzzle-Spiel, Point-and-Click, Katzenschutzspiel, Game Jam, Geisterkräfte, Sechs Katzen Unter Bewertungen"
+  },
+  "hero": {
+    "h1": "Sechs Katzen Unter",
+    "p": "Tauche ein in 'Sechs Katzen Unter', ein bezauberndes Point-and-Click-Puzzle-Spiel, in dem dir deine Poltergeistkräfte helfen, deine geliebten Katzen in Sicherheit zu bringen."
+  },
+  "gameFeatures": {
+    "title": "Spielmerkmale",
+    "features": [
+      "Einzigartiges Point-and-Click-Puzzlespiel",
+      "Charmante Pixelkunst und Animationen",
+      "Fesselnde Erzählung mit gespenstischen Elementen",
+      "Perfekt für Katzenliebhaber und Puzzle-Enthusiasten",
+      "Kurzes und süßes Spieleerlebnis, ideal für schnelle Spielsitzungen"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "So spielst du Sechs Katzen Unter",
+    "instructions": [
+      "Nutze deine Maus, um mit Objekten zu interagieren und deine Katzen zu leiten.",
+      "Setze Poltergeistfähigkeiten ein, um Gegenstände zu bewegen und Wege zu öffnen.",
+      "Löse die Rätsel, um durch die Level voranzukommen und alle Katzen zu retten.",
+      "Achte auf visuelle Hinweise und Tipps im gesamten Spiel.",
+      "Genieße die Erzählung und die charmanten Interaktionen mit deinen Katzenfreunden."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sechs Katzen Unter - Spielscreenshots"
+  },
+  "playerReviews": {
+    "title": "Spielerbewertungen",
+    "submitReviewLabel": "Bewertung Abgeben",
+    "nameLabel": "Name",
+    "reviewLabel": "Bewertung",
+    "submitButtonLabel": "Abgeben",
+    "reviews": [
+      {
+        "content": "Ein wunderbares Spiel! Tolle Animationen und absolut bezaubernde Katzen.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Als Katzenbesitzer berührt mich dieses Spiel tief. Ein absoluter Schatz!",
+        "author": "gecko"
+      },
+      {
+        "content": "Ein unglaublich süßes Spiel... arme Goldy! Herzerwärmend und zugleich emotional.",
+        "author": "magerites"
+      },
+      {
+        "content": "Einzigartige Rätsel und so viele bezaubernde Momente. Hat mir gefallen!",
+        "author": "DLGames"
+      },
+      {
+        "content": "Die Mischung aus Niedlichkeit und einem Hauch von Traurigkeit macht dieses Spiel besonders.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Fantastisches Spiel! Ich habe es in 15 Minuten beendet und jeden Moment genossen.",
+        "author": "MCG"
+      },
+      {
+        "content": "Sowohl bezaubernd als auch traurig, aber wirklich spaßig! Insgesamt ein tolles Erlebnis.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Die Katzen sind bezaubernd und der gespenstische Helfer ist einzigartig. Sehr empfehlenswert!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Häufig Gestellte Fragen",
+    "questions": [
+      {
+        "question":"Auf welchen Plattformen ist Sechs Katzen Unter erhältlich?",
+        "answer":"Sechs Katzen Unter ist verfügbar auf HTML5, Windows, macOS und Linux."
+      },
+      {
+        "question":"Wie lange dauert es, das Spiel zu beenden?",
+        "answer":"Die durchschnittliche Spielsitzung dauert etwa eine halbe Stunde und bietet ein schnelles, aber angenehmes Erlebnis."
+      },
+      {
+        "question":"Ist 'Sechs Katzen Unter' für alle Altersgruppen geeignet?",
+        "answer":"Ja, das Spiel ist so gestaltet, dass es von Spielern jeden Alters genossen werden kann, insbesondere von Katzenliebhabern."
+      },
+      {
+        "question":"Was sind die minimalen Anforderungen zum Ausführen des Spiels?",
+        "answer":"Das Spiel ist leichtgewichtig und kann auf den meisten Systemen ausgeführt werden, die HTML5 oder die jeweiligen OS-Versionen unterstützen."
+      },
+      {
+        "question":"Kann das Spiel offline gespielt werden?",
+        "answer":"Die herunterladbaren Versionen für Windows, macOS und Linux können nach der Installation offline gespielt werden."
+      },
+      {
+        "question":"Wer hat 'Sechs Katzen Unter' entwickelt?",
+        "answer":"Das Spiel wurde von Team Bean Loop und Mosu entwickelt, mit Beiträgen von Miles Äijälä, Robin Swift, Tomas Beržinskas und Alex Martin."
+      }
+    ]
+  }
+}

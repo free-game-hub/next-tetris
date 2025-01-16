@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Drift Through Memory: En Rørende Eventyr med Spøgelser og Hunde",
+    "description": "Udforsk den hjertevarmende historie om 'Drift Through Memory', et bevægende puslespil, hvor en spøgelseshund hjælper sin familie med at bearbejde sorg. Oplev spillets funktioner, kontroller og læs spilleranmeldelser.",
+    "keywords": "Drift Through Memory, spøgelseshund spil, puslespil, familie kæledyr spil, spil anmeldelser, Picogram, Global Game Jam 2019"
+  },
+  "hero": {
+    "h1": "Drift Through Memory",
+    "p": "Tag på en rørende rejse med en spøgelseskammerat, mens de udforsker deres hjem og hjælper deres familie med at hele fra tab. Et smukt puslespil omhyggeligt skabt af Picogram til Global Game Jam 2019."
+  },
+  "gameFeatures": {
+    "title": "Spilfunktioner",
+    "features": [
+      "Hjertevarmende fortælling, der udforsker temaer om tab og heling.",
+      "Charmerende grafik og stemningsfuld musik af Grahm Nesbitt.",
+      "Enkle kontroller, der passer til alle aldre.",
+      "Spilbart på HTML5-platforme, tilgængeligt på forskellige enheder.",
+      "Bedømt 4.8 ud af 5 stjerner af over 3.850 spillere."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spilvejledning",
+    "instructions": [
+      "Brug pilene på dit tastatur til at flytte spøgelseshunden.",
+      "Tryk på 'Z' for at interagere med objekter og komme videre i historien.",
+      "Udforsk hvert rum for at opdage minder og hjælpe familien med at bearbejde.",
+      "Vær opmærksom på subtile hints i miljøet for ledetråde.",
+      "Nyd oplevelsen som en selvrefleksiv rejse, ikke bare et spil."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spilskærmbilleder"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Indsend Din Anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Indsend",
+    "reviews": [
+      {
+        "content": "SÅ SØDT :>",
+        "author": "Twiries"
+      },
+      {
+        "content": "Elskede dette! Det var så sødt og efterlod mig med en varm følelse.",
+        "author": "Tarnia"
+      },
+      {
+        "content": "Det var så sødt. Dette var virkelig godt lavet for et så kort spil.",
+        "author": "jujugames"
+      },
+      {
+        "content": "Ikke første gang jeg spiller dette, jeg har for nyligt mistet min hund. Det varmer mit hjerte.",
+        "author": "This is dope"
+      },
+      {
+        "content": "Bravo, Glad, trist og sødt, 10/10",
+        "author": "Diagonal_fish39"
+      },
+      {
+        "content": "Hunden er så sød, når den bærer et stykke brød.",
+        "author": "Andrew Laughs"
+      },
+      {
+        "content": "Bogstaveligt talt yndig <3",
+        "author": "sharkz lover :3"
+      },
+      {
+        "content": "Jeg tror, at det at lytte til min Eminem-playliste, mens jeg spillede, måske ødelagde stemningen, men stadig et af de bedste spil, jeg har spillet i lang tid.",
+        "author": "TSWC"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte Stillede Spørgsmål",
+    "questions": [
+      {
+        "question":"På hvilke platforme er 'Drift Through Memory' tilgængelig?",
+        "answer":"Spillet er tilgængeligt på HTML5-platforme, hvilket gør det tilgængeligt på de fleste enheder med en moderne webbrowser."
+      },
+      {
+        "question":"Hvordan interagerer jeg med objekter i spillet?",
+        "answer":"Brug 'Z'-tasten på dit tastatur til at interagere med objekter og komme videre i historien."
+      },
+      {
+        "question":"Hvem har skabt musikken til spillet?",
+        "answer":"Den stemningsfulde musik i 'Drift Through Memory' er komponeret af Grahm Nesbitt."
+      },
+      {
+        "question":"Er spillet egnet for alle aldre?",
+        "answer":"Ja, spillet har enkle kontroller og en hjertevarmende fortælling, der passer til spillere i alle aldre."
+      },
+      {
+        "question":"Hvor lang tid tager det at gennemføre spillet?",
+        "answer":"Spillet er relativt kort og tilbyder en kompakt, men følelsesladet oplevelse, der kan gennemføres på en gang."
+      },
+      {
+        "question":"Kan jeg spille 'Drift Through Memory' på min mobile enhed?",
+        "answer":"Hvis din mobile enhed understøtter HTML5-spil via en webbrowser, burde du kunne spille spillet."
+      }
+    ]
+  }
+}

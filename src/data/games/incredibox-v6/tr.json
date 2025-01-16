@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V6 - Yaratıcı Müzik Oyunu, Sınırsız Ritmler Sunuyor",
+    "description": "Incredibox V6'yı keşfedin, bu dünya çapında oyun severler tarafından sevilen bir müzik yaratma oyunudur. “Incredicrew” karakterlerini kontrol ederek eşsiz müzik ritimleri yaratın!",
+    "keywords": "Incredibox V6, müzik oyunu, yaratıcı ritim, DJ oyunu, etkileşimli oyun"
+  },
+  "hero": {
+    "h1": "Incredibox V6",
+    "p": "Incredibox V6'ya katılın, müzik yaratım yolculuğunuza başlayın. Eğlenceli oynanışı ve büyüleyici görselleri deneyimleyin, müzik ustası olun."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V6 Oyun Özellikleri",
+    "features": [
+      "Müzik yaratmak için 'Incredicrew' adındaki bir grubu kontrol edin.",
+      "Her karakterin şarkı söyleme, ritim tutma ve enstrüman çalma gibi benzersiz sesleri var.",
+      "Basit kontroller; sesleri eklemek veya kaldırmak için tıklayın.",
+      "Zengin ses kombinasyonları ile müzik yaratıcılığınızı teşvik edin.",
+      "Görsel efektlerle donatılmış, müzik yaratım sürecinizi daha keyifli hale getirin."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Incredibox V6 Nasıl Oynanır",
+    "instructions": [
+      "Ağda karakterleri seçin, her karakter farklı sesler çıkarır.",
+      "Ritim oluşturmak için karakterlerin seslerini ekleyip çıkararak tıklayın.",
+      "Farklı ses kombinasyonlarını deneyin, sevdiğiniz ritmi bulun.",
+      "Fare veya klavye kısayolları ile kolayca kontrol edin.",
+      "Yaratım sürecinde müziğin tadını çıkarın ve kişisel stilinizi keşfedin."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V6 Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunuzu Gönderin",
+    "nameLabel": "Adınız",
+    "reviewLabel": "Yorumunuz",
+    "submitButtonLabel": "Yorumu Gönder",
+    "reviews": [
+      {
+        "content": "Incredibox V6 bana müzik yaratma konusunda yeni bir tutku kazandırdı!",
+        "author": "Li Wei"
+      },
+      {
+        "content": "Görsel ve ses efektleri harika, bağımlılık yapıyor.",
+        "author": "Jessica"
+      },
+      {
+        "content": "Oynadığım en yaratıcı müzik oyunlarından biri.",
+        "author": "Tom"
+      },
+      {
+        "content": "Müziğe ilgisi olan herkese kesinlikle tavsiye ederim, kontrol seçenekleri basit ama eğlenceli.",
+        "author": "Chen"
+      },
+      {
+        "content": "Yaratım süreci oldukça keyifli, ritim hakkında birçok şey öğrenmiş oldum.",
+        "author": "Maria"
+      },
+      {
+        "content": "Müziği bilmeseniz bile harika bir şekilde oynayabilirsiniz, gerçekten eğitici.",
+        "author": "David"
+      },
+      {
+        "content": "Oynanış veya görsel tasarım açısından bu oyun mükemmel.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Arkadaşım bu oyunu önerdi, kesinlikle hayal kırıklığına uğratmadı!",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Incredibox V6 nasıl güncellenir?",
+        "answer":"En son güncelleme sürümünü resmi web sitesinden indirebilirsiniz."
+      },
+      {
+        "question":"Müzik eserlerimi nasıl kaydedebilirim?",
+        "answer":"Oyunda kaydetme seçeneğine tıklayarak müzik eserlerinizi cihazınıza kaydedebilirsiniz."
+      },
+      {
+        "question":"Incredibox V6 çok oyunculu mu?",
+        "answer":"Şu anda Incredibox V6 tek oyunculu bir oyundur, ancak eserlerinizi arkadaşlarınızla paylaşabilirsiniz."
+      },
+      {
+        "question":"Oyunda hangi ses efektleri mevcut?",
+        "answer":"Oyunda çeşitli şarkı, ritim ve enstrüman kombinasyonları bulunmaktadır."
+      },
+      {
+        "question":"Incredibox V6 mobil cihazlarda oynanabilir mi?",
+        "answer":"Evet, Incredibox V6 mobil cihazlar için desteklenmektedir."
+      },
+      {
+        "question":"Daha fazla ses kombinasyonu nasıl elde edilir?",
+        "answer":"Oyunu oynayarak daha fazla ses kombinasyonunu açabilirsiniz."
+      }
+    ]
+  }
+}

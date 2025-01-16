@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 15 - Masteroi Incredibox-modia luovan musiikin luomiseksi",
+    "description": "Tutustu Sprunki Phase 15:een, fanien tekemään Incredibox-modifikaatioon. Vapauta musiikillinen luovuutesi ainutlaatuisilla hahmoilla, äänikombinaatioilla ja haasteilla.",
+    "keywords": "Sprunki Phase 15, Incredibox-mod, musiikin luomispeli, Sprunki-sarja, musiikkipuzzle"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 15",
+    "p": "Sukella Sprunki Phase 15:n viehättävään maailmaan, jossa odottavat luovat musiikkisekoitukset ja kiehtovat pulmat tässä fanien tekemässä suosittu Incredibox-pelissä."
+  },
+  "gameFeatures": {
+    "title": "Pelin Ominaisuudet - Sprunki Phase 15",
+    "features": [
+      "Innovatiiviset hahmomekaniikat ainutlaatuisten äänikombinaatioiden luomiseksi.",
+      "Haasteelliset pulmat, jotka parantavat luovaa pelikokemusta.",
+      "Interaktiiviset elementit, jotka reagoivat tiettyihin rytmeihin.",
+      "Visuaaliset vihjeet musiikin luomisen ja edistymisen ohjaamiseksi.",
+      "Mahdollisuus yhteistyöhön visseissä vaiheissa."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka hallita Sprunki Phase 15",
+    "instructions": [
+      "Ymmärrä tavoite tarkistamalla tarvittavat melodiat tai rytmit.",
+      "Kokoa oikeat hahmot luodaksesi musiikkisekoituksesi.",
+      "Kokeile erilaisia äänikombinaatioita ratkaistaksesi pulmia.",
+      "Hyödynnä ajoitusta ja sekvensointia täydellistääksesi musiikkisi.",
+      "Kiinnitä huomiota piilotettuihin vihjeisiin visuaalisten vihjeiden tai ympäristön muutosten kautta."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Phase 15 Pelikuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut - Sprunki Phase 15",
+    "submitReviewLabel": "Lähetä Arvostelusi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvostelu",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 15 on loistava kehitysaskel Incredibox-sarjassa. Uudet äänikombinaatiot ovat todella kiehtovia!",
+        "author": "Pelaaja1"
+      },
+      {
+        "content": "Vaiheen 15 pulmat ovat haastavia mutta palkitsevia. Vietin tunteja täydentämällä musiikkisekoitustani.",
+        "author": "Pelaaja2"
+      },
+      {
+        "content": "Rakastan yhteistyöpeliaspektia. On hauskaa pelata ystävien kanssa ja löytää uusia äänijärjestelyjä yhdessä.",
+        "author": "Pelaaja3"
+      },
+      {
+        "content": "Vaihe 15 tuo mukaan mielenkiintoisia mekaniikkoja. Se on tuore näkökulma, joka pitää pelin jännittävänä.",
+        "author": "Pelaaja4"
+      },
+      {
+        "content": "Piilotetut vihjeet ovat hieno lisä! Ne tuovat yllätystä pelimekaniikkaan.",
+        "author": "Pelaaja5"
+      },
+      {
+        "content": "Sprunki Phase 15 on haastava, mutta se on sen arvoista. Musiikkimahdollisuudet ovat rajattomat!",
+        "author": "Pelaaja6"
+      },
+      {
+        "content": "Vaiheen 15 grafiikka ja äänenlaatu ovat huippuluokkaa. Pelin pelaaminen on ilo.",
+        "author": "Pelaaja7"
+      },
+      {
+        "content": "Koin vaikeuksia muutamissa osioissa, mutta niiden uusinta pelaaminen oli osa hauskuutta. Loistava peli musiikin ystäville!",
+        "author": "Pelaaja8"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset - Sprunki Phase 15",
+    "questions": [
+      {
+        "question": "Mikä on Sprunki Phase 15?",
+        "answer": "Sprunki Phase 15 on fanien tekemä modifikaatio Incredibox-musiikin luomispeliin, joka esittelee uusia äänikombinaatioita ja hahmomekaniikkoja."
+      },
+      {
+        "question": "Kuinka ratkaisen pulmia Sprunki Phase 15:ssa?",
+        "answer": "Kokeile äänikombinaatioita, ajoitusta ja sekvensointia pulmien ratkaisemiseksi ja uusien polkujen avaamiseksi."
+      },
+      {
+        "question": "Voinko pelata Sprunki Phase 15:ta ystävien kanssa?",
+        "answer": "Kyllä, pelin jotkut vaiheet mahdollistavat yhteistyöpelin."
+      },
+      {
+        "question": "Mitkä ovat vaiheen 15 ainutlaatuiset piirteet?",
+        "answer": "Vaihe 15 sisältää uusia mekaniikkoja, ääniprofiileja ja piilotettuja vihjeitä, jotka parantavat pelikokemusta."
+      },
+      {
+        "question": "Onko aloittelijoille vinkkejä?",
+        "answer": "Kiinnitä erityistä huomiota visuaalisiin ja äänivihjeisiin, äläkä pelkää kokeilla erilaisia hahmoyhdistelmiä."
+      },
+      {
+        "question": "Mistä löydän ohjeita tai oppaita Sprunki Phase 15:een?",
+        "answer": "Verkko-peleihin liittyvät foorumit ja virallinen peliyhteisö ovat loistavia resursseja vinkkien ja oppaiden löytämiseksi."
+      }
+    ]
+  }
+}

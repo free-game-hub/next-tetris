@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Seis Gatos Abaixo - Uma Aventura de Quebra-Cabeça Cativante",
+    "description": "Descubra 'Seis Gatos Abaixo', um encantador jogo de quebra-cabeça point-and-click onde você usa poderes de poltergeist para resgatar seu grupo de gatos. Avaliado em 4.8/5 pelos jogadores.",
+    "keywords": "Seis Gatos Abaixo, jogo de quebra-cabeça, point-and-click, jogo de resgate de gatos, game jam, poderes de fantasmas, classificações de Seis Gatos Abaixo"
+  },
+  "hero": {
+    "h1": "Seis Gatos Abaixo",
+    "p": "Aprofunde-se em 'Seis Gatos Abaixo', um adorável jogo de quebra-cabeça point-and-click onde seus poderes de poltergeist ajudam a guiar seus amados gatos para a segurança."
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo",
+    "features": [
+      "Jogabilidade única de quebra-cabeça point-and-click",
+      "Arte pixelada encantadora e animações",
+      "Narrativa envolvente com elementos fantasmagóricos",
+      "Perfeito para amantes de gatos e entusiastas de quebra-cabeças",
+      "Experiência de jogo curta e doce, ideal para sessões rápidas"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar Seis Gatos Abaixo",
+    "instructions": [
+      "Use o mouse para interagir com objetos e guiar seus gatos.",
+      "Utilize habilidades de poltergeist para mover itens e abrir caminhos.",
+      "Resolva quebra-cabeças para avançar pelos níveis e resgatar todos os gatos.",
+      "Preste atenção em dicas e pistas visuais ao longo do jogo.",
+      "Desfrute da narrativa e das interações encantadoras com seus amigos felinos."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Seis Gatos Abaixo - Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Um jogo adorável! Ótimas animações e gatos absolutamente adoráveis.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Como dono de gato, este jogo ressoa profundamente. Uma verdadeira joia!",
+        "author": "gecko"
+      },
+      {
+        "content": "Um jogo adoravelmente doce... pobre Goldy! Emocionante e tocante.",
+        "author": "magerites"
+      },
+      {
+        "content": "Quebra-cabeças únicos e muitos momentos adoráveis. Adorei!",
+        "author": "DLGames"
+      },
+      {
+        "content": "A combinação de fofura e um toque de tristeza faz este jogo se destacar.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Jogo fantástico! Terminei em 15 minutos, amei cada momento.",
+        "author": "MCG"
+      },
+      {
+        "content": "Ao mesmo tempo adorável e triste, mas realmente divertido! Ótima experiência no geral.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Os gatos são adoráveis e o aspecto do ajudante fantasmal é único. Recomendo muito!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "Em quais plataformas Seis Gatos Abaixo está disponível?",
+        "answer": "Seis Gatos Abaixo está disponível em HTML5, Windows, macOS e Linux."
+      },
+      {
+        "question": "Quanto tempo leva para completar o jogo?",
+        "answer": "A sessão média dura cerca de meia hora, proporcionando uma experiência rápida, mas agradável."
+      },
+      {
+        "question": "Seis Gatos Abaixo é adequado para todas as idades?",
+        "answer": "Sim, o jogo foi projetado para ser apreciado por jogadores de todas as idades, especialmente amantes de gatos."
+      },
+      {
+        "question": "Quais são os requisitos mínimos para rodar o jogo?",
+        "answer": "O jogo é leve e pode rodar na maioria dos sistemas que suportam HTML5 ou as versões correspondentes do SO."
+      },
+      {
+        "question": "O jogo pode ser jogado offline?",
+        "answer": "As versões para download para Windows, macOS e Linux podem ser jogadas offline após a instalação."
+      },
+      {
+        "question": "Quem desenvolveu Seis Gatos Abaixo?",
+        "answer": "O jogo foi desenvolvido pela equipe Bean Loop e Mosu, com contribuições de Miles Äijälä, Robin Swift, Tomas Beržinskas e Alex Martin."
+      }
+    ]
+  }
+}

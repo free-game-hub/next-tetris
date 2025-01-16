@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 10 - Ostateczna Gra do Miksowania Muzyki",
+    "description": "Odkryj Sprunki Phase 10, fascynującą grę do miksowania muzyki, która oferuje kreatywną swobodę, unikalne postacie i nieskończone muzyczne możliwości.",
+    "keywords": "Sprunki Phase 10, gra do miksowania muzyki, kompozycja muzyczna, gry muzyczne"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 10",
+    "p": "Zanurz się w świat Sprunki Phase 10 - gdzie kreatywność spotyka muzykę. Eksperymentuj z elementami muzycznymi i twórz swoje unikalne kompozycje."
+  },
+  "gameFeatures": {
+    "title": "Cechy Gry",
+    "features": [
+      "Kreatywna Swoboda: Wyrażaj się muzycznie bez potrzeby posiadania zaawansowanych umiejętności.",
+      "Wizualne i Dźwiękowe Atrybuty: Ciesz się żywymi wizualizacjami i chwytliwymi dźwiękami.",
+      "Wartość Odtwarzania: Eksploruj różne kombinacje, aby uzyskać nowe dźwięki i bonusy.",
+      "Unikalne Postacie: Każda postać produkuje odrębne dźwięki dla nieskończonej kreatywności.",
+      "Interaktywne Bonusy: Odblokowuj specjalne utwory i wizualizacje poprzez eksperymentowanie."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Sprunki Phase 10",
+    "instructions": [
+      "Wybierz Postacie: Wybierz spośród postaci z unikalnymi dźwiękami.",
+      "Miksuj i Dopasowuj: Przeciągnij i upuść, aby stworzyć własny utwór muzyczny.",
+      "Odblokuj Bonusy: Odkrywaj kombinacje, które odblokowują specjalne animacje.",
+      "Eksperymentuj: Kontynuuj odkrywanie nowych dźwięków w nieskończonej liczbie możliwości.",
+      "Podziel się Swoimi Tworami: Pozwól innym cieszyć się twoimi muzycznymi arcydziełami."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu Gry"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Prześlij Swoją Recenzję",
+    "nameLabel": "Imię",
+    "reviewLabel": "Recenzja",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 10 to fantastyczna gra muzyczna! Łatwo jest odkrywać i tworzyć niesamowite melodie.",
+        "author": "Alicja"
+      },
+      {
+        "content": "Uwielbiam kreatywność, którą oferuje. Mogę eksperymentować z różnymi dźwiękami bez potrzeby bycia ekspertem muzycznym.",
+        "author": "Bobby"
+      },
+      {
+        "content": "Wizualny urok w połączeniu z chwytliwymi dźwiękami czyni tę grę angażującą dla wszystkich pokoleń.",
+        "author": "Krzysztof"
+      },
+      {
+        "content": "Każda sesja przynosi coś nowego. Wartość odtwarzania to jedna z najlepszych rzeczy w Sprunki Phase 10.",
+        "author": "Dana"
+      },
+      {
+        "content": "Odblokowywanie bonusów to moja ulubiona część. To niesamowicie satysfakcjonujące widzieć nowe animacje.",
+        "author": "Ewa"
+      },
+      {
+        "content": "Nie mogę przestać grać! Unikalne postacie wprowadzają świeże spojrzenie na gry muzyczne.",
+        "author": "Fiona"
+      },
+      {
+        "content": "Jako miłośnik muzyki, Sprunki Phase 10 przekroczyło moje oczekiwania. Gorąco polecam!",
+        "author": "George"
+      },
+      {
+        "content": "Świetna gra! Idealna do relaksu i odkrywania nowych muzycznych kombinacji.",
+        "author": "Hanna"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Jaki jest cel Sprunki Phase 10?",
+        "answer": "Celem jest kreatywne miksowanie różnych elementów muzycznych w celu stworzenia unikalnych kompozycji."
+      },
+      {
+        "question": "Czy potrzebuję umiejętności muzycznych, aby grać?",
+        "answer": "Nie, Sprunki Phase 10 jest zaprojektowane tak, aby było dostępne dla każdego, niezależnie od wiedzy muzycznej."
+      },
+      {
+        "question": "Czy mogę dzielić się swoimi kompozycjami z przyjaciółmi?",
+        "answer": "Tak, możesz dzielić się swoimi muzycznymi dziełami z przyjaciółmi i rodziną, aby mogli je docenić."
+      },
+      {
+        "question": "Czy w grze są zakupy wewnętrzne?",
+        "answer": "Sprunki Phase 10 oferuje zawartość, którą można odblokować w trakcie gry lub poprzez opcjonalne zakupy."
+      },
+      {
+        "question": "Na jakich platformach dostępne jest Sprunki Phase 10?",
+        "answer": "Sprunki Phase 10 jest dostępne na wielu platformach, w tym PC, iOS i Android."
+      },
+      {
+        "question": "Jak często wydawane są nowe aktualizacje?",
+        "answer": "Gra regularnie otrzymuje aktualizacje, wprowadzające nowe funkcje i zawartość, aby poprawić wrażenia z gry."
+      }
+    ]
+  }
+}

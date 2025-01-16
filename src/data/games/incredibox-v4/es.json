@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V4 - Crea tu propia música única en línea",
+    "description": "Incredibox V4 te ofrece una experiencia musical cautivadora donde puedes crear tus propias canciones gestionando un grupo de beatboxers animados. Desata tu creatividad con este juego musical interactivo.",
+    "keywords": "Incredibox V4, crear música en línea, juego de beatbox, creación musical, escenario virtual, serie Incredibox"
+  },
+  "hero": {
+    "h1": "Incredibox V4",
+    "p": "Sumérgete en el mundo de la creación musical con Incredibox V4. Utiliza personajes animados para crear canciones únicas y convierte en parte de la vibrante comunidad Incredibox."
+  },
+  "gameFeatures": {
+    "title": "Características de Incredibox V4",
+    "features": [
+      "Interfaz fácil de usar de arrastrar y soltar para una creación musical fluida.",
+      "Personajes animados con sonidos y ritmos únicos.",
+      "Sonidos y animaciones desbloqueables que enriquecen la experiencia musical.",
+      "Gráficos coloridos acompañados de animaciones dinámicas.",
+      "Capacidad de compartir y colaborar con otros entusiastas de la música."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo jugar Incredibox V4",
+    "instructions": [
+      "Selecciona personajes con tu ratón y arrástralos al escenario virtual.",
+      "Crea composiciones mezclando diferentes ritmos, melodías y efectos de sonido.",
+      "Desbloquea nuevo contenido experimentando con distintas combinaciones de personajes.",
+      "Utiliza atajos de teclado para un cambio eficiente de personajes y modos.",
+      "Explora nuevos estilos y combinaciones para crear tu canción ideal."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de pantalla de Incredibox V4"
+  },
+  "playerReviews": {
+    "title": "Opiniones de los Jugadores",
+    "submitReviewLabel": "Envía tu opinión",
+    "nameLabel": "Tu Nombre",
+    "reviewLabel": "Tu Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Incredibox V4 es un juego brillante para cualquiera que ame crear música. Su interfaz es increíblemente intuitiva.",
+        "author": "Alice W."
+      },
+      {
+        "content": "Las animaciones y gráficos son impresionantes y entretenidos. Un imprescindible para los amantes de la música.",
+        "author": "Brian K."
+      },
+      {
+        "content": "He pasado horas probando diferentes combinaciones. ¡Las posibilidades son infinitas!",
+        "author": "Charlie L."
+      },
+      {
+        "content": "Este juego hace que crear música sea simple y divertido. Me encanta compartir mis creaciones con amigos.",
+        "author": "Dana S."
+      },
+      {
+        "content": "La última versión introduce algunas características fantásticas. ¡Sigue mejorando!",
+        "author": "Eli M."
+      },
+      {
+        "content": "Como alguien nuevo en la creación musical, Incredibox V4 fue sorprendentemente fácil de empezar.",
+        "author": "Frank J."
+      },
+      {
+        "content": "La calidad de sonido y la variedad de ritmos son excelentes. Muy recomendable.",
+        "author": "Grace H."
+      },
+      {
+        "content": "Cada actualización trae nuevas diversiones y retos. Estoy absolutamente enamorado de Incredibox V4.",
+        "author": "Henry P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Qué es Incredibox V4?",
+        "answer": "Incredibox V4 es la última versión de la serie Incredibox, donde puedes crear música interactuando con beatboxers animados en un escenario virtual."
+      },
+      {
+        "question": "¿Cómo juego Incredibox V4?",
+        "answer": "Utilizas tu ratón para arrastrar personajes al escenario, mezclando sonidos para crear tu propia música. También hay atajos de teclado disponibles para mejorar tu experiencia."
+      },
+      {
+        "question": "¿Qué hace a Incredibox V4 único?",
+        "answer": "Su diseño intuitivo, gráficos coloridos y la capacidad de desbloquear nuevas características hacen que la creación musical sea emocionante y accesible para todos los usuarios."
+      },
+      {
+        "question": "¿Puedo compartir mis creaciones musicales?",
+        "answer": "Sí, puedes compartir tus creaciones musicales con otros jugadores, fomentando una vibrante comunidad de entusiastas de la música."
+      },
+      {
+        "question": "¿Cuáles son los requisitos del sistema para Incredibox V4?",
+        "answer": "Incredibox V4 funciona en la mayoría de los navegadores modernos y no requiere ninguna configuración especial del sistema."
+      },
+      {
+        "question": "¿Hay otras versiones de Incredibox que pueda jugar?",
+        "answer": "Sí, también puedes disfrutar Incredibox V2 y Foreverbox, que ofrecen diferentes experiencias musicales."
+      }
+    ]
+  }
+}

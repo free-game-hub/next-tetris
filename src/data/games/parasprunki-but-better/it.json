@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Parasprunki ma un livello superiore - Un'Esperienza Musicale Potenziata",
+    "description": "Scopri il mod Parasprunki ma un livello superiore, una versione migliorata di Parasprunki 12.0 con qualità audio superiore, grafica raffinata e usabilità migliorata per un'esperienza musicale eccezionale.",
+    "keywords": "Parasprunki ma un livello superiore, mod musicale, qualità audio, grafica raffinata, gioco di creazione musicale"
+  },
+  "hero": {
+    "h1": "Parasprunki ma un livello superiore",
+    "p": "Il mod Parasprunki ma un livello superiore prende le basi consolidate del mod Parasprunki 12.0 e le perfeziona, offrendo un'esperienza musicale più rifinita, coesa e piacevole."
+  },
+  "gameFeatures": {
+    "title": "Caratteristiche del Mod Parasprunki ma un livello superiore",
+    "features": [
+      "Qualità Audio Migliorata: Tono nitido e vivace che fa brillare ogni elemento.",
+      "Grafica Raffinata: Design più pulito e animazioni più fluide.",
+      "Usabilità Migliorata: Interfaccia intuitiva per concentrarsi sulla creatività.",
+      "Interfaccia Semplificata: Riduce le incertezze per una navigazione facile.",
+      "Esperienza Musicale Coesa: Gioco rifinito e divertente."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Come Giocare a Parasprunki ma un livello superiore",
+    "instructions": [
+      "Seleziona i Personaggi: Scegli da un roster affinato per chiarezza e equilibrio.",
+      "Trascina e Rilascia: Dispone i personaggi per stratificare loop migliorati.",
+      "Sperimenta e Regola: Affina i volumi e aggiungi effetti.",
+      "Salva e Condividi: Salva la tua composizione e condividila con la comunità.",
+      "Sblocca il Potenziale: Prova diverse combinazioni per un'esperienza unica."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshot del Mod Parasprunki ma un livello superiore"
+  },
+  "playerReviews": {
+    "title": "Recensioni dei Giocatori",
+    "submitReviewLabel": "Invia la tua Recensione",
+    "nameLabel": "Nome",
+    "reviewLabel": "Recensione",
+    "submitButtonLabel": "Invia",
+    "reviews": [
+      {
+        "content": "Adoro assolutamente la nuova qualità audio di questo mod. I toni sono così vivaci!",
+        "author": "Giocatore123"
+      },
+      {
+        "content": "Le modifiche all'interfaccia fanno davvero la differenza. È molto più facile da usare ora.",
+        "author": "AmanteDellaMusica"
+      },
+      {
+        "content": "Le grafiche rifinite aiutano a distinguere i ruoli dei personaggi durante la composizione. Grande miglioramento!",
+        "author": "ArtistaVisivo"
+      },
+      {
+        "content": "La possibilità di salvare e condividere le composizioni è un vero cambiamento. Lo adoro!",
+        "author": "CompositorePro"
+      },
+      {
+        "content": "I loop e le melodie sono perfettamente bilanciati, creando un'esperienza deliziosa.",
+        "author": "IngegnereDelSuono"
+      },
+      {
+        "content": "Sperimentare con volumi ed effetti è molto più facile ora. Bravi agli sviluppatori!",
+        "author": "MasterMixer"
+      },
+      {
+        "content": "Ho raccomandato questo mod a tutti i miei amici. È semplicemente fantastico!",
+        "author": "Giocatrice"
+      },
+      {
+        "content": "L'usabilità migliorata mi ha permesso di concentrarmi completamente sulla creatività. Fantastico!",
+        "author": "MenteCreativa"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "questions": [
+      {
+        "question": "Che cos'è il Mod Parasprunki ma un livello superiore?",
+        "answer": "È una versione rifinita del mod Parasprunki 12.0, con qualità audio, grafiche e usabilità migliorate."
+      },
+      {
+        "question": "Come posso scegliere i personaggi?",
+        "answer": "Scegli da un roster affinato per chiarezza e equilibrio."
+      },
+      {
+        "question": "Posso salvare e condividere le mie composizioni?",
+        "answer": "Sì, puoi salvare le tue creazioni e condividerle con la comunità."
+      },
+      {
+        "question": "Quali nuove funzionalità offre questo mod?",
+        "answer": "Il mod offre grafica raffinata, qualità audio migliorata e un'interfaccia utente potenziata."
+      },
+      {
+        "question": "Questo mod è adatto ai principianti?",
+        "answer": "Sì, l'interfaccia intuitiva lo rende accessibile sia ai principianti che ai giocatori esperti."
+      },
+      {
+        "question": "Come posso migliorare le mie composizioni?",
+        "answer": "Sperimenta con volumi, effetti e diverse combinazioni delle nuove qualità sonore."
+      }
+    ]
+  }
+}

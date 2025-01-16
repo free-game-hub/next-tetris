@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Phase 30 - Explore a Nova Aventura Musical",
+    "description": "Junte-se ao universo Sprunki com o Mod Phase 30. Descubra novos personagens, paisagens sonoras dinâmicas e jogabilidade inovadora. Perfeito tanto para novos quanto para jogadores experientes.",
+    "keywords": "Sprunki Phase 30, Sprunki Mod, aventura musical, paisagens sonoras dinâmicas, jogabilidade criativa"
+  },
+  "hero": {
+    "h1": "Sprunki Phase 30",
+    "p": "Embarque em uma nova jornada musical com o Mod Sprunki Phase 30. Mergulhe em um mundo imersivo repleto de mistério, aventura e infinitas possibilidades criativas."
+  },
+  "gameFeatures": {
+    "title": "Principais Recursos do Sprunki Phase 30",
+    "features": [
+      "Novos Personagens: Personagens com design novo trazem loops e efeitos únicos que expandem suas possibilidades musicais.",
+      "Paisagens Sonoras Dinâmicas: Desfrute de uma mistura de batidas rítmicas, melodias atmosféricas e efeitos em camadas para experimentação criativa.",
+      "Temas Visualmente Impactantes: Experimente uma estética artística que te imerge em um mundo vibrante e envolvente.",
+      "Jogabilidade Aprimorada: Mecânicas suaves e combinações de som cuidadosamente selecionadas garantem uma experiência intuitiva.",
+      "Compartilhamento na Comunidade: Mostre suas composições musicais salvando e compartilhando-as com a comunidade."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar o Mod Sprunki Phase 30",
+    "instructions": [
+      "Escolha Personagens: Selecione entre uma lista de novos e antigos personagens, cada um com loops únicos.",
+      "Arraste e Solte: Organize os personagens na tela, sobrepondo batidas e efeitos.",
+      "Experimente e Refinar: Ajuste volumes e combinações para aprimorar sua faixa.",
+      "Salve e Compartilhe: Salve sua composição e compartilhe com a comunidade.",
+      "Explore Ambientes: Descubra ambientes vibrantes e dinâmicos à medida que avança."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Sprunki Phase 30"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Envie Sua Avaliação",
+    "nameLabel": "Nome",
+    "reviewLabel": "Avaliação",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "Sprunki Phase 30 é uma obra-prima. Combina criatividade e jogabilidade de forma impecável.",
+        "author": "Alice J."
+      },
+      {
+        "content": "Os novos personagens e loops tornaram minhas composições muito mais dinâmicas.",
+        "author": "Sam K."
+      },
+      {
+        "content": "Adoro o design visual do Phase 30. É um prazer explorar.",
+        "author": "Mike L."
+      },
+      {
+        "content": "Os controles de jogabilidade aprimorados são muito intuitivos e tornam a criação de música uma brisa.",
+        "author": "Jane D."
+      },
+      {
+        "content": "É incrível como o jogo permite que você salve e compartilhe música. Meus amigos estão impressionados!",
+        "author": "John T."
+      },
+      {
+        "content": "O Phase 30 elevou minha experiência Sprunki a um novo nível. Brilhante!",
+        "author": "Anna P."
+      },
+      {
+        "content": "Como fã de longa data, este é o melhor fase até agora. Recomendo muito para todos os jogadores.",
+        "author": "Robert K."
+      },
+      {
+        "content": "Eu gosto de experimentar com as novas paisagens sonoras. É incrivelmente fresco e envolvente.",
+        "author": "Lisa R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O que é Sprunki Phase 30?",
+        "answer": "Sprunki Phase 30 é o mais recente mod na série Sprunki, oferecendo novos personagens, paisagens sonoras e recursos de jogabilidade."
+      },
+      {
+        "question": "Como eu salvo minhas composições no Sprunki Phase 30?",
+        "answer": "Você pode salvar suas composições clicando no botão 'Salvar' na interface do jogo após completar uma faixa."
+      },
+      {
+        "question": "Posso compartilhar minhas criações com outras pessoas?",
+        "answer": "Sim, você pode compartilhar suas composições salvas com a comunidade através do recurso de compartilhamento no jogo."
+      },
+      {
+        "question": "Os novos personagens no Sprunki Phase 30 são gratuitos para usar?",
+        "answer": "Sim, todos os novos personagens estão disponíveis no mod, proporcionando loops e efeitos adicionais gratuitamente."
+      },
+      {
+        "question": "O que torna o Phase 30 diferente das versões anteriores?",
+        "answer": "O Phase 30 oferece jogabilidade aprimorada, novos personagens, paisagens sonoras únicas e um tema visualmente deslumbrante."
+      },
+      {
+        "question": "Sprunki Phase 30 é adequado para novos jogadores?",
+        "answer": "Com certeza! É projetado para ser intuitivo para os novatos, enquanto oferece profundidade para jogadores experientes."
+      }
+    ]
+  }
+}

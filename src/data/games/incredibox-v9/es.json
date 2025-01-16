@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Game | Juega Incredibox Sprunki Mods en Línea",
+    "description": "Descubre el vibrante mundo de Sprunki Game, una expansión innovadora de Incredibox con mods personalizados, bandas sonoras únicas y fases temáticas. Crea, mezcla y comparte tus obras maestras musicales en línea.",
+    "keywords": "Sprunki Game, Incredibox Mods, Sprunki Mods, Jugar Sprunki en Línea, Fases de Sprunki, Música de Sprunki"
+  },
+  "hero": {
+    "h1": "Juego Incredibox Sprunki en Línea",
+    "p": "Sumérgete en el universo creativo de Sprunki Game, una expansión hecha por fans que ofrece aventuras musicales sin fin con mods personalizados, nuevas fases y jugabilidad interactiva."
+  },
+  "gameFeatures": {
+    "title": "Características Clave de Sprunki Game",
+    "features": [
+      "Mods Personalizados de Sprunki: Explora modificaciones creadas por fans con personajes y ritmos únicos.",
+      "Fases Temáticas de Sprunki: Experimenta expansiones de horror, comedia y fantasía.",
+      "Jugabilidad Interactiva de Arrastrar y Soltar: Mezcla y crea bandas sonoras fácilmente.",
+      "Libertad Creativa: Diseña pistas únicas y compártelas con una comunidad vibrante.",
+      "Fuerte Soporte Comunitario: Únete a concursos y colabora para generar ideas frescas."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cómo Jugar el Juego Incredibox Sprunki",
+    "instructions": [
+      "Inicia el Juego: Accede a Sprunkin.com para comenzar tu aventura.",
+      "Elige Personajes: Selecciona entre personajes vibrantes, cada uno añade un sonido único.",
+      "Crea Mezclas: Arrastra íconos para construir tu pista perfecta y mira las animaciones.",
+      "Desbloquea Especiales: Combina sonidos para descubrir características ocultas.",
+      "Guarda y Comparte: Graba tus creaciones y compártelas con amigos."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Pantalla del Juego Sprunki"
+  },
+  "playerReviews": {
+    "title": "Opiniones de Jugadores sobre el Juego Sprunki",
+    "submitReviewLabel": "Envía Tu Reseña",
+    "nameLabel": "Nombre",
+    "reviewLabel": "Reseña",
+    "submitButtonLabel": "Enviar",
+    "reviews": [
+      {
+        "content": "La creatividad en el Juego Sprunki es inigualable. ¡He pasado horas mezclando sonidos!",
+        "author": "Emily R."
+      },
+      {
+        "content": "¡Una divertida variación de Incredibox! Los nuevos mods me mantienen regresando.",
+        "author": "Jake L."
+      },
+      {
+        "content": "Me encantan las fases temáticas—¡especialmente el horror! Agrega una nueva dimensión.",
+        "author": "Sarah B."
+      },
+      {
+        "content": "Interactivo y fácil de usar. Ideal tanto para creadores casuales como serios.",
+        "author": "Mike D."
+      },
+      {
+        "content": "El aspecto comunitario es fantástico—he conocido a otros creadores y aprendido mucho.",
+        "author": "Linda K."
+      },
+      {
+        "content": "¡Nunca se pone viejo! Las actualizaciones y nuevos mods siempre son emocionantes.",
+        "author": "Tommy V."
+      },
+      {
+        "content": "Una plataforma increíble para expresar la creatividad musical. ¡Altamente recomendada!",
+        "author": "Sandra E."
+      },
+      {
+        "content": "Me encanta el diseño visual y la posibilidad de combinar diferentes elementos.",
+        "author": "Chris P."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre Sprunki Incredibox",
+    "questions": [
+      {
+        "question": "¿Qué es Sprunki Mod?",
+        "answer": "Sprunki Mod es una adaptación creada por fans de Incredibox, que presenta personajes y temas únicos."
+      },
+      {
+        "question": "¿Cómo descargo Sprunki Incredibox?",
+        "answer": "Descárgalo desde el sitio oficial, Google Play o Apple App Store."
+      },
+      {
+        "question": "¿Dónde puedo jugar Sprunki Mod en línea?",
+        "answer": "Juega a través de plataformas de juegos, sitios oficiales de mods o servidores hospedados por fans."
+      },
+      {
+        "question": "¿Qué hace únicos a los Mods de Sprunki?",
+        "answer": "Ofrecen giros creativos con temas personalizados y diseños cautivadores."
+      },
+      {
+        "question": "¿Qué son las Fases de Sprunki?",
+        "answer": "Expansiones temáticas como horror o fantasía, con nuevos personajes y desafíos."
+      },
+      {
+        "question": "¿Hay Mods de Sprunki con temática de horror?",
+        "answer": "Sí, incluyendo Sprunki Horror Mod y Sprunki The Lost File."
+      }
+    ]
+  }
+}

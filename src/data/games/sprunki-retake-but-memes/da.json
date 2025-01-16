@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake Men Memes - Din Musikalisk Lekplats av Humor",
+    "description": "Utforska Sprunki Retake men Memes Mod, där internethumor möter musikskapande. Dyk ner i en värld av meme-tema karaktärer och roliga ljudlandskap som förvandlar dina kompositioner till skrattfyllda jam-sessioner.",
+    "keywords": "Sprunki Retake, Memes Mod, meme-tema karaktärer, humoristiska ljudlandskap, musikskapande"
+  },
+  "hero": {
+    "h1": "Sprunki Retake Men Memes",
+    "p": "Fördjupa dig i Sprunki Retake men Memes Mod, där varje musikalisk komposition kan väcka en rolig upplevelse."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Meme Mod Funktioner",
+    "features": [
+      "Meme-Tema Karaktärer: Utformade för att återspegla igenkännbara memes med ikoniska bilder och knäppa catchphrases.",
+      "Humoristiska Ljudlandskap: Upptäck okonventionella loopar med komiska ljudeffekter.",
+      "Glatt Kaos: En atmosfär av ohejdad rollek och experimenterande med udda kombinationer.",
+      "Lekfulla Animationer: Dynamiska animationer som förstärker den komiska essensen i dina kompositioner.",
+      "Internet-Inspirerad Humor: Referenser till virala ögonblick och kända memes genomgående."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så Här Spelar Du Sprunki Retake men Memes Mod",
+    "instructions": [
+      "Välj Karaktärer: Välj bland meme-inspirerade figurer för att blanda humor med rytm.",
+      "Dra och Släpp: Arrangera karaktärer på skärmen för att skapa låtar fyllda med skämt.",
+      "Experimentera och Njut: Justera volymer och omfatta absurda blandningar för skoj.",
+      "Spara och Dela: Spara dina leende-framkallande låtar och dela med vänner.",
+      "Skratta och Spela Igen: Fortsätt utforska för att hitta nya roliga kombinationer."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Screenshots från Spelet"
+  },
+  "playerReviews": {
+    "title": "Spelarrecensioner",
+    "submitReviewLabel": "Skicka Din Recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Jag trodde aldrig att musikskapande kunde vara så roligt!",
+        "author": "Alex K."
+      },
+      {
+        "content": "En perfekt blandning av humor och kreativitet.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Sprunki Retake men Memes Mod är min favorit för snabba skratt.",
+        "author": "Sam R."
+      },
+      {
+        "content": "Varje session känns som ett nytt memeäventyr!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Jag delade mina låtar med vänner och de älskade det.",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Om du älskar memes och musik, måste du prova detta!",
+        "author": "Jordan W."
+      },
+      {
+        "content": "Oändligt roligt, jag kan inte sluta skapa!",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Meme-referenserna är klockrena!",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "questions": [
+      {
+        "question": "Hur väljer jag en karaktär?",
+        "answer": "Klicka på karaktärslistan för att välja din meme-inspirerade figur."
+      },
+      {
+        "question": "Kan jag spara mina musikskapelser?",
+        "answer": "Ja, du kan spara och dela dina låtar med andra."
+      },
+      {
+        "question": "Finns det några handledningar tillgängliga?",
+        "answer": "Spelet erbjuder intuitiva instruktioner för att vägleda dig i spelet."
+      },
+      {
+        "question": "Behöver jag internet för att spela?",
+        "answer": "Nej, du kan njuta av spelet offline efter den första nedladdningen."
+      },
+      {
+        "question": "Kan jag anpassa ljudeffekterna?",
+        "answer": "Du kan justera volymer och experimentera med olika ljudkombinationer."
+      },
+      {
+        "question": "Hur ofta läggs nya memes till?",
+        "answer": "Spelet uppdateras regelbundet för att inkludera de senaste virala memes."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Rekommenderade Spel",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "Horror Mods",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Sprunki Mods",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

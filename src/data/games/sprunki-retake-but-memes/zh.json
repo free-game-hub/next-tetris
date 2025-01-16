@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake但搞笑表情包 - 你的音乐幽默乐园",
+    "description": "欢迎探索Sprunki Retake但搞笑表情包Mod，在这里互联网幽默与音乐创作交汇碰撞。沉浸在以表情包为主题的角色和搞笑音效的世界中，让你的作品化身为充满笑声的即兴演奏。",
+    "keywords": "Sprunki Retake, 搞笑表情包Mod, 表情包主题角色, 搞笑音效, 音乐创作"
+  },
+  "hero": {
+    "h1": "Sprunki Retake但搞笑表情包",
+    "p": "沉浸在Sprunki Retake但搞笑表情包Mod中，每一首音乐作品都能带来搞笑的体验。"
+  },
+  "gameFeatures": {
+    "title": "Sprunki搞笑表情包Mod特点",
+    "features": [
+      "表情包主题角色：设计灵感来自于知名表情包，结合标志性视觉效果和幽默口号。",
+      "搞笑音效：发现非常规音轨和搞笑音效的奇妙组合。",
+      "欢快的混搭：尽情享受无拘无束的乐趣，尝试奇妙的组合。",
+      "活泼动画：动态动画增强你作品的搞笑元素。",
+      "互联网风格幽默：在游戏中可见病毒爆红时刻和经典表情包的致敬。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩Sprunki Retake但搞笑表情包Mod",
+    "instructions": [
+      "选择角色：从表情包灵感的角色中选择，融合幽默与节奏。",
+      "拖放操作：在屏幕上排列角色，创造出充满笑料的乐曲。",
+      "尝试与享受：调整音量，玩味荒诞的组合，好好享受乐趣。",
+      "保存与分享：保存让人开怀的旋律，与朋友分享。",
+      "欢笑与重来：继续探索，寻找新的搞笑组合。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "游戏截图"
+  },
+  "playerReviews": {
+    "title": "玩家评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "姓名",
+    "reviewLabel": "评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "我从没想过制作音乐会如此搞笑！",
+        "author": "Alex K."
+      },
+      {
+        "content": "幽默与创意的完美结合。",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Sprunki Retake但搞笑表情包Mod是我获得快乐的首选。",
+        "author": "Sam R."
+      },
+      {
+        "content": "每一次游戏都像是一次新的表情包冒险！",
+        "author": "Chris T."
+      },
+      {
+        "content": "我和朋友分享了我的音乐，他们都喜欢。",
+        "author": "Taylor M."
+      },
+      {
+        "content": "如果你喜欢表情包和音乐，这款游戏一定要试！",
+        "author": "Jordan W."
+      },
+      {
+        "content": "无尽的乐趣，我根本停不下来！",
+        "author": "Morgan F."
+      },
+      {
+        "content": "表情包的引用恰到好处！",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "我该如何选择角色？",
+        "answer": "点击角色列表，选择你喜欢的表情包角色。"
+      },
+      {
+        "question": "我可以保存我的音乐作品吗？",
+        "answer": "可以，你可以保存并与他人分享你的旋律。"
+      },
+      {
+        "question": "有没有可用的教程？",
+        "answer": "游戏提供直观的说明来指导你进行游戏。"
+      },
+      {
+        "question": "游戏需要联网吗？",
+        "answer": "不需要，初次下载后你可以离线享受游戏。"
+      },
+      {
+        "question": "我可以自定义音效吗？",
+        "answer": "你可以调整音量，以及尝试不同的声音组合。"
+      },
+      {
+        "question": "新表情包更新的频率是多少？",
+        "answer": "游戏会定期更新，以包含最新的热门表情包。"
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "推荐游戏",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "恐怖模组",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Sprunki模组",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V6 - Luova musiikkipeli, joka tarjoaa sinulle rajattomat rytmit",
+    "description": "Tutustu Incredibox V6:een, maailmalla suosittuun musiikin luontipeliin. Hallitse Incredicrew-hahmoja ja luo ainutlaatuinen musiikkiraita!",
+    "keywords": "Incredibox V6, musiikkipeli, luovat rytmit, DJ-peli, interaktiivinen peli"
+  },
+  "hero": {
+    "h1": "Incredibox V6",
+    "p": "Liity Incredibox V6:een ja aloita musiikillinen luovuutesi matka. Koe hauska pelattavuus ja kiehtovat visuaalit, ja tule musiikin mestariksi."
+  },
+  "gameFeatures": {
+    "title": "Incredibox V6 Pelin Ominaisuudet",
+    "features": [
+      "Hallitse joukkoa Incredicrew-hahmoja musiikin luomiseksi.",
+      "Jokaisella hahmolla on oma ainutlaatuinen ääni: laulua, rytmittämistä ja instrumentteja.",
+      "Yksinkertainen käyttöliittymä, napsauta lisätäksesi tai poistaaksesi ääniä.",
+      "Monipuoliset äänikompleksit herättävät musiikillisen luovuutesi.",
+      "Upeat visuaaliset efektit tekevät musiikillista luomistyötä vieläkin nautinnollisempaa."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka pelata Incredibox V6",
+    "instructions": [
+      "Valitse hahmo ruudukosta, jokaisen hahmon ääni on erilainen.",
+      "Lisää tai poista hahmojen ääniä napsauttamalla ja luo rytmi.",
+      "Kokeile erilaisia ääniyhdistelmiä löytääksesi suosikkirytmisi.",
+      "Hallinta on vaivatonta hiirellä tai näppäimistön pikavalinnoilla.",
+      "Nauti musiikista luomisen aikana ja tutki omaa tyyliäsi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V6 Pelin Kuvakaappaukset"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arvostelut",
+    "submitReviewLabel": "Lähetä arvostelusi",
+    "nameLabel": "Nimesi",
+    "reviewLabel": "Arvostelun sisältö",
+    "submitButtonLabel": "Lähetä arvostelu",
+    "reviews": [
+      {
+        "content": "Incredibox V6 auttoi minua löytämään uuden intohimon musiikin luontiin!",
+        "author": "Li Wei"
+      },
+      {
+        "content": "Visuaaliset ja ääni efektit ovat huikeita, peli on todella koukuttava.",
+        "author": "Jessica"
+      },
+      {
+        "content": "Yksi luovimmista musiikkipeleistä, joita olen pelannut.",
+        "author": "Tom"
+      },
+      {
+        "content": "Suosittelen lämpimästi kaikille musiikista kiinnostuneille, helppo käyttää mutta äärettömän hauskaa.",
+        "author": "Chen"
+      },
+      {
+        "content": "Luomisprosessi on iloista ja opettelin paljon rytmisestä.",
+        "author": "Maria"
+      },
+      {
+        "content": "Vaikka en ymmärrä musiikista, voin silti pelata hyvin – todella opettavainen.",
+        "author": "David"
+      },
+      {
+        "content": "Pelin pelattavuus ja visuaalinen suunnittelu ovat erinomaisia.",
+        "author": "Sophia"
+      },
+      {
+        "content": "Ystävä suositteli tätä peliä, ja se ei petä odotuksia!",
+        "author": "Ethan"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein kysytyt kysymykset",
+    "questions": [
+      {
+        "question":"Kuinka päivittää Incredibox V6 uusimpaan versioon?",
+        "answer":"Voit ladata uusimman version viralliselta verkkosivustolta."
+      },
+      {
+        "question":"Kuinka tallentaa musiikkikappaleeni?",
+        "answer":"Voit pelissä napsauttaa tallennusvaihtoehtoa tallentaaksesi musiikkikappaleesi laitteellesi."
+      },
+      {
+        "question":"Voiko Incredibox V6:ta pelata useampi pelaaja?",
+        "answer":"Tällä hetkellä Incredibox V6 on yksinpelipeli, mutta voit jakaa teoksesi ystäviesi kanssa."
+      },
+      {
+        "question":"Millaisia ääni valintoja pelissä on?",
+        "answer":"Pelissä on erilaisia laulu-, rytmi- ja instrumenttikombinaatioita valittavaksi."
+      },
+      {
+        "question":"Voiko Incredibox V6:ta pelata mobiililaitteilla?",
+        "answer":"Kyllä, Incredibox V6 tukee mobiililaitteen käyttöä."
+      },
+      {
+        "question":"Kuinka saada lisää äänikombinaatioita?",
+        "answer":"Voit avata lisää äänikombinaatioita pelaamalla peliä."
+      }
+    ]
+  }
+}

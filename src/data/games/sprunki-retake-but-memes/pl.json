@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake But Memes - Twój Muzyczny Plac Zabaw z Humorem",
+    "description": "Odkryj Mod Sprunki Retake but Memes, gdzie internetowy humor łączy się z tworzeniem muzyki. Zanurz się w świecie postaci inspirowanych memami i zabawnych dźwięków, które zmieniają twoje kompozycje w pełne śmiechu jam session.",
+    "keywords": "Sprunki Retake, Memes Mod, postacie inspirowane memami, zabawne pejzaże dźwiękowe, tworzenie muzyki"
+  },
+  "hero": {
+    "h1": "Sprunki Retake But Memes",
+    "p": "Zanurz się w Sprunki Retake but Memes Mod, gdzie każda muzyczna kompozycja może wywołać zabawną przygodę."
+  },
+  "gameFeatures": {
+    "title": "Funkcje Modu Memów Sprunki",
+    "features": [
+      "Postacie inspirowane memami: Stylizowane, by przywoływać rozpoznawalne memy poprzez ikoniczne wizualizacje i dziwaczne hasła.",
+      "Zabawne pejzaże dźwiękowe: Odkryj niekonwencjonalne loop-y z komediowymi efektami dźwiękowymi.",
+      "Wesoły chaos: Atmosfera nieograniczonej zabawy i eksperymentowania z dziwnymi kombinacjami.",
+      "Zabawne animacje: Dynamiczne animacje, które podkreślają komediowy charakter twoich kompozycji.",
+      "Humor inspirowany internetem: Odniesienia do wiralowych momentów i znanych memów w całej grze."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak grać w Sprunki Retake but Memes Mod",
+    "instructions": [
+      "Wybierz postacie: Wybierz z postaci inspirowanych memami, by połączyć humor z rytmem.",
+      "Przeciągnij i upuść: Ułóż postacie na ekranie, aby stworzyć utwory pełne żartów.",
+      "Eksperymentuj i ciesz się: Dostosuj głośność i przyjmij absurdalne mieszanki dla zabawy.",
+      "Zapisz i udostępnij: Zapisz swoje utwory wywołujące uśmiech i podziel się z przyjaciółmi.",
+      "Odkrywaj i powtarzaj: Kontynuuj odkrywanie, aby znaleźć nowe zabawne kombinacje."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty ekranu z gry"
+  },
+  "playerReviews": {
+    "title": "Opinie Graczy",
+    "submitReviewLabel": "Prześlij swoją opinię",
+    "nameLabel": "Imię",
+    "reviewLabel": "Opinia",
+    "submitButtonLabel": "Prześlij",
+    "reviews": [
+      {
+        "content": "Nigdy nie sądziłem, że tworzenie muzyki może być tak zabawne!",
+        "author": "Alex K."
+      },
+      {
+        "content": "Idealne połączenie humoru i kreatywności.",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Mod Sprunki Retake but Memes to moje ulubione źródło śmiechu.",
+        "author": "Sam R."
+      },
+      {
+        "content": "Każda sesja to nowa przygoda z memem!",
+        "author": "Chris T."
+      },
+      {
+        "content": "Podzieliłem się swoimi utworami z przyjaciółmi i im się spodobały.",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Jeśli kochasz memy i muzykę, musisz to wypróbować!",
+        "author": "Jordan W."
+      },
+      {
+        "content": "Nieskończona zabawa, nie mogę przestać tworzyć!",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Odniesienia do memów są celne!",
+        "author": "Casey J."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Jak mogę wybrać postać?",
+        "answer": "Kliknij na listę postaci, aby wybrać swoją inspirowaną memem figurę."
+      },
+      {
+        "question": "Czy mogę zapisać swoje muzyczne kreacje?",
+        "answer": "Tak, możesz zapisać i udostępnić swoje utwory innym."
+      },
+      {
+        "question": "Czy są dostępne jakieś samouczki?",
+        "answer": "Gra oferuje intuicyjne instrukcje, które poprowadzą cię w rozgrywce."
+      },
+      {
+        "question": "Czy do gry potrzebny jest internet?",
+        "answer": "Nie, możesz cieszyć się grą offline po początkowym pobraniu."
+      },
+      {
+        "question": "Czy mogę dostosować efekty dźwiękowe?",
+        "answer": "Możesz dostosować głośność i eksperymentować z różnymi kombinacjami dźwięków."
+      },
+      {
+        "question": "Jak często dodawane są nowe memy?",
+        "answer": "Gra jest regularnie aktualizowana, aby zawierać najnowsze wiralne memy."
+      }
+    ]
+  },
+  "gameRecommendation": {
+    "title": "Zalecane Gry",
+    "games": [
+      {
+        "image": "url_to_image1",
+        "title": "Horror Mods",
+        "link": "url_to_horror_mods"
+      },
+      {
+        "image": "url_to_image2",
+        "title": "Sprunki Mods",
+        "link": "url_to_sprunki_mods"
+      }
+    ]
+  }
+}

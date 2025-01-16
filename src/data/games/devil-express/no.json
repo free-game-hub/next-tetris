@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Devil Express - Et narrativt eventyrspill",
+    "description": "Utforsk den forbannede leilighetsblokken i Devil Express, et 2D eventyrspill fylt med monstre, magi og mysterier. Avdekk hemmeligheter og få venner underveis.",
+    "keywords": "Devil Express, eventyrspill, 2D spill, narrativt spill, mysterispill, Devil Express nedlasting"
+  },
+  "hero": {
+    "h1": "Devil Express",
+    "p": "Trå inn i en surrealistisk verden av monstre og magi med Devil Express, et narrativt fokusert 2D eventyrspill. Oppdag hemmelighetene til en mystisk leilighetsblokk som trosser virkeligheten."
+  },
+  "gameFeatures": {
+    "title": "Nøkkelfunksjoner i Devil Express",
+    "features": [
+      "Fullt oversatt til spansk",
+      "En time med høy-tempo leveringsaction",
+      "Møt over 16 unike monsterkarakterer",
+      "Temaene tap, arbeid og selvoppdagelse",
+      "Kan spilles som en nedlastbar kjørbar fil eller i nettleseren"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Slik spiller du Devil Express",
+    "instructions": [
+      "Beveg deg med W / A eller venstre / høyre piltaster",
+      "Interager med mellomromstasten eller opp-piltasten",
+      "Åpne inventaret med Tab eller 'i' tasten",
+      "Utforsk ulike etasjer og avdekk mysterier",
+      "Engasjer deg med karakterer for å løse gåter"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skjermbilder av spillet"
+  },
+  "playerReviews": {
+    "title": "Spilleranmeldelser",
+    "submitReviewLabel": "Send inn din anmeldelse",
+    "nameLabel": "Navn",
+    "reviewLabel": "Anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Dette er nå mitt favorittspill!",
+        "author": "Sovech"
+      },
+      {
+        "content": "Det er et så morsomt og lett spill; karaktermomentene er så herlige!",
+        "author": "Subpar_Carrion.92"
+      },
+      {
+        "content": "Jeg elsket dette spillet! Det var nydelig!",
+        "author": "Starswapsans19@gmail.com"
+      },
+      {
+        "content": "Jeg elsker elsker elsker dette spillet, vær så snill lage en oppfølger!",
+        "author": "Exabyte"
+      },
+      {
+        "content": "Et fredelig spill med fantastiske vibber og en vakker historie.",
+        "author": "Donaldsfries"
+      },
+      {
+        "content": "Historien, lyddesignen, kunsten - alt er fantastisk. Veldig underkjent.",
+        "author": "Mrspudcake"
+      },
+      {
+        "content": "Musikken er ethereisk vakker, og karakterene er så godt skrevet.",
+        "author": "Ani-the-GREAT"
+      },
+      {
+        "content": "Et så enkelt og morsomt spill! Jeg elsker det!",
+        "author": "Snakeglitter"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Ofte stilte spørsmål",
+    "questions": [
+      {
+        "question":"På hvilke plattformer er Devil Express tilgjengelig?",
+        "answer":"Devil Express er tilgjengelig på HTML5 og Windows-plattformer."
+      },
+      {
+        "question":"Er Devil Express oversatt til andre språk?",
+        "answer":"Ja, spillet har en komplett spansk oversettelse tilgjengelig for nedlastning."
+      },
+      {
+        "question":"Hva er den gjennomsnittlige spilletiden for Devil Express?",
+        "answer":"Den gjennomsnittlige økten varer omtrent en time."
+      },
+      {
+        "question":"Hvilke inndata støttes?",
+        "answer":"Spillet støtter tastaturets inndata."
+      },
+      {
+        "question":"Kan jeg spille Devil Express i nettleseren min?",
+        "answer":"Ja, du kan spille det som en nedlastbar kjørbar fil eller direkte i nettleseren din."
+      },
+      {
+        "question":"Hvem utviklet spillets kunst og musikk?",
+        "answer":"Kunst ble laget av Shuteye, mens musikken ble laget av 7wave."
+      }
+    ]
+  }
+}

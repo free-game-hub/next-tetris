@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Devil Express - Permainan Petualangan Naratif",
+    "description": "Jelajahi blok apartemen terkutuk di Devil Express, permainan petualangan 2D yang dipenuhi dengan monster, sihir, dan misteri. Ungkap rahasia dan temukan teman di sepanjang perjalanan.",
+    "keywords": "Devil Express, permainan petualangan, permainan 2D, permainan naratif, permainan misteri, Devil Express unduh"
+  },
+  "hero": {
+    "h1": "Devil Express",
+    "p": "Masuki dunia surreal yang dipenuhi monster dan sihir dengan Devil Express, permainan petualangan 2D berfokus naratif. Temukan rahasia dari blok apartemen misterius yang menentang kenyataan."
+  },
+  "gameFeatures": {
+    "title": "Fitur Utama Devil Express",
+    "features": [
+      "Sepenuhnya diterjemahkan ke dalam Bahasa Spanyol",
+      "Satu jam aksi pengiriman yang cepat",
+      "Temui lebih dari 16 karakter monster unik",
+      "Tema kehilangan, kerja, dan penemuan diri",
+      "Dapat dimainkan sebagai eksekusi yang dapat diunduh atau di browser"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Devil Express",
+    "instructions": [
+      "Gerakkan menggunakan tombol W / A atau anak panah Kiri / Kanan",
+      "Berinteraksi dengan tombol Spasi atau anak panah Atas",
+      "Akses Inventaris dengan tombol Tab atau \"i\"",
+      "Jelajahi berbagai lantai dan ungkap misteri",
+      "Terlibat dengan karakter untuk memecahkan teka-teki"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Ini sekarang adalah permainan favorit saya!",
+        "author": "Sovech"
+      },
+      {
+        "content": "Ini adalah permainan yang sangat menyenangkan dan ringan; momen karakter sangat menyenangkan!",
+        "author": "Subpar_Carrion.92"
+      },
+      {
+        "content": "Saya menyukai permainan ini! Sangat menggemaskan!",
+        "author": "Starswapsans19@gmail.com"
+      },
+      {
+        "content": "Saya sangat menyukai permainan ini, tolong buat sekuel!",
+        "author": "Exabyte"
+      },
+      {
+        "content": "Permainan yang damai dengan suasana yang menakjubkan dan cerita yang indah.",
+        "author": "Donaldsfries"
+      },
+      {
+        "content": "Cerita, desain suara, seni - semuanya fantastis. Sangat kurang diapresiasi.",
+        "author": "Mrspudcake"
+      },
+      {
+        "content": "Musik yang sangat indah, dan karakternya ditulis dengan baik.",
+        "author": "Ani-the-GREAT"
+      },
+      {
+        "content": "Permainan yang sederhana dan menyenangkan! Saya menyukainya!",
+        "author": "Snakeglitter"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question":"Platform apa yang tersedia untuk Devil Express?",
+        "answer":"Devil Express tersedia di platform HTML5 dan Windows."
+      },
+      {
+        "question":"Apakah Devil Express diterjemahkan ke dalam bahasa lain?",
+        "answer":"Ya, permainan ini memiliki terjemahan lengkap dalam Bahasa Spanyol yang tersedia untuk diunduh."
+      },
+      {
+        "question":"Berapa rata-rata waktu permainan untuk Devil Express?",
+        "answer":"Rata-rata sesi berlangsung sekitar satu jam."
+      },
+      {
+        "question":"Input apa saja yang didukung?",
+        "answer":"Permainan ini mendukung input keyboard."
+      },
+      {
+        "question":"Bisakah saya bermain Devil Express di browser saya?",
+        "answer":"Ya, Anda dapat memainkannya sebagai eksekusi yang dapat diunduh atau langsung di browser Anda."
+      },
+      {
+        "question":"Siapa yang mengembangkan seni dan musik permainan ini?",
+        "answer":"Seni dikerjakan oleh Shuteye dan musik dibuat oleh 7wave."
+      }
+    ]
+  }
+}

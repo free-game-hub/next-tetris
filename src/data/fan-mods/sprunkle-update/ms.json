@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Permainan Sprunkle: Main & Teroka | Laman Web Rasmi",
+    "description": "Terokai dunia menarik Sprunkle, permainan dalam talian yang mengasyikkan dengan ciri dan cabaran unik. Ketahui tentang peraturan permainan, kaedah kawalan, dan baca ulasan pemain untuk meningkatkan pengalaman permainan anda.",
+    "keywords": "permainan Sprunkle, Sprunkle dalam talian, main Sprunkle, peraturan permainan Sprunkle, ulasan Sprunkle"
+  },
+  "hero": {
+    "h1": "Permainan Sprunkle",
+    "p": "Masuki pengembaraan mendebarkan Sprunkle, permainan dalam talian yang menawan yang sentiasa membuatkan pemain teruja!"
+  },
+  "gameFeatures": {
+    "title": "Ciri-ciri Sprunkle",
+    "features": [
+      "Permainan yang mendalam dengan animasi dinamik",
+      "Cabaran unik untuk pelbagai tahap kemahiran",
+      "Cerita yang menarik yang berkembang mengikut pilihan pemain",
+      "Pilihan multiplayer untuk bermain bersama rakan-rakan",
+      "Kemas kini secara berkala dengan tahap dan watak baru"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Main Sprunkle",
+    "instructions": [
+      "Navigasikan watak anda menggunakan kekunci anak panah pada papan kekunci.",
+      "Kumpulkan kuasa tambahan untuk meningkatkan kebolehan anda semasa bermain.",
+      "Kalahkan bos di penghujung setiap tahap untuk maju lebih jauh.",
+      "Waspada terhadap perangkap dan halangan yang muncul secara tiba-tiba.",
+      "Berkolaborasi dengan rakan-rakan dalam mod multiplayer untuk pengalaman kerjasama."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Skrin Permainan Sprunkle"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain",
+    "submitReviewLabel": "Hantar Ulasan Anda",
+    "nameLabel": "Nama",
+    "reviewLabel": "Ulasan",
+    "submitButtonLabel": "Hantar",
+    "reviews": [
+      {
+        "content": "Sprunkle memang mengasyikkan! Tahapnya direka dengan baik dan mencabar.",
+        "author": "Alex Jones"
+      },
+      {
+        "content": "Saya suka grafik dalam Sprunkle. Ia berwarna-warni dan menarik!",
+        "author": "Marie K."
+      },
+      {
+        "content": "Bermain Sprunkle bersama rakan-rakan sangat menyeronokkan. Mod multiplayer adalah yang terbaik!",
+        "author": "Tommy L."
+      },
+      {
+        "content": "Kemas kini dilakukan dengan kerap dan selalu menambah sesuatu yang baru ke dalam permainan.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Kawalan Sprunkle mudah dipelajari tetapi memerlukan kemahiran untuk dikuasai.",
+        "author": "Nina T."
+      },
+      {
+        "content": "Saya menikmati jalan cerita dan permainan berdasarkan pilihan dalam Sprunkle.",
+        "author": "Samuel D."
+      },
+      {
+        "content": "Lagu latar sangat menarik dan menambah suasana.",
+        "author": "Rebecca S."
+      },
+      {
+        "content": "Ini adalah permainan yang saya syorkan kepada sesiapa yang menyukai cabaran.",
+        "author": "Jason H."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "questions": [
+      {
+        "question": "Bagaimana saya boleh menyimpan kemajuan saya dalam Sprunkle?",
+        "answer": "Kemajuan anda dalam Sprunkle disimpan secara automatik pada titik pemeriksaan."
+      },
+      {
+        "question": "Bolehkah saya bermain Sprunkle di peranti mudah alih saya?",
+        "answer": "Pada masa ini, Sprunkle tersedia untuk pelayar desktop. Versi mudah alih sedang dibangunkan."
+      },
+      {
+        "question": "Adakah terdapat cara untuk menetapkan semula kemajuan permainan saya?",
+        "answer": "Ya, anda boleh menetapkan semula kemajuan permainan anda dari menu tetapan."
+      },
+      {
+        "question": "Adakah terdapat pembelian dalam permainan di Sprunkle?",
+        "answer": "Sprunkle menawarkan pembelian dalam permainan pilihan, tetapi ia tidak perlu untuk menikmati permainan sepenuhnya."
+      },
+      {
+        "question": "Bagaimana saya boleh melaporkan pepijat atau isu dalam permainan?",
+        "answer": "Sila gunakan borang hubungan di laman web kami untuk melaporkan sebarang pepijat atau isu."
+      },
+      {
+        "question": "Adakah mod multiplayer percuma untuk dimainkan?",
+        "answer": "Ya, mod multiplayer dalam Sprunkle adalah percuma untuk dimainkan, dan anda boleh menjemput rakan untuk menyertai."
+      }
+    ]
+  }
+}

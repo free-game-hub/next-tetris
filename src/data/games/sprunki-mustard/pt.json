@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Sprunki Mustard - Jogo Criativo de Mixagem DJ de Música | Experiência de Criação Musical Online",
+    "description": "Mergulhe no mundo musical do Sprunki Mustard! Crie batidas únicas como DJ neste jogo inovador de criação musical com personagens temáticos de mostarda. Jogue online gratuitamente e libere sua criatividade musical!",
+    "keywords": "sprunted, Sprunki Mustard, jogo de música, jogo de DJ, jogo de mixagem, criação musical online, jogo de ritmo, produção musical"
+  },
+  "hero": {
+    "h1": "Sprunki Mustard: Libere Sua Criatividade Musical",
+    "p": "Mergulhe em um mundo vibrante de criação musical onde ritmos funky encontram personagens únicos com tema de mostarda. Transforme suas ideias musicais em realidade com apenas alguns cliques!"
+  },
+  "gameFeatures": {
+    "title": "Recursos do Jogo",
+    "features": [
+      "Personagens únicos com tema de mostarda, cada um com elementos sonoros distintos",
+      "Interface intuitiva de arrastar e soltar para criação musical sem esforço",
+      "Rica combinação de efeitos sonoros para possibilidades musicais infinitas",
+      "Jogo online gratuito sem necessidade de download",
+      "Mecânicas de jogo aprimoradas inspiradas no clássico Incredibox"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Como Jogar",
+    "instructions": [
+      "Selecione seus personagens favoritos com tema de mostarda, cada um oferecendo elementos sonoros únicos",
+      "Arraste e solte personagens no palco para começar a mixar sons",
+      "Experimente diferentes combinações para criar ritmos e melodias únicas",
+      "Ajuste sua composição em tempo real",
+      "Salve e compartilhe suas obras-primas musicais com amigos"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "playerReviews": {
+    "title": "Avaliações dos Jogadores",
+    "submitReviewLabel": "Compartilhe Sua Experiência",
+    "nameLabel": "Seu Apelido",
+    "reviewLabel": "Sua Avaliação",
+    "submitButtonLabel": "Enviar Avaliação",
+    "reviews": [
+      {
+        "content": "Como entusiasta da música, estou totalmente impressionado com este jogo. A interface é limpa, os controles são intuitivos, e o resultado musical é surpreendentemente bom!",
+        "author": "MusicLover123",
+        "rating": 5
+      },
+      {
+        "content": "Uma ferramenta de criação musical tão divertida! Mesmo sem qualquer experiência musical, consegui criar batidas incríveis. Altamente recomendado!",
+        "author": "BeatMaker",
+        "rating": 5
+      },
+      {
+        "content": "O tema mostarda é brilhantemente único, e as combinações sonoras são infinitas. Passei horas jogando e ainda descobrindo novas possibilidades.",
+        "author": "CreativePlayer",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "question": "O Sprunki Mustard é gratuito para jogar?",
+        "answer": "Sim, o Sprunki Mustard é completamente gratuito para jogar no seu navegador, sem necessidade de download ou instalação."
+      },
+      {
+        "question": "Preciso ter experiência musical para jogar?",
+        "answer": "De forma alguma! O jogo foi projetado para ser intuitivo e acessível para todos, independentemente de sua experiência musical."
+      },
+      {
+        "question": "Posso salvar minhas criações musicais?",
+        "answer": "Sim! O jogo inclui uma função de salvamento que permite armazenar suas criações e continuar trabalhando nelas mais tarde ou compartilhá-las com amigos."
+      },
+      {
+        "question": "Quais navegadores suportam o jogo?",
+        "answer": "O jogo funciona em todos os navegadores modernos, incluindo Chrome, Firefox, Safari e Edge."
+      },
+      {
+        "question": "Quantos efeitos sonoros diferentes estão disponíveis?",
+        "answer": "O jogo oferece uma ampla variedade de efeitos sonoros, incluindo ritmos, melodias e vocais, permitindo centenas de combinações únicas."
+      },
+      {
+        "question": "Por que o tema mostarda?",
+        "answer": "O tema mostarda é uma escolha de design única que não apenas torna o jogo visualmente distinto, mas também adiciona um elemento de diversão e memorabilidade à experiência."
+      }
+    ]
+  }
+}

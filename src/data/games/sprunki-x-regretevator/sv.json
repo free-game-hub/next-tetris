@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "title": "Sprunki x Regretevator - Ett Kreativt Plattformsäventyr",
+    "description": "Upptäck den spännande världen av Sprunki x Regretevator, ett plattforms-spel som blandar unik gameplay, charmig grafik och pussel. Lär dig att bemästra karaktärernas förmågor, övervinna hinder och lösa pussel i detta fängslande spel.",
+    "keywords": "Sprunki x Regretevator, plattforms-spel, pussellösning, speltips, karaktärers förmågor, flerspelarläge"
+  },
+  "hero": {
+    "h1": "Sprunki x Regretevator",
+    "p": "Navigera genom en färgglad värld fylld med utmaningar och pussel i Sprunki x Regretevator. Använd unika karaktärförmågor och utforska för att erövra nivåer, besegra fiender och förbättra din spelupplevelse."
+  },
+  "gameFeatures": {
+    "title": "Funktioner i Sprunki x Regretevator",
+    "features": [
+      "Engagerande plattformsdesign blandat med unika gameplay-element.",
+      "Charmig grafik som ger liv åt spelvärlden.",
+      "Sömlösa karaktärsrörelser för en felfri spelupplevelse.",
+      "Fängslande ljudspår som förbättrar spelupplevelsen.",
+      "Särskilda förmågor hos Sprunki och Regretevator för strategiskt spel."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Så spelar du Sprunki x Regretevator",
+    "instructions": [
+      "Lär dig Sprunki och Regretevators unika färdigheter för att lösa pussel.",
+      "Utforska varje nivå noggrant för dolda belöningar.",
+      "Bli mästerlig på tekniker som hopp, glidning och vägglöpning.",
+      "Använd karaktärernas färdigheter strategiskt för att övervinna pussel.",
+      "Samla föremål för att låsa upp kraftfulla uppgraderingar för dina karaktärer."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Skärmdumpar från Spelet Sprunki x Regretevator"
+  },
+  "playerReviews": {
+    "title": "Spelarbetyg för Sprunki x Regretevator",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Ett innovativt spel med charmig grafik!",
+        "author": "Alex"
+      },
+      {
+        "content": "Bra mix av pussel och action. Rekommenderas starkt!",
+        "author": "Jamie"
+      },
+      {
+        "content": "Älskade karaktärernas förmågor och nivådesignen.",
+        "author": "Casey"
+      },
+      {
+        "content": "Fantastiskt spel! Ljudspåret är också fängslande.",
+        "author": "Morgan"
+      },
+      {
+        "content": "Utmanande men belönande gameplay. Ett måste!",
+        "author": "Jordan"
+      },
+      {
+        "content": "Flerspelarläget är jättekul med vänner!",
+        "author": "Taylor"
+      },
+      {
+        "content": "Imponerande grafik och smidiga kontroller.",
+        "author": "Riley"
+      },
+      {
+        "content": "En fantastisk detaljnivå och engagerande berättelse.",
+        "author": "Kris"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor om Sprunki x Regretevator",
+    "questions": [
+      {
+        "question": "Vilka plattformar är Sprunki x Regretevator tillgängligt på?",
+        "answer": "Sprunki x Regretevator finns på PC, Mac och större spelkonsoler."
+      },
+      {
+        "question": "Kan jag spela Sprunki x Regretevator med vänner?",
+        "answer": "Ja, spelet inkluderar ett flerspelarläge för samarbetsinriktat spel."
+      },
+      {
+        "question": "Vilka systemkrav har Sprunki x Regretevator?",
+        "answer": "För optimal prestanda, se till att ditt system uppfyller spelets minimikrav som listas på den officiella webbplatsen."
+      },
+      {
+        "question": "Finns det några köp i spelet i Sprunki x Regretevator?",
+        "answer": "Sprunki x Regretevator har inga köp i spelet; alla funktioner är tillgängliga genom gameplay."
+      },
+      {
+        "question": "Hur kan jag låsa upp nya förmågor för mina karaktärer?",
+        "answer": "Samla föremål i spelet för att låsa upp och uppgradera karaktärers förmågor."
+      },
+      {
+        "question": "Var kan jag hitta gemenskapsstöd för Sprunki x Regretevator?",
+        "answer": "Gå med i våra onlineforum eller sociala mediekanaler för stöd och dela tips med andra spelare."
+      }
+    ]
+  },
+  "gameRecommendations": {
+    "title": "Rekommenderade Spel",
+    "games": [
+      {
+        "image": "sprunked-daytime-demo.jpg",
+        "title": "Sprunked (Dagdemo)",
+        "link": "/sprunked-daytime-demo"
+      },
+      {
+        "image": "incredibox-v9.jpg",
+        "title": "Incredibox V9",
+        "link": "/incredibox-v9"
+      }
+    ]
+  }
+}

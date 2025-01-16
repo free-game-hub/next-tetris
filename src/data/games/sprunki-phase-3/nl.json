@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Incredibox Sprunki Fase 3 - Creëer Jouw Unieke Muziek",
+    "description": "Ontdek Incredibox Sprunki Fase 3, de muziekgame waar creativiteit en ritme samenkomen. Mix geluiden en creëer je eigen nummers met kleurrijke animaties.",
+    "keywords": "Incredibox, Sprunki Fase 3, muziekgame, muziekcreatie, geluiden mixen, creatieve gaming, geanimeerde karakters, muzikale compositie"
+  },
+  "hero": {
+    "h1": "Incredibox Sprunki Fase 3",
+    "p": "Duik in het levendige universum van Incredibox Sprunki Fase 3, waar je jouw muzikale creativiteit kunt ontketenen door een scala aan geluiden, beats en melodieën te mixen."
+  },
+  "gameFeatures": {
+    "title": "Spel Kenmerken",
+    "features": [
+      "Interactieve muziekcreatie met slepen en neerzetten.",
+      "Unieke karakters, elk vertegenwoordigt verschillende muzikale elementen.",
+      "Harmonieuze geluidslagen voor het maken van persoonlijke nummers.",
+      "Visuele feedback met kleurrijke animaties en effecten.",
+      "Opnamemogelijkheden en deelopties om je muziek te tonen.",
+      "Eindeloze herspeelbaarheid met meerdere combinatie van karakters."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Spelinstructies",
+    "instructions": [
+      "Selecteer je favoriete geanimeerde karakters die verschillende geluids elementen vertegenwoordigen.",
+      "Sleep en zet karakters van het zijpaneel op het geluidsbord om muziek te maken.",
+      "Experimenteer met het overlappen van verschillende karakters om unieke melodieën te creëren.",
+      "Geniet van visuele effecten die reageren op jouw muzikale compositie.",
+      "Neem je creaties op en deel ze met vrienden of de Incredibox community."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox Sprunki Fase 3 Schermafbeeldingen"
+  },
+  "playerReviews": {
+    "title": "Speler Beoordelingen",
+    "submitReviewLabel": "Verzend Jouw Beoordeling",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Beoordeling",
+    "submitButtonLabel": "Verzend",
+    "reviews": [
+      {
+        "content": "Sprunki Fase 3 is een geweldige mix van creativiteit en plezier!",
+        "author": "Emily R."
+      },
+      {
+        "content": "De animaties en muziekelementen maken het verslavend leuk.",
+        "author": "John D."
+      },
+      {
+        "content": "Een fantastische manier om muziekcreatie te verkennen zonder voorafgaande ervaring.",
+        "author": "Sarah L."
+      },
+      {
+        "content": "Ik hou ervan hoe elke sessie een frisse en unieke ervaring biedt.",
+        "author": "Mike T."
+      },
+      {
+        "content": "Perfect voor zowel serieuze muzikanten als casual spelers!",
+        "author": "Chris K."
+      },
+      {
+        "content": "Sprunki Fase 3 vangt de vreugde van muziek maken moeiteloos.",
+        "author": "Anna G."
+      },
+      {
+        "content": "De deelfunctie laat me mijn werk gemakkelijk aan vrienden tonen.",
+        "author": "David P."
+      },
+      {
+        "content": "Eindeloze mogelijkheden en combinaties! Verveelt nooit.",
+        "author": "Laura H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Veelgestelde Vragen",
+    "questions": [
+      {
+        "question":"Wat is Incredibox Sprunki Fase 3?",
+        "answer":"Incredibox Sprunki Fase 3 is een muziekcreatiegame die spelers in staat stelt unieke nummers te maken door verschillende geluiden en beats te mixen met behulp van geanimeerde karakters."
+      },
+      {
+        "question":"Hoe speel ik Incredibox Sprunki Fase 3?",
+        "answer":"Selecteer geanimeerde karakters die verschillende muzikale elementen vertegenwoordigen, sleep ze naar het geluidsbord en mix om je compositie te creëren."
+      },
+      {
+        "question":"Kan ik mijn muziekcreaties delen?",
+        "answer":"Ja, je kunt je muziek opnemen en delen met vrienden of de Incredibox community."
+      },
+      {
+        "question":"Wat is het doel van het spel?",
+        "answer":"Het doel is om harmonieuze muziek te maken door strategisch karakters en hun geluiden te combineren."
+      },
+      {
+        "question":"Is Incredibox Sprunki Fase 3 geschikt voor alle leeftijden?",
+        "answer":"Ja, het spel is ontworpen om plezierig te zijn voor spelers van alle leeftijden."
+      },
+      {
+        "question":"Kan ik Incredibox Sprunki Fase 3 meerdere keren spelen?",
+        "answer":"Zeker! Met eindeloze combinaties zijn geen twee sessies hetzelfde, wat zorgt voor herspeelbaarheid."
+      }
+    ]
+  }
+}

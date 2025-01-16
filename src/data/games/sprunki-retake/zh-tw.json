@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Retake: 恐怖翻轉的精靈遊戲",
+    "description": "深入體驗 Sprunki Retake，這是一個以恐怖為主題的精靈遊戲重塑版。探索黑暗的視覺效果、詭異的音景，並在這場獨特的音樂旅程中揭開隱藏的秘密。",
+    "keywords": "Sprunki Retake, 精靈遊戲, 恐怖遊戲, Sprunki 模組, 音樂創作"
+  },
+  "hero": {
+    "h1": "Sprunki Retake: 恐怖翻轉的精靈遊戲",
+    "p": "體驗 Sprunki Retake 的神秘世界，這裡以飄渺的角色和鬼魅的旋律打造令人興奮的音樂旅程。立即在線遊玩，無需下載！"
+  },
+  "gameFeatures": {
+    "title": "Sprunki Retake 的特色",
+    "features": [
+      "詭異音景：創建充滿驚悚的音樂作品，搭配驚悚的節拍。",
+      "飄渺角色：探索帶有超自然轉折的陰影重塑角色。",
+      "黑暗氛圍：沉浸在陰郁的視覺和令人毛骨悚然的動畫中。",
+      "隱藏秘密：解鎖神秘的動畫和黑暗敘事。",
+      "行動裝置優化：在桌面和行動設備上無縫創作恐怖音樂。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩 Sprunki Retake",
+    "instructions": [
+      "選擇角色：從一系列令人不安的恐怖主題角色中選擇。",
+      "創作黑暗音樂：混合和搭配聲音，創作詭異的音樂傑作。",
+      "揭開謎團：發現隱藏的組合，揭示詭異的秘密和動畫。",
+      "分享創作：與全球社區分享你的音樂作品。",
+      "探索更新：享受定期更新的新內容和角色。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Retake 遊戲截圖"
+  },
+  "playerReviews": {
+    "title": "玩家的 Sprunki Retake 評價",
+    "submitReviewLabel": "提交你的評價",
+    "nameLabel": "姓名",
+    "reviewLabel": "評價",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "恐怖的翻轉為經典的精靈遊戲增添了緊張感！",
+        "author": "Alex J."
+      },
+      {
+        "content": "我喜歡這些詭異的音樂創作！非常適合陰森的夜晚。",
+        "author": "Sam W."
+      },
+      {
+        "content": "動畫和音效一流。極力推薦！",
+        "author": "Jamie L."
+      },
+      {
+        "content": "晚上玩這款遊戲讓我感到毛骨悚然 - 而且是好的一種！",
+        "author": "Taylor K."
+      },
+      {
+        "content": "這種哥德式的重塑正是遊戲所需要的。太精彩了！",
+        "author": "Morgan H."
+      },
+      {
+        "content": "我真的很喜歡這個氛圍和角色設計。",
+        "author": "Dana P."
+      },
+      {
+        "content": "這是一個引人入勝、創意十足的黑暗版本，致敬經典遊戲。",
+        "author": "Chris G."
+      },
+      {
+        "content": "音樂作品真是驚人地詭異！",
+        "author": "Pat R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Retake 常見問題",
+    "questions": [
+      {
+        "question": "Sprunki Retake 有什麼不同之處？",
+        "answer": "Sprunki Retake 結合了恐怖元素、黑暗的視覺效果以及詭異的音景，帶來獨特的音樂旅程。"
+      },
+      {
+        "question": "我如何解鎖新內容？",
+        "answer": "透過音效組合實驗，發現隱藏的動畫和秘密功能。"
+      },
+      {
+        "question": "我可以在行動設備上玩 Sprunki Retake 嗎？",
+        "answer": "可以，遊戲已為桌面和行動設備進行優化。"
+      },
+      {
+        "question": "有獨特角色嗎？",
+        "answer": "有，遊戲中包含帶有超自然元素的獨特角色設計。"
+      },
+      {
+        "question": "需要音樂經驗嗎？",
+        "answer": "不需要，遊戲設計讓所有玩家都能輕鬆上手，無論音樂背景如何。"
+      },
+      {
+        "question": "Sprunki Retake 是免費玩嗎？",
+        "answer": "是的，您可以在網頁瀏覽器中免費享受 Sprunki Retake。"
+      }
+    ]
+  }
+}

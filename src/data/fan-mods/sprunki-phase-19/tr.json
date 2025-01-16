@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Aşaması 19 - Ritimler Yarat ve Yeni Bir Aşama Giriş Yap",
+    "description": "Sprunki Aşaması 19'u keşfet, ritim yaratma ile heyecan verici oyun deneyimini birleştiren eşsiz bir oyun. 13 yaş ve üzeri oyuncular için uygundur.",
+    "keywords": "Sprunki Aşaması 19, ritim yaratma oyunu, heyecan verici oyun, müzik oyunu, Sprunki Aşaması, gençler için oyun"
+  },
+  "hero": {
+    "h1": "Sprunki Aşaması 19",
+    "p": "Sprunki Aşaması 19, ritim, yaratıcılık ve kalp atışlarını hızlandıran aksiyonu bir araya getiren en iyi ritim yaratma oyunudur. Sesin yeni dünyasına gir ve kendi yolunu çiz!"
+  },
+  "gameFeatures": {
+    "title": "Oyun Özellikleri",
+    "features": [
+      "Yaratıcılığa uygun yenilikçi ritim oluşturma mekanikleri.",
+      "Oyun deneyimini geliştiren etkileyici grafikler.",
+      "Artan karmaşıklıkta dinamik zorluklar.",
+      "Ortak ritim oluşturma için çok oyunculu mod.",
+      "Etkileyici ilerlemeye sahip zengin bir hikaye."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Aşaması 19 Nasıl Oynanır",
+    "instructions": [
+      "İlk olarak, tercih ettiğin ritim şablonunu seç.",
+      "Ritimlerini düzenlemek ve mükemmelleştirmek için ekrandaki araçları kullan.",
+      "Ritim zorluklarını tamamlayarak seviyelerde ilerle.",
+      "Daha zengin ses manzaraları için çok oyunculu modda arkadaşlarınla iş birliği yap.",
+      "Engellerden kaçın ve ritmini tutarak ilerle."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Oyun Ekran Görüntüleri"
+  },
+  "playerReviews": {
+    "title": "Oyuncu Yorumları",
+    "submitReviewLabel": "Yorumunu Gönder",
+    "nameLabel": "İsim",
+    "reviewLabel": "Yorum",
+    "submitButtonLabel": "Gönder",
+    "reviews": [
+      {
+        "content": "Sprunki Aşaması 19 son derece bağımlılık yapıcı ve yaratıcı.",
+        "author": "GamerGuru21"
+      },
+      {
+        "content": "Ritim oluşturma özelliği devrim niteliğinde! Bayıldım!",
+        "author": "MusicMartian90"
+      },
+      {
+        "content": "Müzik ve aksiyonun mükemmel bir kombinasyonu. Kesinlikle tavsiye ederim!",
+        "author": "RhythmRider23"
+      },
+      {
+        "content": "Her seferinde daha fazlasını istememi sağlıyor! Zorluklar harika.",
+        "author": "BeatMaster07"
+      },
+      {
+        "content": "Çok oyunculu mod gerçek bir oyun dönüştürücü.",
+        "author": "PartyPlayer88"
+      },
+      {
+        "content": "Grafikler ve müzik kalitesi beklentilerimi aştı.",
+        "author": "VisualVibe58"
+      },
+      {
+        "content": "Hikaye sürükleyici ve daha fazla oynamaya teşvik ediyor.",
+        "author": "StorySeeker11"
+      },
+      {
+        "content": "Bir kez oynadıktan sonra bırakamayacağın bir oyun.",
+        "author": "GameAddict24"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question":"Sprunki Aşaması 19 için minimum yaş gereksinimi nedir?",
+        "answer":"Oyun, 13 yaş ve üzeri oyuncular için önerilmektedir."
+      },
+      {
+        "question":"Sprunki Aşaması 19'u mobil cihazlarda oynayabilir miyim?",
+        "answer":"Evet, oyun hem iOS hem de Android cihazlarla uyumludur."
+      },
+      {
+        "question":"Yeni oyunculara yardım edecek bir eğitim var mı?",
+        "answer":"Evet, oyun yeni oyuncuları yönlendirmek için kapsamlı bir eğitim içerir."
+      },
+      {
+        "question":"Sprunki Aşaması 19'da oyun içi satın alımlar var mı?",
+        "answer":"Evet, ek özellikler için oyun içi satın alımlar mevcuttur."
+      },
+      {
+        "question":"Sprunki Aşaması 19'da arkadaşlarla iş birliği yapılabilir mi?",
+        "answer":"Evet, oyun iş birliği için bir çok oyunculu mod sunar."
+      },
+      {
+        "question":"Sprunki Aşaması 19'ün internet bağlantısına ihtiyacı var mı?",
+        "answer":"Çok oyunculu ve güncellemeler için internet bağlantısı gereklidir."
+      }
+    ]
+  }
+}

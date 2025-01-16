@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sprunki x Sprunked - Haastava Incredibox Mod",
+    "description": "Tutustu Sprunki x Sprunked -modiin, joka on fanien tekemä Incredibox-modifikaatio, jossa yhdistyvät Sprunked ja Sprunki, tarjoten uusia hahmoja, parannettua haastetta ja originaalimusiikkia.",
+    "keywords": "Sprunki x Sprunked, Incredibox mod, Sprunked, Sprunki, rytmipeli, uudet hahmot, originaalimusiikki"
+  },
+  "hero": {
+    "h1": "Sprunki x Sprunked",
+    "p": "Sukella Sprunki x Sprunked -pelin ainutlaatuiseen rytmielämykseen, fanien tekemään Incredibox-modifikaatioon, joka yhdistää Sprunked- ja Sprunki-elementtejä."
+  },
+  "gameFeatures": {
+    "title": "Sprunki x Sprunked -modin Keskeiset Ominaisuudet",
+    "features": [
+      "Erilaisia uusia hahmoja, joilla on ainutlaatuiset tyylit ja musiikkitaidot",
+      "Parannettu vaikeustaso, joka vaatii monimutkaisten rytmikuviolajien hallintaa",
+      "Tummempi ja intensiivisempi pelimaailma, jossa on kauhuteemaa",
+      "Uudenlainen ääniraita, joka yhdistää Sprunked- ja Sprunki-elementtejä",
+      "Kaikki hahmot mukaan lukien bonushahmot molemmista modeista",
+      "Viekkaat crossover-elementit, jotka parantavat pelielämystä"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Kuinka Pelata Sprunki x Sprunked",
+    "instructions": [
+      "Valitse hahmot viisaasti luodaksesi ainutlaatuisia musiikillisia jaksoja.",
+      "Hallinnoi ajoitusta saadaksesi korkeampia pisteitä haastavissa tasoissa.",
+      "Tutki kaikkien hahmojen tyylejä ja musiikkikykyjä laajentaaksesi luovuuttasi.",
+      "Sukella intensiivisiin ja tummiin teemoihin samalla säilyttäen rytmin tarkkuus.",
+      "Nauti alkuperäisestä ääniraidasta kulkiessasi jännittävien tilanteiden läpi."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Pelikuva"
+  },
+  "playerReviews": {
+    "title": "Pelaajien Arviot",
+    "submitReviewLabel": "Jätä Arviosi",
+    "nameLabel": "Nimi",
+    "reviewLabel": "Arvio",
+    "submitButtonLabel": "Lähetä",
+    "reviews": [
+      {
+        "content": "Modi on uskomattoman haastava, ja tummempi tunnelma pitää minut varpaillani.",
+        "author": "Alex K."
+      },
+      {
+        "content": "Rakastan crossover-elementtejä; se tuntuu aivan uudelta peliltä!",
+        "author": "Jamie L."
+      },
+      {
+        "content": "Uudenlainen ääniraita on fantastinen ja sulautuu hyvin pelin kanssa.",
+        "author": "Sam T."
+      },
+      {
+        "content": "Se on aluksi hieman vaikeaa, mutta kun ymmärrät pelimekaniikat, se on todella palkitsevaa.",
+        "author": "Chris P."
+      },
+      {
+        "content": "Uudet hahmot lisäävät niin paljon syvyyttä; jokaisella on oma ainutlaatuinen tunnelmansa.",
+        "author": "Morgan F."
+      },
+      {
+        "content": "Kauhuteemaiset elementit ovat hieno käänne rytmipeligenressä.",
+        "author": "Robin J."
+      },
+      {
+        "content": "Tuntuu kuin aito päivitys alkuperäisiin modeihin, todella koukuttava!",
+        "author": "Taylor M."
+      },
+      {
+        "content": "Ajoittain hieman buginen, mutta kaiken kaikkiaan fantastinen modilla, jolla on suuri potentiaali.",
+        "author": "Jordan H."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Usein Kysytyt Kysymykset",
+    "questions": [
+      {
+        "question":"Mikä on Sprunki x Sprunked?",
+        "answer":"Sprunki x Sprunked on fanien tekemä modi pelille Incredibox, joka yhdistää elementtejä sekä Sprunked- että Sprunki-modeista."
+      },
+      {
+        "question":"Voinko pelata Sprunki x Sprunkedia ilman, että olen pelannut alkuperäisiä modeja?",
+        "answer":"Kyllä, vaikka alkuperäisten modejen tuntemus voi parantaa ymmärrystäsi, se ei ole välttämätöntä nauttiaksesi Sprunki x Sprunkedista."
+      },
+      {
+        "question":"Onko pelissä mitään bugeja?",
+        "answer":"Jotkut spriteistä eivät välttämättä ole vielä valmiita, mutta päivityksiä odotetaan ongelmien ratkaisemiseksi."
+      },
+      {
+        "question":"Kuinka vaikea Sprunki x Sprunked on?",
+        "answer":"Modi on suunniteltu haastavammaksi, ja se vaatii pelaajilta monimutkaisten rytmikuviolajien hallintaa."
+      },
+      {
+        "question":"Onko Sprunki x Sprunkedissa alkuperäinen ääniraita?",
+        "answer":"Kyllä, moddissa on alkuperäinen ääniraita, joka yhdistää ainutlaatuisesti molempien modejen elementtejä."
+      },
+      {
+        "question":"Mistä voin ladata Sprunki x Sprunkedin?",
+        "answer":"Modin voi ladata Incredibox-moddiyhteisöistä ja foorumeilta."
+      }
+    ]
+  }
+}

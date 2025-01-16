@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Six Cats Under - Ett Fängslande Pusseläventyr",
+    "description": "Upptäck 'Six Cats Under', ett charmigt pek-och-klicka pusselspel där du använder poltergeistkrafter för att rädda din kattflock. Betygsatt 4,8/5 av spelare.",
+    "keywords": "Six Cats Under, pusselspel, pek-och-klicka, katt räddningsspel, spel jam, spök krafter, Six Cats Under betyg"
+  },
+  "hero": {
+    "h1": "Six Cats Under",
+    "p": "Dyk ner i 'Six Cats Under', ett härligt pek-och-klicka pusselspel där dina poltergeistkrafter hjälper dig att vägleda dina älskade katter till säkerhet."
+  },
+  "gameFeatures": {
+    "title": "Spelfunktioner",
+    "features": [
+      "Unik pek-och-klicka pussel gameplay",
+      "Charmig pixelkonst och animationer",
+      "Engagerande berättelse med spökiga inslag",
+      "Perfekt för kattälskare och pusselentusiaster",
+      "Kort och söt spelupplevelse, idealisk för snabba sessioner"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hur man spelar Six Cats Under",
+    "instructions": [
+      "Använd din mus för att interagera med objekt och vägleda dina katter.",
+      "Utnyttja poltergeistförmågor för att flytta föremål och öppna vägar.",
+      "Lös pussel för att avancera genom nivåerna och rädda alla katter.",
+      "Håll utkik efter visuella ledtrådar och tips under spelets gång.",
+      "Njut av berättelsen och de charmiga interaktionerna med dina vänliga katter."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Six Cats Under - Spelskärmbilder"
+  },
+  "playerReviews": {
+    "title": "Spelarrecensioner",
+    "submitReviewLabel": "Skicka in din recension",
+    "nameLabel": "Namn",
+    "reviewLabel": "Recension",
+    "submitButtonLabel": "Skicka",
+    "reviews": [
+      {
+        "content": "Ett underbart spel! Fantastiska animationer och helt bedårande katter.",
+        "author": "surpriseregularly"
+      },
+      {
+        "content": "Som kattägare resonerar detta spel djupt. En äkta pärla!",
+        "author": "gecko"
+      },
+      {
+        "content": "Ett bedårande och sött spel... stackars Goldy! Hjärtevärmande men ändå känslosamt.",
+        "author": "magerites"
+      },
+      {
+        "content": "Unika pussel och så många bedårande stunder. Älskade det!",
+        "author": "DLGames"
+      },
+      {
+        "content": "Kombinationen av sötma och lite sorg får detta spel att sticka ut.",
+        "author": "pitchfrank"
+      },
+      {
+        "content": "Fantastiskt spel! Avslutade det på 15 minuter, älskade varje stund.",
+        "author": "MCG"
+      },
+      {
+        "content": "Både bedårande och sorgligt men verkligen roligt! Utmärkt upplevelse överlag.",
+        "author": "nierlathotep"
+      },
+      {
+        "content": "Katterna är bedårande och den spöklika hjälpaspekten är unik. Rekommenderas starkt!",
+        "author": "CatDadGaming"
+      }
+    ]
+  },
+  "faq": {
+    "title":"Vanliga Frågor",
+    "questions": [
+      {
+        "question":"Vilka plattformar finns Six Cats Under på?",
+        "answer":"Six Cats Under är tillgängligt på HTML5, Windows, macOS och Linux."
+      },
+      {
+        "question":"Hur lång tid tar det att avsluta spelet?",
+        "answer":"Den genomsnittliga spelstunden varar ungefär en halvtimme, vilket ger en snabb men njutbar upplevelse."
+      },
+      {
+        "question":"Är 'Six Cats Under' lämpligt för alla åldrar?",
+        "answer":"Ja, spelet är designat för att njutas av spelare i alla åldrar, särskilt kattälskare."
+      },
+      {
+        "question":"Vilka minimikrav finns för att köra spelet?",
+        "answer":"Spelet är lättviktigt och kan köras på de flesta system som stöder HTML5 eller respektive OS-versioner."
+      },
+      {
+        "question":"Kan spelet spelas offline?",
+        "answer":"De nedladdningsbara versionerna för Windows, macOS och Linux kan spelas offline efter installation."
+      },
+      {
+        "question":"Vem utvecklade 'Six Cats Under'?",
+        "answer":"Spelet utvecklades av Team Bean Loop och Mosu, med bidrag från Miles Äijälä, Robin Swift, Tomas Beržinskas och Alex Martin."
+      }
+    ]
+  }
+}

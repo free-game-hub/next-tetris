@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sprunki Romantic | 궁극의 로맨틱 음악 게임을 온라인으로 즐기세요",
+    "description": "Sprunki Romantic과 함께 음악 모험을 시작하세요. 매력적인 온라인 음악 창작 게임으로 로맨틱 멜로디를 만들고 독특한 곡을 공유하세요.",
+    "keywords": "Sprunki Romantic, 음악 게임, 온라인 음악 창작, Sprunki Romantic 플레이하기, Sprunki Romantic 기능"
+  },
+  "hero": {
+    "h1": "Sprunki Romantic",
+    "p": "음악과 사랑이 얽히는 매혹적인 Sprunki Romantic 세계에 빠져보세요. 브라우저에서 직접 나만의 로맨틱한 곡을 만들고 공유하세요."
+  },
+  "gameFeatures": {
+    "title": "Sprunki Romantic의 주요 기능",
+    "features": [
+      "직관적인 인터페이스: 모두가 접근할 수 있는 쉽게 음악을 만들 수 있는 조작.",
+      "풍부한 사운드 라이브러리: 다양한 로맨틱 사운드와 루프를 탐색하세요.",
+      "실시간 믹싱: 곡을 즉석에서 조정하세요.",
+      "창작물 공유: 나만의 음악 걸작을 내보내고 공유하세요.",
+      "로맨틱 비주얼 효과: 테마 애니메이션으로 음악을 향상시키세요."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Sprunki Romantic 플레이 방법",
+    "instructions": [
+      "사운드 선택: 다양한 음악 요소 중에서 선택하세요.",
+      "믹스 만들기: 독특한 곡을 위해 다양한 사운드를 조합하세요.",
+      "공유하고 즐기기: 나의 창작물을 저장하고 다른 사람과 공유하세요.",
+      "하모니 모드: 감정을 표현하기 위해 멜로디를 혼합하세요.",
+      "듀엣 모드: 다른 사람과 협력하여 곡을 결합하세요."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Sprunki Romantic 스크린샷"
+  },
+  "playerReviews": {
+    "title": "Sprunki Romantic 플레이어 리뷰",
+    "submitReviewLabel": "리뷰 제출하기",
+    "nameLabel": "이름",
+    "reviewLabel": "리뷰",
+    "submitButtonLabel": "제출",
+    "reviews": [
+      {
+        "content": "Sprunki Romantic은 음악과 창의성이 아름답게 어우러져 있습니다. 정말 좋아요!",
+        "author": "앨리스 W."
+      },
+      {
+        "content": "직관적인 인터페이스 덕분에 멋진 곡을 쉽게 만들 수 있어요.",
+        "author": "존 D."
+      },
+      {
+        "content": "로맨틱 음악 주제를 탐색할 수 있는 훌륭한 방법이에요. 강력 추천합니다!",
+        "author": "사라 T."
+      },
+      {
+        "content": "실시간 믹싱 기능은 즉흥 창의력에 환상적이에요.",
+        "author": "라이언 L."
+      },
+      {
+        "content": "Sprunki Romantic은 독특한 음악을 창작할 수 있는 무한한 가능성을 제공합니다.",
+        "author": "에밀리 R."
+      },
+      {
+        "content": "초보자와 경험이 많은 음악가 모두에게 놀라운 플랫폼이에요.",
+        "author": "클라라 M."
+      },
+      {
+        "content": "내 창작물을 쉽게 보여줄 수 있는 공유 기능이 정말 좋아요.",
+        "author": "소피아 K."
+      },
+      {
+        "content": "게임과 음악적 창의력이 완벽하게 어우러져 있어요. 매우 몰입감을 줍니다!",
+        "author": "미카엘 B."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sprunki Romantic에 대한 자주 묻는 질문",
+    "questions": [
+      {
+        "question": "Sprunki Romantic이 다른 음악 게임과 구별되는 점은 무엇인가요?",
+        "answer": "Sprunki Romantic은 사랑을 주제로 한 사운드스케이프를 가진 로맨틱 멜로디와 인터랙티브한 비트박스를 제공합니다."
+      },
+      {
+        "question": "Sprunki Romantic에서 음악을 어떻게 만들 수 있나요?",
+        "answer": "캐릭터를 무대에 드래그 앤 드롭하여 로맨틱 비트와 멜로디를 혼합하세요. 각 캐릭터는 고유한 사운드를 제공합니다."
+      },
+      {
+        "question": "내 Sprunki Romantic 곡을 저장할 수 있나요?",
+        "answer": "네, 여러분의 창작물은 Spunky 게임 커뮤니티에서 저장하고 다른 사람과 공유할 수 있습니다."
+      },
+      {
+        "question": "Sprunki Romantic은 초보자에게 적합한가요?",
+        "answer": "물론입니다! 직관적인 조작을 특징으로 하는 초보자와 경험이 많은 플레이어 모두를 위해 설계되었습니다."
+      },
+      {
+        "question": "Sprunki Romantic에는 다양한 모드가 있나요?",
+        "answer": "네, 멜로디 믹싱을 위한 하모니 모드와 협업을 위한 듀엣 모드가 있습니다."
+      },
+      {
+        "question": "Sprunki Romantic에서 다른 사람과 협업할 수 있나요?",
+        "answer": "네, 당신의 창작물을 공유하고 다른 플레이어의 믹스에서 영감을 받을 수 있습니다."
+      }
+    ]
+  }
+}

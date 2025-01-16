@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "title": "Block Blast - Jeu de Puzzle en Ligne Gratuit | Sprunki Infected",
+        "description": "Jouez à Block Blast, le jeu de puzzle en ligne addictif où la stratégie se mêle à l'amusement. Dégagez des blocs, marquez des points et stimulez votre esprit avec ce jeu gratuit basé sur le navigateur. Aucun téléchargement requis !",
+        "keywords": "block blast, jeu de puzzle, jeu en ligne, jeu gratuit, casse-tête, jeu de dégagement de blocs, puzzle stratégique"
+    },
+    "hero": {
+        "h1": "Block Blast - Où la Stratégie Rencontre le Divertissement",
+        "p": "Plongez dans une aventure de puzzle addictive qui défie votre esprit et teste votre pensée stratégique. Pas de téléchargements, juste du pur divertissement à portée de main."
+    },
+    "gameFeatures": {
+        "title": "Pourquoi les Joueurs Aiment Block Blast",
+        "features": [
+            "100% Gratuit à Jouer - Aucun coût caché ou achat intégré",
+            "Jouez n'importe où - Fonctionne parfaitement sur les appareils de bureau et mobiles",
+            "Aucun Téléchargement Requis - Plongez directement dans l'action via votre navigateur",
+            "Mises à Jour Régulières - Nouveaux défis et fonctionnalités ajoutés fréquemment",
+            "Entraînement Cérébral - Améliorez votre réflexion stratégique tout en vous amusant",
+            "Adapté à Toute la Famille - Convient aux joueurs de tous âges"
+        ]
+    },
+    "gameplayInstructions": {
+        "title": "Comment Jouer à Block Blast",
+        "instructions": [
+            "Faites glisser et déposez des blocs sur la grille de jeu",
+            "Créez des rangées ou des colonnes complètes pour dégager les blocs",
+            "Planifiez vos déplacements soigneusement pour maximiser les points",
+            "Gardez la grille dégagée pour rester dans le jeu",
+            "Défiez-vous pour battre votre meilleur score"
+        ]
+    },
+    "gameScreenshots": {
+        "title": "Voir Block Blast en Action"
+    },
+    "playerReviews": {
+        "title": "Ce Que Disent Nos Joueurs",
+        "submitReviewLabel": "Partagez Votre Expérience",
+        "nameLabel": "Votre Nom",
+        "reviewLabel": "Votre Avis",
+        "submitButtonLabel": "Soumettre Avis",
+        "reviews": [
+            {
+                 "author": "Mike S.",
+                "content": "Parfait pour mon trajet quotidien ! Simple mais assez stimulant pour me garder accro.",
+                "rating": 5
+            },
+            {
+                 "author": "Emily W.",
+                "content": "En tant qu'étudiante, j'adore pouvoir jouer rapidement entre les séances d'étude. Pas d'installation nécessaire !",
+                "rating": 5
+            },
+            {
+                 "author": "Jennifer X.",
+                "content": "Toute ma famille apprécie ce jeu. C'est éducatif et amusant à la fois !",
+                "rating": 4
+            }
+        ]
+    },
+    "faq": {
+        "title": "Questions Fréquemment Posées",
+        "questions": [
+            {
+                "question": "Block Blast est-il vraiment gratuit ?",
+                "answer": "Oui ! Block Blast est entièrement gratuit. Il n'y a aucun coût caché ou achat intégré requis pour profiter de l'expérience complète du jeu."
+            },
+            {
+                "question": "Dois-je télécharger quelque chose pour jouer à Block Blast ?",
+                "answer": "Aucun téléchargement requis ! Block Blast fonctionne directement dans votre navigateur web sur n'importe quel appareil avec une connexion Internet."
+            },
+            {
+                "question": "Puis-je jouer à Block Blast sur mon téléphone mobile ?",
+                "answer": "Absolument ! Block Blast est entièrement optimisé pour les appareils de bureau et mobiles, offrant une expérience de jeu fluide sur toutes les plateformes."
+            },
+            {
+                "question": "Comment puis-je sauvegarder ma progression dans Block Blast ?",
+                "answer": "Vos meilleurs scores sont automatiquement sauvegardés dans votre navigateur. Pour une meilleure expérience, nous recommandons de créer un compte gratuit pour suivre votre progression sur plusieurs appareils."
+            },
+            {
+                "question": "Block Blast est-il adapté aux enfants ?",
+                "answer": "Oui ! Block Blast est adapté à toute la famille et convient à tous les âges. Il aide à développer la pensée stratégique et les compétences en résolution de problèmes tout en étant amusant et captivant."
+            },
+            {
+                "question": "À quelle fréquence Block Blast est-il mis à jour ?",
+                "answer": "Nous mettons régulièrement à jour Block Blast avec de nouvelles fonctionnalités, défis et améliorations basés sur les retours des joueurs pour garder le jeu frais et excitant."
+            }
+        ]
+    }
+}

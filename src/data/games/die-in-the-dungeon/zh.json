@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "地下骰子 - 一款独特的骰子基础类 roguelite 游戏",
+    "description": "探索地下骰子，这是一款独特的卡牌构建 roguelite 游戏，骰子取代了卡牌。征服地下城的各种挑战，成为终极青蛙英雄。",
+    "keywords": "地下骰子, 卡牌构建, roguelite, 骰子游戏, 青蛙冒险, 地下城探险, 回合制策略"
+  },
+  "hero": {
+    "h1": "地下骰子",
+    "p": "地下骰子是一款创新的卡牌构建 roguelite，你的力量源于骰子的掷出。挑战 2X层地牢，证明你的勇气！"
+  },
+  "gameFeatures": {
+    "title": "地下骰子的特点",
+    "features": [
+      "参与基于骰子的战斗，享受卡牌构建的冒险之旅。",
+      "收集独特的遗物以增强你的战略优势。",
+      "体验全新的事件系统，随时可能遇到各类对手。",
+      "与新的敌人和具有挑战性的首领对战。",
+      "发现多种骰子类型和属性，探索无尽的策略可能。"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "如何玩地下骰子",
+    "instructions": [
+      "首先选择你的骰子来构建你的牌组。",
+      "掷骰子进行攻击、防御或使用特殊能力。",
+      "仔细计划你的步骤，并预判敌人的反应。",
+      "收集遗物和新的骰子以增强你的力量。",
+      "在克服敌人的同时，穿越复杂的地牢布局。"
+    ]
+  },
+  "gameScreenshots": {
+    "title": "进入地下骰子的世界"
+  },
+  "playerReviews": {
+    "title": "玩家对地下骰子的评价",
+    "submitReviewLabel": "提交你的评价",
+    "nameLabel": "你的名字",
+    "reviewLabel": "你的评价",
+    "submitButtonLabel": "提交",
+    "reviews": [
+      {
+        "content": "这款游戏真的让我电脑蓝屏了，但真的是非常值得的体验！",
+        "author": "EmanuelKJ"
+      },
+      {
+        "content": "我在游戏中发现了一个bug，但我还是爱这些可爱的青蛙！",
+        "author": "loseygoosey"
+      },
+      {
+        "content": "玩得很开心，直到蜂王首领放出蜂蜜骰子。迫不及待想尝试下一次挑战！",
+        "author": "hanungpurwaka"
+      },
+      {
+        "content": "这个游戏非常有趣，骰子的选择很多。期待正式版的发布！",
+        "author": "Jazz Man"
+      },
+      {
+        "content": "我喜欢你们的游戏。老实说，这是我玩过的最棒的地牢游戏！",
+        "author": "GMletsITCH"
+      },
+      {
+        "content": "刚达到第25层，依然玩得不亦乐乎！希望能大杀四方青蛙首领。",
+        "author": "Melitaa"
+      },
+      {
+        "content": "有点小bug，但我上瘾了！根本停不下来，再次挑战地下骰子。",
+        "author": "Zclipse"
+      },
+      {
+        "content": "非常有趣的游戏！让我想起了骰子地牢，但有很多独特的变体！",
+        "author": "Zazak"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "questions": [
+      {
+        "question": "地下骰子是什么？",
+        "answer": "地下骰子是一款卡牌构建、回合制 roguelite 游戏，你使用骰子代替传统卡牌在地下城中前进。"
+      },
+      {
+        "question": "如何安装地下骰子？",
+        "answer": "你可以从 Steam 和 Itch.io 等平台下载适用于 Windows、macOS 和 Linux 的地下骰子。"
+      },
+      {
+        "question": "系统要求是什么？",
+        "answer": "该游戏适用于 HTML5、Windows、macOS 和 Linux，对系统基本规格有要求，以获得最佳性能。"
+      },
+      {
+        "question": "有多人模式吗？",
+        "answer": "目前，地下骰子是单人游戏，暂时没有推出多人模式的计划。"
+      },
+      {
+        "question": "我可以使用手柄吗？",
+        "answer": "游戏主要支持鼠标输入，但随着开发进展可能会有额外的控制选项。"
+      },
+      {
+        "question": "如何报告bug或反馈意见？",
+        "answer": "加入我们的 Discord 服务器，直接向开发者报告问题或分享反馈。"
+      }
+    ]
+  },
+  "recommendedGames": [
+    {
+      "imageUrl": "backpack_hero_thumbnail.jpg",
+      "title": "背包英雄",
+      "link": "https://store.steampowered.com/app/example123456"
+    },
+    {
+      "imageUrl": "super_rare_mixtape_thumbnail.jpg",
+      "title": "超级稀有混音带",
+      "link": "https://store.steampowered.com/app/example654321"
+    },
+    {
+      "imageUrl": "dicey_dungeons_thumbnail.jpg",
+      "title": "骰子地牢",
+      "link": "https://store.steampowered.com/app/example987654"
+    }
+  ]
+}

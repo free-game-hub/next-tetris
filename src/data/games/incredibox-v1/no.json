@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Incredibox V1 - Dyk deg inn i rytmens og beatboxens verden",
+    "description": "Utforsk Incredibox V1, et fengslende musikkspill som kombinerer rytme, melodi og beatboxing. Lag unike spor med dra-og-slipp spillestil. Ideelt for musikkelskere som søker kreativitet og moro.",
+    "keywords": "Incredibox V1, musikkspill, rytme, beatboxing, Incredibox Alpha Game"
+  },
+  "hero": {
+    "h1": "Incredibox V1",
+    "p": "Omfavn din musikalske kreativitet med Incredibox V1, hvor rytme møter melodi i et interaktivt beatboxing-eventyr."
+  },
+  "gameFeatures": {
+    "title": "Hvorfor Incredibox V1 skiller seg ut",
+    "features": [
+      "Lag unike musikkspor med enkel dra-og-slipp spillestil.",
+      "Utforsk varierte lydbilder med animerte beatboxing-figurer.",
+      "Lås opp visuelle bonuser ved å oppdage lydkombinasjoner.",
+      "Del sammensetningene dine med et fellesskap av musikkentusiaster.",
+      "Bli med i en immersiv audiovisuell opplevelse."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hvordan mestre Incredibox V1",
+    "instructions": [
+      "Velg en stil: Velg blant ulike musikalske stiler for å starte din musikalske reise.",
+      "Lag en miks: Dra lydikoner til avatarer for å tildele distinkte lyder og lage din komposisjon.",
+      "Eksperimenter: Lag lag med lyder for å utforske nye rytmer og effekter, og låse opp skjulte animasjoner.",
+      "Musekontroller: Klikk og dra for å manipulere lyder, juster miksen enkelt.",
+      "Tastatursnarveier: Bruk tilgjengelige snarveier for raske lydjusteringer (versjonsavhengig)."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Incredibox V1 i aksjon"
+  },
+  "playerReviews": {
+    "title": "Hva spillerne sier om Incredibox V1",
+    "submitReviewLabel": "Send din anmeldelse",
+    "nameLabel": "Ditt navn",
+    "reviewLabel": "Din anmeldelse",
+    "submitButtonLabel": "Send",
+    "reviews": [
+      {
+        "content": "Incredibox V1 er en unik og morsom måte å lage musikk på. Den er tilgjengelig selv uten musikalsk trening.",
+        "author": "Alex J."
+      },
+      {
+        "content": "Animasjonene er fantastiske! De tilfører virkelig til den immersive opplevelsen.",
+        "author": "Samantha P."
+      },
+      {
+        "content": "Elsker hvordan jeg kan dele mine kreasjoner enkelt. Fellesskapet er veldig oppmuntrende!",
+        "author": "Mike T."
+      },
+      {
+        "content": "Enkel, men vanedannende. Jeg har brukt timer på å eksperimentere med forskjellige lyder.",
+        "author": "Linda K."
+      },
+      {
+        "content": "En flott måte å uttrykke kreativitet på. De visuelle bonusene er en belønnende touch.",
+        "author": "Chris R."
+      },
+      {
+        "content": "Det er mer enn et spill, det er en kreativ plattform!",
+        "author": "Patricia G."
+      },
+      {
+        "content": "Mine barn og jeg koser oss med å lage musikk sammen. Det er familievennlig og morsomt!",
+        "author": "John D."
+      },
+      {
+        "content": "Veldig intuitive kontroller. Jeg elsker enkelheten og dybden.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title":"Incredibox V1 FAQ",
+    "questions": [
+      {
+      "question":"Hva er Incredibox V1?",
+      "answer":"Incredibox V1 er et interaktivt musikkspill som kombinerer elementer av rytme, melodi og beatboxing ved hjelp av animerte figurer."
+      },
+      {
+      "question":"Hvordan spiller jeg Incredibox V1?",
+      "answer":"Velg en musikalsk stil, dra lydikoner til karakterene for å lage din miks, og utforsk lydkombinasjoner for ekstra effekter og animasjoner."
+      },
+      {
+      "question":"Kan jeg bruke tastatursnarveier i Incredibox V1?",
+      "answer":"I noen versjoner er tastatursnarveier tilgjengelige for raske lydmute, solo og omorganisering, selv om hovedinteraksjonen skjer via mus."
+      },
+      {
+      "question":"Er Incredibox V1 egnet for alle aldre?",
+      "answer":"Ja, det intuitive grensesnittet og engasjerende grafikken gjør det tilgjengelig og underholdende for spillere i alle aldre."
+      },
+      {
+      "question":"Kan jeg dele mine musikkreasjoner fra Incredibox V1?",
+      "answer":"Absolutt, spillere kan dele sine komposisjoner på nettet for å inspirere og engasjere seg med et fellesskap av musikkentusiaster."
+      },
+      {
+      "question":"Hva gjør Incredibox V1 forskjellig fra andre musikkspill?",
+      "answer":"Kombinasjonen av dra-og-slipp spillestil, animert historiefortelling og fellesskapsdeling skiller det ut som både et spill og et kreativt verktøy."
+      }
+    ]
+  }
+}

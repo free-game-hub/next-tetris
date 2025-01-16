@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Sperunky Free: Terokai Kedalaman Petualangan",
+    "description": "Masuki dunia Sperunky Free, permainan petualangan mendebarkan yang menguji keterampilan Anda dalam eksplorasi dan bertahan hidup. Temukan fitur unik, petunjuk permainan, dan baca ulasan pemain.",
+    "keywords": "Sperunky Free, permainan petualangan, eksplorasi, bertahan hidup, ulasan permainan"
+  },
+  "hero": {
+    "h1": "Sperunky Free",
+    "p": "Memulai perjalanan epik dengan Sperunky Free, di mana Anda akan menjelajahi gua berbahaya, mengatasi rintangan, dan menemukan harta tersembunyi!"
+  },
+  "gameFeatures": {
+    "title": "Fitur Sperunky Free",
+    "features": [
+      "Sistem gua yang luas untuk dijelajahi",
+      "Permainan dinamis dengan level yang diacak",
+      "Beragam jebakan dan musuh",
+      "Mode multipemain untuk permainan kooperatif",
+      "Grafis kaya dan efek suara yang imersif"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Cara Bermain Sperunky Free",
+    "instructions": [
+      "Gunakan tombol panah untuk menggerakkan karakter Anda melalui gua.",
+      "Tekan spasi untuk melompat dan menghindari rintangan.",
+      "Kumpulkan harta untuk meningkatkan skor Anda.",
+      "Gunakan alat seperti tali dan bom untuk menavigasi area sulit.",
+      "Bekerjasama dengan teman dalam mode multipemain untuk menyelesaikan tantangan kompleks."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Tangkapan Layar Permainan Sperunky Free"
+  },
+  "playerReviews": {
+    "title": "Ulasan Pemain Sperunky Free",
+    "submitReviewLabel": "Kirim Ulasan Anda",
+    "nameLabel": "Nama Anda",
+    "reviewLabel": "Ulasan Anda",
+    "submitButtonLabel": "Kirim",
+    "reviews": [
+      {
+        "content": "Sperunky Free menawarkan pengalaman mendebarkan dengan setiap level yang menghasilkan kejutan baru.",
+        "author": "GameLover123"
+      },
+      {
+        "content": "Grafisnya indah dan menambah banyak pada permainan yang imersif.",
+        "author": "PixelExplorer"
+      },
+      {
+        "content": "Saya suka bermain dengan teman-teman saya dalam mode multipemain, ini cara yang bagus untuk merencanakan bersama.",
+        "author": "TeamPlayer"
+      },
+      {
+        "content": "Menantang namun memberi imbalan, Sperunky Free membuat Anda kembali lagi.",
+        "author": "AdventureSeeker"
+      },
+      {
+        "content": "Beragam jebakan membuat saya selalu waspada, tidak pernah membosankan!",
+        "author": "TrapMaster"
+      },
+      {
+        "content": "Paduan hebat antara petualangan dan strategi, sangat direkomendasikan untuk penggemar kedua genre.",
+        "author": "BalancingAct"
+      },
+      {
+        "content": "Salah satu permainan paling menggembirakan yang saya mainkan sepanjang tahun!",
+        "author": "ExcitementJunkie"
+      },
+      {
+        "content": "Wajib dimainkan bagi siapa saja yang suka permainan petualangan dan eksplorasi.",
+        "author": "ExplorerAtHeart"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan: Sperunky Free",
+    "questions": [
+      {
+        "question": "Di platform mana saja Sperunky Free tersedia?",
+        "answer": "Sperunky Free tersedia di PC, Mac, dan berbagai konsol permainan."
+      },
+      {
+        "question": "Bisakah saya bermain Sperunky Free dengan teman-teman saya?",
+        "answer": "Ya, Sperunky Free memiliki mode multipemain untuk permainan kooperatif dengan teman-teman."
+      },
+      {
+        "question": "Apakah ada tingkat kesulitan berbeda dalam permainan?",
+        "answer": "Ya, Anda dapat memilih dari beberapa tingkat kesulitan untuk sesuai dengan tingkat keterampilan Anda."
+      },
+      {
+        "question": "Apakah saya memerlukan koneksi internet untuk bermain?",
+        "answer": "Koneksi internet diperlukan untuk mode multipemain, tetapi tidak untuk mode pemain tunggal."
+      },
+      {
+        "question": "Apakah ada cara untuk menyimpan kemajuan saya?",
+        "answer": "Ya, Sperunky Free memungkinkan Anda menyimpan kemajuan dan melanjutkan di lain waktu."
+      },
+      {
+        "question": "Apakah ada mikrotransaksi di dalam permainan?",
+        "answer": "Tidak, Sperunky Free tidak termasuk mikrotransaksi."
+      }
+    ]
+  }
+}

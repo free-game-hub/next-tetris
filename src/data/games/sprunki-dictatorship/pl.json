@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Mod Dyktatury Sprunki - Unikalne Wyzwanie Muzyczne",
+    "description": "Przemierzaj Mod Dyktatury Sprunki, gdzie muzyka spotyka się z autorytarną estetyką. Odkryj jego funkcje, instrukcje gry i przeczytaj recenzje graczy.",
+    "keywords": "Dyktatura Sprunki, Mod Dyktatury Sprunki, wyzwanie muzyczne, tematy autorytarne, rozgrywka"
+  },
+  "hero": {
+    "h1": "Mod Dyktatury Sprunki",
+    "p": "Wejdź do świata, w którym muzyka łączy się z autorytarną estetyką. Twórz wciągające kompozycje w ściśle kontrolowanym środowisku."
+  },
+  "gameFeatures": {
+    "title": "Funkcje Modu Dyktatury Sprunki",
+    "features": [
+      "Autorytarna Estetyka: Neutralne odcienie i symbole władzy definiują atmosferę.",
+      "Sztywne Krajobrazy Dźwiękowe: Ustrukturyzowane, powtarzalne rytmy odzwierciedlają rozkazy reżimu.",
+      "Intensywny Nastrój: Twórz kompozycje, które oddają życie pod ścisłą kontrolą.",
+      "Wielowarstwowa Złożoność: Dostosuj głośność, aby odsłonić głębsze warstwy w sztywnej strukturze.",
+      "Zmierzająca do Refleksji Narracja: Doświadcz surowej ścieżki dźwiękowej, jakiej jeszcze nie było."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Jak Grać w Mod Dyktatury Sprunki",
+    "instructions": [
+      "Wybierz Postacie: Wybierz postaci symbolizujące władzę lub cichą opozycję.",
+      "Przeciągnij i Upuść: Ułóż rytmy, aby odzwierciedlić rozkazy i stłumioną energię.",
+      "Eksperymentuj i Dostosuj: Odkryj ukrytą złożoność w ustrukturyzowanych pętlach.",
+      "Zapisz i Podziel się: Tworzyć i dziel się utworami, które oddają kontrolę i napięcie.",
+      "Ekspresyjna Kreacja: Pomimo ograniczeń, eksploruj głębi kompozycji."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Zrzuty Ekranu z Modu Dyktatury Sprunki"
+  },
+  "playerReviews": {
+    "title": "Recenzje Graczy Modu Dyktatury Sprunki",
+    "submitReviewLabel": "Wyślij swoją recenzję",
+    "nameLabel": "Twoje Imię",
+    "reviewLabel": "Twoja Recenzja",
+    "submitButtonLabel": "Wyślij",
+    "reviews": [
+      {
+        "content": "Mod Dyktatury Sprunki oferuje świeże spojrzenie na tworzenie muzyki. Jest trochę wymagający, ale niezwykle satysfakcjonujący!",
+        "author": "Alex P."
+      },
+      {
+        "content": "Unikalne i wciągające doświadczenie. Autorytarny temat dodaje niespodziewanej głębi grze.",
+        "author": "Morgan L."
+      },
+      {
+        "content": "Nastrój jest intensywny i pełen napięcia. Uwielbiam, jak gra przesuwa granice kreatywności.",
+        "author": "Jamie K."
+      },
+      {
+        "content": "Mod skłaniający do refleksji. Sprawia, że myślisz o muzyce w zupełnie nowy sposób.",
+        "author": "Casey M."
+      },
+      {
+        "content": "Cieszyłem się odkrywaniem wielowarstwowej złożoności w sztywnej strukturze. To zupełnie inny mod.",
+        "author": "Taylor S."
+      },
+      {
+        "content": "Krajobrazy dźwiękowe są hipnotyzujące. Gorąco polecam dla tych, którzy szukają wyjątkowego wyzwania.",
+        "author": "Jordan T."
+      },
+      {
+        "content": "Fascynujące podejście do zwykłego stylu Sprunki. Ograniczenia rzeczywiście pobudzają kreatywność.",
+        "author": "Riley F."
+      },
+      {
+        "content": "To głębokie zanurzenie w autorytarnie stylizowanym świecie. Idealne dla miłośników muzyki i strategii.",
+        "author": "Peyton R."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ Mod Dyktatury Sprunki",
+    "questions": [
+      {
+        "question": "Czym jest Mod Dyktatury Sprunki?",
+        "answer": "Mod Dyktatury Sprunki to wyzwanie muzyczne osadzone w autorytarnym środowisku."
+      },
+      {
+        "question": "Jak zacząć grać?",
+        "answer": "Wybierz postacie, które zgadzają się z tematem, ułóż rytmy i eksperymentuj z krajobrazami dźwiękowymi."
+      },
+      {
+        "question": "Czy mogę dzielić się swoimi kompozycjami?",
+        "answer": "Tak, możesz zapisywać i dzielić się swoimi utworami z przyjaciółmi lub społecznością."
+      },
+      {
+        "question": "Czy kreatywność jest ograniczona w tym modzie?",
+        "answer": "Choć atmosfera jest ograniczona, wciąż jest przestrzeń na kreatywność i ekspresję."
+      },
+      {
+        "question": "Co czyni ten mod innym niż inne?",
+        "answer": "Jego autorytarny temat i usystematyzowane krajobrazy dźwiękowe oferują unikalne i wyzywające doświadczenie muzyczne."
+      },
+      {
+        "question": "Czy potrzebuję wcześniejszego doświadczenia w tworzeniu muzyki?",
+        "answer": "Nie, wcześniejsze doświadczenie nie jest konieczne. Gra jest zaprojektowana tak, aby była dostępna dla wszystkich graczy."
+      }
+    ]
+  }
+}

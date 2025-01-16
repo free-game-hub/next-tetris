@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Honey Dress Up: De Ultieme Schattige Kleedspel",
+    "description": "Ontdek de fun en creativiteit in 'Honey Dress Up', een verrukkelijk kleedspel met een schattige jongen! Speel rechtstreeks vanaf je pc voor de beste ervaring.",
+    "keywords": "Honey Dress Up, kleedspel, schattig spel, online kleedspel, mobiel kleedspel, handgetekende graphics"
+  },
+  "hero": {
+    "h1": "Honey Dress Up",
+    "p": "Druk je creativiteit en stijl uit in 'Honey Dress Up', het ultieme kleedspel waar schattigheid en plezier samenkomen!"
+  },
+  "gameFeatures": {
+    "title": "Kenmerken van Honey Dress Up",
+    "features": [
+      "Adorable en unieke vrouwelijke jongen karakter",
+      "Charmante handgetekende graphics met MC Paint esthetiek",
+      "Een enorme garderobe met meer dan 100 stijlvolle kledingstukken",
+      "Inclusief diverse zwempakken voor gevarieerde styling",
+      "Regelmatige updates zorgen voor nieuwe inhoud en verbeteringen"
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Hoe te Spelen Honey Dress Up",
+    "instructions": [
+      "Selecteer je favoriete kledingstukken uit de uitgebreide garderobe.",
+      "Sleep en laat de items vallen om de schattige jongen te kleden.",
+      "Gebruik je muis voor nauwkeurige controle op pc voor de beste ervaring.",
+      "Deel je unieke outfitcreaties in de reactiesectie.",
+      "Geniet van de handgetekende, tekstloze interface voor naadloos gamen."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Spel Screenshots"
+  },
+  "playerReviews": {
+    "title": "Spelersrecensies",
+    "submitReviewLabel": "Dien Je Recensie In",
+    "nameLabel": "Jouw Naam",
+    "reviewLabel": "Jouw Recensie",
+    "submitButtonLabel": "Verstuur",
+    "reviews": [
+      {
+        "content": "Wat een plezier om outfits te maken! (sorry voor mijn tabs, ik kan om de een of andere reden niet knippen)",
+        "author": "Nova (Zij/Zij)"
+      },
+      {
+        "content": "Heel schattig!",
+        "author": "HARUHI.JIROU"
+      },
+      {
+        "content": "Geweldig spel",
+        "author": "RenKun"
+      },
+      {
+        "content": "Hij is zo schattig",
+        "author": "T0XI :3"
+      },
+      {
+        "content": "Oh ja, ik deed het best goed B)",
+        "author": "barfbar"
+      },
+      {
+        "content": "Dit spel is zo gek, ik hou ervan!!! :3",
+        "author": "MuinBrownie!!!"
+      },
+      {
+        "content": "Perfect",
+        "author": "yapunglin"
+      },
+      {
+        "content": "Ik hou van deze volkomen normale kleine jongen!",
+        "author": "5ummerr"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "questions": [
+      {
+        "question": "Op welke platforms kan ik 'Honey Dress Up' spelen?",
+        "answer": "Je kunt 'Honey Dress Up' spelen op webbrowsers via HTML5 en op Windows."
+      },
+      {
+        "question": "Wat is de nieuwste versie die beschikbaar is?",
+        "answer": "De nieuwste versie van 'Honey Dress Up' is bijgewerkt in februari 2024 en is online beschikbaar."
+      },
+      {
+        "question": "Is er een downloadbare versie van het spel?",
+        "answer": "Ja, er is een downloadbare versie, maar het is een oudere versie die voor archiveringsdoeleinden is behouden."
+      },
+      {
+        "question": "Kan ik dit spel op mobiel spelen?",
+        "answer": "'Honey Dress Up' heeft mobiele ondersteuning, maar de ervaring is optimaal op een pc."
+      },
+      {
+        "question": "Wat voor soort graphics heeft het spel?",
+        "answer": "'Honey Dress Up' heeft handgetekende graphics met een MC Paint esthetiek."
+      },
+      {
+        "question": "Hoe kan ik mijn outfitcreaties delen?",
+        "answer": "Je kunt je outfits delen door te reageren in de reactiesectie op de spelpagina."
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Corruptbox v1 - L'Expérience Originale du Mod Sprunki",
+    "description": "Découvrez Corruptbox v1, le mod original pour Sprunki. Plongez dans des esthétiques sombres, de la musique expérimentale et un gameplay difficile dans ce mod révolutionnaire de jeu de rythme.",
+    "keywords": "corruptbox v1, mod corruptbox, mod Sprunki, jeu de rythme, jeu de musique, musique expérimentale, esthétiques sombres"
+  },
+  "hero": {
+    "h1": "Corruptbox v1 : Le Début d'une Révolution Rythmique",
+    "p": "Plongez dans les origines de Corruptbox avec v1, le mod qui a tout commencé. Explorez des mélodies envoûtantes, affrontez des défis corrompus et découvrez les fondations de cet mod emblématique de Sprunki."
+  },
+  "gameFeatures": {
+    "title": "Pourquoi Jouer à Corruptbox v1 ?",
+    "features": [
+      "Les esthétiques sombres et immersives originales qui ont défini l'expérience Corruptbox.",
+      "La création musicale expérimentale révolutionnaire qui a posé les bases des versions futures.",
+      "Des mécanismes de jeu difficiles conçus pour tester votre rythme et votre créativité.",
+      "Des mélodies et des personnages personnalisables pour une expérience de jeu personnalisée.",
+      "Une communauté dévouée qui continue de célébrer l'héritage de Corruptbox v1."
+    ]
+  },
+  "gameplayInstructions": {
+    "title": "Comment Jouer à Corruptbox v1",
+    "instructions": [
+      "Téléchargez et installez le jeu de base Sprunki.",
+      "Obtenez le mod Corruptbox v1 à partir d'une source fiable.",
+      "Lancez le jeu et sélectionnez le mod Corruptbox v1 dans le menu.",
+      "Suivez les invites rythmiques pour créer des mélodies envoûtantes et surmonter les défis.",
+      "Expérimentez avec différents personnages et paramètres pour améliorer votre gameplay."
+    ]
+  },
+  "gameScreenshots": {
+    "title": "Corruptbox v1 en Action"
+  },
+  "playerReviews": {
+    "title": "Ce que Les Joueurs Disent de Corruptbox v1",
+    "submitReviewLabel": "Soumettez Votre Avis",
+    "nameLabel": "Votre Nom",
+    "reviewLabel": "Votre Avis",
+    "submitButtonLabel": "Soumettre",
+    "reviews": [
+      {
+        "content": "Corruptbox v1 est là où tout a commencé. Les esthétiques sombres et la musique expérimentale sont inoubliables !",
+        "author": "Alex R.",
+        "rating": 5
+      },
+      {
+        "content": "Jouer à Corruptbox v1, c'est comme entrer dans les racines d'un mod emblématique. Un incontournable pour les fans de jeux de rythme.",
+        "author": "Jamie L.",
+        "rating": 4
+      },
+      {
+        "content": "L'expérience originale de Corruptbox est encore l'une des meilleures. Le gameplay et la musique sont au top.",
+        "author": "Taylor K.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées sur Corruptbox v1",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Corruptbox v1 ?",
+        "answer": "Corruptbox v1 est le mod original pour le jeu de rythme Sprunki, avec des esthétiques sombres et de la musique expérimentale."
+      },
+      {
+        "question": "Comment installer Corruptbox v1 ?",
+        "answer": "Vous devez d'abord installer le jeu de base Sprunki. Ensuite, téléchargez le mod Corruptbox v1 et ajoutez-le au dossier de mods du jeu."
+      },
+      {
+        "question": "Corruptbox v1 est-il gratuit ?",
+        "answer": "Oui, Corruptbox v1 est un mod gratuit, mais vous devez posséder le jeu de base Sprunki pour y jouer."
+      },
+      {
+        "question": "Qu'est-ce qui rend Corruptbox v1 unique ?",
+        "answer": "Corruptbox v1 a introduit l'esthétique sombre et le style de musique expérimentale qui est devenu la marque de fabrique de la série Corruptbox."
+      },
+      {
+        "question": "Puis-je encore jouer à Corruptbox v1 si des versions plus récentes sont disponibles ?",
+        "answer": "Oui, de nombreux joueurs aiment revisiter Corruptbox v1 pour sa valeur nostalgique et son expérience de jeu unique."
+      },
+      {
+        "question": "Où puis-je trouver d'autres mods comme Corruptbox v1 ?",
+        "answer": "Vous pouvez explorer les forums de la communauté Sprunki ou des sites de mods fiables pour plus de mods et extensions."
+      }
+    ]
+  }
+}
