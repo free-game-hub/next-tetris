@@ -21,17 +21,17 @@ export function Score({ score, level, lines }: ScoreProps) {
   return (
     <div className="text-white space-y-4">
       <div>
-        <h3 className="text-lg font-bold">分数</h3>
+        <h3 className="text-lg font-bold">Score</h3>
         <p className={`text-2xl ${animate ? animations.scoreIncrease : ''}`}>
           {score}
         </p>
       </div>
       <div>
-        <h3 className="text-lg font-bold">等级</h3>
+        <h3 className="text-lg font-bold">Level</h3>
         <p className="text-2xl">{level}</p>
       </div>
       <div>
-        <h3 className="text-lg font-bold">消除行数</h3>
+        <h3 className="text-lg font-bold">Lines</h3>
         <p className="text-2xl">{lines}</p>
       </div>
     </div>

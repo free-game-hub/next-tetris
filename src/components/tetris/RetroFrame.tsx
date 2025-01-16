@@ -28,7 +28,7 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
 
   return (
     <div className="relative h-screen aspect-[3/5] bg-yellow-400 p-[3%] rounded-[2rem] shadow-2xl mx-auto">
-      {/* 顶部装饰点 */}
+      {/* Top decoration dots */}
       <div className="absolute left-[10%] right-[10%] top-[5%] flex justify-between">
         <div className="flex gap-[1vh]">
           {[...Array(4)].map((_, i) => (
@@ -42,7 +42,7 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
         </div>
       </div>
 
-      {/* 左侧装饰点 */}
+      {/* Left decoration dots */}
       <div className="absolute left-[5%] top-[15%] space-y-[2vh]">
         {[...Array(6)].map((_, i) => (
           <div key={i} className="flex gap-[1vh]">
@@ -53,7 +53,7 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
         ))}
       </div>
 
-      {/* 右侧装饰点 */}
+      {/* Right decoration dots */}
       <div className="absolute right-[5%] top-[15%] space-y-[2vh]">
         {[...Array(6)].map((_, i) => (
           <div key={i} className="flex gap-[1vh] justify-end">
@@ -64,63 +64,63 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
         ))}
       </div>
 
-      {/* 游戏屏幕 */}
+      {/* Game screen */}
       <div className="bg-[#9ca37c] rounded-lg border-[1vh] border-black shadow-inner relative h-[65%] mb-[3%]">
         <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-transparent" />
         <div className="h-full flex flex-col">
-          {/* 标题区域 */}
-          <div className="text-center text-[2.5vh] font-bold py-[1vh]">俄罗斯方块</div>
+          {/* Title area */}
+          <div className="text-center text-[2.5vh] font-bold py-[1vh]">TETRIS</div>
           
-          {/* 游戏区域 - 占满剩余空间 */}
+          {/* Game area */}
           <div className="flex-1 px-[2vh]">
             {children}
           </div>
         </div>
       </div>
 
-      {/* 控制按钮区域 */}
+      {/* Control buttons area */}
       <div className="h-[30%] flex flex-col justify-between">
-        {/* 功能按钮 */}
-        <div className="grid grid-cols-3 gap-[3vh]">
-          <div className="space-y-[1vh]">
+        {/* Function buttons */}
+        <div className="flex justify-between px-[2vh]">
+          <div className="text-center">
             <button 
               onClick={props.onPause}
               className="w-[7vh] h-[7vh] bg-green-500 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-[0.4vh] border-green-600"
             >
-              <span className="text-[2vh]">暂停</span>
+              <span className="text-[2vh]">Pause</span>
             </button>
-            <div className="text-[1.6vh] text-center">暂停(P)</div>
+            <div className="text-[1.6vh] text-center">Pause(P)</div>
           </div>
-          <div className="space-y-[1vh]">
+
+          <div className="text-center">
             <button 
               onClick={props.onToggleSound}
-              className="w-[7vh] h-[7vh] bg-green-500 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-[0.4vh] border-green-600"
+              className="w-[7vh] h-[7vh] bg-yellow-500 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-[0.4vh] border-yellow-600"
             >
-              <span className="text-[2vh]">
-                {soundManager.isEnabled() ? '音效开' : '音效关'}
-              </span>
+              <span className="text-[2vh]">Sound</span>
             </button>
-            <div className="text-[1.6vh] text-center">音效(S)</div>
+            <div className="text-[1.6vh] text-center">Sound(S)</div>
           </div>
-          <div className="space-y-[1vh]">
+
+          <div className="text-center">
             <button 
               onClick={props.onReset}
               className="w-[7vh] h-[7vh] bg-red-500 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-[0.4vh] border-red-600"
             >
-              <span className="text-[2vh]">重玩</span>
+              <span className="text-[2vh]">Reset</span>
             </button>
-            <div className="text-[1.6vh] text-center">重玩(R)</div>
+            <div className="text-[1.6vh] text-center">Reset(R)</div>
           </div>
         </div>
 
-        {/* 方向控制 */}
+        {/* Direction controls */}
         <div className="flex justify-between items-center px-[2vh]">
           <button 
             onClick={handleDrop}
             className="w-[12vh] h-[12vh] bg-blue-500 rounded-full shadow-lg active:shadow-md transform-gpu active:translate-y-[2px] transition-all border-[0.4vh] border-blue-600"
           >
             <span className="text-[2.2vh]">
-              {!props.isPlaying || props.gameOver ? '开始' : '掉落'}
+              {!props.isPlaying || props.gameOver ? 'Start' : 'Drop'}
             </span>
             <div className="text-[1.6vh]">(SPACE)</div>
           </button>
@@ -130,27 +130,27 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
               onClick={props.onRotate}
               className={`absolute top-0 left-1/2 -translate-x-1/2 ${directionButtonClass}`}
             >
-              <span className="text-[2vh]">旋转</span>
+              <span className="text-[2vh]">Rotate</span>
             </button>
             <button 
               onClick={props.onMoveDown}
               className={`absolute bottom-0 left-1/2 -translate-x-1/2 ${directionButtonClass}`}
             >
-              <span className="text-[2vh]">下移</span>
+              <span className="text-[2vh]">Down</span>
             </button>
             <button 
               onClick={props.onMoveLeft}
               className={`absolute left-0 top-1/2 -translate-y-1/2 ${directionButtonClass}`}
             >
-              <span className="text-[2vh]">左移</span>
+              <span className="text-[2vh]">Left</span>
             </button>
             <button 
               onClick={props.onMoveRight}
               className={`absolute right-0 top-1/2 -translate-y-1/2 ${directionButtonClass}`}
             >
-              <span className="text-[2vh]">右移</span>
+              <span className="text-[2vh]">Right</span>
             </button>
-            {/* 十字装饰 */}
+            {/* Cross decoration */}
             <div className="absolute inset-[25%] flex items-center justify-center">
               <div className="w-full h-[0.5vh] bg-black/20" />
               <div className="absolute w-[0.5vh] h-full bg-black/20" />
