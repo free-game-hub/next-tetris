@@ -1,7 +1,7 @@
 
-# Next Tetris | 下一代俄罗斯方块
+# Next Tetris 
 
-[English](#english) | [中文](#中文)
+[English](https://github.com/free-game-hub/next-tetris) | [中文](https://github.com/free-game-hub/next-tetris/blob/main/README.zh.md)
 
 ## English
 
