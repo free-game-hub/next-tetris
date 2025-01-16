@@ -21,8 +21,8 @@ export const themes: Record<ThemeType, Theme> = {
   classic: {
     background: 'bg-gray-900',
     grid: {
-      empty: 'bg-gray-800',
-      border: 'border-gray-700'
+      empty: '',
+      border: 'border-gray-600 opacity-50'
     },
     block: {
       active: 'bg-yellow-500',
