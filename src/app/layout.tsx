@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next Tetris - Modern Tetris Game with Retro Console UI",
-  description: "Experience the classic Tetris game reimagined with Next.js 15 and React 19. Features retro console UI, touch controls, achievements, and Web Audio sound effects. Play instantly in your browser!",
+  title: "Next Tetris - Classic Tetris with Game Boy Style & Retro Console UI",
+  description: "Experience the classic Tetris reimagined with Next.js 15. Features Game Boy inspired retro console UI, touch controls, achievements system, and Web Audio effects. Play in your browser now!",
 };
 
 export default function RootLayout({

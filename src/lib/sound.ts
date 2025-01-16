@@ -42,7 +42,7 @@ class SoundManager {
 
   private async loadSound() {
     try {
-      const response = await fetch('/music.mp3');
+      const response = await fetch('/next-tetris/music.mp3');
       const arrayBuffer = await response.arrayBuffer();
       if (this.context) {
         this.soundBuffer = await this.context.decodeAudioData(arrayBuffer);
