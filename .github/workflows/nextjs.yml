@@ -55,6 +55,11 @@ jobs:
             echo "runner=npx" >> $GITHUB_OUTPUT
             exit 0
           fi
+      - name: Install pnpm
+        if: ${{ steps.detect-package-manager.outputs.manager == 'pnpm' }}
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -80,11 +85,6 @@ jobs:
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
-      - name: Install pnpm
-        if: ${{ steps.detect-package-manager.outputs.manager == 'pnpm' }}
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
       - name: Upload artifact
