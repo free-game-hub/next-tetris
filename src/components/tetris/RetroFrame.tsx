@@ -158,7 +158,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                         <div className="flex justify-center">
                             <button
                                 onClick={handleDrop}
-                                className="w-20 h-20 bg-blue-500 bg-opacity-90 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-2 border-blue-600 flex flex-col items-center justify-center"
+                                className="w-28 h-28 bg-blue-500 bg-opacity-90 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-2 border-blue-600 flex flex-col items-center justify-center"
                             >
                                 <div className="text-[10px]">掉落</div>
                                 <div className="text-[10px]">(SPACE)</div>
@@ -167,7 +167,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
 
                     </div>
                     {/* 方向控制 */}
-                    <div className="flex justify-between items-center p-1">
+                    <div className="flex justify-between items-center">
                         <div className="relative w-44 h-44">
                             {/* 上 - 旋转 */}
                             <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-start">
