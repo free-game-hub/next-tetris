@@ -87,6 +87,18 @@ export default function Tetris() {
     }
   }, [state.gameOver, particleSystem]);
 
+  // 添加日志来跟踪状态变化
+  useEffect(() => {
+    console.log('Game State:', {
+      currentScore: state.score,
+      currentLines: state.lines,
+      currentLevel: state.level,
+      recordScore: record.score,
+      recordLines: record.lines,
+      recordLevel: record.level,
+    });
+  }, [state.score, state.lines, state.level, record.score, record.lines, record.level]);
+
   return (
     <ThemeProvider>
       <>
@@ -105,6 +117,12 @@ export default function Tetris() {
               onDrop={dropBlock}
               isPlaying={state.isPlaying}
               gameOver={state.gameOver}
+              highScore={record.score}
+              lines={state.lines}
+              level={state.level}
+              gameTime={gameTime}
+              combo={combo}
+              nextBlock={<Next type={state.nextBlock} />}
             >
               <div className="w-full h-full flex gap-[1vh] overflow-hidden">
                 <div className="flex-[3] flex items-center justify-center overflow-hidden">
@@ -113,34 +131,34 @@ export default function Tetris() {
                 
                 <div className="flex-1 flex flex-col justify-center space-y-[1vh] font-lcd text-[1.5vh]">
                   <div>
-                    <div>最高分</div>
-                    <div className="text-right">{record.lastScore}</div>
+                    <div>High Score</div>
+                    <div className="text-right">{record.score}</div>
                   </div>
                   
                   <div>
-                    <div>消除行</div>
+                    <div>Lines</div>
                     <div className="text-right">{state.lines}</div>
                   </div>
                   
                   <div>
-                    <div>级别</div>
+                    <div>Level</div>
                     <div className="text-right">{state.level}</div>
                   </div>
                   
                   <div>
-                    <div>游戏时间</div>
+                    <div>Time</div>
                     <div className="text-right">
                       {Math.floor(gameTime / 60)}:{(gameTime % 60).toString().padStart(2, '0')}
                     </div>
                   </div>
                   
                   <div>
-                    <div>连击</div>
+                    <div>Combo</div>
                     <div className="text-right">{combo}</div>
                   </div>
                   
                   <div>
-                    <div>下一个</div>
+                    <div>Next</div>
                     <div className="flex justify-end">
                       <Next type={state.nextBlock} />
                     </div>

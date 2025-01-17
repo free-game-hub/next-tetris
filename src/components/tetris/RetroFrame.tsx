@@ -12,6 +12,12 @@ interface RetroFrameProps {
     onDrop: () => void;
     isPlaying: boolean;
     gameOver: boolean;
+    highScore: number;
+    lines: number;
+    level: number;
+    gameTime: number;
+    combo: number;
+    nextBlock: React.ReactNode;
 }
 
 export function RetroFrame({children, ...props}: RetroFrameProps) {
@@ -19,24 +25,24 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
     const [scale, setScale] = useState(1);
     const [showQR, setShowQR] = useState(false);
 
-    // 固定尺寸
-    const CONSOLE_WIDTH = 400;  // 游戏机宽度
-    const CONSOLE_HEIGHT = 667; // 游戏机高度 (400 / 0.6)
-    const MIN_WIDTH_FOR_QR = 700; // 显示二维码的最小宽度
+    // Fixed dimensions
+    const CONSOLE_WIDTH = 400;  // Console width
+    const CONSOLE_HEIGHT = 667; // Console height (400 / 0.6)
+    const MIN_WIDTH_FOR_QR = 700; // Minimum width to show QR code
 
     useEffect(() => {
         const updateScale = () => {
             const viewportWidth = window.innerWidth;
             const viewportHeight = window.innerHeight;
 
-            // 计算缩放比例
+            // Calculate scale ratio
             const scaleX = viewportWidth / CONSOLE_WIDTH;
             const scaleY = viewportHeight / CONSOLE_HEIGHT;
 
-            // 使用较小的缩放比例
+            // Use the smaller scale ratio
             setScale(Math.min(scaleX, scaleY, 1));
 
-            // 根据视口宽度决定是否显示二维码
+            // Show QR code based on viewport width
             setShowQR(viewportWidth >= MIN_WIDTH_FOR_QR);
         };
 
@@ -97,7 +103,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                 }}
                 className="bg-yellow-400 p-6 rounded-[32px] shadow-2xl relative overflow-hidden"
             >
-                {/* 装饰点 */}
+                {/* Decorative points */}
                 <div className="absolute left-[10%] right-[10%] top-[5%] flex justify-between">
                     <div className="flex gap-2">
                         {[...Array(4)].map((_, i) => (
