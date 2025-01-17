@@ -170,36 +170,44 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                     <div className="flex justify-between items-center p-1">
                         <div className="relative w-44 h-44">
                             {/* 上 - 旋转 */}
-                            <button
-                                onClick={props.onRotate}
-                                className={`absolute top-0 left-1/2 -translate-x-1/2 ${directionButtonClass}`}
-                            >
-                                <div className="text-[10px]">旋转</div>
-                            </button>
+                            <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-start">
+                                <button
+                                    onClick={props.onRotate}
+                                    className={`${directionButtonClass} w-full`}
+                                >
+                                    <div className="text-[10px]">旋转</div>
+                                </button>
+                            </div>
 
                             {/* 下 */}
-                            <button
-                                onClick={props.onMoveDown}
-                                className={`absolute bottom-0 left-1/2 -translate-x-1/2 ${directionButtonClass}`}
-                            >
-                                <div className="text-[10px]">下移</div>
-                            </button>
+                            <div className="absolute bottom-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-end">
+                                <button
+                                    onClick={props.onMoveDown}
+                                    className={`${directionButtonClass} w-full`}
+                                >
+                                    <div className="text-[10px]">下移</div>
+                                </button>
+                            </div>
 
                             {/* 左 */}
-                            <button
-                                onClick={props.onMoveLeft}
-                                className={`absolute left-0 top-1/2 -translate-y-1/2 ${directionButtonClass}`}
-                            >
-                                <div className="text-[10px]">左移</div>
-                            </button>
+                            <div className="absolute left-0 top-0 h-full w-[40%] flex items-center">
+                                <button
+                                    onClick={props.onMoveLeft}
+                                    className={`${directionButtonClass} w-full`}
+                                >
+                                    <div className="text-[10px]">左移</div>
+                                </button>
+                            </div>
 
                             {/* 右 */}
-                            <button
-                                onClick={props.onMoveRight}
-                                className={`absolute right-0 top-1/2 -translate-y-1/2 ${directionButtonClass}`}
-                            >
-                                <div className="text-[10px]">右移</div>
-                            </button>
+                            <div className="absolute right-0 top-0 h-full w-[40%] flex items-center">
+                                <button
+                                    onClick={props.onMoveRight}
+                                    className={`${directionButtonClass} w-full`}
+                                >
+                                    <div className="text-[10px]">右移</div>
+                                </button>
+                            </div>
 
                             {/* 十字装饰 - 使用三角形指示方向 */}
                             <div className="absolute inset-[20%] flex items-center justify-center pointer-events-none">
