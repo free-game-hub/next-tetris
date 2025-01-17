@@ -176,54 +176,51 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                     <div className="flex justify-between items-center">
                         <div className="relative w-44 h-44">
                             {/* Up - Rotate */}
-                            <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-start">
+                            <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%]">
                                 <button
                                     onClick={props.onRotate}
-                                    className={`${directionButtonClass} w-full`}
+                                    className={`${directionButtonClass} w-full relative`}
                                 >
                                     <div className="text-[10px]">Rotate</div>
+                                    <div className="absolute -bottom-3 left-1/2 -translate-x-1/2 w-0 h-0 
+                                        border-[6px] border-transparent border-t-black/20" />
                                 </button>
                             </div>
 
                             {/* Down */}
-                            <div className="absolute bottom-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-end">
+                            <div className="absolute bottom-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%]">
                                 <button
                                     onClick={props.onMoveDown}
-                                    className={`${directionButtonClass} w-full`}
+                                    className={`${directionButtonClass} w-full relative`}
                                 >
                                     <div className="text-[10px]">Down</div>
+                                    <div className="absolute -top-3 left-1/2 -translate-x-1/2 w-0 h-0 
+                                        border-[6px] border-transparent border-b-black/20" />
                                 </button>
                             </div>
 
                             {/* Left */}
-                            <div className="absolute left-0 top-0 h-full w-[40%] flex items-center">
+                            <div className="absolute left-0 top-1/2 -translate-y-1/2 h-[40%] w-[40%]">
                                 <button
                                     onClick={props.onMoveLeft}
-                                    className={`${directionButtonClass} w-full`}
+                                    className={`${directionButtonClass} w-full relative`}
                                 >
                                     <div className="text-[10px]">Left</div>
+                                    <div className="absolute -right-3 top-1/2 -translate-y-1/2 w-0 h-0 
+                                        border-[6px] border-transparent border-l-black/20" />
                                 </button>
                             </div>
 
                             {/* Right */}
-                            <div className="absolute right-0 top-0 h-full w-[40%] flex items-center">
+                            <div className="absolute right-0 top-1/2 -translate-y-1/2 h-[40%] w-[40%]">
                                 <button
                                     onClick={props.onMoveRight}
-                                    className={`${directionButtonClass} w-full`}
+                                    className={`${directionButtonClass} w-full relative`}
                                 >
                                     <div className="text-[10px]">Right</div>
+                                    <div className="absolute -left-3 top-1/2 -translate-y-1/2 w-0 h-0 
+                                        border-[6px] border-transparent border-r-black/20" />
                                 </button>
-                            </div>
-
-                            {/* Cross decoration - Direction arrows */}
-                            <div className="absolute inset-[20%] flex items-center justify-center pointer-events-none">
-                                <div className="absolute w-full h-full">
-                                    {/* Up/Down/Left/Right arrows */}
-                                    <div className="absolute top-0 left-1/2 -translate-x-1/2 w-0 h-0 border-8 border-transparent border-b-black/20"/>
-                                    <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-0 h-0 border-8 border-transparent border-t-black/20"/>
-                                    <div className="absolute left-0 top-1/2 -translate-y-1/2 w-0 h-0 border-8 border-transparent border-r-black/20"/>
-                                    <div className="absolute right-0 top-1/2 -translate-y-1/2 w-0 h-0 border-8 border-transparent border-l-black/20"/>
-                                </div>
                             </div>
                         </div>
                     </div>
