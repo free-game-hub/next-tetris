@@ -53,6 +53,9 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
     }
   };
 
+  // 统一的方向键样式
+  const directionButtonClass = "w-12 h-12 bg-blue-500 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-2 border-blue-600 flex items-center justify-center";
+
   return (
     <div className="fixed inset-0 flex items-start justify-center">
       {/* 左侧二维码区域 */}
@@ -161,32 +164,44 @@ export function RetroFrame({ children, ...props }: RetroFrameProps) {
             </button>
 
             <div className="relative w-32 h-32">
+              {/* 上 */}
               <button 
                 onClick={props.onRotate}
-                className="absolute top-0 left-1/2 -translate-x-1/2 w-12 h-12 bg-blue-500 rounded-full shadow-lg active:shadow-md transform-gpu active:translate-y-[2px] transition-all border-2 border-blue-600"
+                className={`absolute top-0 left-1/2 -translate-x-1/2 ${directionButtonClass}`}
               >
                 <span className="text-xs">Rotate</span>
               </button>
+
+              {/* 下 */}
               <button 
                 onClick={props.onMoveDown}
-                className="absolute bottom-0 left-1/2 -translate-x-1/2 w-12 h-12 bg-blue-500 rounded-full shadow-lg active:shadow-md transform-gpu active:translate-y-[2px] transition-all border-2 border-blue-600"
+                className={`absolute bottom-0 left-1/2 -translate-x-1/2 ${directionButtonClass}`}
               >
                 <span className="text-xs">Down</span>
               </button>
-              <button 
-                onClick={props.onMoveLeft}
-                className="absolute left-0 top-1/2 -translate-y-1/2 w-12 h-12 bg-blue-500 rounded-full shadow-lg active:shadow-md transform-gpu active:translate-y-[2px] transition-all border-2 border-blue-600"
-              >
-                <span className="text-xs">Left</span>
-              </button>
-              <button 
-                onClick={props.onMoveRight}
-                className="absolute right-0 top-1/2 -translate-y-1/2 w-12 h-12 bg-blue-500 rounded-full shadow-lg active:shadow-md transform-gpu active:translate-y-[2px] transition-all border-2 border-blue-600"
-              >
-                <span className="text-xs">Right</span>
-              </button>
+
+              {/* 左 - 调整触摸区域 */}
+              <div className="absolute left-0 top-0 bottom-0 w-[40%] flex items-center">
+                <button 
+                  onClick={props.onMoveLeft}
+                  className={`${directionButtonClass} w-full`}
+                >
+                  <span className="text-xs">Left</span>
+                </button>
+              </div>
+
+              {/* 右 - 调整触摸区域 */}
+              <div className="absolute right-0 top-0 bottom-0 w-[40%] flex items-center">
+                <button 
+                  onClick={props.onMoveRight}
+                  className={`${directionButtonClass} w-full`}
+                >
+                  <span className="text-xs">Right</span>
+                </button>
+              </div>
+
               {/* 十字装饰 */}
-              <div className="absolute inset-[25%] flex items-center justify-center">
+              <div className="absolute inset-[25%] flex items-center justify-center pointer-events-none">
                 <div className="w-full h-0.5 bg-black/20" />
                 <div className="absolute w-0.5 h-full bg-black/20" />
               </div>
