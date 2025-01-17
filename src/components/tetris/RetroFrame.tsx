@@ -53,15 +53,15 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
         }
     };
 
-    // 统一的功能按钮样式
+    // Unified function button style
     const functionButtonClass = "w-10 h-10 bg-opacity-90 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-2 flex items-center justify-center";
 
-    // 统一的方向键样式
+    // Unified direction button style
     const directionButtonClass = "w-14 h-14 bg-blue-500 bg-opacity-90 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-2 border-blue-600 flex items-center justify-center";
 
     return (
         <div className="fixed inset-0 flex items-start justify-center">
-            {/* 左侧二维码区域 */}
+            {/* QR code area */}
             {showQR && (
                 <div className="fixed left-8 top-1/2 -translate-y-1/2 flex flex-col items-center gap-4">
                     <div className="bg-white p-4 rounded-lg shadow-lg">
@@ -86,7 +86,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                 </div>
             )}
 
-            {/* 游戏机主体 */}
+            {/* Game console body */}
             <div
                 ref={containerRef}
                 style={{
@@ -111,7 +111,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                     </div>
                 </div>
 
-                {/* 游戏屏幕 */}
+                {/* Game screen */}
                 <div className="bg-[#9ca37c] rounded-lg border-4 border-black shadow-inner relative h-[60%] mb-[3%]">
                     <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-transparent"/>
                     <div className="h-full flex flex-col">
@@ -120,10 +120,10 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                     </div>
                 </div>
 
-                {/* 控制按钮区域 */}
+                {/* Control buttons area */}
                 <div className="absolute grid grid-cols-2 gap-4 bottom-8 inset-x-4 h-[200px]">
                     <div className="flex flex-col justify-center">
-                        {/* 功能按钮 */}
+                        {/* Function buttons */}
                         <div className="flex justify-between mb-4">
                             <div className="text-center">
                                 <button
@@ -132,7 +132,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                                 >
                                     <span className="text-xs">P</span>
                                 </button>
-                                <div className="text-[10px] mt-1">暂停(P)</div>
+                                <div className="text-[10px] mt-1">Pause(P)</div>
                             </div>
 
                             <div className="text-center">
@@ -142,7 +142,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                                 >
                                     <span className="text-xs">S</span>
                                 </button>
-                                <div className="text-[10px] mt-1">音效(S)</div>
+                                <div className="text-[10px] mt-1">Sound(S)</div>
                             </div>
 
                             <div className="text-center">
@@ -152,7 +152,7 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                                 >
                                     <span className="text-xs">R</span>
                                 </button>
-                                <div className="text-[10px] mt-1">重玩(R)</div>
+                                <div className="text-[10px] mt-1">Reset(R)</div>
                             </div>
                         </div>
                         <div className="flex justify-center">
@@ -160,67 +160,63 @@ export function RetroFrame({children, ...props}: RetroFrameProps) {
                                 onClick={handleDrop}
                                 className="w-28 h-28 bg-blue-500 bg-opacity-90 rounded-full shadow-lg active:shadow-md active:translate-y-0.5 transition-all border-2 border-blue-600 flex flex-col items-center justify-center"
                             >
-                                <div className="text-[10px]">掉落</div>
+                                <div className="text-[10px]">Drop</div>
                                 <div className="text-[10px]">(SPACE)</div>
                             </button>
                         </div>
-
                     </div>
-                    {/* 方向控制 */}
+
+                    {/* Direction controls */}
                     <div className="flex justify-between items-center">
                         <div className="relative w-44 h-44">
-                            {/* 上 - 旋转 */}
+                            {/* Up - Rotate */}
                             <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-start">
                                 <button
                                     onClick={props.onRotate}
                                     className={`${directionButtonClass} w-full`}
                                 >
-                                    <div className="text-[10px]">旋转</div>
+                                    <div className="text-[10px]">Rotate</div>
                                 </button>
                             </div>
 
-                            {/* 下 */}
+                            {/* Down */}
                             <div className="absolute bottom-0 left-1/2 -translate-x-1/2 h-[40%] w-[40%] flex items-end">
                                 <button
                                     onClick={props.onMoveDown}
                                     className={`${directionButtonClass} w-full`}
                                 >
-                                    <div className="text-[10px]">下移</div>
+                                    <div className="text-[10px]">Down</div>
                                 </button>
                             </div>
 
-                            {/* 左 */}
+                            {/* Left */}
                             <div className="absolute left-0 top-0 h-full w-[40%] flex items-center">
                                 <button
                                     onClick={props.onMoveLeft}
                                     className={`${directionButtonClass} w-full`}
                                 >
-                                    <div className="text-[10px]">左移</div>
+                                    <div className="text-[10px]">Left</div>
                                 </button>
                             </div>
 
-                            {/* 右 */}
+                            {/* Right */}
                             <div className="absolute right-0 top-0 h-full w-[40%] flex items-center">
                                 <button
                                     onClick={props.onMoveRight}
                                     className={`${directionButtonClass} w-full`}
                                 >
-                                    <div className="text-[10px]">右移</div>
+                                    <div className="text-[10px]">Right</div>
                                 </button>
                             </div>
 
-                            {/* 十字装饰 - 使用三角形指示方向 */}
+                            {/* Cross decoration - Direction arrows */}
                             <div className="absolute inset-[20%] flex items-center justify-center pointer-events-none">
                                 <div className="absolute w-full h-full">
-                                    {/* 上下左右箭头 */}
-                                    <div
-                                        className="absolute top-0 left-1/2 -translate-x-1/2 w-0 h-0 border-8 border-transparent border-b-black/20"/>
-                                    <div
-                                        className="absolute bottom-0 left-1/2 -translate-x-1/2 w-0 h-0 border-8 border-transparent border-t-black/20"/>
-                                    <div
-                                        className="absolute left-0 top-1/2 -translate-y-1/2 w-0 h-0 border-8 border-transparent border-r-black/20"/>
-                                    <div
-                                        className="absolute right-0 top-1/2 -translate-y-1/2 w-0 h-0 border-8 border-transparent border-l-black/20"/>
+                                    {/* Up/Down/Left/Right arrows */}
+                                    <div className="absolute top-0 left-1/2 -translate-x-1/2 w-0 h-0 border-8 border-transparent border-b-black/20"/>
+                                    <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-0 h-0 border-8 border-transparent border-t-black/20"/>
+                                    <div className="absolute left-0 top-1/2 -translate-y-1/2 w-0 h-0 border-8 border-transparent border-r-black/20"/>
+                                    <div className="absolute right-0 top-1/2 -translate-y-1/2 w-0 h-0 border-8 border-transparent border-l-black/20"/>
                                 </div>
                             </div>
                         </div>
