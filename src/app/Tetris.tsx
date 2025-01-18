@@ -93,11 +93,11 @@ export default function Tetris() {
       currentScore: state.score,
       currentLines: state.lines,
       currentLevel: state.level,
-      recordScore: record.score,
-      recordLines: record.lines,
-      recordLevel: record.level,
+      recordScore: record.stats.totalScore,
+      recordLines: record.stats.totalLines,
+      recordLevel: record.stats.maxLevel,
     });
-  }, [state.score, state.lines, state.level, record.score, record.lines, record.level]);
+  }, [state.score, state.lines, state.level, record.stats]);
 
   return (
     <ThemeProvider>
@@ -117,7 +117,7 @@ export default function Tetris() {
               onDrop={dropBlock}
               isPlaying={state.isPlaying}
               gameOver={state.gameOver}
-              highScore={record.score}
+              highScore={record.stats.totalScore}
               lines={state.lines}
               level={state.level}
               gameTime={gameTime}
@@ -132,7 +132,7 @@ export default function Tetris() {
                 <div className="flex-1 flex flex-col justify-center space-y-[1vh] font-lcd text-[1.5vh]">
                   <div>
                     <div>High Score</div>
-                    <div className="text-right">{record.score}</div>
+                    <div className="text-right">{record.stats.totalScore}</div>
                   </div>
                   
                   <div>
